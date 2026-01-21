@@ -1,0 +1,13 @@
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/recent-files-obsidian/data.json
+.trash/
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Claude Code
+.claude/output/

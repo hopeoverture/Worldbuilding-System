@@ -1,0 +1,174 @@
+---
+name: create-entity
+description: Generate a fully populated worldbuilding entity from a template and save it to a world. Use when the user wants to create a specific entity like "create a dwarven city called Ironhold" or "make a fire deity named Pyraxis".
+argument-hint: "[entity description]"
+---
+
+# Create Entity
+
+Create a new entity: $ARGUMENTS
+
+## Instructions
+
+You are creating a new worldbuilding entity by filling out a template with generated content.
+
+### Step 1: Parse the Request
+
+The user's request should include:
+1. **Entity type** - What kind of entity (e.g., "city", "deity", "weapon", "NPC")
+2. **Entity name** - The name for this entity
+3. **World** (optional) - Which world to place it in (check `Worlds/` for existing worlds)
+4. **Additional context** - Any specific details the user wants included
+
+If the world is not specified and multiple worlds exist, ask which world to use.
+If no worlds exist, ask if they want to create one first with `/create-world`.
+
+### Step 2: Match to Template
+
+Map the entity type to the appropriate template:
+
+**Characters:**
+| User Says | Template |
+|-----------|----------|
+| protagonist, player character, PC, hero | Protagonist.md |
+| antagonist, villain, BBEG, enemy | Antagonist.md |
+| NPC, ally, companion, support | Support Character.md |
+| commoner, background, minor NPC | Background Character.md |
+| angel, avatar, divine servant, celestial agent | Divine Servant.md |
+| familiar, companion creature, bonded creature | Familiar.md |
+
+**Settlements:**
+| User Says | Template |
+|-----------|----------|
+| village, hamlet | Village.md |
+| town | Town.md |
+| city, metropolis | City.md |
+| stronghold, fortress, castle, keep | Stronghold.md |
+| tavern, inn, pub, alehouse | Tavern.md |
+| shop, store, merchant | Shop.md |
+| temple, shrine, church, sanctuary | Temple.md |
+| library, archive, repository | Library.md |
+
+**Items:**
+| User Says | Template |
+|-----------|----------|
+| weapon, sword, axe, bow | Weapon.md |
+| armor, shield | Armor.md |
+| magic item, wondrous item | Wondrous Magic Item.md |
+| artifact, legendary item, relic | Artifact.md |
+| potion, elixir | Potion.md |
+| tool, gear, equipment | Gear.md |
+| food, meal, dish | Food.md |
+| drink, beverage, ale, wine | Drink.md |
+| container, bag, chest, box | Container.md |
+| vehicle, ship, wagon, airship, cart | Vehicle.md |
+| book, tome, grimoire, manual, scripture | Book.md |
+
+**Creatures:**
+| User Says | Template |
+|-----------|----------|
+| monster, creature, enemy creature | Monster.md |
+| animal, beast, wildlife | Animal.md |
+| insect, bug, swarm | Insect.md |
+| species, race, people | Species.md |
+| plant, flora, herb, tree, flower | Plant.md |
+
+**Organizations:**
+| User Says | Template |
+|-----------|----------|
+| guild, trade guild | Guild.md |
+| government, kingdom, empire, nation | Government.md |
+| religious order, church, temple order | Religious Order.md |
+| cult, secret cult | Cult.md |
+| military, army, navy, legion | Military.md |
+| criminal, thieves guild, gang, mafia | Criminal Organization.md |
+| business, company, merchant house | Business.md |
+| organization, faction, group | Organization (General).md |
+| academy, school, college, university | Academy.md |
+
+**Concepts:**
+| User Says | Template |
+|-----------|----------|
+| religion, faith | Religion.md |
+| pantheon, gods | Pantheon.md |
+| deity, god, goddess | Deity.md |
+| magic system, magic, arcane | Magic System.md |
+| technology, invention, tech | Technology.md |
+| language, tongue, script | Language.md |
+| prophecy, prediction, foretelling, vision | Prophecy.md |
+| plane, plane of existence, realm, dimension | Plane of Existence.md |
+| currency, money, coins, economy | Currency.md |
+| calendar, timekeeping, year, months | Calendar.md |
+
+**History:**
+| User Says | Template |
+|-----------|----------|
+| event, historical event | Event.md |
+| war, conflict | War.md |
+| battle, siege | Battle.md |
+| treaty, peace treaty, alliance | Treaty.md |
+| trade agreement, trade deal | Trade Agreement.md |
+| tragedy, disaster, catastrophe | Tragedy.md |
+| dynasty, royal house, lineage, bloodline | Dynasty.md |
+| age, era, epoch, period | Age.md |
+
+**Geography:**
+| User Says | Template |
+|-----------|----------|
+| continent | Continent.md |
+| region, territory, land | Region.md |
+| mountain, mountain range | Mountain Range.md |
+| forest, woods, jungle | Forest.md |
+| river, stream | River.md |
+| road, highway, path, trade route | Road.md |
+| desert, wasteland | Desert.md |
+| tundra, arctic, frozen land | Tundra.md |
+| plains, grassland, prairie | Plains.md |
+| hills, highlands | Hills.md |
+| steppes, steppe | Steppes.md |
+| ocean, sea | Ocean.md |
+| lake, pond | Lake.md |
+| coast, coastline, shore | Coast.md |
+| pass, mountain pass | Pass.md |
+| island, isle | Island.md |
+| cave, cavern, grotto | Cave.md |
+| dungeon, lair, ruins, tomb | Dungeon.md |
+
+### Step 3: Read the Template
+
+Read the appropriate template from `Templates/[Category]/[Template].md`
+
+### Step 4: Generate Content
+
+Fill out the template completely with coherent, interconnected content:
+
+1. **YAML Frontmatter**: Fill all fields with appropriate values
+   - Set `name:` to the entity name
+   - Set `status: draft`
+   - Fill category-specific fields
+
+2. **Replace `{{title}}`**: Use the entity name
+
+3. **Fill All Sections**: Generate content for every section following the directive prompts
+   - Use specific names, numbers, and details
+   - Create internal consistency
+   - Reference other entities that could exist in this world using `[[Entity Name]]`
+   - Include plot hooks that tie to the broader world
+
+4. **Image Prompts**: Fill in both prompt sections with detailed, specific descriptions based on the generated content
+
+5. **Connections**: Populate with `[[Entity Name]]` links to related entities (these can be entities that don't exist yet but should)
+
+### Step 5: Save the Entity
+
+Save the completed entity to:
+`Worlds/[World Name]/[Category]/[Entity Name].md`
+
+Use the entity's name as the filename with Title Case and spaces.
+
+### Step 6: Summary
+
+After creating, provide:
+1. Confirmation of where the file was saved
+2. A brief 2-3 sentence summary of the entity
+3. Suggested related entities to create next (from the Connections section)

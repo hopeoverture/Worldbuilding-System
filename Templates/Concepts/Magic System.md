@@ -6,6 +6,7 @@ tags:
 name:
 aliases: []
 status: draft
+image:
 # Magic System Details
 magic_type:
 source:

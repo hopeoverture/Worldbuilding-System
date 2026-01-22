@@ -6,6 +6,7 @@ tags:
 name:
 aliases: []
 status: draft
+image:
 # Artifact Details
 artifact_type:
 artifact_class: artifact

@@ -6,6 +6,7 @@ tags:
 name:
 aliases: []
 status: draft
+image:
 # Dungeon Details
 dungeon_type:
 original_purpose:

@@ -6,6 +6,7 @@ tags:
 name:
 aliases: []
 status: draft
+image:
 # Government Details
 government_type:
 territory:

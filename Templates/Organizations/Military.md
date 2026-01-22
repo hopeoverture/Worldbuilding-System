@@ -5,6 +5,7 @@ tags:
 name:
 aliases: []
 status: draft
+image:
 # Military Details
 military_type:
 allegiance:

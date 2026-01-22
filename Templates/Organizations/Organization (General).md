@@ -4,6 +4,7 @@ tags:
 name:
 aliases: []
 status: draft
+image:
 # Organization Details
 organization_type:
 purpose:

@@ -6,6 +6,7 @@ tags:
 name:
 aliases: []
 status: draft
+image:
 # Technology Details
 tech_type:
 era:

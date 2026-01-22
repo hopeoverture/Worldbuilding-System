@@ -11,3 +11,8 @@ desktop.ini
 
 # Claude Code
 .claude/output/
+.claude/settings.local.json
+.mcp.json
+
+# Environment variables
+.env

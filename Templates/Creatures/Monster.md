@@ -5,6 +5,7 @@ tags:
 name:
 aliases: []
 status: draft
+image:
 # 5e Stat Block
 size:
 creature_type:

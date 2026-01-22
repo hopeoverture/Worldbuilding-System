@@ -6,6 +6,7 @@ tags:
 name:
 aliases: []
 status: draft
+image:
 # Adventure Details
 adventure_type:
 party_level:

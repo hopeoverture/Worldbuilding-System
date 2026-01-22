@@ -6,6 +6,7 @@ tags:
 name:
 aliases: []
 status: draft
+image:
 # Criminal Details
 organization_type:
 primary_activity:

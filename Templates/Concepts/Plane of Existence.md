@@ -6,6 +6,7 @@ tags:
 name:
 aliases: []
 status: draft
+image:
 # Plane Details
 plane_type:
 cosmological_position:

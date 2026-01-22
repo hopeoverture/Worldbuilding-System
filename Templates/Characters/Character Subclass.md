@@ -6,6 +6,7 @@ tags:
 name:
 aliases: []
 status: draft
+image:
 # Subclass Details
 parent_class:
 subclass_type:

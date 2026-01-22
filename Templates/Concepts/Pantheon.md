@@ -6,6 +6,7 @@ tags:
 name:
 aliases: []
 status: draft
+image:
 # Pantheon Details
 pantheon_type:
 deity_count:

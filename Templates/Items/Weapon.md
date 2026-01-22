@@ -5,6 +5,7 @@ tags:
 name:
 aliases: []
 status: draft
+image:
 # 5e Weapon Stats
 weapon_type:
 weapon_category:

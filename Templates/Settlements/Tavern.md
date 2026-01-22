@@ -6,6 +6,7 @@ tags:
 name:
 aliases: []
 status: draft
+image:
 # Establishment Details
 establishment_type: tavern
 settlement:

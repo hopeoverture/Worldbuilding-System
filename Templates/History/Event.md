@@ -5,6 +5,7 @@ tags:
 name:
 aliases: []
 status: draft
+image:
 # Event Details
 event_type:
 date:

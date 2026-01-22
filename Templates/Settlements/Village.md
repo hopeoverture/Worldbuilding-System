@@ -5,6 +5,7 @@ tags:
 name:
 aliases: []
 status: draft
+image:
 # Settlement Details
 settlement_type: village
 region:

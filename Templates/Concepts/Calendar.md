@@ -6,6 +6,7 @@ tags:
 name:
 aliases: []
 status: draft
+image:
 # Calendar Details
 calendar_type:
 astronomical_basis:

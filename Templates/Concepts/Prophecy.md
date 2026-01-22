@@ -6,6 +6,7 @@ tags:
 name:
 aliases: []
 status: draft
+image:
 # Prophecy Details
 prophecy_type:
 source:

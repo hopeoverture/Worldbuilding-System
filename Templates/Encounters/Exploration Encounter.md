@@ -6,6 +6,7 @@ tags:
 name:
 aliases: []
 status: draft
+image:
 # Encounter Details
 encounter_type:
 difficulty:

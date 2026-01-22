@@ -6,6 +6,7 @@ tags:
 name:
 aliases: []
 status: draft
+image:
 # Dynasty Details
 dynasty_type:
 realm:

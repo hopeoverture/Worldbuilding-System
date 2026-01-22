@@ -6,6 +6,7 @@ tags:
 name:
 aliases: []
 status: draft
+image:
 # Drink Details
 drink_type:
 origin_culture:

@@ -6,6 +6,7 @@ tags:
 name:
 aliases: []
 status: draft
+image:
 # Tragedy Details
 tragedy_type:
 date:

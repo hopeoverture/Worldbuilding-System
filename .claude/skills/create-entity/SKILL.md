@@ -172,3 +172,23 @@ After creating, provide:
 1. Confirmation of where the file was saved
 2. A brief 2-3 sentence summary of the entity
 3. Suggested related entities to create next (from the Connections section)
+
+### Step 7: Offer Image Generation
+
+After presenting the summary, ask the user:
+
+> "Would you like me to generate an image for this entity?"
+
+If yes, use the `/generate-image` skill to:
+1. Read the entity file you just created
+2. Extract the filled image prompt from the Image Prompts section
+3. Generate the image using OpenAI's gpt-image-1.5 model
+4. Save the image in the same folder as the entity
+5. Update the entity file with the image reference
+
+**Prompt selection for common entity types:**
+- **Characters:** Default to "Portrait (Bust)" unless user requests full body
+- **Settlements:** Default to "Exterior View"
+- **Items:** Default to "Display View"
+- **Creatures:** Default to "Natural Habitat"
+- **Geography:** Default to "Landscape View"

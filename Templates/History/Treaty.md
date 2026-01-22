@@ -6,6 +6,7 @@ tags:
 name:
 aliases: []
 status: draft
+image:
 # Treaty Details
 treaty_type:
 date_signed:

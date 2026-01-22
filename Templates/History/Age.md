@@ -6,6 +6,7 @@ tags:
 name:
 aliases: []
 status: draft
+image:
 # Age Details
 age_type:
 defining_characteristic:

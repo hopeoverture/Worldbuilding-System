@@ -7,6 +7,7 @@ tags:
 name:
 aliases: []
 status: draft
+image:
 # Agreement Details
 agreement_type:
 date_signed:

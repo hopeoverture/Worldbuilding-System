@@ -6,6 +6,7 @@ tags:
 name:
 aliases: []
 status: draft
+image:
 # 5e Quick Stats
 species:
 occupation:

@@ -84,9 +84,10 @@ Link to related entities using `[[Entity Name]]` syntax.
 ## Conventions
 
 ### YAML Frontmatter
-- Always include `tags`, `name`, `aliases`, and `status` fields
+- Always include `tags`, `name`, `aliases`, `status`, and `image` fields
 - Add entity-specific metadata fields (e.g., `location`, `affiliation`, `challenge_rating`)
 - Use `status: draft` for new entries
+- The `image:` field stores the wikilink to the entity's generated image (e.g., `"[[Entity Name.png]]"`)
 
 ### D&D 5e (2024) Integration
 - Include mechanical fields where applicable (Challenge Rating, ability scores, domains)
@@ -112,6 +113,7 @@ Skills are located in `.claude/skills/` and provide slash commands:
 | `/create-entity` | `/create-entity [description]` | Generate a populated entity from a template |
 | `/generate-world` | `/generate-world [name]` | Generate an entire world with 80-120 interconnected entities |
 | `/worldbuild` | `/worldbuild [name]` | **Interactive** guided worldbuilding with questions and choices |
+| `/generate-image` | `/generate-image [entity]` | Generate and save an image for an entity using OpenAI |
 
 **Examples:**
 ```
@@ -120,6 +122,7 @@ Skills are located in `.claude/skills/` and provide slash commands:
 /create-template dungeon
 /generate-world Valdris
 /worldbuild Aethermoor
+/generate-image Worlds/Eldoria/Characters/Aldric the Bold.md
 ```
 
 ### /generate-world Workflow
@@ -167,6 +170,35 @@ The `/worldbuild` command guides you through worldbuilding with questions and ch
 | Entities | 20-50 (your choice) | 80-120 (automated) |
 | Control | High (approve each) | Low (batch creation) |
 | Best for | Thoughtful building | Quick scaffolding |
+
+### /generate-image Workflow
+The `/generate-image` command generates AI images for entities using OpenAI's `gpt-image-1.5` model.
+
+**Workflow:**
+1. Read the entity file and extract the filled prompt from `## Image Prompts`
+2. Call OpenAI API with the prompt
+3. Save the image in the same folder as the entity (e.g., `Aldric the Bold.png`)
+4. Update the entity's frontmatter with `image: "[[Entity Name.png]]"`
+5. Insert `![[Entity Name.png]]` embed after frontmatter
+
+**Image Organization:**
+```
+Worlds/Eldoria/Characters/
+├── Aldric the Bold.md      # Entity file
+├── Aldric the Bold.png     # Generated image (same folder)
+```
+
+**Image Sizes by Entity Type:**
+| Entity Type | Size | Orientation |
+|-------------|------|-------------|
+| Characters (Portrait) | 1024x1024 | Square |
+| Characters (Full Body) | 1024x1536 | Portrait |
+| Settlements, Geography | 1536x1024 | Landscape |
+| Items | 1024x1024 | Square |
+
+**Cost:** ~$0.17-0.19 per high-quality image
+
+**Integration:** The `/create-entity` skill automatically offers to generate an image after creating an entity.
 
 ## Guidelines
 

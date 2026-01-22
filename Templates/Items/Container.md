@@ -5,6 +5,7 @@ tags:
 name:
 aliases: []
 status: draft
+image:
 # Container Details
 container_type:
 capacity:

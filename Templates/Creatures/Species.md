@@ -6,6 +6,7 @@ tags:
 name:
 aliases: []
 status: draft
+image:
 # Species Details
 species_type:
 creature_type: humanoid

@@ -6,6 +6,7 @@ tags:
 name:
 aliases: []
 status: draft
+image:
 # Currency Details
 currency_type:
 issuing_authority:

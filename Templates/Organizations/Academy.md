@@ -6,6 +6,7 @@ tags:
 name:
 aliases: []
 status: draft
+image:
 # Academy Details
 academy_type:
 educational_focus:

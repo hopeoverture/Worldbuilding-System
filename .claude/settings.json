@@ -1,5 +1,31 @@
 {
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
   "permissions": {
-    "deny": []
-  }
+    "allow": [
+      "Bash(git:*)",
+      "Bash(ls:*)",
+      "Bash(dir:*)",
+      "Bash(type:*)",
+      "Bash(mkdir:*)",
+      "Bash(copy:*)",
+      "Bash(move:*)"
+    ],
+    "deny": [
+      "Bash(rm -rf:*)",
+      "Bash(del /s:*)",
+      "Bash(rmdir /s:*)",
+      "Read(./.env)",
+      "Read(./.env.*)",
+      "Read(./secrets/**)"
+    ],
+    "additionalDirectories": []
+  },
+  "attribution": {
+    "commit": "🏰 Worldbuilding content generated with Claude Code\n\nCo-Authored-By: Claude <noreply@anthropic.com>",
+    "pr": "🏰 Worldbuilding content generated with Claude Code"
+  },
+  "spinnerTipsEnabled": true,
+  "cleanupPeriodDays": 30,
+  "respectGitignore": true,
+  "enableAllProjectMcpServers": true
 }

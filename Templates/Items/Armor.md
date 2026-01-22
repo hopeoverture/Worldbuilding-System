@@ -5,6 +5,7 @@ tags:
 name:
 aliases: []
 status: draft
+image:
 # 5e Armor Stats
 armor_type:
 armor_class:

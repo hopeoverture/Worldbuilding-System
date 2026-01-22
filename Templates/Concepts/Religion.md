@@ -6,6 +6,7 @@ tags:
 name:
 aliases: []
 status: draft
+image:
 # Religion Details
 religion_type:
 primary_deity:

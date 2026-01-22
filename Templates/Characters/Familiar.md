@@ -6,6 +6,7 @@ tags:
 name:
 aliases: []
 status: draft
+image:
 # Familiar Details
 creature_type:
 familiar_type:

@@ -6,6 +6,7 @@ tags:
 name:
 aliases: []
 status: draft
+image:
 # Stronghold Details
 stronghold_type:
 region:

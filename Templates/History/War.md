@@ -6,6 +6,7 @@ tags:
 name:
 aliases: []
 status: draft
+image:
 # War Details
 war_type:
 start_date:

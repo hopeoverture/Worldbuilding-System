@@ -214,3 +214,13 @@ Link to related entities using `[[Entity Name]]` syntax.
 ### History
 - **Founding Event:** [[]]
 - **Defining Moments:** [[]]
+
+### Settlements
+- **Operating Cities:** [[]], [[]]
+
+### Concepts
+- **Patron Deity:** [[]]
+- **Guiding Philosophy:** [[]]
+
+### Items
+- **Signature Artifacts:** [[]]

@@ -266,3 +266,11 @@ Link to related entities using `[[Entity Name]]` syntax.
 ### Items
 - **Guild Products:** [[]], [[]]
 - **Trade Goods:** [[]]
+
+### History
+- **Founding Event:** [[]]
+- **Major Milestones:** [[]], [[]]
+
+### Concepts
+- **Patron Deity:** [[]]
+- **Trade Traditions:** [[]]

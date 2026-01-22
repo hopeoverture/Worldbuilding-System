@@ -15,13 +15,19 @@ pantheon:
 # Worship
 holy_symbol:
 favored_weapon:
-cleric_domains:
+cleric_domains:  # (Life / Light / Trickery / War / Knowledge / Nature / Tempest / Death / Grave / Forge / Order / Peace / Twilight / Arcana)
 ---
 
 # {{title}}
 
 > [!info] Generation Instructions
 > When generating a deity, create a divine being with coherent domains, personality, and relationship with worshippers. Include mythology, worship practices, and how the god manifests in the world. Deities should feel like powerful beings with genuine personalities and agendas.
+>
+> **Cleric Domain Selection:** Choose 1-2 cleric domains from the 5e 2024 options that match the deity's portfolio:
+> - **Core Domains:** Life (healing/vitality), Light (radiance/revelation), Trickery (deception/shadows), War (battle/valor)
+> - **Extended Domains:** Knowledge (secrets/lore), Nature (wild/growth), Tempest (storms/sea), Death (endings/undead), Grave (death's boundary), Forge (creation/craft), Order (law/civilization), Peace (harmony/protection), Twilight (transition/comfort), Arcana (magic/mysteries)
+>
+> Match domains to personality: a sun god might have Light + Life; a storm god might have Tempest + War.
 
 ## Overview
 > Write 3-4 sentences establishing this deity's identity—their domain, role in the pantheon, personality, and significance to worshippers.
@@ -41,7 +47,7 @@ cleric_domains:
 -
 -
 
-**Cleric Domains (5e):**
+**Cleric Domains (5e):** (Life / Light / Trickery / War / Knowledge / Nature / Tempest / Death / Grave / Forge / Order / Peace / Twilight / Arcana)
 
 ### Portfolio
 What aspects of existence does this deity govern?

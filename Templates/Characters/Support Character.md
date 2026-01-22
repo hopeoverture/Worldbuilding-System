@@ -12,6 +12,7 @@ species:
 class:
 subclass:
 level:
+challenge_rating:  # Optional: Use instead of level for simple NPC combat stats
 proficiency_bonus:
 # Ability Scores
 strength:
@@ -36,6 +37,12 @@ role:
 
 > [!info] Generation Instructions
 > When generating a support character, create a memorable NPC who serves a clear purpose in the story while feeling like a real person with their own life beyond their utility to protagonists. They should have enough depth to be interesting but remain focused on their narrative role. Ensure D&D 5e (2024) statistics are accurate if combat-relevant.
+>
+> **Stat Block Mode:** For combat-relevant NPCs, choose ONE:
+> - **Level-based:** Fill `level:` for NPCs with class features (e.g., "Level 5 Cleric ally")
+> - **CR-based:** Fill `challenge_rating:` for simpler combat stats (e.g., "CR 2 Guard Captain")
+>
+> Leave combat stats blank for non-combat support characters (merchants, informants, etc.)
 >
 > **Naming Reference:** See [[D&D Species Naming Conventions]] for species-appropriate naming patterns. Support characters' names should reflect their cultural background and social status.
 

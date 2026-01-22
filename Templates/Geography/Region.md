@@ -323,3 +323,17 @@ Link to related entities using `[[Entity Name]]` syntax.
 ### History
 - **Founding:** [[]]
 - **Major Events:** [[]]
+
+### Concepts
+- **Dominant Faith:** [[]]
+- **Regional Language:** [[]]
+- **Local Currency:** [[]]
+
+### Creatures
+- **Native Wildlife:** [[]], [[]]
+- **Monsters:** [[]]
+- **Domesticated Animals:** [[]]
+
+### Items
+- **Regional Specialties:** [[]]
+- **Famous Exports:** [[]]

@@ -188,3 +188,15 @@ Link to related entities using `[[Entity Name]]` syntax.
 
 ### Items
 - **Specialty Goods:** [[]]
+
+### Settlements
+- **Primary Location:** [[]]
+- **Branch Cities:** [[]], [[]]
+
+### History
+- **Founding Event:** [[]]
+- **Major Milestones:** [[]]
+
+### Concepts
+- **Currency Used:** [[]]
+- **Trade Agreements:** [[]]

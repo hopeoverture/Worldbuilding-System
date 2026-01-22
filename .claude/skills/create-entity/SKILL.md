@@ -134,9 +134,51 @@ Map the entity type to the appropriate template:
 | cave, cavern, grotto | Cave.md |
 | dungeon, lair, ruins, tomb | Dungeon.md |
 
+**Character Options:**
+| User Says | Template |
+|-----------|----------|
+| background, origin, character background | Character Background.md |
+| class, character class, custom class | Character Class.md |
+| subclass, archetype, specialization | Character Subclass.md |
+
+**Encounters:**
+| User Says | Template |
+|-----------|----------|
+| combat encounter, fight, battle encounter | Combat Encounter.md |
+| social encounter, negotiation, roleplay encounter | Social Encounter.md |
+| exploration encounter, puzzle, skill challenge | Exploration Encounter.md |
+| trap, hazard, mechanical trap | Trap.md |
+
+**Maps:**
+| User Says | Template |
+|-----------|----------|
+| world map, global map | World Map.md |
+| continent map, landmass map | Continent Map.md |
+| region map, area map, territory map | Region Map.md |
+| settlement map, city map, town map | Settlement Map.md |
+
+**Adventures:**
+| User Says | Template |
+|-----------|----------|
+| adventure, quest, campaign arc, module | Adventure.md |
+
 ### Step 3: Read the Template
 
 Read the appropriate template from `Templates/[Category]/[Template].md`
+
+**Category Folder Mappings:**
+| Template Category | Save to Folder |
+|-------------------|----------------|
+| Characters, Character Options | Characters/ |
+| Settlements | Settlements/ |
+| Items | Items/ |
+| Creatures | Creatures/ |
+| Organizations | Organizations/ |
+| Concepts | Concepts/ |
+| History, Adventures | History/ |
+| Geography | Geography/ |
+| Encounters | Encounters/ |
+| Maps | Maps/ |
 
 ### Step 4: Generate Content
 
@@ -159,12 +201,67 @@ Fill out the template completely with coherent, interconnected content:
 
 5. **Connections**: Populate with `[[Entity Name]]` links to related entities (these can be entities that don't exist yet but should)
 
+**D&D 5e Stat Block Mode Selection:**
+For characters (Protagonist, Antagonist, Support Character), choose ONE mode:
+
+| Mode | When to Use | Fill Field | Leave Blank |
+|------|-------------|------------|-------------|
+| **Level-based** | PC-style with class features, spell slots | `level:` | `challenge_rating:` |
+| **CR-based** | NPC-style, simple combat stats, boss monsters | `challenge_rating:` | `level:` |
+
+**Examples:**
+- "Level 10 Wizard villain" → Use `level: 10`, leave `challenge_rating:` blank
+- "CR 8 Warlord boss" → Use `challenge_rating: 8`, leave `level:` blank
+- "CR 5 Bandit Captain" → Use `challenge_rating: 5`
+
+**D&D 5e Stat Block Validation:**
+When generating creatures or characters with stat blocks:
+1. Verify CR matches XP (see [[D&D 5e Stat Block Validation]] for tables)
+2. Calculate proficiency bonus from level/CR (+2 for levels 1-4, +3 for 5-8, etc.)
+3. Verify ability modifiers = (score - 10) / 2 rounded down
+4. Verify attack bonus = proficiency + STR/DEX modifier
+5. Verify spell save DC = 8 + proficiency + spellcasting ability modifier
+6. Verify HP correlates with hit dice and CON modifier
+7. For CR 5+ creatures, consider Legendary Resistance and Legendary Actions
+
 ### Step 5: Save the Entity
 
 Save the completed entity to:
 `Worlds/[World Name]/[Category]/[Entity Name].md`
 
 Use the entity's name as the filename with Title Case and spaces.
+
+### Step 5B: Update Related Entities (Reciprocal Links)
+
+After creating the new entity, check if any entities referenced in its Connections section already exist. If they do, add a reciprocal link back to the new entity.
+
+**Process:**
+1. For each `[[Entity Name]]` in the new entity's Connections section
+2. Check if that entity file already exists in the world
+3. If it exists, read the file and add the new entity to the appropriate Connections category
+4. Save the updated file
+
+**Reciprocal Link Patterns:**
+See [[Connection Matrix]] for complete bidirectional linking rules.
+
+| New Entity Links To... | Add New Entity To Target's Section |
+|-----------------------|-----------------------------------|
+| Settlement (as location) | Characters > Residents or Notable NPCs |
+| Organization (as member) | Characters > Members |
+| Region (as parent geography) | Settlements or Geography > Contains |
+| Deity (as patron) | Characters > Worshippers or Followers |
+| Character (as ally) | Characters > Allies |
+| Character (as enemy) | Characters > Rivals/Enemies |
+| Government (as ruler) | Characters > Ruler or Leadership |
+| Settlement (as headquarters) | Organizations > Based Here |
+
+**Example:**
+- You create "Grom the Blacksmith" who works in "[[Ironforge City]]"
+- Check if `Worlds/[World]/Settlements/Ironforge City.md` exists
+- If yes, open it and add `[[Grom the Blacksmith]]` to Characters > Notable NPCs
+- Save the updated Ironforge City.md
+
+This ensures bidirectional connections and prevents orphaned entities.
 
 ### Step 6: Summary
 

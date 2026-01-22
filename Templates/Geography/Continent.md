@@ -310,3 +310,16 @@ Link to related entities using `[[Entity Name]]` syntax.
 - **Founding Events:** [[]]
 - **Continental Wars:** [[]]
 - **Major Treaties:** [[]]
+
+### Concepts
+- **Major Religions:** [[]], [[]]
+- **Languages Spoken:** [[]]
+- **Currency:** [[]]
+
+### Creatures
+- **Endemic Species:** [[]], [[]]
+- **Legendary Beasts:** [[]]
+
+### Items
+- **Famous Artifacts:** [[]]
+- **Regional Resources:** [[]]

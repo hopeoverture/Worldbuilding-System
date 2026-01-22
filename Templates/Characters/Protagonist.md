@@ -11,6 +11,7 @@ species:
 class:
 subclass:
 level:
+challenge_rating:  # Optional: For NPC conversion (leave blank if using level-based)
 experience_points:
 proficiency_bonus:
 # Ability Scores
@@ -35,6 +36,8 @@ faction:
 
 > [!info] Generation Instructions
 > When generating a protagonist, create a compelling hero or main character with depth, clear motivations, and room for growth. Ensure all D&D 5e (2024) statistics are accurate and calculated correctly. The character should feel like someone players would want to follow or play as.
+>
+> **Stat Block Mode:** Protagonists default to level-based (PC-style) statistics with class features and spell slots. The `challenge_rating:` field is optional for converting this character to NPC stat block format for combat encounters. See [[D&D 5e Stat Block Validation]] for conversion guidelines.
 >
 > **Naming Reference:** See [[D&D Species Naming Conventions]] for species-appropriate naming patterns, linguistic elements, and cultural naming customs. Names should reflect the character's species, culture, and background.
 

@@ -7,7 +7,7 @@ Obsidian vault containing worldbuilding templates for a fantasy setting. Templat
 ```
 Templates/                    # Reusable templates for entity creation
 ├── Characters/               # Protagonists, Antagonists, Support Characters, Background Characters,
-                              # Divine Servants, Familiars
+                              # Divine Servants, Familiars, Character Backgrounds, Classes, Subclasses
 ├── Settlements/              # Villages, Towns, Cities, Strongholds, Taverns, Shops, Temples, Libraries
 ├── Items/                    # Weapons, Armor, Wondrous Magic Items, Potions, Gear, Food, Drink,
                               # Containers, Artifacts, Vehicles, Books
@@ -17,10 +17,13 @@ Templates/                    # Reusable templates for entity creation
 ├── Concepts/                 # Religions, Pantheons, Deities, Magic Systems, Technologies, Languages,
                               # Prophecies, Planes of Existence, Currencies, Calendars
 ├── History/                  # Events, Wars, Battles, Treaties, Trade Agreements, Tragedies,
-                              # Dynasties, Ages
-└── Geography/                # Continents, Regions, Mountains, Forests, Rivers, Roads, Deserts,
+                              # Dynasties, Ages, Adventures
+├── Geography/                # Continents, Regions, Mountains, Forests, Rivers, Roads, Deserts,
                               # Tundras, Plains, Hills, Steppes, Oceans, Lakes, Coasts, Passes,
                               # Islands, Caves, Dungeons
+├── Encounters/               # Combat Encounters, Social Encounters, Exploration Encounters, Traps
+├── Maps/                     # World Maps, Continent Maps, Region Maps, Settlement Maps
+└── Reference/                # D&D Species Naming Conventions, Tolkien Naming Conventions, Stat Validation
 
 Worlds/                       # Actual worldbuilding projects
 └── [World Name]/
@@ -100,6 +103,10 @@ Link to related entities using `[[Entity Name]]` syntax.
 
 ## Important Files
 - `Templates/` - All worldbuilding templates organized by category
+- `Templates/Reference/` - Naming conventions and validation guides:
+  - `D&D Species Naming Conventions.md` - Naming patterns by species (Dwarven, Elven, etc.)
+  - `Tolkien Naming Conventions.md` - High fantasy linguistic patterns (Sindarin, Quenya, etc.)
+  - `D&D 5e Stat Block Validation.md` - CR/XP tables, ability calculations, validation checklist
 - `Worlds/` - Actual worldbuilding projects with entities created from templates
 - `Worlds/README.md` - Guide for using the Worlds directory
 
@@ -114,6 +121,7 @@ Skills are located in `.claude/skills/` and provide slash commands:
 | `/generate-world` | `/generate-world [name]` | Generate an entire world with 80-120 interconnected entities |
 | `/worldbuild` | `/worldbuild [name]` | **Interactive** guided worldbuilding with questions and choices |
 | `/generate-image` | `/generate-image [entity]` | Generate and save an image for an entity using OpenAI |
+| `/audit-world` | `/audit-world [name] [--fix]` | Audit a world for consistency, broken links, and D&D 5e compliance |
 
 **Examples:**
 ```
@@ -123,6 +131,8 @@ Skills are located in `.claude/skills/` and provide slash commands:
 /generate-world Valdris
 /worldbuild Aethermoor
 /generate-image Worlds/Eldoria/Characters/Aldric the Bold.md
+/audit-world Eldoria
+/audit-world Eldoria --fix
 ```
 
 ### /generate-world Workflow
@@ -200,6 +210,39 @@ Worlds/Eldoria/Characters/
 
 **Integration:** The `/create-entity` skill automatically offers to generate an image after creating an entity.
 
+### /audit-world Workflow
+The `/audit-world` command performs comprehensive quality checks on worldbuilding projects.
+
+**6 Audit Checks:**
+1. **Wikilink Validation** - Verify all `[[Entity Name]]` links point to real entities
+2. **Bidirectional Connections** - Ensure if A→B then B→A exists
+3. **D&D 5e Stat Block Validation** - Check CR/XP, proficiency, modifiers, attack bonuses, spell DCs
+4. **Orphan Detection** - Find entities with no incoming links
+5. **Template Compliance** - Verify entities have required YAML fields and sections
+6. **Cross-Entity Consistency** - Check religious, political, geographic, and historical logic
+
+**D&D 5e Validation Includes:**
+- CR to XP conversion (using [[D&D 5e 2024 Rules/Monsters/CR and XP]])
+- Proficiency bonus by level/CR
+- Ability modifier calculation: `floor((score - 10) / 2)`
+- Attack bonus: `proficiency + ability modifier`
+- Spell Save DC: `8 + proficiency + spellcasting ability modifier`
+- HP validation against hit dice formula
+- Legendary features for CR 5+ creatures
+
+**Usage:**
+```
+/audit-world Eldoria              # Full audit
+/audit-world Eldoria --fix        # Auto-fix issues
+/audit-world Eldoria --check links      # Only check wikilinks
+/audit-world Eldoria --check stats      # Only check D&D stats
+/audit-world Eldoria --category Creatures --check stats --fix
+```
+
+**Output:** Detailed report with issues categorized as Critical (must fix) or Warnings (should review), plus connection statistics and recommendations.
+
+**Integration:** Run `/audit-world` after `/generate-world` or `/create-entity` to verify consistency.
+
 ## Guidelines
 
 ### When Creating New Templates
@@ -217,14 +260,18 @@ Worlds/Eldoria/Characters/
 4. Ensure image prompts are filled with entity-specific details
 5. Link to other entities using `[[Entity Name]]` syntax
 
-### Template Categories (75 total)
-| Folder | Templates |
-|--------|-----------|
-| Characters | 6 (Protagonist, Antagonist, Support Character, Background Character, Divine Servant, Familiar) |
-| Settlements | 8 (Village, Town, City, Stronghold, Tavern, Shop, Temple, Library) |
-| Items | 11 (Weapon, Armor, Wondrous Magic Item, Potion, Gear, Food, Drink, Container, Artifact, Vehicle, Book) |
-| Creatures | 5 (Monster, Animal, Insect, Species, Plant) |
-| Organizations | 9 (Guild, Government, Religious Order, Cult, Military, Criminal Organization, Business, Organization General, Academy) |
-| Concepts | 10 (Religion, Pantheon, Deity, Magic System, Technology, Language, Prophecy, Plane of Existence, Currency, Calendar) |
-| History | 8 (Event, War, Battle, Treaty, Trade Agreement, Tragedy, Dynasty, Age) |
-| Geography | 18 (Continent, Region, Mountain Range, Forest, River, Road, Desert, Tundra, Plains, Hills, Steppes, Ocean, Lake, Coast, Pass, Island, Cave, Dungeon) |
+### Template Categories (87 total)
+| Folder | Count | Templates |
+|--------|-------|-----------|
+| Characters | 9 | Protagonist, Antagonist, Support Character, Background Character, Divine Servant, Familiar, Character Background, Character Class, Character Subclass |
+| Settlements | 8 | Village, Town, City, Stronghold, Tavern, Shop, Temple, Library |
+| Items | 11 | Weapon, Armor, Wondrous Magic Item, Potion, Gear, Food, Drink, Container, Artifact, Vehicle, Book |
+| Creatures | 5 | Monster, Animal, Insect, Species, Plant |
+| Organizations | 9 | Guild, Government, Religious Order, Cult, Military, Criminal Organization, Business, Organization General, Academy |
+| Concepts | 10 | Religion, Pantheon, Deity, Magic System, Technology, Language, Prophecy, Plane of Existence, Currency, Calendar |
+| History | 9 | Event, War, Battle, Treaty, Trade Agreement, Tragedy, Dynasty, Age, Adventure |
+| Geography | 18 | Continent, Region, Mountain Range, Forest, River, Road, Desert, Tundra, Plains, Hills, Steppes, Ocean, Lake, Coast, Pass, Island, Cave, Dungeon |
+| Encounters | 4 | Combat Encounter, Social Encounter, Exploration Encounter, Trap |
+| Maps | 4 | World Map, Continent Map, Region Map, Settlement Map |
+
+**Note:** The `/generate-world` skill uses the 75 core worldbuilding templates. Encounters, Maps, and Character Options (Background, Class, Subclass) are DM tools created separately via `/create-entity`.

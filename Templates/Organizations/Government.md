@@ -303,6 +303,7 @@ Link to related entities using `[[Entity Name]]` syntax.
 - **Intelligence:** [[]]
 - **Allied Factions:** [[]]
 - **Enemy Factions:** [[]]
+- **Criminal Elements:** [[]]
 
 ### Settlements
 - **Major Cities:** [[]], [[]]

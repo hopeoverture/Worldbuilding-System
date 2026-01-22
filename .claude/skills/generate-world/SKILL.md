@@ -10,7 +10,7 @@ Generate a complete world: $ARGUMENTS
 
 ## Overview
 
-This skill creates an entire interconnected world through a multi-phase workflow. It generates approximately **80-120 entities** using all 75 available templates, organized in the proper folder structure with `[[wikilinks]]` connecting everything together.
+This skill creates an entire interconnected world through a multi-phase workflow. It generates approximately **80-120 entities** using the 75 core worldbuilding templates (87 total templates exist including DM tools like Encounters and Maps), organized in the proper folder structure with `[[wikilinks]]` connecting everything together.
 
 **Important:** This is a long-running workflow. Progress updates will be provided between phases, and the workflow will pause at key checkpoints for your approval.
 
@@ -751,14 +751,40 @@ For each city and major town:
    - No orphaned entities exist
    - Historical entities connect to current ones
 
+   **Validation Checklist:**
+   - [ ] Every character links to their home settlement, AND that settlement links back to the character
+   - [ ] Every organization links to its headquarters, AND that settlement links back to the organization
+   - [ ] Every deity in the pantheon links to the pantheon, AND the pantheon links to all deities
+   - [ ] Every settlement links to its parent region, AND the region links to all settlements within it
+   - [ ] Every historical event links to its location, AND the location links to the event
+   - [ ] Every artifact links to its current owner/location, AND they link back to the artifact
+   - [ ] Flag any entity with 0 incoming links as "orphaned" - add at least 2 references to it
+
+   **Bidirectional Link Patterns:**
+   | If A links to B as... | B must link to A as... |
+   |----------------------|------------------------|
+   | Homeland/Location | Notable Person/Resident |
+   | Member of Organization | Members/Notable Members |
+   | Worships Deity | Followers/Worshippers |
+   | Parent Region | Subregions/Settlements |
+   | Ruler of Settlement | Current Ruler |
+   | Creator of Item | Created Items/Notable Works |
+   | Participant in Event | Key Figures |
+
 3. **Cross-Category Links**
    Ensure connections span categories:
-   - Characters → Organizations they belong to
-   - Settlements → Geographic features nearby
-   - Items → Characters who own/seek them
-   - History → Locations where events occurred
-   - Creatures → Regions where they live
-   - Organizations → Settlements where they operate
+   - Characters → Organizations they belong to → back-link to Characters
+   - Settlements → Geographic features nearby → back-link to Settlements
+   - Items → Characters who own/seek them → back-link to Items
+   - History → Locations where events occurred → back-link to History
+   - Creatures → Regions where they live → back-link to Creatures
+   - Organizations → Settlements where they operate → back-link to Organizations
+
+4. **Connection Density Targets:**
+   - **Minimum:** 3 outgoing wikilinks per entity
+   - **Target:** 5-8 connections per entity
+   - **Incoming:** Every entity should have 2+ other entities linking TO it
+   - **Fix orphans:** If an entity has <2 incoming links, add references in related entities
 
 ---
 
@@ -774,12 +800,14 @@ Provide a final summary:
    Concepts        | X     | 10/10
    Organizations   | X     | 9/9
    Settlements     | X     | 8/8
-   Characters      | X     | 6/6
-   History         | X     | 8/8
+   Characters      | X     | 6/9 (9 total, 6 for NPCs)
+   History         | X     | 8/9 (9 total, includes Adventure)
    Creatures       | X     | 5/5
    Items           | X     | 11/11
    ----------------|-------|---------------
-   TOTAL           | X     | 75/75 templates
+   TOTAL           | X     | 75 core templates
+
+   (Additional DM tool templates available: Encounters 4, Maps 4)
    ```
 
 2. **World Structure Overview:**

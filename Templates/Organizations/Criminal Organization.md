@@ -230,3 +230,11 @@ Link to related entities using `[[Entity Name]]` syntax.
 ### Items
 - **Contraband:** [[]]
 - **Signature Weapons:** [[]]
+
+### History
+- **Origin Event:** [[]]
+- **Notable Crimes:** [[]], [[]]
+
+### Concepts
+- **Patron Deity:** [[]]
+- **Code/Philosophy:** [[]]

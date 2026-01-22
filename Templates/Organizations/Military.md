@@ -215,3 +215,17 @@ Link to related entities using `[[Entity Name]]` syntax.
 
 ### History
 - **Major Battles:** [[]], [[]]
+- **Founding Event:** [[]]
+
+### Settlements
+- **Garrison Cities:** [[]], [[]]
+- **Fortresses:** [[]]
+
+### Items
+- **Signature Weapons:** [[]]
+- **Magical Arms:** [[]]
+- **Banner/Standard:** [[]]
+
+### Concepts
+- **War God Patron:** [[]]
+- **Battle Doctrine:** [[]]

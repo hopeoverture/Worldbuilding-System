@@ -36,6 +36,12 @@ faction:
 > [!info] Generation Instructions
 > When generating an antagonist, create a compelling villain or opposing force with understandable (if not sympathetic) motivations. The best antagonists believe they are justified in their actions. Ensure all D&D 5e (2024) statistics are accurate. The character should present a meaningful threat and challenge to protagonists.
 >
+> **Stat Block Mode:** Choose ONE mode based on the antagonist's design:
+> - **Level-based (PC-style):** Fill `level:` field. Use class features, spell slots, and level-based proficiency. Best for spellcaster villains or antagonists with specific class abilities (e.g., "Level 12 Wizard", "Level 8 Paladin/Warlock").
+> - **CR-based (Monster-style):** Fill `challenge_rating:` field. Use CR-appropriate HP, damage, and proficiency from [[D&D 5e Stat Block Validation]]. Best for boss monsters, transformed enemies, or simple brutes (e.g., "CR 10 Vampire", "CR 6 Warlord").
+>
+> Only fill ONE of `level:` or `challenge_rating:`. Leave the unused field blank.
+>
 > **Naming Reference:** See [[D&D Species Naming Conventions]] for species-appropriate naming patterns, linguistic elements, and cultural naming customs. Villain names can subvert conventions (a tiefling rejecting their infernal name) or embrace darker elements of their heritage.
 
 ## Overview

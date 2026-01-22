@@ -110,13 +110,63 @@ Skills are located in `.claude/skills/` and provide slash commands:
 | `/create-template` | `/create-template [type]` | Create a new template (e.g., "tavern", "spell") |
 | `/create-world` | `/create-world [name]` | Create a new world with full folder structure |
 | `/create-entity` | `/create-entity [description]` | Generate a populated entity from a template |
+| `/generate-world` | `/generate-world [name]` | Generate an entire world with 80-120 interconnected entities |
+| `/worldbuild` | `/worldbuild [name]` | **Interactive** guided worldbuilding with questions and choices |
 
 **Examples:**
 ```
 /create-world Eldoria
 /create-entity dwarven city called Ironhold for Eldoria
 /create-template dungeon
+/generate-world Valdris
+/worldbuild Aethermoor
 ```
+
+### /generate-world Workflow
+The `/generate-world` command runs a comprehensive 11-phase workflow:
+
+1. **World Foundation** - Create directory structure and World Overview
+2. **Cosmology & Concepts** - Pantheon, deities, religion, magic system, calendar, currency
+3. **Geography: Continents** - Major landmasses and oceans
+4. **Geography: Regions** - Regions, mountains, forests, rivers, roads
+5. **Civilizations** - Governments, military, guilds, religious orders
+6. **Settlements** - Cities, towns, villages
+7. **Settlement Details** - Taverns, shops, temples, NPCs
+8. **History** - Ages, events, wars, dynasties
+9. **Creatures & Species** - Unique races, monsters, wildlife
+10. **Artifacts & Connections** - Legendary items, final wikilink audit
+11. **Summary Report** - Entity count and next steps
+
+**Checkpoints:** The workflow pauses for approval after phases 1, 3, 5, and 8.
+
+### /worldbuild Workflow (Interactive)
+The `/worldbuild` command guides you through worldbuilding with questions and choices. Unlike `/generate-world`, it creates entities one at a time with your approval.
+
+**7 Interactive Phases:**
+1. **World Identity** - Tone, theme, inspirations, central conflict
+2. **Metaphysical Foundation** - Magic system, pantheon, deities, cosmology
+3. **The Land** - Scale, continents, regions, terrain features
+4. **Powers & People** - Species, nations, governments, organizations
+5. **History & Conflict** - Ages, events, current tensions
+6. **Places of Interest** - Cities, towns, dungeons, adventure sites
+7. **Characters & Details** - Rulers, NPCs, villains, artifacts, culture
+
+**Key Features:**
+- Asks 5-8 questions per section to deeply understand your vision
+- Shows preview of each entity before creating
+- Adapts to your choices (no magic = skip magic questions)
+- Can pause and resume sessions (`/worldbuild resume`)
+- Tracks progress in `.worldbuild-state.json`
+
+**Commands during session:** `continue`, `back`, `skip`, `pause`, `summary`, `review [entity]`
+
+**Comparison:**
+| Aspect | `/worldbuild` | `/generate-world` |
+|--------|---------------|-------------------|
+| User input | Extensive Q&A | Minimal |
+| Entities | 20-50 (your choice) | 80-120 (automated) |
+| Control | High (approve each) | Low (batch creation) |
+| Best for | Thoughtful building | Quick scaffolding |
 
 ## Guidelines
 

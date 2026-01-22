@@ -1,6 +1,6 @@
-# CLAUDE.md
+# GEMINI.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+This file provides guidance to Gemini (Google AI) when working with code in this repository.
 
 ## Overview
 
@@ -37,25 +37,7 @@ D&D 5e 2024 Rules/            # Complete D&D 5e 2024 reference
 ├── Spells/                   # Cantrips through 9th level by spell level
 ├── Monsters/                 # CR and XP reference
 └── Appendices/               # Creature Types, Damage Types, Abbreviations
-
-.claude/skills/               # Claude Code slash commands
 ```
-
-## Skills (Slash Commands)
-
-| Command | Description |
-|---------|-------------|
-| `/create-world [name]` | Create world with full folder structure |
-| `/create-entity [description]` | Generate entity from template (e.g., "dwarven city called Ironhold for Eldoria") |
-| `/create-template [type]` | Create new template type |
-| `/generate-world [name]` | Auto-generate 80-120 interconnected entities (13 phases with checkpoints) |
-| `/worldbuild [name]` | Interactive guided worldbuilding with Q&A (7 phases) |
-| `/generate-image [entity path]` | Generate AI image using OpenAI gpt-image-1.5 |
-| `/audit-world [name] [--fix]` | Audit for broken links, D&D 5e stat errors, orphans |
-| `/expand-entity [entity]` | Add detail, create sub-entities, deepen connections for existing entities |
-| `/link-entities [entity1] [entity2]` | Create bidirectional wikilinks; use "auto [world]" to scan for missing links |
-| `/random-encounter [location] [level]` | Generate combat, social, or exploration encounters using world entities |
-| `/session-prep [world] [focus]` | Create DM session notes, NPC cheat sheets, location briefs |
 
 ## Template Format
 
@@ -102,7 +84,6 @@ All templates follow this structure:
 - `Templates/Reference/D&D 5e Stat Block Validation.md` - Full validation checklist
 - `Templates/Reference/Connection Matrix.md` - Bidirectional linking rules
 - `Worlds/README.md` - Guide for world directory structure
-- `.claude/settings.json` - Permission configuration and attribution settings
 
 ## Content Generation Guidelines
 
@@ -110,5 +91,16 @@ All templates follow this structure:
 2. Create internal consistency across entities
 3. Reference other entities using `[[Entity Name]]` syntax
 4. Fill image prompt sections with entity-specific details
-5. Ensure bidirectional connections (use `/audit-world` to verify)
+5. Ensure bidirectional connections between entities
 6. For creatures CR 5+, consider Legendary Resistance and Legendary Actions
+
+## Gemini-Specific Instructions
+
+When working with this worldbuilding vault:
+
+1. **Read templates first** - Before creating content, examine the relevant template in `Templates/` to understand required sections and formatting
+2. **Maintain wikilink format** - Always use Obsidian `[[Entity Name]]` syntax for cross-references
+3. **Follow YAML schema** - Each entity type has specific frontmatter fields; reference existing entities for examples
+4. **Use D&D 5e 2024 rules** - Reference files in `D&D 5e 2024 Rules/` for accurate game mechanics
+5. **Validate stat blocks** - Use the formulas above to ensure mathematical accuracy in character/creature stats
+6. **Create bidirectional links** - When Entity A references Entity B, update Entity B to reference Entity A

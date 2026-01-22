@@ -182,6 +182,20 @@ Read the appropriate template from `Templates/[Category]/[Template].md`
 
 ### Step 4: Generate Content
 
+**Naming Conventions Reference:**
+When generating names for entities, consult these reference files:
+
+| Reference File | Use For |
+|----------------|---------|
+| `Templates/Reference/D&D Species Naming Conventions.md` | Species-specific naming patterns (Dwarves, Elves, Halflings, Orcs, etc.) |
+| `Templates/Reference/Tolkien Naming Conventions.md` | High fantasy linguistic patterns (Sindarin, Quenya, Khuzdul, etc.) |
+
+**Matching Names to Context:**
+- **Characters:** Match names to species (Dwarven names for dwarves, Elvish for elves, etc.)
+- **Settlements:** Use linguistic conventions for the dominant culture
+- **Geography:** Use Tolkien patterns for rivers (-duin), mountains (-gor), forests (-taur)
+- **Organizations:** Match naming style to the organization's cultural origin
+
 Fill out the template completely with coherent, interconnected content:
 
 1. **YAML Frontmatter**: Fill all fields with appropriate values

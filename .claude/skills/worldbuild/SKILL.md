@@ -1812,6 +1812,35 @@ Always inform user when skipping:
 
 ---
 
+## Naming Conventions Reference
+
+When generating names for entities, consult these reference files:
+
+| Reference File | Use For |
+|----------------|---------|
+| `Templates/Reference/D&D Species Naming Conventions.md` | Species-specific naming patterns (Dwarves, Elves, Halflings, Orcs, etc.) |
+| `Templates/Reference/Tolkien Naming Conventions.md` | High fantasy linguistic patterns (Sindarin, Quenya, Khuzdul, etc.) |
+
+### When to Apply
+
+- **During entity generation:** Use naming patterns that match the entity's species, culture, or region
+- **For settlements:** Name cities/towns using appropriate linguistic conventions for their dominant culture
+- **For characters:** Match names to species (Dwarven names for dwarves, Elvish for elves, etc.)
+- **For geography:** Use Tolkien patterns for rivers (-duin), mountains (-gor), forests (-taur), etc.
+
+### Matching Names to Tone
+
+| World Tone | Recommended Naming Style |
+|------------|-------------------------|
+| Epic Fantasy | Tolkien patterns (Sindarin/Quenya for elves, Norse-inspired for dwarves) |
+| Dark Fantasy | Harsher variants, Black Speech influences for villains |
+| Sword & Sorcery | Mixed cultural human names, simpler constructions |
+| Mythic Fantasy | Quenya (formal/divine), culture-specific for mortals |
+| Low Fantasy | Historical human naming patterns (Germanic, Celtic, Slavic) |
+| Whimsical Fantasy | Halfling/Gnome patterns, playful constructions |
+
+---
+
 ## Entity Creation Standards
 
 When generating any entity:

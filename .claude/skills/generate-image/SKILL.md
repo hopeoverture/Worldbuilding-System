@@ -10,7 +10,7 @@ Generate an image for: $ARGUMENTS
 
 ## Instructions
 
-You are generating an AI image for an existing worldbuilding entity using OpenAI's `gpt-image-1.5` model.
+You are generating an AI image for an existing worldbuilding entity.
 
 ### Step 1: Locate the Entity
 
@@ -58,28 +58,6 @@ Example: `Worlds/Eldoria/Characters/Aldric the Bold.md` -> `Worlds/Eldoria/Chara
 - **Quality:** `high` (best detail for fantasy art)
 - **Format:** `png` (best quality, supports transparency)
 
-### Step 4: Generate the Image
-
-Use the Bash tool to call the OpenAI API:
-
-```bash
-curl -s https://api.openai.com/v1/images/generations \
-  -H "Content-Type: application/json" \
-  -H "Authorization: Bearer $OPENAI_API_KEY" \
-  -d '{
-    "model": "gpt-image-1.5",
-    "prompt": "<EXTRACTED_PROMPT>",
-    "n": 1,
-    "size": "1024x1024",
-    "quality": "high",
-    "output_format": "png"
-  }' | jq -r '.data[0].b64_json' | base64 -d > "<OUTPUT_PATH>"
-```
-
-**Important Notes:**
-- The API returns base64-encoded image data (not a URL)
-- Decode the base64 and save directly to the target file
-- If `$OPENAI_API_KEY` is not set, check for it in `.env` file or ask the user to provide it
 
 ### Step 5: Update the Entity File
 
@@ -115,14 +93,6 @@ Report to the user:
 3. Confirmation that the entity file was updated
 4. Suggest opening the file in Obsidian to see the embedded image
 
-### Error Handling
-
-**Common issues:**
-- **No API key:** Check `.env` for `OPENAI_API_KEY`, or ask user to set it
-- **Prompt not filled:** Tell user to fill the Image Prompts section first (or offer to generate a prompt based on the entity content)
-- **API error:** Show the error message and suggest checking the prompt content
-- **Rate limit:** Wait and retry, or inform user of the limit
-
 ### Optional: Generate Prompt from Entity
 
 If the image prompt section is empty but the user wants an image, offer to generate a prompt based on the entity's content:
@@ -152,17 +122,10 @@ Ask the user which image type they want if the entity has multiple prompt option
 - Display View - clean showcase of the item
 - In Use - the item being wielded/used
 
-## Quick Reference
-
-**Model:** `gpt-image-1.5`
-**Default Size:** `1024x1024`
-**Quality:** `high`
-**Format:** `png`
-**Cost:** ~$0.17-0.19 per high-quality image
 
 **Size Options:**
 | Orientation | Size | Use For |
 |-------------|------|---------|
-| Square | 1024x1024 | Portraits, items, icons |
-| Portrait | 1024x1536 | Full-body characters |
-| Landscape | 1536x1024 | Geography, settlements, battles |
+| Square | 1:1 | Portraits, items, icons |
+| Portrait | 2:3 | Full-body characters |
+| Landscape | 3:2 | Geography, settlements, battles |

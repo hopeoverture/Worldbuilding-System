@@ -47,7 +47,7 @@ Porto Valdris is a city built on gold—not mined, but earned through centuries 
 ## Geography
 
 ### Location
-Porto Valdris occupies a crescent-shaped natural harbor on the western coast, protected from storms by the Shepherd's Teeth headland to the north. The city rises in terraces from the waterfront to the high ground where the Palazzo Valdris commands views of both the harbor and the Trader's Sea beyond. The Valdris River provides fresh water and a route to the interior.
+Porto Valdris occupies a crescent-shaped natural harbor on the western coast, protected from storms by the Shepherd's Teeth headland to [[The Northlands|the north]]. The city rises in terraces from the waterfront to the high ground where the Palazzo Valdris commands views of both the harbor and the Trader's Sea beyond. The Valdris River provides fresh water and a route to the interior.
 
 ### Climate
 Mediterranean—mild wet winters, long dry summers, and sea breezes that moderate the heat. The city rarely sees frost, and flowers bloom year-round in the famous Valdren Gardens.
@@ -61,7 +61,7 @@ The city follows its natural contours, rising in levels from the bustling waterf
 
 **The Garden Terraces:** Middle and upper-class residences climbing the hillsides, each level more exclusive than the last.
 
-**Palazzo Hill:** The heights where House Valdren and the greatest merchant families maintain their palatial estates.
+**Palazzo Hill:** The heights where [[House Valdren]] and the greatest merchant families maintain their palatial estates.
 
 ## Districts
 
@@ -92,7 +92,7 @@ The city follows its natural contours, rising in levels from the bustling waterf
 ### 5. Palazzo Hill
 **Character:** Exclusive, powerful, jealously guarded
 **Key Features:** The great palazzos of the ruling families, private gardens, restricted access
-**Who's Found Here:** House Valdren, merchant princes, foreign ambassadors
+**Who's Found Here:** [[House Valdren]], merchant princes, foreign ambassadors
 **Notable Locations:** Palazzo Valdris, the Fortunato Estate, the Ambassador's Row
 
 ### 6. The Nets
@@ -107,31 +107,31 @@ The city follows its natural contours, rising in levels from the bustling waterf
 Porto Valdris controls roughly 60% of Eldermyr's foreign trade. The Merchant's Exchange sets commodity prices for the entire realm. Every major trading house maintains an office here; every significant deal passes through the city's counting houses.
 
 ### The Valdren Bank
-The largest financial institution in Eldermyr, it extends credit to great houses, finances trade expeditions, and holds debts that give the Valdrens leverage over half the realm's nobility.
+The largest financial institution in Eldermyr, it extends credit to great houses, finances trade expeditions, and holds debts that give [[House Valdren|the Valdrens]] leverage over half the realm's nobility.
 
 ### Trade Routes
 **Lo Stretto d'Oro (The Golden Strait):** The narrow passage between the mainland and the offshore islands, controlled by Valdren fortifications. Every ship entering or leaving the Trader's Sea pays toll here.
 
 **The Coastal Run:** Sea routes connecting Porto Valdris to other ports along both coasts.
 
-**The River Road:** The Valdris River provides water access deep into the Crown Lands.
+**The River Road:** The Valdris River provides water access deep into [[The Crown Lands|the Crown Lands]].
 
 ### Primary Industries
 1. **Trade & Shipping:** The city's lifeblood—import, export, and everything between
 2. **Banking & Finance:** Credit, investment, money-changing, and debt collection
-3. **Shipbuilding:** The Marevento yards are nearby, but Porto Valdris maintains significant capacity
+3. **Shipbuilding:** The [[Marevento]] yards are nearby, but Porto Valdris maintains significant capacity
 4. **Wine & Luxury Goods:** The surrounding hills produce the realm's finest wines
 
 ## Government & Politics
 
 ### The Valdren Way
-Officially, Porto Valdris is ruled by House Valdren under royal authority. In practice, the city is governed by an oligarchy of wealthy merchant families who sit on the Merchant's Council. The Valdrens are first among equals—their vote counts triple, but they must still maintain alliances.
+Officially, Porto Valdris is ruled by [[House Valdren]] under royal authority. In practice, the city is governed by an oligarchy of wealthy merchant families who sit on the Merchant's Council. [[House Valdren|The Valdrens]] are first among equals—their vote counts triple, but they must still maintain alliances.
 
 ### The Merchant's Council
-Fifteen seats representing the greatest trading houses. Decisions require majority vote. The Valdrens hold three votes; their closest allies another four; the remainder split among factions that shift with the winds of profit.
+Fifteen seats representing the greatest trading houses. Decisions require majority vote. [[House Valdren|The Valdrens]] hold three votes; their closest allies another four; the remainder split among factions that shift with the winds of profit.
 
 ### Current Politics
-With Varic in Aldersgate as Regent, his wife Lady Serana manages the city. The Merchant's Council is fractured between those who support Valdren ambitions and those who fear overreach. Foreign interests probe for weakness.
+With [[Lord Varic Valdren|Varic]] in [[Aldersgate]] as Regent, his wife Lady Serana manages the city. The Merchant's Council is fractured between those who support Valdren ambitions and those who fear overreach. Foreign interests probe for weakness.
 
 ## Defense & Security
 
@@ -141,7 +141,7 @@ With Varic in Aldersgate as Regent, his wife Lady Serana manages the city. The M
 **Leadership:** Watch-Commander Marco del Ponte, a former naval officer
 
 ### Fortifications
-The city walls are maintained but not impressive by Stahlburg standards. The true defense lies in the naval fortress at the Golden Strait—any attacker must first break the chain that closes the harbor.
+The city walls are maintained but not impressive by [[Stahlburg]] standards. The true defense lies in the naval fortress at the Golden Strait—any attacker must first break the chain that closes the harbor.
 
 ### Naval Forces
 **The Valdren Fleet:** 40 war galleys, 20 fast patrol ships, and the great carrack *Gold of the Sea*—the largest vessel in the realm. The fleet can blockade any coast, escort any convoy, and sink any rival.
@@ -152,52 +152,52 @@ A massive chain can be raised across the harbor entrance, closing Porto Valdris 
 ## Notable Locations
 
 ### Palazzo Valdris
-The seat of House Valdren, a white marble palace covering the highest ground. Its gilded domes are visible from the harbor. The Grand Hall can host a thousand guests; the private vaults hold treasures beyond counting—and debts that could crush lesser houses.
+The seat of [[House Valdren]], a white marble palace covering the highest ground. Its gilded domes are visible from the harbor. The Grand Hall can host a thousand guests; the private vaults hold treasures beyond counting—and debts that could crush lesser houses.
 
 ### The Merchant's Exchange
 Where commodity prices are set and fortunes made or lost in hours. The great trading floor buzzes with activity from dawn to dusk. The chime of the Exchange Bell opens and closes trading.
 
 ### The Cathedral of the Open Hands
-The largest temple in the city, dedicated to the Shepherd aspect. Its charity feeds thousands of the poor—and its popularity gives the Faith leverage even the Valdrens must respect.
+The largest temple in the city, dedicated to the Shepherd aspect. Its charity feeds thousands of the poor—and its popularity gives [[The Faith of the Three]] leverage even [[House Valdren]] must respect.
 
 ### The Golden Chain Fortress
-Guarding the harbor entrance, this fortification can close the entire port. Its garrison answers to House Valdren alone, not the city watch.
+Guarding the harbor entrance, this fortification can close the entire port. Its garrison answers to [[House Valdren]] alone, not the city watch.
 
 ### The Sunken Palace
-Visible beneath the waves on clear days—ruins predating the current city. Divers claim to see treasures in the depths. The Faith quietly discourages exploration, claiming the ruins are cursed.
+Visible beneath the waves on clear days—ruins predating the current city. Divers claim to see treasures in the depths. [[The Faith of the Three|The Faith]] quietly discourages exploration, claiming the ruins are cursed.
 
 ## Key Figures
 
 ### Lady Serana Valdris
-Lord Varic's wife, managing the city while he plays regent in Aldersgate. Brilliant, beautiful, and utterly devoted to her family's interests. She's aware of dark currents beneath the city's prosperity—foreign debts, growing resentment, the hollow nature of Valdren wealth.
+[[Lord Varic Valdren|Lord Varic]]'s wife, managing the city while he plays regent in [[Aldersgate]]. Brilliant, beautiful, and utterly devoted to her family's interests. She's aware of dark currents beneath the city's prosperity—foreign debts, growing resentment, the hollow nature of Valdren wealth.
 
 ### Marco Fortunato
-The wealthiest merchant who isn't a noble. His trading empire rivals the Valdrens in some sectors. Officially loyal, privately resentful of the nobility's privileges. He sits on the Merchant's Council with three votes worth of allies.
+The wealthiest merchant who isn't a noble. His trading empire rivals [[House Valdren|the Valdrens]] in some sectors. Officially loyal, privately resentful of the nobility's privileges. He sits on the Merchant's Council with three votes worth of allies.
 
-### Captain Alonzo the Bold
-Admiral of the Valdren Fleet, a naval legend who once defeated a pirate armada single-handedly. Old now, but his tactical genius remains sharp. Fiercely loyal to House Valdren—they made him what he is.
+### [[Captain Alonzo the Bold]]
+Admiral of the Valdren Fleet, a naval legend who once defeated a pirate armada single-handedly. Old now, but his tactical genius remains sharp. Fiercely loyal to [[House Valdren]]—they made him what he is.
 
 ### Sister Carissa
-The beloved healer of the Cathedral, known for miracles that the Faith officially neither confirms nor denies. The common folk adore her. She speaks uncomfortable truths about the gap between rich and poor.
+The beloved healer of the Cathedral, known for miracles that [[The Faith of the Three|the Faith]] officially neither confirms nor denies. The common folk adore her. She speaks uncomfortable truths about the gap between rich and poor.
 
 ### The Spider
 A criminal figure who controls much of the harbor's smuggling and vice. No one knows their true identity. They maintain order among criminals—for a price.
 
 ## Secrets
 
-1. **The Valdren Debt.** House Valdren owes the Sun Courts more gold than exists in their vaults. They've been paying interest with trade concessions. If the truth emerged, creditors would demand immediate payment—crashing the entire economy.
+1. **The Valdren Debt.** [[House Valdren]] owes the Sun Courts more gold than exists in their vaults. They've been paying interest with trade concessions. If the truth emerged, creditors would demand immediate payment—crashing the entire economy.
 
-2. **The Sunken Palace contains something dangerous.** The ruins predate the Three. Something sleeps there that the Faith has been keeping quiet for centuries. Recent disturbances suggest it may be waking.
+2. **The Sunken Palace contains something dangerous.** The ruins predate [[The Faith of the Three]]. Something sleeps there that [[The Faith of the Three]] has been keeping quiet for centuries. Recent disturbances suggest it may be waking.
 
-3. **Foreign agents everywhere.** Every major foreign power has spies in Porto Valdris. Some are on the Merchant's Council. Some are in House Valdren's own household.
+3. **Foreign agents everywhere.** Every major foreign power has spies in Porto Valdris. Some are on the Merchant's Council. Some are in [[House Valdren]]'s own household.
 
-4. **The succession threatens everything.** If House Thorne wins, they'll punish Valdren overreach. If the Faith gains control, they'll demand debt forgiveness for temples. If the Karaths somehow rise, they'll burn the city that funded their defeat.
+4. **The succession threatens everything.** If [[House Thorne]] wins, they'll punish Valdren overreach. If [[The Faith of the Three]] gains control, they'll demand debt forgiveness for temples. If [[House Karath]] somehow rise, they'll burn the city that funded their defeat.
 
 ## Plot Hooks
 
 1. **The Sinking Fortunes:** A major trading house is about to collapse, threatening to take dozens of smaller businesses with it. Someone's manipulating the situation—but who, and why?
 
-2. **The Sunken Palace Stirs:** Fishermen are disappearing near the ruins. The Faith wants discreet investigators who won't ask uncomfortable questions about what's down there.
+2. **The Sunken Palace Stirs:** Fishermen are disappearing near the ruins. [[The Faith of the Three|The Faith]] wants discreet investigators who won't ask uncomfortable questions about what's down there.
 
 3. **The Spider's Web:** Someone's trying to unify the city's criminal elements. The Spider is either behind it or fighting against it. Either way, bodies are floating in the harbor.
 

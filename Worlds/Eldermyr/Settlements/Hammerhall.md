@@ -51,15 +51,15 @@ Iron Falls is spectacular—two hundred feet of crashing water that never freeze
 
 ### Layout
 The town arranges itself by function:
-- **Upper Town:** Administrative buildings, Grimhild's forge, the Guild Hall
+- **Upper Town:** Administrative buildings, [[Grimhild the Smith|Grimhild]]'s forge, the Guild Hall
 - **The Works:** The great forges, powered by the falls
 - **Lower Town:** Worker housing, markets, taverns
 - **The Mines Road:** Leading up to the ore deposits
 
-## The Forgemasters Guild
+## [[The Forgemasters Guild]]
 
 ### Guild Dominance
-Unlike other towns, Hammerhall isn't ruled by nobles or appointed officials. The Forgemasters Guild owns the forges, employs most of the population, and administers the town through its council of Master Smiths. What's good for the Guild is good for Hammerhall.
+Unlike other towns, Hammerhall isn't ruled by nobles or appointed officials. [[The Forgemasters Guild]] owns the forges, employs most of the population, and administers the town through its council of Master Smiths. What's good for the Guild is good for Hammerhall.
 
 ### Ranks Present
 - **Guildmaster:** [[Grimhild the Smith]] (legendary)
@@ -69,14 +69,14 @@ Unlike other towns, Hammerhall isn't ruled by nobles or appointed officials. The
 
 ### Production
 Hammerhall produces:
-- Weapons for House Thorne's armies
+- Weapons for [[House Thorne]]'s armies
 - Armor for nobles across the realm
 - Tools for mines, farms, and construction
 - Specialty items on commission
 
 ## Notable Locations
 
-### Grimhild's Forge
+### [[Grimhild the Smith|Grimhild]]'s Forge
 The Guildmaster's private workshop, separate from the main works. What happens inside is her business alone. Recently, she's been receiving unusual shipments—materials that don't look like normal ore.
 
 ### The Guild Hall
@@ -93,32 +93,32 @@ Where weapons are proven against armor, targets, and each other. Quality control
 
 ## Key Figures
 
-### Grimhild the Smith
+### [[Grimhild the Smith]]
 *See [[Grimhild the Smith]]*
 The legendary Guildmaster, forging something unprecedented in her private workshop.
 
 ### Master Aldric Ironborn
-The most senior Master Smith after Grimhild, effectively the town's administrator. Practical, competent, loyal to the Guild above all.
+The most senior Master Smith after [[Grimhild the Smith|Grimhild]], effectively the town's administrator. Practical, competent, loyal to the Guild above all.
 
 ### Forge-Mother Hilde
-Runs the town's shrine to the Warden. The smiths are devout in their way—they pray before beginning major work and thank the Three when a masterpiece emerges.
+Runs the town's shrine to the Warden. The smiths are devout in their way—they pray before beginning major work and thank [[The Faith of the Three|the Three]] when a masterpiece emerges.
 
 ### Journeyman Karl
-A talented young smith, perhaps Grimhild's eventual successor. He's noticed the strange materials arriving at her forge and wonders what she's making.
+A talented young smith, perhaps [[Grimhild the Smith|Grimhild]]'s eventual successor. He's noticed the strange materials arriving at her forge and wonders what she's making.
 
 ## Secrets
 
-1. **Grimhild's Commission.** She's forging something meant to kill an immortal. She needs materials from beyond the Ostmark Pass to complete it.
+1. **[[Grimhild's Commission]].** She's forging something meant to kill an immortal. She needs materials from beyond the Ostmark Pass to complete it.
 
-2. **The Old Techniques.** Some Guild secrets border on magic—methods for making steel that shouldn't be possible with mortal craft. The Faith doesn't know.
+2. **The Old Techniques.** Some Guild secrets border on magic—methods for making steel that shouldn't be possible with mortal craft. [[The Faith of the Three|The Faith]] doesn't know.
 
 3. **War Profiteering.** The succession crisis is good for business. Some Guild members quietly hope it continues.
 
 ## Plot Hooks
 
-1. **The Secret Material:** Grimhild needs something from beyond the Pass. [[Ser Konrad Thorne]] can arrange passage—but what's she really making?
+1. **The Secret Material:** [[Grimhild the Smith|Grimhild]] needs something from beyond the Pass. [[Ser Konrad Thorne]] can arrange passage—but what's she really making?
 
-2. **The Saboteur:** Someone is introducing flaws into weapons destined for House Thorne. Finding the saboteur reveals a conspiracy reaching to Aldersgate.
+2. **The Saboteur:** Someone is introducing flaws into weapons destined for [[House Thorne]]. Finding the saboteur reveals a conspiracy reaching to [[Aldersgate]].
 
 3. **The Old Forge:** Beneath the town, a sealed chamber contains a forge from before the Guild existed. Something down there still burns.
 

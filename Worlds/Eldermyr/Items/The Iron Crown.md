@@ -28,7 +28,7 @@ current_location: "[[Aldersgate]]"
 # The Iron Crown
 
 ## Overview
-The Iron Crown of Eldermyr is the symbol of legitimate rule over the realm, worn by every High King since the founding. Unlike the golden crowns of lesser nations, the Iron Crown is forged from cold iron mined from the Greycrown Mountains, bound with silver bands engraved with the oath of kingship. It was created not as decoration but as binding—a covenant between ruler and realm that carries power and consequence. With High King Aldric II dead and his grandson Edric too young to rule, the Crown rests in the Ironthrone Hall, waiting for someone to claim it. Three houses believe that someone should be them.
+The Iron Crown of Eldermyr is the symbol of legitimate rule over the realm, worn by every High King since the founding. Unlike the golden crowns of lesser nations, the Iron Crown is forged from cold iron mined from the Greycrown Mountains, bound with silver bands engraved with the oath of kingship. It was created not as decoration but as binding—a covenant between ruler and realm that carries power and consequence. With [[High King Aldric II]] dead and his grandson [[Edric Valdren|Edric]] too young to rule, the Crown rests in the Ironthrone Hall, waiting for someone to claim it. Three houses believe that someone should be them.
 
 ## Classification
 
@@ -61,7 +61,7 @@ The Iron Crown is a simple circlet of dark iron, two fingers wide, unadorned exc
 ### Materials
 **Primary Material:** Greycrown cold iron (from the mountains where the realm was founded)
 
-**Secondary Materials:** Silverite bands (blessed by the Faith of the Three)
+**Secondary Materials:** Silverite bands (blessed by [[The Faith of the Three|the Faith of the Three]])
 
 **Unknown Materials:** A single drop of the First King's blood, sealed within the iron during forging (known only to the High Confessor)
 
@@ -114,7 +114,7 @@ The Iron Crown is a simple circlet of dark iron, two fingers wide, unadorned exc
 The Crown recognizes worthy claimants through:
 - Blood descent from previous monarchs (strongest claim)
 - Election by the Council of Lords
-- Blessing by the Faith of the Three
+- Blessing by [[The Faith of the Three|the Faith of the Three]]
 - Conquest, but only if the previous monarch is defeated honorably
 
 ### Attunement Process
@@ -172,7 +172,7 @@ The Crown grants its wearer an undeniable aura of command. The wearer's Charisma
 
 ### Dormant Abilities
 - **The First King's Voice** — Legend says a truly worthy monarch can speak with the spirits of previous kings, but this power hasn't manifested in generations
-- **Shield of the Realm** — In ancient texts, the Crown is said to have protected the capital from magical assault, but the trigger is unknown
+- **Shield of the Realm** — In ancient texts, the Crown is said to have protected [[Aldersgate|the capital]] from magical assault, but the trigger is unknown
 
 ## Limitations
 
@@ -215,11 +215,11 @@ If destroyed:
 - Eldermyr ceases to exist as a unified kingdom
 
 ### Failed Attempts
-- The Mad King Valdus Karath reportedly tried to melt the Crown; it emerged from the flames unharmed while he was burned
+- [[The Mad King]] [[The Mad King|Valdus Karath]] reportedly tried to melt the Crown; it emerged from the flames unharmed while he was burned
 - During a siege, invaders attempted to break the Crown with axes; all attackers died of heart failure
 
 ### Those Who Seek to Destroy
-- Some believe Lord Draven Karath would destroy the Crown rather than see it worn by a Valdren
+- Some believe [[Lord Draven Karath]] would destroy the Crown rather than see it worn by a Valdren
 - Radical Chronicler priests argue the Crown prevents natural succession and should be unmade
 
 ## History
@@ -251,7 +251,7 @@ If destroyed:
 **Sacrifice/Cost:** Brennus the Smith gave his life in the forging; Aldric's blood creates the bond to his bloodline
 
 ### First Wielder
-**Name:** High King Aldric I, "The Founder"
+**Name:** High [[High King Aldric II|King Aldric]] I, "The Founder"
 
 **Story:** Aldric wore the Crown for sixty years, uniting the realm through diplomacy and war. He established the traditions of coronation and the Council of Lords. Upon his death, the Crown passed peacefully to his son—the first of many such transitions.
 
@@ -259,18 +259,18 @@ If destroyed:
 | Era | Owner | Deeds with Artifact | Fate |
 |-----|-------|---------------------|------|
 | Year 1-60 | Aldric I | Founded the kingdom, established traditions | Died peacefully |
-| Year 341-367 | Valdus Karath | Attempted to pervert the Crown's power | Overthrown and burned |
-| Year 367-387 | Edric I | Restored honor to the Crown after the Mad King | Died in battle |
-| Year 760-783 | Aldric II "The Steward" | Maintained peace after the Great War | Died in sleep (suspected poison) |
+| Year 341-367 | [[The Mad King]] | Attempted to pervert the Crown's power | Overthrown and burned |
+| Year 367-387 | [[Edric Valdren]] I | Restored honor to the Crown after [[The Mad King]] | Died in battle |
+| Year 760-783 | [[High King Aldric II]] "[[High King Aldric II]]" | Maintained peace after [[The Great War]] | Died in sleep (suspected poison) |
 | Year 783-present | Vacant | — | Succession crisis |
 
 ### Wars & Conflicts
 - The Unification Wars (creation era)
-- The Mad King's Tyranny (Crown refused to fully empower Valdus)
-- The Great War (worn by Aldric II, who ended the conflict)
+- [[The Mad King]]'s Tyranny (Crown refused to fully empower Valdus)
+- [[The Great War]] (worn by [[High King Aldric II|Aldric II]], who ended the conflict)
 
 ### Lost Periods
-The Crown has never been lost, though it sat unworn for three years during the Interregnum following the Mad King's overthrow.
+The Crown has never been lost, though it sat unworn for three years during the Interregnum following [[The Mad King|the Mad King]]'s overthrow.
 
 ### Rediscoveries
 N/A—the Crown has remained in the Ironthrone Hall throughout its history
@@ -278,13 +278,13 @@ N/A—the Crown has remained in the Ironthrone Hall throughout its history
 ## Prophecies
 
 ### Associated Prophecies
-- "When iron meets iron, the Crown will choose" — Interpreted as the Crown selecting between House Thorne (iron) and another iron-willed claimant
+- "When iron meets iron, the Crown will choose" — Interpreted as the Crown selecting between [[House Thorne]] (iron) and another iron-willed claimant
 - "The Crown awaits the blood that returns" — Some believe a descendant of the First King's lost line will emerge
 
 ### Destined Wielder
 **Prophecy:** The Chronicler's priests speak of a "monarch who will face the darkness beneath" wearing the Crown
 
-**Current Candidates:** Young Edric Valdren (blood heir), Lady Margret Thorne (strength claimant), Lord Draven Karath (restoration claimant), High Confessor Maren (divine mandate claimant)
+**Current Candidates:** Young [[Edric Valdren]] (blood heir), [[Lady Margret Thorne]] (strength claimant), [[Lord Draven Karath]] (restoration claimant), [[High Confessor Maren]] (divine mandate claimant)
 
 ### Foretold Events
 - The Crown will be worn when the dead rise in great numbers
@@ -296,7 +296,7 @@ N/A—the Crown has remained in the Ironthrone Hall throughout its history
 The phrase "by the Crown" is the most binding oath in Eldermyr. Marriages, treaties, and noble promises are all sworn on the Crown's name. Common folk view the Crown as proof of divine right to rule.
 
 ### Religious Significance
-**Sacred To:** The Faith of the Three (particularly the Warden aspect)
+**Sacred To:** [[The Faith of the Three]] (particularly the Warden aspect)
 
 **Meaning:** The Crown represents the Warden's blessing of legitimate authority, the divine right to rule in service to the realm
 
@@ -304,53 +304,53 @@ The phrase "by the Crown" is the most binding oath in Eldermyr. Marriages, treat
 The Crown is the succession crisis. Without a crowned monarch, the Council of Lords can only serve as regency. Whoever wears the Crown rules Eldermyr—this is not tradition but magical fact.
 
 ### Legends Spawned
-- The Mad King's Burning (the Crown cannot be worn by tyrants)
+- [[The Mad King]]'s Burning (the Crown cannot be worn by tyrants)
 - The Weight of Rule (true kings feel the Crown as light; pretenders are crushed)
 - The Dream of Kings (the Crown shows wearers visions of the realm's needs)
 
 ## Current Era
 
 ### Present Location
-**Known Location:** The Ironthrone Hall in Aldersgate, resting on a cushion before the empty Iron Throne
+**Known Location:** The Ironthrone Hall in [[Aldersgate]], resting on a cushion before the empty Iron Throne
 
-**How Secured:** Guarded by the Royal Guard and the Faith's templars; additionally, anyone who touches the Crown without authorization suffers burns
+**How Secured:** Guarded by the Royal Guard and [[The Faith of the Three|the Faith]]'s templars; additionally, anyone who touches the Crown without authorization suffers burns
 
 ### Current Guardian/Owner
-**Name:** Contested; officially under the protection of Regent Lord Varic Valdren
+**Name:** Contested; officially under the protection of Regent [[Lord Varic Valdren]]
 
-**How Acquired:** Varic claimed regency for his grandson Edric after Aldric II's death
+**How Acquired:** [[Lord Varic Valdren|Varic]] claimed regency for his grandson [[Edric Valdren|Edric]] after [[High King Aldric II|Aldric II]]'s death
 
-**Intentions:** Varic has not attempted to wear the Crown himself—yet—but prevents others from doing so
+**Intentions:** [[Lord Varic Valdren|Varic]] has not attempted to wear the Crown himself—yet—but prevents others from doing so
 
 ### Active Seekers
 | Seeker | Motivation | Resources |
 |--------|------------|-----------|
-| [[Lady Margret Thorne]] | Believes only strength can save the realm | The Eastern March armies |
+| [[Lady Margret Thorne]] | Believes only strength can save the realm | [[The Eastern March]] armies |
 | [[Lord Draven Karath]] | Restoration of Karath honor (and revenge) | Whatever dark bargains he's made |
-| [[High Confessor Maren]] | Believes himself divinely chosen | The Faith's influence and followers |
+| [[High Confessor Maren]] | Believes himself divinely chosen | [[The Faith of the Three]]'s influence and followers |
 | [[Edric Valdren]] | Blood right as heir | His grandfather's protection (for now) |
 
 ### Recent Events
-- Aldric II died three months ago; no coronation has occurred
-- Lord Varic placed the Crown before the throne, declaring it awaits the "true heir"
-- Lady Margret has demanded a Great Council to determine succession
-- Rumors suggest Lord Draven has sought alternative... legitimacy
+- [[High King Aldric II|Aldric II]] died three months ago; no coronation has occurred
+- [[Lord Varic Valdren|Lord Varic]] placed the Crown before the throne, declaring it awaits the "true heir"
+- [[Lady Margret Thorne|Lady Margret]] has demanded a Great Council to determine succession
+- Rumors suggest [[Lord Draven Karath|Lord Draven]] has sought alternative... legitimacy
 
 ## Secrets
 
-1. **The Crown Already Knows.** The Iron Crown has subtly rejected every attempt at coronation since Aldric II's death. When Varic placed his grandson's hand near it, the boy cried out in pain. Something is wrong.
+1. **The Crown Already Knows.** The Iron Crown has subtly rejected every attempt at coronation since [[High King Aldric II|Aldric II]]'s death. When [[Lord Varic Valdren|Varic]] placed his grandson's hand near it, the boy cried out in pain. Something is wrong.
 
-2. **The Blood Connection.** The First King's bloodline isn't actually the Valdren line—the Karaths have a stronger claim through an elder daughter's line. The Faith has suppressed this knowledge for centuries.
+2. **The Blood Connection.** The First King's bloodline isn't actually the Valdren line—[[House Karath]] have a stronger claim through an elder daughter's line. [[The Faith of the Three]] has suppressed this knowledge for centuries.
 
-3. **The Darkness Below.** The Crown was forged not just to ensure succession but to protect the realm from something beneath the Greycrowns. The Mad King tried to break this protection; now that power stirs again.
+3. **The Darkness Below.** The Crown was forged not just to ensure succession but to protect the realm from something beneath the Greycrowns. [[The Mad King]] tried to break this protection; now that power stirs again.
 
 ## Plot Hooks
 
-1. **The Empty Throne:** The party is hired to determine why the Crown will not accept any claimant—and discovers the answer lies in the Ashen Fields.
+1. **The Empty Throne:** The party is hired to determine why the Crown will not accept any claimant—and discovers the answer lies in [[The Ashen Fields|the Ashen Fields]].
 
 2. **Blood of the Founder:** An old document surfaces suggesting a fifth claimant to the throne—someone outside the great houses with direct descent from Aldric I.
 
-3. **The Mad King's Legacy:** Lord Draven seeks the party's help in proving the Karath claim to the Crown is legitimate—but his methods grow darker by the day.
+3. **[[The Mad King]]'s Legacy:** [[Lord Draven Karath|Lord Draven]] seeks the party's help in proving the Karath claim to the Crown is legitimate—but his methods grow darker by the day.
 
 4. **Crown's Vision:** The party touches the Crown and experiences a vision of the realm's destruction—and the monarch who might prevent it.
 

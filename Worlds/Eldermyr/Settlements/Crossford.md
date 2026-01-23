@@ -44,9 +44,9 @@ Where the King's Road meets the Northern Way and the Ash Road, Crossford has gro
 
 ### Location
 Crossford sits where the Kingswater River can be forded (now bridged), at the junction of three major roads:
-- **The King's Road:** East-west, connecting Stahlburg to Porto Valdris through Aldersgate
-- **The Northern Way:** North to Vindrheim and the Northlands
-- **The Ash Road:** South to Chernogrod and the Karath Reach (increasingly abandoned)
+- **The King's Road:** East-west, connecting [[Stahlburg]] to [[Porto Valdris]] through [[Aldersgate]]
+- **The Northern Way:** North to Vindrheim and [[The Northlands|the Northlands]]
+- **The Ash Road:** South to [[Chernogrod]] and [[The Karath Reach|the Karath Reach]] (increasingly abandoned)
 
 ### The Bridges
 Three great bridges span the Kingswater here—the Stone Bridge (oldest), the King's Bridge (largest), and the New Bridge (newest, still called new after fifty years).
@@ -71,7 +71,7 @@ Warehouses, loading docks, and the establishments serving river traffic.
 ## Economy
 
 ### Trade Hub
-Everything passes through Crossford. Grain from the Crown Lands, iron from the East, wine from the West, timber from the North, and—once—produce from the South. Merchants meet, deals are struck, goods change hands.
+Everything passes through Crossford. Grain from [[The Crown Lands]], iron from the East, wine from the West, timber from [[The Northlands]], and—once—produce from the South. Merchants meet, deals are struck, goods change hands.
 
 ### The Great Fairs
 Four times yearly, the Great Fairs draw crowds from across the realm. Each is themed:
@@ -81,7 +81,7 @@ Four times yearly, the Great Fairs draw crowds from across the realm. Each is th
 - **Winter Fair:** Luxury goods and entertainment
 
 ### Current Crisis
-The Ash Road's decline has cut off southern trade. Refugees from the Karath Reach pass through, bringing tales of horror. Merchants are nervous; prices are volatile; the town's prosperity feels fragile.
+The Ash Road's decline has cut off southern trade. Refugees from [[The Karath Reach|the Karath Reach]] pass through, bringing tales of horror. Merchants are nervous; prices are volatile; the town's prosperity feels fragile.
 
 ## Notable Locations
 
@@ -106,7 +106,7 @@ A wealthy grain merchant elected to manage the town's affairs. Desperately tryin
 The Guildmaster of Merchants, wealthier than some nobles, with connections everywhere. She knows everyone's business and keeps everyone's secrets—for a price.
 
 ### Captain Blackwood
-Commander of the town watch, a veteran who fought in the Great War. He's seen the Ashen Fields. He knows what's coming if no one stops it.
+Commander of the town watch, a veteran who fought in [[The Great War]]. He's seen [[The Ashen Fields]]. He knows what's coming if no one stops it.
 
 ## Secrets
 
@@ -114,13 +114,13 @@ Commander of the town watch, a veteran who fought in the Great War. He's seen th
 
 2. **The Secret Meeting.** Agents of all four factions have arranged a secret meeting in Crossford. Someone knows about it. Someone plans to ensure it fails.
 
-3. **The Mayor's Debt.** Aldwin Croft owes House Valdren money he can't repay. His "neutrality" is increasingly a fiction.
+3. **The Mayor's Debt.** Aldwin Croft owes [[House Valdren]] money he can't repay. His "neutrality" is increasingly a fiction.
 
 ## Plot Hooks
 
 1. **The Crossroads Conspiracy:** Agents of multiple houses converge on Crossford for secret negotiations. Someone hires the party to ensure the meeting happens—or to ensure it doesn't.
 
-2. **The Southern Refugees:** A group of refugees from the Karath Reach knows something important about what's happening at the Ashen Fields. Multiple factions want to reach them first.
+2. **The Southern Refugees:** A group of refugees from [[The Karath Reach]] knows something important about what's happening at [[The Ashen Fields]]. Multiple factions want to reach them first.
 
 3. **The Broken Bridge:** Saboteurs have weakened the King's Bridge. If it falls, east-west trade collapses. Finding the saboteurs reveals a plot reaching far beyond Crossford.
 

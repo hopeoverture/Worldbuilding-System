@@ -24,12 +24,12 @@ terrain: Scarred farmland, mass graves, dead vegetation
 # The Ashen Fields
 
 ## Overview
-The Ashen Fields are what remains of the final battle of the Great War—a vast expanse of blighted farmland where 10,000 soldiers died in a single day. The land has never recovered. Crops refuse to grow, the sky stays gray, and ash drifts in the wind even when nothing burns. The mass graves have begun to stir. This is where the Mad King fell, where Prince Edric the Liberator died, and where something ancient is slowly waking. The Karath Reach's curse spreads outward from this poisoned heart.
+The Ashen Fields are what remains of [[The Battle of Ashen Fields]] of [[The Great War]]—a vast expanse of blighted farmland where 10,000 soldiers died in a single day. The land has never recovered. Crops refuse to grow, the sky stays gray, and ash drifts in the wind even when nothing burns. The mass graves have begun to stir. This is where [[The Mad King]] fell, where Prince [[Edric Valdren|Edric]] the Liberator died, and where something ancient is slowly waking. [[The Karath Reach]]'s curse spreads outward from this poisoned heart.
 
 ## Geography
 
 ### Location
-The Ashen Fields lie at the center of the Karath Reach, approximately 30 miles south of Chernogrod. The battlefield stretches for nearly five miles in every direction, encompassing what were once prosperous farming villages and fertile fields.
+The Ashen Fields lie at the center of [[The Karath Reach|the Karath Reach]], approximately 30 miles south of [[Chernogrod]]. The battlefield stretches for nearly five miles in every direction, encompassing what were once prosperous farming villages and fertile fields.
 
 ### Terrain
 The ground is scarred with old trenches, collapsed tunnels, and mass graves. The soil is gray and powdery, mixed with ash that never fully settles. Rusted weapons and fragments of armor still protrude from the earth. Nothing living grows here—only twisted, dead trees and gray grass that crumbles at a touch.
@@ -46,78 +46,78 @@ The curse of the Ashen Fields is not merely magical—it is a wound in the fabri
 - **The Rising Dead:** Corpses claw their way from mass graves, still fighting the battle that killed them
 - **The Blight:** A corruption that spreads outward, killing crops and poisoning water
 - **The Whispers:** Those who enter hear voices—commands, pleas, screams
-- **The Figure:** A crowned shape seen walking among the dead at night
+- **[[The Mad King|The Figure]]:** A crowned shape seen walking among the dead at night
 
 ### Spread
-The curse expands slowly but inexorably. Each year, more farmland dies. Refugees flee toward Chernogrod or the coast. At current rate:
-- **6 months:** Reaches Volkovka
-- **1 year:** Covers half the Reach
+The curse expands slowly but inexorably. Each year, more farmland dies. Refugees flee toward [[Chernogrod]] or [[The Western Shore|the coast]]. At current rate:
+- **6 months:** Reaches [[Volkovka]]
+- **1 year:** Covers half [[The Karath Reach|the Reach]]
 - **2 years:** Reaches the borders of other regions
 - **5 years:** Consumes Eldermyr
 
 ## Key Locations
 
 ### The Heart
-The center of the battlefield, where the Mad King made his final stand. This is where he wore the Blackened Crown, where Prince Edric struck him down, and where both died. Something still stands there—a figure in royal robes, wearing a crown of blackened iron.
+The center of the battlefield, where [[The Mad King]] made his final stand. This is where he wore [[The Blackened Crown]], where Prince [[Edric Valdren|Edric]] struck him down, and where both died. Something still stands there—a figure in royal robes, wearing a crown of blackened iron.
 
 ### The Mass Graves
 Seven great pits where the dead were buried without proper rites. The earth above them shifts and moves. Hands reach up. Bodies emerge. The graves are never empty.
 
 ### The Liberator's Fall
-Where Prince Edric the Liberator died, striking down his father. A broken stone marks the spot. Flowers left here wither within hours.
+Where Prince [[Edric Valdren|Edric]] the Liberator died, striking down his father. A broken stone marks the spot. Flowers left here wither within hours.
 
 ### The Command Tent Ruins
-Where King Aldric II (then just a lord) commanded the alliance forces. The tent is long gone, but the foundations remain—the last place where order existed before the final charge.
+Where [[High King Aldric II|King Aldric]] II (then just a lord) commanded the alliance forces. The tent is long gone, but the foundations remain—the last place where order existed before the final charge.
 
 ### The Ash Pits
-Craters where the Mad King's necromantic rituals went wrong, killing his own soldiers. The ash here is thickest, and the dead who rise from these pits are... wrong.
+Craters where [[The Mad King|the Mad King]]'s necromantic rituals went wrong, killing his own soldiers. The ash here is thickest, and the dead who rise from these pits are... wrong.
 
-## The Figure
+## [[The Mad King|The Figure]]
 
 ### Description
-Witnesses describe a tall figure in rotting royal robes, wearing a crown of blackened iron. It walks among the dead, and they follow. It resembles the Mad King Valdus Karath, but whether it is truly him or something wearing his form is unknown.
+Witnesses describe a tall figure in rotting royal robes, wearing a crown of blackened iron. It walks among the dead, and they follow. It resembles [[The Mad King]] [[The Mad King]], but whether it is truly him or something wearing his form is unknown.
 
 ### Behavior
-The Figure does not leave the Heart. It does not speak to the living. It merely watches, and commands, and waits. Lord Draven Karath has seen it in his dreams. It has offered him power.
+[[The Mad King|The Figure]] does not leave the Heart. It does not speak to the living. It merely watches, and commands, and waits. [[Lord Draven Karath]] has seen it in his dreams. It has offered him power.
 
 ### True Nature
-The Figure may be:
-- The Mad King, preserved by the Blackened Crown
+[[The Mad King|The Figure]] may be:
+- [[The Mad King]], preserved by [[The Blackened Crown|the Blackened Crown]]
 - A new entity formed from 10,000 tortured souls
-- A vessel for the Unnamed, the thing that was here before
+- A vessel for [[The Unnamed|the Unnamed]], the thing that was here before
 - All of the above
 
 ## Current Situation
 
 ### The Rising
-Three months ago, the dead began rising in greater numbers. Patrols from Chernogrod report organized movement—soldiers marching in formation, responding to commands. This is no longer random undead activity. Something is building an army.
+Three months ago, the dead began rising in greater numbers. Patrols from [[Chernogrod]] report organized movement—soldiers marching in formation, responding to commands. This is no longer random undead activity. Something is building an army.
 
-### The Reach's Response
-Lord Draven Karath has forbidden investigation of the Fields. He claims it's for safety. In truth, he's been in contact with whatever commands the dead. His motivations are unclear even to himself.
+### [[The Karath Reach|The Reach]]'s Response
+[[Lord Draven Karath]] has forbidden investigation of the Fields. He claims it's for safety. In truth, he's been in contact with whatever commands the dead. His motivations are unclear even to himself.
 
 ### Outside Interest
-- **The Grey Wardens** have sent scouts; few return
-- **The Faith of the Three** considers the Fields a theological crisis
-- **House Thorne** sees military threat
-- **House Valdren** sees political opportunity
+- **[[The Grey Wardens]]** have sent scouts; few return
+- **[[The Faith of the Three]]** considers the Fields a theological crisis
+- **[[House Thorne]]** sees military threat
+- **[[House Valdren]]** sees political opportunity
 
 ## Secrets
 
-1. **The Unnamed Stirs.** Beneath the Ashen Fields, something older than the Great War is waking. The dead are not its army—they are its sustenance. Every soul trapped here feeds it.
+1. **[[The Unnamed]] Stirs.** Beneath the Ashen Fields, something older than [[The Great War|the Great War]] is waking. The dead are not its army—they are its sustenance. Every soul trapped here feeds it.
 
-2. **Edric's Choice.** Prince Edric could have captured the Mad King alive. He chose to kill him, knowing it might create this. He left a letter explaining why, hidden somewhere in the battlefield.
+2. **[[Edric Valdren|Edric]]'s Choice.** Prince [[Edric Valdren|Edric]] could have captured [[The Mad King|the Mad King]] alive. He chose to kill him, knowing it might create this. He left a letter explaining why, hidden somewhere in the battlefield.
 
-3. **The Cure Exists.** The curse can be ended by destroying the Blackened Crown while a legitimate monarch wears the Iron Crown. But this requires someone to enter the Heart and face the Figure.
+3. **The Cure Exists.** The curse can be ended by destroying [[The Blackened Crown]] while a legitimate monarch wears [[The Iron Crown]]. But this requires someone to enter the Heart and face [[The Mad King]].
 
 ## Plot Hooks
 
 1. **Into the Fields:** The party must venture into the Ashen Fields to recover something—an artifact, evidence, a survivor. But the deeper they go, the worse it gets.
 
-2. **The Liberator's Secret:** Finding Prince Edric's hidden letter could change everything. But it's buried somewhere in the cursed ground, guarded by the dead.
+2. **The Liberator's Secret:** Finding Prince [[Edric Valdren|Edric]]'s hidden letter could change everything. But it's buried somewhere in the cursed ground, guarded by the dead.
 
-3. **Stop the Spread:** The curse is accelerating. Someone must discover why and how to slow it before the Reach is completely consumed.
+3. **Stop the Spread:** The curse is accelerating. Someone must discover why and how to slow it before [[The Karath Reach|the Reach]] is completely consumed.
 
-4. **Face the Figure:** The only way to end this is to confront whatever stands at the Heart. But that means getting past an army of the dead.
+4. **Face [[The Mad King|the Figure]]:** The only way to end this is to confront whatever stands at the Heart. But that means getting past an army of the dead.
 
 ## Image Prompts
 

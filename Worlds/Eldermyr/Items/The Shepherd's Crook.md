@@ -28,7 +28,7 @@ current_location: "[[Thornhall]]"
 # The Shepherd's Crook
 
 ## Overview
-The Shepherd's Crook is the holy symbol of the High Confessor of the Faith of the Three, passed down through seventeen Confessors over five centuries. It represents the Shepherd aspect of the Three—mercy, healing, and care for the common good. In the hands of a true servant of the Faith, it channels divine power to heal the sick, protect the innocent, and guide lost souls. In the hands of High Confessor Maren, it has begun to behave strangely—showing him visions he interprets as divine mandate, responding to his prayers with power that feels... different.
+The Shepherd's Crook is the holy symbol of the High Confessor of [[The Faith of the Three]], passed down through seventeen Confessors over five centuries. It represents the Shepherd aspect of [[The Faith of the Three]]—mercy, healing, and care for the common good. In the hands of a true servant of [[The Faith of the Three]], it channels divine power to heal the sick, protect the innocent, and guide lost souls. In the hands of [[High Confessor Maren]], it has begun to behave strangely—showing him visions he interprets as divine mandate, responding to his prayers with power that feels... different.
 
 ## Classification
 
@@ -59,7 +59,7 @@ The Shepherd's Crook is a staff of white ash wood, six feet tall, crowned with a
 **Unusual Properties:** Remains clean regardless of conditions; never splinters or breaks
 
 ### Materials
-**Primary Material:** White ash (from the original grove where the Faith was founded)
+**Primary Material:** White ash (from the original grove where [[The Faith of the Three|the Faith]] was founded)
 
 **Secondary Materials:** Blessed silver, a pearl of perfect purity
 
@@ -69,7 +69,7 @@ The Shepherd's Crook is a staff of white ash wood, six feet tall, crowned with a
 - Soft golden light emanates when healing is performed
 - Warmth spreads from the staff during blessing
 - The pearl glows when undead or evil is near
-- Recently: The staff has begun showing Maren visions in flame
+- Recently: The staff has begun showing [[High Confessor Maren|Maren]] visions in flame
 
 ### Recognition Features
 - The distinctive silver crook with the Shepherd's symbols
@@ -99,20 +99,20 @@ The Shepherd's Crook is a staff of white ash wood, six feet tall, crowned with a
 |----------|--------|---------|
 | Weight of Office | The High Confessor cannot refuse a genuine plea for help | Passive |
 | Shepherd's Burden | You feel the suffering of those around you; disadvantage on saves vs emotional manipulation | Passive |
-| The Staff Knows | If you stray from the Faith's true teachings, the staff's powers fade | Corruption of purpose |
+| The Staff Knows | If you stray from [[The Faith of the Three]]'s true teachings, the staff's powers fade | Corruption of purpose |
 
 ### Sentience
-*The Shepherd's Crook is not sentient, but the divine power it channels has will. The Three watch through the staff—or something that claims to be the Three.*
+*The Shepherd's Crook is not sentient, but the divine power it channels has will. [[The Faith of the Three]] watch through the staff—or something that claims to be [[The Faith of the Three]].*
 
 ## Attunement
 
 ### Requirements
-**Who Can Attune:** Only the current High Confessor of the Faith of the Three
+**Who Can Attune:** Only the current High Confessor of [[The Faith of the Three|the Faith of the Three]]
 
-**Prerequisites:** Must hold the office legitimately; must have served the Faith faithfully
+**Prerequisites:** Must hold the office legitimately; must have served [[The Faith of the Three|the Faith]] faithfully
 
 ### Worthy Wielder Criteria
-- Genuine faith in the Three
+- Genuine faith in [[The Faith of the Three|the Three]]
 - Dedication to mercy and the common good
 - Acceptance of the burdens of office
 - Humility before the divine
@@ -126,12 +126,12 @@ The Shepherd's Crook is a staff of white ash wood, six feet tall, crowned with a
 When attuned:
 - The bearer hears the prayers of the faithful (as distant whispers)
 - The staff responds to sincere prayer
-- The High Confessor becomes the voice of the Three to the faithful
+- The High Confessor becomes [[High Confessor Maren|the voice of the Three]] to the faithful
 
 ### Breaking Attunement
 **Voluntary:** Formally renouncing the office before the Great Cathedral
 
-**Forced:** Death, or fundamental betrayal of the Faith's teachings
+**Forced:** Death, or fundamental betrayal of [[The Faith of the Three|the Faith]]'s teachings
 
 **Consequences:** Former High Confessors who renounce the office often die within the year (coincidence or divine displeasure is debated)
 
@@ -166,12 +166,12 @@ The High Confessor can channel the Shepherd's mercy to heal the wounded and cure
 ### Awakened Powers
 | Power | Condition | Effect |
 |-------|-----------|--------|
-| Voice of the Three | In the Great Cathedral during crisis | Speak with the authority of the Three; all faithful within hearing must save or be compelled to obey |
+| Voice of [[The Faith of the Three]] | In the Great Cathedral during crisis | Speak with the authority of [[The Faith of the Three]]; all faithful within hearing must save or be compelled to obey |
 | Shepherd's Sacrifice | Bearer gives their life for another | The protected creature is fully healed and gains 30 temporary HP |
 
 ### Dormant Abilities
 - **True Resurrection** — Legend says the staff could once restore the truly dead, but this power hasn't manifested in centuries
-- **Judgment of the Three** — In ancient texts, the staff could pronounce divine judgment on blasphemers
+- **Judgment of [[The Faith of the Three|the Three]]** — In ancient texts, the staff could pronounce divine judgment on blasphemers
 
 ## Limitations
 
@@ -196,31 +196,31 @@ What the artifact cannot do:
 **Spiritual Cost:** The burden of the faithful's expectations
 
 ### Consequences of Misuse
-If the High Confessor uses the staff for personal power rather than service, the divine connection weakens. Maren's recent visions may be the Three warning him—or something else entirely.
+If the High Confessor uses the staff for personal power rather than service, the divine connection weakens. [[High Confessor Maren|Maren]]'s recent visions may be [[The Faith of the Three|the Three]] warning him—or something else entirely.
 
 ## Destruction
 
 ### Can It Be Destroyed?
-**Destroyable:** Theoretically, but it would require destroying the Faith itself
+**Destroyable:** Theoretically, but it would require destroying [[The Faith of the Three|the Faith]] itself
 
 ### Destruction Conditions
-The Shepherd's Crook is protected by the faith of millions. To destroy it would require:
-- The extinction of the Faith of the Three
+The Shepherd's Crook is protected by [[The Faith of the Three|the faith]] of millions. To destroy it would require:
+- The extinction of [[The Faith of the Three|the Faith of the Three]]
 - Unhallowing the Great Cathedral
-- Consuming the relic in the fire of the Unnamed
+- Consuming the relic in the fire of [[The Unnamed|the Unnamed]]
 
 ### Consequences of Destruction
-- The Faith would lose its holiest relic
-- The connection between the Three and the faithful would weaken
-- Maren's "visions" would cease—revealing their true source
+- [[The Faith of the Three|The Faith]] would lose its holiest relic
+- The connection between [[The Faith of the Three|the Three]] and the faithful would weaken
+- [[High Confessor Maren|Maren]]'s "visions" would cease—revealing their true source
 
 ### Failed Attempts
-- The Mad King tried to burn it; it emerged unharmed
+- [[The Mad King]] tried to burn it; it emerged unharmed
 - Heretics have attacked the High Confessor; the staff has protected every bearer
 
 ### Those Who Seek to Destroy
-- Some within House Karath (quietly)
-- The thing beneath the Ashen Fields would benefit from its destruction
+- Some within [[House Karath]] (quietly)
+- [[The Unnamed]] [[The Ashen Fields]] would benefit from its destruction
 
 ## History
 
@@ -228,7 +228,7 @@ The Shepherd's Crook is protected by the faith of millions. To destroy it would 
 #### Who
 **Creator:** The First High Confessor, Aldwyn the Merciful
 
-**Their Nature:** Saint, founder of the Faith's unified structure
+**Their Nature:** Saint, founder of [[The Faith of the Three|the Faith]]'s unified structure
 
 #### When
 **Date/Era:** Approximately 500 years ago
@@ -236,9 +236,9 @@ The Shepherd's Crook is protected by the faith of millions. To destroy it would 
 **Age:** Half a millennium
 
 #### Where
-**Location:** The Grove of the Three, now within Thornhall's walls
+**Location:** The Grove of [[The Faith of the Three|the Three]], now within [[Thornhall]]'s walls
 
-**Significance:** Where Aldwyn first heard the Three's voice
+**Significance:** Where Aldwyn first heard [[The Faith of the Three|the Three]]'s voice
 
 #### Why
 **Purpose:** To serve as the symbol of the High Confessor's office and channel divine power
@@ -253,20 +253,20 @@ The Shepherd's Crook is protected by the faith of millions. To destroy it would 
 ### First Wielder
 **Name:** Saint Aldwyn the Merciful
 
-**Story:** Aldwyn carried the staff for thirty years, healing thousands, founding Thornhall, and establishing the Faith's structure. He died peacefully, passing the staff to his chosen successor in the first Rite of Succession.
+**Story:** Aldwyn carried the staff for thirty years, healing thousands, founding [[Thornhall]], and establishing [[The Faith of the Three|the Faith]]'s structure. He died peacefully, passing the staff to his chosen successor in the first Rite of Succession.
 
 ### Chronicle of Owners
 | Era | Owner | Deeds with Artifact | Fate |
 |-----|-------|---------------------|------|
-| 500 years ago | Saint Aldwyn | Founded unified Faith, built Thornhall | Died peacefully |
+| 500 years ago | Saint Aldwyn | Founded unified Faith, built [[Thornhall]] | Died peacefully |
 | 400 years ago | High Confessor Lyra | Healed the Crimson Plague | Died of old age |
 | 100 years ago | High Confessor Erasmus | Guided realm through famine | Died of old age |
-| 50-15 years ago | High Confessor Brennan | Blessed the Great War's just cause | Died of old age |
-| 15 years-present | High Confessor Maren | Struggles with visions | Currently wielding |
+| 50-15 years ago | High Confessor Brennan | Blessed [[The Great War]]'s just cause | Died of old age |
+| 15 years-present | [[High Confessor Maren]] | Struggles with visions | Currently wielding |
 
 ### Wars & Conflicts
 - The Crimson Plague (High Confessor Lyra's healing)
-- The Great War (High Confessor Brennan blessed the alliance against the Mad King)
+- [[The Great War]] (High Confessor Brennan blessed the alliance against [[The Mad King|the Mad King]])
 
 ### Lost Periods
 The staff has never been lost; it has passed from Confessor to Confessor unbroken.
@@ -277,13 +277,13 @@ N/A
 ## Prophecies
 
 ### Associated Prophecies
-- "When the Shepherd's light fails, darkness covers the land" — A warning about the Faith's importance
+- "When the Shepherd's light fails, darkness covers the land" — A warning about [[The Faith of the Three|the Faith]]'s importance
 - "The Staff will choose a shepherd for the final flock" — Interpreted as the end times
 
 ### Destined Wielder
-**Prophecy:** The staff will serve the Faith's leader in the final battle against darkness
+**Prophecy:** The staff will serve [[The Faith of the Three]]'s leader in [[The Battle of Ashen Fields]] against darkness
 
-**Current Candidates:** Maren holds it, but his visions trouble some
+**Current Candidates:** [[High Confessor Maren|Maren]] holds it, but his visions trouble some
 
 ### Foretold Events
 - The staff will be raised against the rising dead
@@ -292,25 +292,25 @@ N/A
 ## Legacy
 
 ### Cultural Impact
-The Shepherd's Crook is the most visible symbol of the Faith. When the High Confessor appears with the staff, the common people feel hope. Its presence at a sickbed is considered the highest blessing.
+The Shepherd's Crook is the most visible symbol of [[The Faith of the Three|the Faith]]. When the High Confessor appears with the staff, the common people feel hope. Its presence at a sickbed is considered the highest blessing.
 
 ### Religious Significance
-**Sacred To:** The Faith of the Three (all aspects, but especially the Shepherd)
+**Sacred To:** [[The Faith of the Three]] (all aspects, but especially the Shepherd)
 
 **Meaning:** The physical presence of divine mercy in the world
 
 ### Political Importance
-The High Confessor's influence derives partially from the staff. When Maren speaks while holding it, he speaks with centuries of spiritual authority behind him.
+The High Confessor's influence derives partially from the staff. When [[High Confessor Maren|Maren]] speaks while holding it, he speaks with centuries of spiritual authority behind him.
 
 ### Legends Spawned
 - Aldwyn's First Miracle (healing a dying child with the newly-created staff)
 - Lyra's Stand Against Death (holding back the Crimson Plague with constant healing)
-- The Staff That Would Not Burn (the Mad King's failed destruction)
+- The Staff That Would Not Burn ([[The Mad King|the Mad King]]'s failed destruction)
 
 ## Current Era
 
 ### Present Location
-**Known Location:** Thornhall, in the High Confessor's chambers or the Great Cathedral
+**Known Location:** [[Thornhall]], in the High Confessor's chambers or the Great Cathedral
 
 **How Secured:** The Confessor's Guard protects it; the staff itself resists theft
 
@@ -319,7 +319,7 @@ The High Confessor's influence derives partially from the staff. When Maren spea
 
 **How Acquired:** Inherited from his predecessor through the Rite of Succession
 
-**Intentions:** Maren believes the staff confirms his visions as divine; he intends to use its authority to claim the right to choose Eldermyr's next ruler
+**Intentions:** [[High Confessor Maren|Maren]] believes the staff confirms his visions as divine; he intends to use its authority to claim the right to choose Eldermyr's next ruler
 
 ### Active Seekers
 | Seeker | Motivation | Resources |
@@ -327,17 +327,17 @@ The High Confessor's influence derives partially from the staff. When Maren spea
 | None actively | The staff cannot be stolen | — |
 
 ### Recent Events
-- The staff has begun showing Maren visions of fire and judgment
+- The staff has begun showing [[High Confessor Maren|Maren]] visions of fire and judgment
 - Some clergy note the staff's light seems harsher, less golden
-- Maren has used the staff to Turn Undead near the Reach—with unusual ferocity
+- [[High Confessor Maren|Maren]] has used the staff to Turn Undead near [[The Karath Reach|the Reach]]—with unusual ferocity
 
 ## Secrets
 
-1. **The Visions Are Wrong.** The visions Maren sees do not come from the Three. Something else is speaking through the staff—or through Maren. The true divine voice has gone quiet.
+1. **The Visions Are Wrong.** The visions [[High Confessor Maren|Maren]] sees do not come from [[The Faith of the Three|the Three]]. Something else is speaking through the staff—or through [[High Confessor Maren|Maren]]. The true divine voice has gone quiet.
 
-2. **Aldwyn's Doubt.** The first High Confessor's bone within the staff contains his memories. If accessed, they would reveal Aldwyn's own doubts about the Faith's structure—and warnings about ambitious successors.
+2. **Aldwyn's Doubt.** The first High Confessor's bone within the staff contains his memories. If accessed, they would reveal Aldwyn's own doubts about [[The Faith of the Three|the Faith]]'s structure—and warnings about ambitious successors.
 
-3. **The Staff's Choice.** The staff is subtly trying to reject Maren. He is not worthy of it, and the powers are beginning to fail when he uses them for pride rather than service.
+3. **The Staff's Choice.** The staff is subtly trying to reject [[High Confessor Maren|Maren]]. He is not worthy of it, and the powers are beginning to fail when he uses them for pride rather than service.
 
 ## Plot Hooks
 
@@ -345,9 +345,9 @@ The High Confessor's influence derives partially from the staff. When Maren spea
 
 2. **Aldwyn's Memory:** A ritual could unlock the staff's stored memories. What would the first High Confessor say about the current crisis?
 
-3. **The Rite of Succession:** If Maren is unworthy, who should bear the staff? The party may need to identify—and protect—the true successor.
+3. **The Rite of Succession:** If [[High Confessor Maren|Maren]] is unworthy, who should bear the staff? The party may need to identify—and protect—the true successor.
 
-4. **Staff Against Crown:** High Confessor Maren intends to use the staff's authority to claim the right to crown Eldermyr's next ruler. The party must decide: support him, oppose him, or find another way.
+4. **Staff Against Crown:** [[High Confessor Maren]] intends to use the staff's authority to claim the right to crown Eldermyr's next ruler. The party must decide: support him, oppose him, or find another way.
 
 ## Image Prompts
 

@@ -39,15 +39,15 @@ military_presence: Minimal
 # Volkovka
 
 ## Overview
-Volkovka is what survives. Once a prosperous fishing village on the Bitter Coast, it has swelled with refugees from the blighted inland, becoming the Karath Reach's last functional settlement outside Chernogrod. The fishing is still good—the curse hasn't reached the sea yet—and the harbor remains open when all other trade routes have failed. Here, the displaced gather, waiting for the world to make sense again.
+Volkovka is what survives. Once a prosperous fishing village on the Bitter Coast, it has swelled with refugees from the blighted inland, becoming [[The Karath Reach|the Karath Reach]]'s last functional settlement outside [[Chernogrod]]. The fishing is still good—the curse hasn't reached the sea yet—and the harbor remains open when all other trade routes have failed. Here, the displaced gather, waiting for the world to make sense again.
 
 ## Geography
 
 ### Location
-On the rocky Bitter Coast, Volkovka huddles around a natural harbor sheltered from the worst storms. Behind it, the blighted farmland stretches north toward Chernogrod and the Ashen Fields beyond.
+On the rocky Bitter Coast, Volkovka huddles around a natural harbor sheltered from the worst storms. Behind it, the blighted farmland stretches north toward [[Chernogrod]] and [[The Ashen Fields|the Ashen Fields]] beyond.
 
 ### The Bitter Coast
-A harsh shoreline of rocks and small coves. The fishing is good, but the weather is treacherous. Locals say the sea is the only thing in the Karath Reach that hasn't turned against them—yet.
+A harsh shoreline of rocks and small coves. The fishing is good, but the weather is treacherous. Locals say the sea is the only thing in [[The Karath Reach|the Karath Reach]] that hasn't turned against them—yet.
 
 ## Demographics
 
@@ -57,8 +57,8 @@ The town has more than doubled as refugees from abandoned villages seek shelter.
 ### Who Lives Here
 - **The Old Families:** Fishing folk who've worked these waters for generations
 - **The Displaced:** Farmers, villagers, and tradespeople whose homes the curse consumed
-- **The Smugglers:** Those who profit from Chernogrod's isolation
-- **The Changed:** Those who fled the Ashen Fields too late to be unchanged
+- **The Smugglers:** Those who profit from [[Chernogrod]]'s isolation
+- **The Changed:** Those who fled [[The Ashen Fields|the Ashen Fields]] too late to be unchanged
 
 ## Economy
 
@@ -66,7 +66,7 @@ The town has more than doubled as refugees from abandoned villages seek shelter.
 The primary—nearly only—legitimate industry. Fishing boats go out daily, bringing back whatever the sea provides. It's not enough to feed everyone, but it's something.
 
 ### Smuggling
-Volkovka is the only accessible harbor on the Bitter Coast. Things that can't enter Chernogrod officially come through here. The authorities look the other way because the authorities get their cut.
+Volkovka is the only accessible harbor on the Bitter Coast. Things that can't enter [[Chernogrod]] officially come through here. The authorities look the other way because the authorities get their cut.
 
 ### Salvage
 Scavengers strip abandoned villages for anything of value. It's grim work, but someone profits.
@@ -91,7 +91,7 @@ A hidden inlet where unofficial goods change hands. Everyone knows it exists; no
 The village headman, now managing a town five times the size his position was meant for. Exhausted, pragmatic, and doing his best with impossible circumstances.
 
 ### Captain Natasha Blackwater
-Runs the largest fishing boat and the most successful smuggling operation. She'll transport anything, anywhere, for the right price—except toward the Ashen Fields.
+Runs the largest fishing boat and the most successful smuggling operation. She'll transport anything, anywhere, for the right price—except toward [[The Ashen Fields|the Ashen Fields]].
 
 ### Father Dimitri
 The local priest, stretched thin trying to provide comfort to the displaced. He's seen the Changed. He prays constantly.
@@ -102,13 +102,13 @@ The local priest, stretched thin trying to provide comfort to the displaced. He'
 The blight is spreading. Fishing grounds that were safe last year now yield strange catches. Sailors report seeing lights on the shore where no one lives. It's only a matter of time.
 
 ### No Escape
-Ships that might take refugees away don't come to the Bitter Coast. Those who can pay for passage to Porto Valdris do so; the rest remain, waiting.
+Ships that might take refugees away don't come to the Bitter Coast. Those who can pay for passage to [[Porto Valdris]] do so; the rest remain, waiting.
 
 ## Secrets
 
 1. **Something in the Deep.** The fishermen have noticed something moving in deep water—something large. The curse might be reaching the sea after all.
 
-2. **Draven's Eyes.** Lord Draven has agents in Volkovka, watching who comes and goes, who knows too much, who might be useful.
+2. **[[Lord Draven Karath|Draven]]'s Eyes.** [[Lord Draven Karath|Lord Draven]] has agents in Volkovka, watching who comes and goes, who knows too much, who might be useful.
 
 3. **The Changed Among Us.** Some refugees are no longer entirely human. They hide it well. They're waiting for something.
 

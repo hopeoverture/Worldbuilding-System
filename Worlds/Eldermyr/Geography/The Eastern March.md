@@ -27,10 +27,10 @@ population: ~350,000
 # The Eastern March
 
 > [!info] Generation Instructions
-> The Eastern March is House Thorne's domain—martial, disciplined, and proud. This region reflects Germanic/Anglo-Saxon naming conventions with harsh consonants and guttural sounds.
+> The Eastern March is [[House Thorne]]'s domain—martial, disciplined, and proud. This region reflects Germanic/Anglo-Saxon naming conventions with harsh consonants and guttural sounds.
 
 ## Overview
-The Eastern March stands as Eldermyr's shield against the unknown lands beyond the mountains. For generations, House Thorne has held these highlands, forging a people as hard as the stone they quarry and as cold as the wind that howls through the Ostmark Pass. This is a land of fortresses and forges, where every child learns sword-work before letters, and martial glory is the only currency that matters. Now, with the throne empty, the Thornes believe the crown they defended should rightfully be theirs.
+The Eastern March stands as Eldermyr's shield against the unknown lands beyond the mountains. For generations, [[House Thorne]] has held these highlands, forging a people as hard as the stone they quarry and as cold as the wind that howls through the Ostmark Pass. This is a land of fortresses and forges, where every child learns sword-work before letters, and martial glory is the only currency that matters. Now, with the throne empty, [[House Thorne|the Thornes]] believe the crown they defended should rightfully be theirs.
 
 ## Classification
 
@@ -87,7 +87,7 @@ The Eastern March stands as Eldermyr's shield against the unknown lands beyond t
 - The Grimwater — Northern tributary, source of legends about spirits
 
 **Lakes:**
-- Wolfmere — Mountain lake near Wolfsberg, said to be bottomless
+- Wolfmere — Mountain lake near [[Wolfsberg]], said to be bottomless
 
 **Coastline:** None (landlocked highland region)
 
@@ -104,22 +104,22 @@ The Eastern March stands as Eldermyr's shield against the unknown lands beyond t
 ### Capital/Major City
 **Name:** [[Stahlburg]]
 **Population:** ~45,000
-**Role:** Seat of House Thorne, greatest fortress in Eldermyr, center of iron production
+**Role:** Seat of [[House Thorne]], greatest fortress in Eldermyr, center of iron production
 
 ### Other Cities
 | City | Population | Notable For |
 |------|------------|-------------|
-| Grimhold | ~15,000 | Northern fortress, guards the Greycrown Gap |
-| Wolfsberg | ~12,000 | Highland town, known for hunting and warfare |
+| [[Grimhold]] | ~15,000 | Northern fortress, guards the Greycrown Gap |
+| [[Wolfsberg]] | ~12,000 | Highland town, known for hunting and warfare |
 
 ### Towns & Villages
 - Eisendorf — Mining town, produces highest quality ore
-- Hammerhall — Smithing center, forges weapons for the realm
+- [[Hammerhall]] — Smithing center, forges weapons for the realm
 - Numerous fortified villages clinging to hillsides
 
 ### Ruins & Abandoned Places
 - Old Watch Towers — Pre-Thorne fortifications along the border, some still garrisoned
-- The Burned Hold — A fortress destroyed in the Great War, left as a warning
+- The Burned Hold — A fortress destroyed in [[The Great War|the Great War]], left as a warning
 - Foreign ruins beyond the Ostmark Pass (rarely explored)
 
 ## Demographics
@@ -132,7 +132,7 @@ The Eastern March stands as Eldermyr's shield against the unknown lands beyond t
 | Group | Percentage | Region |
 |-------|------------|--------|
 | Marcher Folk | 90% | Throughout |
-| Crown Lands descent | 5% | Trade towns |
+| [[The Crown Lands]] descent | 5% | Trade towns |
 | Northern blood | 3% | Highland areas |
 | Foreign (legal) | 2% | Ostmark Pass trading post |
 
@@ -150,11 +150,11 @@ The Eastern March operates on a simple principle: those who fight, rule. Noble h
 
 ### Ruling Authority
 **Ruler:** [[Lady Margret Thorne]]
-**Title:** Wardeness of the Eastern March, Lady of Stahlburg
+**Title:** Wardeness of the Eastern March, [[Lady Margret Thorne|Lady of Stahlburg]]
 **Seat of Power:** [[Stahlburg]]
 
 ### Government Structure
-House Thorne rules through military hierarchy. The Wardeness commands; her generals—currently her three sons—administer regions. Every able-bodied person owes military service. Local lords are essentially garrison commanders. Justice is swift and harsh. The March has always operated with significant autonomy from the crown, a necessity given its defensive responsibilities.
+[[House Thorne]] rules through military hierarchy. The Wardeness commands; her generals—currently her three sons—administer regions. Every able-bodied person owes military service. Local lords are essentially garrison commanders. Justice is swift and harsh. The March has always operated with significant autonomy from the crown, a necessity given its defensive responsibilities.
 
 ### Laws & Justice
 Notable legal traditions:
@@ -166,7 +166,7 @@ Notable legal traditions:
 ### External Relations
 | Neighbor | Relationship | Issues |
 |----------|--------------|--------|
-| [[The Crown Lands]] | Hostile | House Thorne disputes the Valdren regency |
+| [[The Crown Lands]] | Hostile | [[House Thorne]] disputes the Valdren regency |
 | [[The Western Shore]] | Cold | Valdrens are soft merchants, not true rulers |
 | [[The Northlands]] | Neutral | Respect for fellow frontier folk |
 | [[The Karath Reach]] | Contemptuous | Defeated traitors deserve no mercy |
@@ -178,7 +178,7 @@ Notable legal traditions:
 | Industry | Importance | Locations |
 |----------|------------|-----------|
 | Iron Mining | Dominant | Throughout the mountains |
-| Smithing | Major | Stahlburg, Hammerhall |
+| Smithing | Major | [[Stahlburg]], [[Hammerhall]] |
 | Military Service | Significant | Entire region |
 | Timber | Moderate | The Thornwood |
 
@@ -196,20 +196,20 @@ Notable legal traditions:
 - Skilled craftsmen for specialized work
 
 **Trade Partners:**
-- Crown Lands (grain for iron)
-- Western Shore (reluctantly, for luxuries)
+- [[The Crown Lands|Crown Lands]] (grain for iron)
+- [[The Western Shore|Western Shore]] (reluctantly, for luxuries)
 - Foreign kingdoms (controlled trade through Ostmark Pass)
 
 ### Trade Routes
 Major paths through or to the region:
-- [[The King's Road]] — Eastern branch to Stahlburg
+- [[The King's Road]] — Eastern branch to [[Stahlburg]]
 - [[Ostmark Pass]] — The only major route to foreign lands, heavily controlled
 - River routes along the Stahlfluss to the forges
 
 ### Wealth
 **Prosperity:** Modest (wealthy in iron, poor in food)
 
-**Distribution:** Wealth in the March is measured in arms and armor, not gold. Lords are rich in soldiers; peasants are poor but proud. The March depends on trade with the Crown Lands for food, a vulnerability that rankles.
+**Distribution:** Wealth in the March is measured in arms and armor, not gold. Lords are rich in soldiers; peasants are poor but proud. The March depends on trade with [[The Crown Lands|the Crown Lands]] for food, a vulnerability that rankles.
 
 ## Culture
 
@@ -226,7 +226,7 @@ Marchers define themselves by what they are not: they are not soft courtiers, no
 | Festival | Time | Purpose |
 |----------|------|---------|
 | The Iron Forging | Spring | Beginning of the campaign season, blessing of weapons |
-| Wardenmass | Summer | Anniversary of House Thorne taking the March |
+| Wardenmass | Summer | Anniversary of [[House Thorne]] taking the March |
 | The Long Watch | Winter Solstice | All-night vigil commemorating border defenders |
 
 ### Religion
@@ -237,7 +237,7 @@ Marchers define themselves by what they are not: they are not soft courtiers, no
 - Soldier's superstitions and battlefield rituals
 
 **Sacred Sites:**
-- The Hall of the Fallen (Stahlburg) — Memorial to all who died defending the realm
+- The Hall of the Fallen ([[Stahlburg]]) — Memorial to all who died defending the realm
 - The Warden's Shrine (Ostmark Pass) — Blessing for those crossing the border
 
 ### Art & Architecture
@@ -250,24 +250,24 @@ Regional styles:
 ## History
 
 ### Origins
-The Eastern March was created five hundred years ago when the unified realm needed a dedicated defense against the foreign powers beyond the mountains. The Thornes, then a minor noble family known for military prowess, were given the March on condition that they hold it forever. They have, at terrible cost, and they believe this sacrifice has been forgotten.
+The Eastern March was created five hundred years ago when the unified realm needed a dedicated defense against the foreign powers beyond the mountains. [[House Thorne|The Thornes]], then a minor noble family known for military prowess, were given the March on condition that they hold it forever. They have, at terrible cost, and they believe this sacrifice has been forgotten.
 
 ### Key Events
 | Era | Event | Impact |
 |-----|-------|--------|
-| 500 years ago | Creation of the March | House Thorne given the east |
+| 500 years ago | Creation of the March | [[House Thorne]] given the east |
 | 300 years ago | The Eastern War | Thorne ancestors repelled major invasion |
-| 27 years ago | Rise of the Mad King | Many Marchers initially supported strong rule |
-| 23 years ago | The Great War | House Thorne switched sides, lost thousands |
-| 3 months ago | Death of Aldric II | Lady Margret sees opportunity |
+| 27 years ago | Rise of [[The Mad King]] | Many Marchers initially supported strong rule |
+| 23 years ago | [[The Great War]] | [[House Thorne]] switched sides, lost thousands |
+| 3 months ago | Death of [[High King Aldric II]] | [[Lady Margret Thorne]] sees opportunity |
 
 ### Former Rulers
 Previous powers that controlled this region:
 - Scattered highland clans (pre-March era)
-- House Thorne (for 500 years, unbroken)
+- [[House Thorne]] (for 500 years, unbroken)
 
 ### Recent History
-House Thorne paid dearly in the Great War. Initially supportive of the Mad King's strong rule, they switched sides when his madness became undeniable. They sacrificed more than any other house—Lady Margret lost her husband and eldest son at the Battle of Ashen Fields. For twenty-three years, she has nursed her grievances while Aldric II rewarded the Valdrens with the regency. Now she believes the time has come to claim what blood has earned.
+[[House Thorne]] paid dearly in [[The Great War]]. Initially supportive of [[The Mad King]]'s strong rule, they switched sides when his madness became undeniable. They sacrificed more than any other house—[[Lady Margret Thorne|Lady Margret]] lost her husband and eldest son at [[The Battle of Ashen Fields]]. For twenty-three years, she has nursed her grievances while [[High King Aldric II|Aldric II]] rewarded [[House Valdren]] with the regency. Now she believes the time has come to claim what blood has earned.
 
 ## Dangers
 
@@ -289,7 +289,7 @@ Bandits, enemies, dark powers:
 - Deserters and outlaws in the Thornwood
 - Foreign raiders testing the border
 - Agents of rival houses
-- Remnants of the Mad King's loyalists (the March hanged most, but some escaped)
+- Remnants of [[The Mad King|the Mad King]]'s loyalists (the March hanged most, but some escaped)
 
 ### Forbidden Areas
 Places people avoid:
@@ -301,10 +301,10 @@ Places people avoid:
 
 ### Landmarks
 Famous natural or constructed features:
-- [[Stahlburg]] — The Iron Fortress, carved into mountain rock
+- [[Stahlburg]] — [[Stahlburg|The Iron Fortress]], carved into mountain rock
 - [[Ostmark Pass]] — The great eastern gateway, bristling with fortifications
 - The Warden's Stone — Ancient boundary marker, still honored
-- Iron Falls — Where the Stahlfluss drops 200 feet near Hammerhall
+- Iron Falls — Where the Stahlfluss drops 200 feet near [[Hammerhall]]
 
 ### Adventure Sites
 Dungeons, ruins, mysterious places:
@@ -313,15 +313,15 @@ Dungeons, ruins, mysterious places:
 - Foreign ruins beyond the Pass — Dare you cross?
 
 ### Sacred Sites
-- The Hall of the Fallen (Stahlburg)
+- The Hall of the Fallen ([[Stahlburg]])
 - The Warden's Shrine (Ostmark Pass)
 - The War-Cairns — Burial mounds of legendary commanders
 
 ### Strategic Points
 Militarily or economically important locations:
 - Ostmark Pass — Controls all eastern trade and travel
-- Stahlburg — Impregnable fortress, symbol of Thorne power
-- Hammerhall — The realm's greatest forge
+- [[Stahlburg]] — Impregnable fortress, symbol of Thorne power
+- [[Hammerhall]] — The realm's greatest forge
 
 ## Key Figures
 
@@ -334,34 +334,34 @@ Militarily or economically important locations:
 | [[Ser Viktor Thorne]] | Warden of the Pass | Third son, guards the eastern border |
 
 ### Notable Residents
-- [[Grimhild the Smith]] — Legendary forgemaster of Hammerhall, crafts weapons said to never break
-- Captain Ironhand — Veteran of fifty battles, training master at Stahlburg
+- [[Grimhild the Smith]] — Legendary forgemaster of [[Hammerhall]], crafts weapons said to never break
+- Captain Ironhand — Veteran of fifty battles, training master at [[Stahlburg]]
 
 ### Legendary Figures
 Historical heroes connected to this region:
 - Aldric Thorne the Defender — Held the Pass against a foreign army for a year
-- The Iron Lady — Previous Wardeness who personally killed three enemy kings
+- [[Lady Margret Thorne|The Iron Lady]] — Previous Wardeness who personally killed three enemy kings
 - The Brothers Grimm — Twin commanders who sacrificed themselves to save the realm
 
 ## Secrets
 
-1. **Lady Margret is dying.** A wasting illness gives her perhaps a year to live. Her urgency to see a Thorne on the throne is personal—she wants to die knowing her sacrifices meant something.
+1. **[[Lady Margret Thorne|Lady Margret]] is dying.** A wasting illness gives her perhaps a year to live. Her urgency to see a Thorne on the throne is personal—she wants to die knowing her sacrifices meant something.
 
-2. **Something came through the Pass during the Great War.** In the chaos, something crossed from the foreign lands. The Thornes have been hunting it for twenty years and still don't know what it is.
+2. **Something came through the Pass during [[The Great War]].** In the chaos, something crossed from the foreign lands. [[House Thorne]] have been hunting it for twenty years and still don't know what it is.
 
-3. **The foreign power beyond the mountains is massing.** Scouts report unprecedented military buildup. The Thornes need the crown's resources to prepare, but no one in Aldersgate is listening.
+3. **The foreign power beyond the mountains is massing.** Scouts report unprecedented military buildup. [[House Thorne|The Thornes]] need the crown's resources to prepare, but no one in [[Aldersgate]] is listening.
 
-4. **Ser Viktor Thorne has made contact with the foreign power.** He believes his mother's ambitions will destroy the realm and has secretly negotiated a non-aggression pact—for a price.
+4. **[[Ser Viktor Thorne]] has made contact with the foreign power.** He believes his mother's ambitions will destroy the realm and has secretly negotiated a non-aggression pact—for a price.
 
 ## Plot Hooks
 
-1. **The Burned Hold:** Lady Margret hires the party to investigate the ruins. Something killed a patrol there, and she needs to know what.
+1. **The Burned Hold:** [[Lady Margret Thorne|Lady Margret]] hires the party to investigate the ruins. Something killed a patrol there, and she needs to know what.
 
 2. **Beyond the Pass:** A foreign dignitary crosses into Eldermyr with an urgent warning—and is immediately arrested. The party must decide whose side they're on.
 
-3. **The Wasting:** Lady Margret's illness is no natural sickness. Someone is poisoning the Wardeness, and her sons will pay any price to find out who.
+3. **The Wasting:** [[Lady Margret Thorne|Lady Margret]]'s illness is no natural sickness. Someone is poisoning the Wardeness, and her sons will pay any price to find out who.
 
-4. **The Forge of Legends:** Grimhild the Smith claims she can forge a weapon that will unite the realm—but she needs materials from beyond the Ostmark Pass.
+4. **The Forge of Legends:** [[Grimhild the Smith]] claims she can forge a weapon that will unite the realm—but she needs materials from beyond the Ostmark Pass.
 
 ## Image Prompts
 

@@ -38,7 +38,7 @@ military_presence: High
 # Wolfsberg
 
 ## Overview
-Wolfsberg clings to the highlands where the Eastern March rises toward the Ostmark Range. Named for the mountain wolves that once threatened the settlement—and now serve as its symbol—this hardy town breeds the toughest soldiers in the realm. The Thorne family maintains a minor branch here, and Lord Wulfric Thorne runs the town like a permanent military camp. When House Thorne marches to war, Wolfsberg's sons are always in the vanguard.
+Wolfsberg clings to the highlands where [[The Eastern March|the Eastern March]] rises toward the Ostmark Range. Named for the mountain wolves that once threatened the settlement—and now serve as its symbol—this hardy town breeds the toughest soldiers in the realm. The Thorne family maintains a minor branch here, and Lord Wulfric Thorne runs the town like a permanent military camp. When [[House Thorne]] marches to war, Wolfsberg's sons are always in the vanguard.
 
 ## Geography
 
@@ -53,10 +53,10 @@ Harsh highland weather—cold winters, cool summers, constant wind. The locals s
 ### Primary Industries
 - **Hunting:** The highlands teem with game; Wolfsberg hunters are legendary
 - **Ranching:** Hardy mountain sheep and goats provide wool and meat
-- **Military Training:** The Thorne War Academy prepares officers for the March armies
+- **Military Training:** The Thorne War Academy prepares officers for [[The Eastern March|the March]] armies
 
 ### Trade
-Wolfsberg exports furs, wool, and trained soldiers. It imports grain, iron goods from Hammerhall, and anything the highlands don't produce.
+Wolfsberg exports furs, wool, and trained soldiers. It imports grain, iron goods from [[Hammerhall]], and anything the highlands don't produce.
 
 ## Notable Locations
 
@@ -64,7 +64,7 @@ Wolfsberg exports furs, wool, and trained soldiers. It imports grain, iron goods
 Lord Wulfric's seat, a stern fortress dominating the town. Wolf skulls decorate its gates—trophies from the hunts that proved young warriors worthy.
 
 ### The War Academy
-Where sons of lesser nobles and promising commoners learn the arts of war. Graduates become officers in the March armies.
+Where sons of lesser nobles and promising commoners learn the arts of war. Graduates become officers in [[The Eastern March|the March]] armies.
 
 ### The Huntsman's Lodge
 The largest tavern, decorated with trophies from legendary hunts. The fireplace never goes cold.
@@ -75,7 +75,7 @@ The bottomless mountain lake nearby, said to be home to something ancient. Local
 ## Key Figures
 
 ### Lord Wulfric Thorne
-A minor cousin of Lady Margret, he rules Wolfsberg with iron discipline. Every citizen is a potential soldier; every day is training.
+A minor cousin of [[Lady Margret Thorne|Lady Margret]], he rules Wolfsberg with iron discipline. Every citizen is a potential soldier; every day is training.
 
 ### Huntmaster Greta Stone-Eye
 The realm's greatest tracker, missing one eye from a wolf attack in her youth. She trains the scouts who monitor the mountain passes.
@@ -84,7 +84,7 @@ The realm's greatest tracker, missing one eye from a wolf attack in her youth. S
 
 1. **The Wolfmere Beast:** Something in the lake has awakened. Fishermen disappear. Offerings go missing. What lurks in the depths?
 
-2. **The Academy Scandal:** A cadet has died under mysterious circumstances. His father demands answers—but the Academy has secrets it would kill to keep.
+2. **[[The Arcane Academy]] Scandal:** A cadet has died under mysterious circumstances. His father demands answers—but [[The Arcane Academy]] has secrets it would kill to keep.
 
 ## Connections
 

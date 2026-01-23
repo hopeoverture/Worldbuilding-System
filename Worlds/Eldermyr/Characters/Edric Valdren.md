@@ -40,7 +40,7 @@ faction: "[[House Valdren]]"
 # Edric Valdren
 
 ## Overview
-Edric Valdren is the fifteen-year-old heir to the throne of Eldermyr, son of the late King Aldric II, and grandson of the man who secretly murdered his father. Everyone assumes he's a puppet—his grandfather's tool, too young and naive to rule. They're wrong. Edric watches, listens, and waits. He knows something is deeply wrong with his regency. He just doesn't know yet how deep the rot goes.
+Edric Valdren is the fifteen-year-old heir to the throne of Eldermyr, son of the late [[High King Aldric II|King Aldric]] II, and grandson of the man who secretly murdered his father. Everyone assumes he's a puppet—his grandfather's tool, too young and naive to rule. They're wrong. Edric watches, listens, and waits. He knows something is deeply wrong with his regency. He just doesn't know yet how deep the rot goes.
 
 ## Appearance
 
@@ -55,7 +55,7 @@ Edric Valdren is the fifteen-year-old heir to the throne of Eldermyr, son of the
 ### Attire
 - **Typical Dress:** Royal blue and gold (Valdren colors he's learned to resent); finery appropriate to his station
 - **When Training:** Simple sparring clothes; prefers practical dress when he can escape formal duties
-- **Signature Item:** A plain iron ring that was his father's—not valuable, but the only thing of Aldric II's he was allowed to keep
+- **Signature Item:** A plain iron ring that was his father's—not valuable, but the only thing of [[High King Aldric II|Aldric II]]'s he was allowed to keep
 
 ## Personality
 
@@ -67,10 +67,10 @@ Edric Valdren is the fifteen-year-old heir to the throne of Eldermyr, son of the
 **Justice.** My father is dead and someone is responsible. The realm is broken and someone must fix it. I will not be a puppet king who ignores suffering because it's convenient.
 
 ### Bonds
-His father's memory drives him. Edric barely knew Aldric II—the king was distant, focused on ruling—but he reveres what his father represented: a just ruler who maintained peace. He will be worthy of that legacy.
+His father's memory drives him. Edric barely knew [[High King Aldric II|Aldric II]]—the king was distant, focused on ruling—but he reveres what his father represented: a just ruler who maintained peace. He will be worthy of that legacy.
 
 ### Flaws
-**Isolation.** Edric trusts no one fully. His grandfather controls his household; the Faith wants to control his crown; the noble houses see him as a tool. He has no true friends, and his inability to trust may prevent him from finding allies when he desperately needs them.
+**Isolation.** Edric trusts no one fully. His grandfather controls his household; [[The Faith of the Three|the Faith]] wants to control his crown; the noble houses see him as a tool. He has no true friends, and his inability to trust may prevent him from finding allies when he desperately needs them.
 
 ### Motivations
 Edric wants three things: to understand why everyone treats his regency as permanent, to discover the truth about his father's death (he suspects it wasn't natural), and to become a king worthy of the crown—not a puppet, but a true ruler who protects his people.
@@ -80,7 +80,7 @@ Edric wants three things: to understand why everyone treats his regency as perma
 ### Origin
 **Background:** Noble (Royal Blood)
 
-**Early Life:** Born to King Aldric II and Lady Serana Valdren, Edric grew up in Aldersgate's royal palace. His childhood was comfortable but distant—his father was always ruling, his mother always deferring to her father, and his grandfather always watching. He was seven when the king died.
+**Early Life:** Born to [[High King Aldric II|King Aldric]] II and Lady Serana Valdren, Edric grew up in [[Aldersgate]]'s royal palace. His childhood was comfortable but distant—his father was always ruling, his mother always deferring to her father, and his grandfather always watching. He was seven when the king died.
 
 ### Formative Events
 1. **The King's Death:** At seven, Edric was told his father died in his sleep. He remembers the funeral, his mother's tears, and his grandfather's steady hand on his shoulder. He didn't understand then that the hand was a leash.
@@ -90,19 +90,19 @@ Edric wants three things: to understand why everyone treats his regency as perma
 3. **The Overheard Conversation:** At fourteen, Edric overheard his grandfather dismiss him as "manageable." That was the moment he stopped being obedient and started being strategic.
 
 ### Current Situation
-Edric lives in the royal palace but has no real power. His grandfather approves his tutors, his guards, and his schedule. He attends councils where he's patted on the head and ignored. He's forbidden from visiting the Eastern March or the Karath Reach. Something is being hidden from him, and he's determined to find out what.
+Edric lives in the royal palace but has no real power. His grandfather approves his tutors, his guards, and his schedule. He attends councils where he's patted on the head and ignored. He's forbidden from visiting [[The Eastern March]] or [[The Karath Reach]]. Something is being hidden from him, and he's determined to find out what.
 
 ## Secrets
 
 1. **He knows something is wrong.** The delay in his coronation, his grandfather's control, the way people look at him—Edric has pieced together that he's being used. He just doesn't know exactly how.
 
-2. **He's been reading forbidden things.** Edric has bribed a palace servant to smuggle him books his grandfather wouldn't approve—histories of regencies, accounts of the Great War, records of his father's reign.
+2. **He's been reading forbidden things.** Edric has bribed a palace servant to smuggle him books his grandfather wouldn't approve—histories of regencies, accounts of [[The Great War|the Great War]], records of his father's reign.
 
 3. **He suspects his father was murdered.** No proof yet, just a gut feeling that a healthy man of forty-five doesn't simply die in his sleep. He's looking for evidence.
 
-4. **He's been training in secret.** His official sword training is supervised and controlled. But he's also been practicing with a retired soldier who owes nothing to Valdren gold—learning to fight for real, not for show.
+4. **He's been training in secret.** His official sword training is supervised and controlled. But he's also been practicing with a retired soldier who owes nothing to [[House Valdren|Valdren]] gold—learning to fight for real, not for show.
 
-5. **He's considered running.** Sometimes he imagines fleeing to the Eastern March and throwing himself on House Thorne's mercy. Lady Margret hates his grandfather. Maybe she'd help him. But he knows that would make him a different kind of puppet.
+5. **He's considered running.** Sometimes he imagines fleeing to [[The Eastern March|the Eastern March]] and throwing himself on [[House Thorne]]'s mercy. [[Lady Margret Thorne|Lady Margret]] hates his grandfather. Maybe she'd help him. But he knows that would make him a different kind of puppet.
 
 ## Statistics
 
@@ -147,11 +147,11 @@ Edric is trained but untested. He practices diligently and has natural talent, b
 ### Family
 - **Mother:** Lady Serana Valdren — Loves him but is utterly controlled by her father; Edric pities her more than he trusts her
 - **Grandfather:** [[Lord Varic Valdren]] — Controller, manipulator, and possibly his father's murderer; Edric fears and resents him
-- **Father (deceased):** King Aldric II "The Steward" — Barely remembered but deeply revered
+- **Father (deceased):** [[High King Aldric II]] II "[[High King Aldric II]]" — Barely remembered but deeply revered
 
 ### Potential Allies
 - **[[Lady Margret Thorne]]** — His grandfather's enemy; might help him, but would want something in return
-- **[[Grandmaster Aldric Greymane]]** — The Grey Wardens serve the realm, not the regent; might be trustworthy
+- **[[Grandmaster Aldric Greymane]]** — [[The Grey Wardens]] serve the realm, not [[Lord Varic Valdren|the regent]]; might be trustworthy
 - **The servants** — Some are loyal to the crown, not to Valdren; Edric is learning to tell the difference
 
 ### Enemies
@@ -209,11 +209,11 @@ The party might be:
 
 1. **The Prince's Request:** Edric secretly approaches the party. He needs people who aren't controlled by his grandfather—people who can investigate, spy, or smuggle him information.
 
-2. **The Assassination Attempt:** Someone tries to kill Edric. Who? Why? His grandfather to remove a problem? House Thorne to eliminate the Valdren claim? House Karath for revenge?
+2. **The Assassination Attempt:** Someone tries to kill Edric. Who? Why? His grandfather to remove a problem? [[House Thorne]] to eliminate the Valdren claim? [[House Karath]] for revenge?
 
-3. **The Forbidden Knowledge:** Edric has found something in his secret reading—something about the rising dead, or his father's death, or the Great War. He needs help understanding it.
+3. **The Forbidden Knowledge:** Edric has found something in his secret reading—something about the rising dead, or his father's death, or [[The Great War|the Great War]]. He needs help understanding it.
 
-4. **The Escape:** Edric decides to run. He needs escorts, a destination, and a plan. Does the party help the boy king flee—and what happens when Varic discovers the betrayal?
+4. **The Escape:** Edric decides to run. He needs escorts, a destination, and a plan. Does the party help the boy king flee—and what happens when [[Lord Varic Valdren|Varic]] discovers the betrayal?
 
 ## Image Prompts
 

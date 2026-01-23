@@ -43,7 +43,7 @@ role: Courtier and diplomat (and schemer)
 # Ser Viktor Thorne
 
 ## Overview
-Ser Viktor Thorne is the youngest son of Lady Margret Thorne, and the one who most terrifies her. He has his mother's ambition, his father's charm, and none of his brothers' patience. Viktor is stationed at the capital as House Thorne's official representative, but his true purpose is more complex. He sees the succession crisis as an opportunity—and he's not certain his family's current path is the right one.
+Ser Viktor Thorne is the youngest son of [[Lady Margret Thorne]], and the one who most terrifies her. He has his mother's ambition, his father's charm, and none of his brothers' patience. Viktor is stationed at [[Aldersgate|the capital]] as [[House Thorne]]'s official representative, but his true purpose is more complex. He sees the succession crisis as an opportunity—and he's not certain his family's current path is the right one.
 
 ## Appearance
 
@@ -66,7 +66,7 @@ Ser Viktor Thorne is the youngest son of Lady Margret Thorne, and the one who mo
 2. **Impatient Ambition:** Third sons don't inherit; Viktor has always known he'd have to make his own fortune
 
 ### Ideals
-**Advancement.** I love my family, but love doesn't change the order of succession. Aldric gets the March. Konrad gets the forges. What do I get? Whatever I can take.
+**Advancement.** I love my family, but love doesn't change the order of succession. Aldric gets [[The Eastern March|the March]]. [[Ser Konrad Thorne|Konrad]] gets the forges. What do I get? Whatever I can take.
 
 ### Bonds
 Despite everything, Viktor loves his brothers. He would never actively harm them. But surpass them? Replace them if they fall? Step over them if they stumble? That's just survival.
@@ -80,10 +80,10 @@ Viktor wants to matter. He wants to be more than "the third son." He's not evil�
 ## Background
 
 ### The Youngest
-Viktor grew up in his brothers' shadows. Aldric was the heir; Konrad was the useful one. Viktor became the diplomat, sent to courts where his charm could serve the family. He was good at it. But he also saw how the other houses played the game—and he started playing too.
+Viktor grew up in his brothers' shadows. Aldric was the heir; [[Ser Konrad Thorne|Konrad]] was the useful one. Viktor became the diplomat, sent to courts where his charm could serve the family. He was good at it. But he also saw how the other houses played the game—and he started playing too.
 
 ### At Court
-Viktor has been House Thorne's representative in Aldersgate for five years. He's built a network of contacts, friends, and secrets. He knows things about the capital's power players that his family doesn't. He's been approached by multiple factions—Valdren, the Faith, even whispers from Karath. He's kept all options open.
+Viktor has been [[House Thorne]]'s representative in [[Aldersgate]] for five years. He's built a network of contacts, friends, and secrets. He knows things about [[Aldersgate]]'s power players that his family doesn't. He's been approached by multiple factions—Valdren, [[The Faith of the Three]], even whispers from Karath. He's kept all options open.
 
 ## Statistics
 
@@ -119,7 +119,7 @@ Viktor has been House Thorne's representative in Aldersgate for five years. He's
 ### Family
 - **Mother:** [[Lady Margret Thorne]] — Loves and fears her; knows she's disappointed in him
 - **Brother:** [[Ser Aldric Thorne]] — Respects but resents; Aldric got to be the hero
-- **Brother:** [[Ser Konrad Thorne]] — Underestimates; doesn't realize Konrad watches him
+- **Brother:** [[Ser Konrad Thorne]] — Underestimates; doesn't realize [[Ser Konrad Thorne|Konrad]] watches him
 
 ### Connections at Court
 - **Valdren agents** — Have approached him; he's listening
@@ -150,8 +150,8 @@ Viktor stands at a crossroads. He can embrace his family, accept his role, and s
 
 1. **He's been negotiating with Valdren.** Not treason—yet—but he's exploring options. Marco Valdren has made promises.
 2. **He knows about his mother's illness** more than his brothers think. He's been quietly investigating treatments—and inheritances.
-3. **He loves his family.** This is his deepest secret. He genuinely loves Aldric and Konrad, and he's terrified of what he might do anyway.
-4. **He's been approached by Karath agents too.** He rejected them—whatever Draven is offering feels wrong—but the offer was made.
+3. **He loves his family.** This is his deepest secret. He genuinely loves Aldric and [[Ser Konrad Thorne|Konrad]], and he's terrified of what he might do anyway.
+4. **He's been approached by Karath agents too.** He rejected them—whatever [[Lord Draven Karath|Draven]] is offering feels wrong—but the offer was made.
 
 ## Image Prompts
 

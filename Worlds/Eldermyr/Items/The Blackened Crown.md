@@ -30,7 +30,7 @@ current_location: "[[The Ashen Fields]]"
 # The Blackened Crown
 
 ## Overview
-The Blackened Crown is what remains of the Mad King's ambition—a mockery of the Iron Crown, forged in blood and fire during Valdus Karath's reign of terror. Where the Iron Crown binds ruler to realm, the Blackened Crown binds the dead to their master. It was believed destroyed when Prince Edric slew the Mad King at the Battle of Ashen Fields, but survivors speak of a figure rising from the mass graves wearing a crown of blackened iron. Lord Draven Karath has seen this figure in his dreams. He believes it is his grandfather, waiting to reclaim what was taken. He may be right—and that is the worst possible outcome.
+The Blackened Crown is what remains of [[The Mad King]]'s ambition—a mockery of [[The Iron Crown]], forged in blood and fire during [[The Mad King]]'s reign of terror. Where [[The Iron Crown]] binds ruler to realm, the Blackened Crown binds the dead to their master. It was believed destroyed when Prince [[Edric Valdren|Edric]] slew [[The Mad King]] at [[The Battle of Ashen Fields]], but survivors speak of a figure rising from the mass graves wearing a crown of blackened iron. [[Lord Draven Karath]] has seen this figure in his dreams. He believes it is his grandfather, waiting to reclaim what was taken. He may be right—and that is the worst possible outcome.
 
 ## Classification
 
@@ -46,15 +46,15 @@ The Blackened Crown is what remains of the Mad King's ambition—a mockery of th
 **Relative Power:** Legendary (potentially World-Shaping if fully awakened)
 
 ### Sentience
-**Sentient:** Yes—the Crown contains fragments of every soul it has consumed, dominated by the Mad King's will
+**Sentient:** Yes—the Crown contains fragments of every soul it has consumed, dominated by [[The Mad King|the Mad King]]'s will
 
 ## Appearance
 
 ### Physical Description
-The Blackened Crown was once an attempt to replicate the Iron Crown's form—a circlet of iron with silver bands. But the iron has been corrupted to a charred black, as if burned from within. The silver bands have tarnished to the color of old blood, and the engravings have twisted into a language no mortal should read. The Crown is cold to the touch, even in fire, and leaves black marks on skin. Those who look at it too long see faces screaming in the metal.
+The Blackened Crown was once an attempt to replicate [[The Iron Crown|the Iron Crown]]'s form—a circlet of iron with silver bands. But the iron has been corrupted to a charred black, as if burned from within. The silver bands have tarnished to the color of old blood, and the engravings have twisted into a language no mortal should read. The Crown is cold to the touch, even in fire, and leaves black marks on skin. Those who look at it too long see faces screaming in the metal.
 
 ### Size & Weight
-**Dimensions:** Similar to the Iron Crown (7 inches diameter, 2 inches tall)
+**Dimensions:** Similar to [[The Iron Crown|the Iron Crown]] (7 inches diameter, 2 inches tall)
 
 **Weight:** Weightless to the willing, impossibly heavy to the resistant
 
@@ -65,7 +65,7 @@ The Blackened Crown was once an attempt to replicate the Iron Crown's form—a c
 
 **Secondary Materials:** Silver bands stained with sacrificial blood
 
-**Unknown Materials:** Contains the souls of the 10,000 who died at the Battle of Ashen Fields, bound by the Mad King's dying curse
+**Unknown Materials:** Contains the souls of the 10,000 who died at [[The Battle of Ashen Fields]], bound by [[The Mad King]]'s dying curse
 
 ### Magical Manifestation
 - Shadows gather around the wearer
@@ -101,11 +101,11 @@ The Blackened Crown was once an attempt to replicate the Iron Crown's form—a c
 |----------|--------|---------|
 | Soul Corruption | Wisdom save DC 15 each day or alignment shifts toward Chaotic Evil | Daily at dusk |
 | The Hunger | Must kill a living creature each week or take 1d10 necrotic damage per day | Weekly |
-| Valdus's Whisper | The Mad King speaks to you, offering power, demanding obedience | Constant when worn |
+| Valdus's Whisper | [[The Mad King]] speaks to you, offering power, demanding obedience | Constant when worn |
 | Mark of the Damned | Clerics and paladins sense your corruption; holy sites reject you | Passive |
 
 ### Sentience
-*The Blackened Crown is dominated by the Mad King's residual consciousness:*
+*The Blackened Crown is dominated by [[The Mad King|the Mad King]]'s residual consciousness:*
 
 **Alignment:** Chaotic Evil
 
@@ -121,10 +121,10 @@ The Blackened Crown was once an attempt to replicate the Iron Crown's form—a c
 **Senses:** Darkvision 120 ft., sees through all undead it controls
 
 #### Personality
-The Crown speaks with the Mad King's voice—cultured, persuasive, and utterly insane. It offers power freely, demands only small concessions at first, and slowly tightens its grip until the wearer cannot remove it. It genuinely believes it is offering a gift: freedom from mortality, from weakness, from the petty constraints of law and morality.
+The Crown speaks with [[The Mad King|the Mad King]]'s voice—cultured, persuasive, and utterly insane. It offers power freely, demands only small concessions at first, and slowly tightens its grip until the wearer cannot remove it. It genuinely believes it is offering a gift: freedom from mortality, from weakness, from the petty constraints of law and morality.
 
 #### Purpose
-**Created Purpose:** To grant Valdus Karath dominion over death itself, making him unkillable and his army eternal
+**Created Purpose:** To grant [[The Mad King|Valdus Karath]] dominion over death itself, making him unkillable and his army eternal
 
 **Current Goal:** To find a suitable host to complete its awakening and raise all the dead of Eldermyr as an undead army
 
@@ -199,11 +199,11 @@ All undead within 1 mile recognize the wearer as their master. Unintelligent und
 ### Awakened Powers
 | Power | Condition | Effect |
 |-------|-----------|--------|
-| Call the Fallen | Worn on the Ashen Fields | Raise all 10,000 war dead as an army |
-| King of the Dead | Wearer fully embraces Valdus's will | Merge with the Mad King's consciousness, becoming undead but immortal |
+| Call the Fallen | Worn on [[The Ashen Fields]] | Raise all 10,000 war dead as an army |
+| King of the Dead | Wearer fully embraces Valdus's will | Merge with [[The Mad King]]'s consciousness, becoming undead but immortal |
 
 ### Dormant Abilities
-- **The Eternal Throne** — If the Blackened Crown touches the Iron Crown, one will be destroyed and the other amplified beyond measure
+- **The Eternal Throne** — If the Blackened Crown touches [[The Iron Crown|the Iron Crown]], one will be destroyed and the other amplified beyond measure
 - **Death's Domain** — The Crown can theoretically kill every living thing within a mile if fully awakened
 
 ## Limitations
@@ -229,7 +229,7 @@ What the artifact cannot do:
 **Spiritual Cost:** The soul becomes bound to the Crown; resurrection becomes impossible
 
 ### Consequences of Misuse
-There is no misuse of the Blackened Crown—only use. All use leads to the same destination: undeath, madness, and servitude to Valdus Karath's will.
+There is no misuse of the Blackened Crown—only use. All use leads to the same destination: undeath, madness, and servitude to [[The Mad King|Valdus Karath]]'s will.
 
 ## Destruction
 
@@ -238,7 +238,7 @@ There is no misuse of the Blackened Crown—only use. All use leads to the same 
 
 ### Destruction Conditions
 The Blackened Crown can only be destroyed by:
-1. Placing it on the Iron Crown while a legitimate monarch wears the Iron Crown
+1. Placing it on [[The Iron Crown]] while a legitimate monarch wears [[The Iron Crown]]
 2. Bringing it to the Chronicler's deepest temple, where the souls within can be released
 3. Destroying the 10,000 war dead individually, breaking the Crown's power
 
@@ -246,12 +246,12 @@ The Blackened Crown can only be destroyed by:
 If destroyed:
 - All souls bound to the Crown are released to the Chronicler
 - The war dead become truly dead
-- The curse on the Karath Reach ends
-- Valdus Karath's consciousness is destroyed forever
+- The curse on [[The Karath Reach|the Karath Reach]] ends
+- [[The Mad King|Valdus Karath]]'s consciousness is destroyed forever
 
 ### Failed Attempts
-- Prince Edric tried to destroy it at the Battle of Ashen Fields; he only damaged Valdus, not the Crown
-- The Crown survived the burning of the Mad King's body
+- Prince [[Edric Valdren|Edric]] tried to destroy it at [[The Battle of Ashen Fields|the Battle of Ashen Fields]]; he only damaged Valdus, not the Crown
+- The Crown survived the burning of [[The Mad King|the Mad King]]'s body
 
 ### Those Who Seek to Destroy
 - [[High Confessor Maren]] (publicly)
@@ -262,7 +262,7 @@ If destroyed:
 
 ### Creation
 #### Who
-**Creator:** Mad King Valdus Karath and his court necromancers
+**Creator:** Mad King [[The Mad King|Valdus Karath]] and his court necromancers
 
 **Their Nature:** A mad monarch seeking to defy death
 
@@ -272,7 +272,7 @@ If destroyed:
 **Age:** 26-30 years old
 
 #### Where
-**Location:** The Black Keep in Chernogrod, in secret chambers now sealed
+**Location:** The Black Keep in [[Chernogrod]], in secret chambers now sealed
 
 **Significance:** The heart of Karath power, now a place of darkness
 
@@ -287,32 +287,32 @@ If destroyed:
 **Sacrifice/Cost:** 100 prisoners died in its forging; Valdus gave part of his own soul
 
 ### First Wielder
-**Name:** Mad King Valdus Karath
+**Name:** Mad King [[The Mad King|Valdus Karath]]
 
-**Story:** Valdus wore the Blackened Crown in secret for three years before Prince Edric's rebellion. When cornered at the Battle of Ashen Fields, he revealed its power, raising his own dead soldiers to continue fighting. But Prince Edric struck him down before the full awakening could occur.
+**Story:** Valdus wore the Blackened Crown in secret for three years before Prince [[Edric Valdren|Edric]]'s rebellion. When cornered at [[The Battle of Ashen Fields|the Battle of Ashen Fields]], he revealed its power, raising his own dead soldiers to continue fighting. But Prince [[Edric Valdren|Edric]] struck him down before the full awakening could occur.
 
 ### Chronicle of Owners
 | Era | Owner | Deeds with Artifact | Fate |
 |-----|-------|---------------------|------|
-| 26 years ago | Valdus Karath | Created and wore it | Killed at Ashen Fields |
+| 26 years ago | [[The Mad King]] | Created and wore it | Killed at Ashen Fields |
 | 23 years ago | Unknown | Found after battle | ? |
-| Present | The Figure | Seen wearing it in the mass graves | Unknown |
+| Present | [[The Mad King]] | Seen wearing it in the mass graves | Unknown |
 
 ### Wars & Conflicts
-- The Great War (worn by Valdus at the final battle)
+- [[The Great War]] (worn by Valdus at [[The Battle of Ashen Fields|the final battle]])
 - The current rising of the dead (the Crown calls to them)
 
 ### Lost Periods
-The Crown was believed destroyed at the Battle of Ashen Fields. For 23 years, no one sought it.
+The Crown was believed destroyed at [[The Battle of Ashen Fields|the Battle of Ashen Fields]]. For 23 years, no one sought it.
 
 ### Rediscoveries
-Lord Draven Karath has dreamed of the Crown for the past year. He knows it exists. He knows where it is. He is deciding whether to claim it.
+[[Lord Draven Karath]] has dreamed of the Crown for the past year. He knows it exists. He knows where it is. He is deciding whether to claim it.
 
 ## Prophecies
 
 ### Associated Prophecies
-- "When iron meets iron, one shall break" — Some believe this refers to the Blackened Crown meeting the Iron Crown
-- "The dead will have their king" — A prophecy that terrifies the Faith
+- "When iron meets iron, one shall break" — Some believe this refers to the Blackened Crown meeting [[The Iron Crown|the Iron Crown]]
+- "The dead will have their king" — A prophecy that terrifies [[The Faith of the Three|the Faith]]
 
 ### Destined Wielder
 **Prophecy:** "Blood of Valdus will complete what Valdus began"
@@ -320,14 +320,14 @@ Lord Draven Karath has dreamed of the Crown for the past year. He knows it exist
 **Current Candidates:** [[Lord Draven Karath]], [[Yelena Karath]] (unwillingly)
 
 ### Foretold Events
-- The rising of the Ashen Fields' dead as a unified army
+- The rising of [[The Ashen Fields|the Ashen Fields]]' dead as a unified army
 - A confrontation between the two Crowns
 - Either the end of the curse or the end of Eldermyr
 
 ## Legacy
 
 ### Cultural Impact
-The Blackened Crown is the reason necromancy is forbidden in Eldermyr. Its creation convinced the realm that some magic is too dangerous to exist. Parents tell children of the Mad King's crown to keep them from dark paths.
+The Blackened Crown is the reason necromancy is forbidden in Eldermyr. Its creation convinced the realm that some magic is too dangerous to exist. Parents tell children of [[The Mad King|the Mad King]]'s crown to keep them from dark paths.
 
 ### Religious Significance
 **Sacred To:** Nothing holy
@@ -335,22 +335,22 @@ The Blackened Crown is the reason necromancy is forbidden in Eldermyr. Its creat
 **Meaning:** The ultimate blasphemy—defiance of the Chronicler's covenant with the dead
 
 ### Political Importance
-The Crown's existence (if confirmed) would spark immediate war. House Karath would be blamed; the Reach would be invaded to destroy it.
+The Crown's existence (if confirmed) would spark immediate war. [[House Karath]] would be blamed; [[The Karath Reach|the Reach]] would be invaded to destroy it.
 
 ### Legends Spawned
 - The Curse of Ashen Fields (the land remains blighted because the Crown exists)
-- The Mad King's Return (he never truly died, only slumbered)
+- [[The Mad King]]'s Return (he never truly died, only slumbered)
 - The Blackened Crown's Call (those with Karath blood dream of it)
 
 ## Current Era
 
 ### Present Location
-**Known Location:** Somewhere in the Ashen Fields, with the Figure
+**Known Location:** Somewhere in [[The Ashen Fields]], with [[The Mad King]]
 
 **How Secured:** The curse itself protects it; few venture into the Fields and fewer return
 
 ### Current Guardian/Owner
-**Name:** "The Figure" — a being resembling King Valdus, wearing the Blackened Crown
+**Name:** "[[The Mad King|The Figure]]" — a being resembling King Valdus, wearing the Blackened Crown
 
 **How Acquired:** Unknown—may be Valdus himself, somehow preserved
 
@@ -361,30 +361,30 @@ The Crown's existence (if confirmed) would spark immediate war. House Karath wou
 |--------|------------|-----------|
 | [[Lord Draven Karath]] | Power, revenge, perhaps destiny | His agents, dark contacts |
 | [[The Grey Wardens]] | To destroy it | Secret investigation |
-| [[High Confessor Maren]] | His "visions" may lead him here | The Faith's resources |
+| [[High Confessor Maren]] | His "visions" may lead him here | [[The Faith of the Three]]'s resources |
 
 ### Recent Events
 - The war dead have begun rising in increasing numbers
-- Lord Draven's dreams have intensified
-- Refugees from the Reach speak of a crowned figure walking among the dead
+- [[Lord Draven Karath|Lord Draven]]'s dreams have intensified
+- Refugees from [[The Karath Reach|the Reach]] speak of a crowned figure walking among the dead
 
 ## Secrets
 
-1. **Valdus Lives (Sort Of).** The Figure is indeed Valdus Karath, preserved by the Crown as an undead horror. He is slowly regaining his power and his memories.
+1. **Valdus Lives (Sort Of).** [[The Mad King]] is indeed [[The Mad King]], preserved by the Crown as an undead horror. He is slowly regaining his power and his memories.
 
-2. **The Crown Calls.** Every Karath feels the Crown's pull. Lord Draven resists, but Yelena has begun having nightmares. One of them will eventually come to the Fields.
+2. **The Crown Calls.** Every Karath feels the Crown's pull. [[Lord Draven Karath|Lord Draven]] resists, but [[Yelena Karath|Yelena]] has begun having nightmares. One of them will eventually come to the Fields.
 
-3. **The Real Target.** The Blackened Crown doesn't want to rule Eldermyr—it wants to consume the Iron Crown, merging into a single artifact of ultimate power.
+3. **The Real Target.** The Blackened Crown doesn't want to rule Eldermyr—it wants to consume [[The Iron Crown|the Iron Crown]], merging into a single artifact of ultimate power.
 
 ## Plot Hooks
 
-1. **The Karath Choice:** Lord Draven asks the party to retrieve the Blackened Crown. He claims he wants to destroy it. Is he telling the truth?
+1. **The Karath Choice:** [[Lord Draven Karath|Lord Draven]] asks the party to retrieve the Blackened Crown. He claims he wants to destroy it. Is he telling the truth?
 
-2. **Dreams of the Dead:** Yelena Karath's nightmares are becoming prophecies. The party must help her before she follows them to the Ashen Fields—and her doom.
+2. **Dreams of the Dead:** [[Yelena Karath]]'s nightmares are becoming prophecies. The party must help her before she follows them to [[The Ashen Fields|the Ashen Fields]]—and her doom.
 
-3. **Stop the Rising:** The war dead are awakening. The party must venture into the Ashen Fields to find the Crown and destroy it before Valdus fully returns.
+3. **Stop the Rising:** The war dead are awakening. The party must venture into [[The Ashen Fields|the Ashen Fields]] to find the Crown and destroy it before Valdus fully returns.
 
-4. **Crown Against Crown:** A desperate plan: use the Iron Crown to destroy the Blackened Crown. But someone must wear each—and one will not survive.
+4. **Crown Against Crown:** A desperate plan: use [[The Iron Crown|the Iron Crown]] to destroy the Blackened Crown. But someone must wear each—and one will not survive.
 
 ## Image Prompts
 

@@ -41,7 +41,7 @@ faction: "[[The Faith of the Three]]"
 # High Confessor Maren
 
 ## Overview
-High Confessor Maren is the supreme leader of the Faith of the Three and the most powerful religious figure in Eldermyr. Once a humble scholar, he rose through the ranks through piety, political skill, and genuine devotion. But two years ago, the visions began—terrible, beautiful, demanding visions that he believes come from the Three themselves. They tell him he is chosen to guide the realm through its greatest crisis. They tell him the dead rise because the realm has strayed. They tell him he must seize the power to save it. He believes every word. He is wrong about the source.
+High Confessor Maren is the supreme leader of [[The Faith of the Three]] and the most powerful religious figure in Eldermyr. Once a humble scholar, he rose through the ranks through piety, political skill, and genuine devotion. But two years ago, the visions began—terrible, beautiful, demanding visions that he believes come from [[The Faith of the Three]] themselves. They tell him he is chosen to guide the realm through its greatest crisis. They tell him the dead rise because the realm has strayed. They tell him he must seize [[Magic of Eldermyr]] to save it. He believes every word. He is wrong about the source.
 
 ## Appearance
 
@@ -54,12 +54,12 @@ High Confessor Maren is the supreme leader of the Faith of the Three and the mos
 - **Distinguishing Features:** Hands that gesture constantly when preaching; eyes that seem to look through rather than at people; rarely blinks
 
 ### Attire
-- **Holy Vestments:** White and silver robes of the High Confessor; the triple symbols of the Three (crown and scales, open hands, veiled figure with book)
-- **Ceremonial:** In formal settings, wears the ancient mitre and carries the Shepherd's Staff
+- **Holy Vestments:** White and silver robes of the High Confessor; the triple symbols of [[The Faith of the Three|the Three]] (crown and scales, open hands, veiled figure with book)
+- **Ceremonial:** In formal settings, wears the ancient mitre and carries [[The Shepherd's Crook|the Shepherd's Staff]]
 - **Practical:** Even in private, dresses in simple white; sees himself as a servant, not a lord
 
 ### Presence
-Maren's presence is magnetic. When he speaks, people listen—not because of volume, but because of absolute conviction. He radiates certainty the way a fire radiates heat. The faithful feel comforted in his presence; the doubting feel judged. Those with divine sensitivity feel something else entirely: something is feeding him power, but it is not the Three.
+Maren's presence is magnetic. When he speaks, people listen—not because of volume, but because of absolute conviction. He radiates certainty the way a fire radiates heat. The faithful feel comforted in his presence; the doubting feel judged. Those with divine sensitivity feel something else entirely: something is feeding him power, but it is not [[The Faith of the Three|the Three]].
 
 ## Personality
 
@@ -68,29 +68,29 @@ Maren's presence is magnetic. When he speaks, people listen—not because of vol
 2. **Pastoral Manipulation:** Uses the language of care and concern to control; frames every power grab as sacrifice for the greater good
 
 ### Ideals
-**Divine Mandate.** The Three have chosen me to guide the realm through its hour of darkness. The dead rise because the realm has strayed—because power is held by merchants and soldiers instead of the faithful. I will restore the proper order. This is not ambition; this is duty.
+**Divine Mandate.** [[The Faith of the Three|The Three]] have chosen me to guide the realm through its hour of darkness. The dead rise because the realm has strayed—because power is held by merchants and soldiers instead of the faithful. I will restore the proper order. This is not ambition; this is duty.
 
 ### Bonds
-The Faith is everything. Maren has no family, no personal attachments, no interests beyond the spiritual. The Church is his family, his purpose, his life. He would die for it—and he would kill for it.
+[[The Faith of the Three|The Faith]] is everything. Maren has no family, no personal attachments, no interests beyond the spiritual. The Church is his family, his purpose, his life. He would die for it—and he would kill for it.
 
 ### Flaws
 **Messianic Delusion.** Maren cannot accept that his visions might be false or corrupted. To doubt them would be to doubt everything he is. If confronted with proof that something else speaks to him, he would more likely declare the proof false than accept the truth.
 
 ### Motivations
-Maren wants to save the realm. He believes—truly believes—that the succession crisis, the rising dead, and the realm's suffering are divine punishment for straying from the Faith. He believes the Three have chosen him to fix this. He believes the Faith must seize temporal power to restore spiritual order. Every action he takes flows from this conviction—including the ones that will doom thousands.
+Maren wants to save the realm. He believes—truly believes—that the succession crisis, the rising dead, and the realm's suffering are divine punishment for straying from [[The Faith of the Three]]. He believes [[The Faith of the Three]] have chosen him to fix this. He believes [[The Faith of the Three]] must seize temporal power to restore spiritual order. Every action he takes flows from this conviction—including the ones that will doom thousands.
 
 ## Villainy
 
 ### The Visions
 Two years ago, Maren began receiving visions during prayer. At first they were comforting—reassurances that his faith was true. Then they became demanding. They showed him the realm's corruption, the coming darkness, the necessity of action. They told him he was chosen.
 
-The visions are real. They do not come from the Three.
+The visions are real. They do not come from [[The Faith of the Three|the Three]].
 
-Something—perhaps The Unnamed, perhaps something else—has found a way to speak through Maren's devotion. It feeds him true prophecy mixed with poison. It guides him toward actions that will weaken the realm and strengthen darkness. Maren believes he serves the light. He is becoming an instrument of something else entirely.
+Something—perhaps [[The Unnamed]], perhaps something else—has found a way to speak through Maren's devotion. It feeds him true prophecy mixed with poison. It guides him toward actions that will weaken the realm and strengthen darkness. Maren believes he serves the light. He is becoming an instrument of something else entirely.
 
 ### Methods
 - **Sermons and Prophecy:** Uses his visions to guide doctrine; has declared the rising dead a punishment for the realm's sins
-- **Political Pressure:** Demands the Faith's right to approve the next king; blocks Valdren's regency at every turn
+- **Political Pressure:** Demands [[The Faith of the Three|the Faith]]'s right to approve the next king; blocks Valdren's regency at every turn
 - **Holy Tribunals:** Has begun investigating "impiety" among the nobility; witch-hunt waiting to happen
 - **The Faithful Militia:** Building an armed force under Church authority, "to protect pilgrims and holy sites"
 
@@ -102,10 +102,10 @@ Maren has not yet committed true atrocities—but he's moving toward them:
 4. **Will authorize violence** — When the visions demand it
 
 ### Justification
-"I take no pleasure in this. Power is a burden, not a gift. But the Three have shown me what must be done. The realm is sick—consumed by greed, faithlessness, and division. The dead rise because we have forsaken the covenant. I alone have been given the vision to see the path forward. If I must take up temporal authority to heal the realm's spirit, then that is my cross to bear. History will understand. The Three will understand. I am their instrument."
+"I take no pleasure in this. Power is a burden, not a gift. But [[The Faith of the Three]] have shown me what must be done. The realm is sick—consumed by greed, faithlessness, and division. The dead rise because we have forsaken the covenant. I alone have been given the vision to see the path forward. If I must take up temporal authority to heal the realm's spirit, then that is my cross to bear. History will understand. [[The Faith of the Three]] will understand. I am their instrument."
 
 ### Ultimate Goal
-A realm united under the Faith, with the High Confessor as its spiritual and temporal guide. He envisions a theocracy where the Three's law is the only law. He believes this will bring peace, order, and salvation.
+A realm united under [[The Faith of the Three]], with the High Confessor as its spiritual and temporal guide. He envisions a theocracy where [[The Faith of the Three]]'s law is the only law. He believes this will bring peace, order, and salvation.
 
 What he will actually bring is chaos, suffering, and an open door for darker powers.
 
@@ -117,17 +117,17 @@ What he will actually bring is chaos, suffering, and an open door for darker pow
 **Early Life:** Born to a minor noble family, Maren entered the Church at twelve after a childhood illness. He was pious, brilliant, and ambitious in the way of scholars—wanting to know more, understand more, serve more. He rose through the ranks as a theologian, diplomat, and administrator.
 
 ### Rise to High Confessor
-Maren became High Confessor fifteen years ago, succeeding an elderly predecessor. He was a consensus choice—acceptable to all factions, threatening to none. For thirteen years he led the Faith competently but unremarkably. He was respected but not feared, powerful but not dominant.
+Maren became High Confessor fifteen years ago, succeeding an elderly predecessor. He was a consensus choice—acceptable to all factions, threatening to none. For thirteen years he led [[The Faith of the Three|the Faith]] competently but unremarkably. He was respected but not feared, powerful but not dominant.
 
 Then the visions began.
 
 ### The Transformation
-Two years ago, during a night vigil in the Thornhall cathedral, Maren had his first vision. The Three (or so he believed) spoke to him directly. They showed him the realm's future—war, death, and darkness. They showed him that he was chosen to prevent it. They demanded he act.
+Two years ago, during a night vigil in the [[Thornhall]] cathedral, Maren had his first vision. [[The Faith of the Three|The Three]] (or so he believed) spoke to him directly. They showed him the realm's future—war, death, and darkness. They showed him that he was chosen to prevent it. They demanded he act.
 
 Since then, Maren has become more assertive, more certain, more political. The other bishops are uncomfortable but cannot challenge him—his visions have been accurate enough to seem genuine. The golden ring in his eyes appeared six months ago. He takes it as confirmation of his selection. He is wrong.
 
 ### Current Status
-Maren operates from the holy city of Thornhall, directing the Faith's response to the succession crisis. He blocks Valdren at every turn, demands the Faith's right to approve the king, and prepares for the day when he must take more direct action. The visions are becoming more frequent, more demanding. Something is rushing him toward a confrontation he doesn't fully understand.
+Maren operates from [[Thornhall]] of [[Thornhall]], directing [[The Faith of the Three]]'s response to the succession crisis. He blocks Valdren at every turn, demands [[The Faith of the Three]]'s right to approve the king, and prepares for the day when he must take more direct action. The visions are becoming more frequent, more demanding. Something is rushing him toward a confrontation he doesn't fully understand.
 
 ## Statistics
 
@@ -212,7 +212,7 @@ Divine Favor, Shield of Faith, Magic Weapon, Spiritual Weapon, Crusader's Mantle
 ## Equipment
 
 ### Weapons
-- **The Shepherd's Staff:** An ancient quarterstaff passed down through High Confessors. Holy symbol, +2 to spell save DC, deals additional radiant damage.
+- **[[The Shepherd's Crook|The Shepherd's Staff]]:** An ancient quarterstaff passed down through High Confessors. Holy symbol, +2 to spell save DC, deals additional radiant damage.
 
 ### Armor
 - **Blessed Plate:** Concealed under vestments when danger threatens. +1 plate armor blessed by three generations of High Confessors.
@@ -223,10 +223,10 @@ Divine Favor, Shield of Faith, Magic Weapon, Spiritual Weapon, Crusader's Mantle
 | Shepherd's Staff | +2 spell save DC, holy symbol, radiant damage |
 | High Confessor's Ring | Grants Sanctuary 1/day |
 | Mitre of the Chosen | Grants resistance to being charmed or frightened |
-| Book of the Three | His personal prayer book, filled with notes on his visions |
+| Book of [[The Faith of the Three]] | His personal prayer book, filled with notes on his visions |
 
 ### Resources
-- Command of the Faith's considerable wealth
+- Command of [[The Faith of the Three|the Faith]]'s considerable wealth
 - Theological authority over most of the realm's population
 - The Faithful Militia (growing)
 - Network of priests and informants throughout Eldermyr
@@ -234,30 +234,30 @@ Divine Favor, Shield of Faith, Magic Weapon, Spiritual Weapon, Crusader's Mantle
 ## Minions & Allies
 
 ### Lieutenants
-1. **Bishop Aldous the Stern** — Leads the Faith's investigative arm; true believer in Maren's visions
+1. **Bishop Aldous the Stern** — Leads [[The Faith of the Three|the Faith]]'s investigative arm; true believer in Maren's visions
 2. **Mother Superior Elara** — Commands the sisters' orders; has doubts but remains loyal
 3. **Father Cristobal** — Former soldier, now leads the Faithful Militia; devoted to Maren personally
 
 ### Forces
 - **The Synod:** Council of bishops, mostly loyal or cowed
-- **Temple Knights:** ~500 armed warriors sworn to the Faith
+- **Temple Knights:** ~500 armed warriors sworn to [[The Faith of the Three|the Faith]]
 - **The Faithful Militia:** ~2,000 and growing; peasants and believers armed "for defense"
 - **The Priesthood:** Thousands of clergy throughout the realm
 
 ### The Source of the Visions
 Maren doesn't know what truly speaks to him. It may be:
-- The Unnamed, working through an unexpected channel
+- [[The Unnamed]], working through an unexpected channel
 - A demon posing as divine
 - Something from beyond the world entirely
-- (Possibly) actual corrupted divine power, the Three's will twisted by the crisis
+- (Possibly) actual corrupted divine power, [[The Faith of the Three|the Three]]'s will twisted by the crisis
 
 Whatever it is, it is patient. It needs Maren to believe.
 
 ## Relationships
 
-### Within the Faith
+### Within [[The Faith of the Three|the Faith]]
 - **The Synod:** Most bishops support him; some have private doubts
-- **[[The Grey Wardens]]:** Ostensibly under Faith authority; Greymane is increasingly frustrated with Maren's obstruction
+- **[[The Grey Wardens]]:** Ostensibly under Faith authority; [[Grandmaster Aldric Greymane|Greymane]] is increasingly frustrated with Maren's obstruction
 - **The Temple Knights:** Loyal to the High Confessor; would follow him into battle
 
 ### With Secular Powers
@@ -267,7 +267,7 @@ Whatever it is, it is patient. It needs Maren to believe.
 - **[[Edric Valdren]]** — The boy is not his grandfather; might be redeemable under proper spiritual guidance
 
 ### The Divine
-Maren prays to the Three constantly. He receives visions he believes are answers. He is slowly becoming an instrument for something else—and may take the entire Faith with him.
+Maren prays to [[The Faith of the Three|the Three]] constantly. He receives visions he believes are answers. He is slowly becoming an instrument for something else—and may take the entire Faith with him.
 
 ## Story Role
 
@@ -275,24 +275,24 @@ Maren prays to the Three constantly. He receives visions he believes are answers
 **Regional** — Maren's actions could trigger civil war and/or undermine resistance to the rising dead
 
 ### Arc
-Maren's arc is about the danger of certainty. He is not evil—he genuinely believes he serves the Three and the realm's good. But his conviction has made him blind to doubt, and something is exploiting that blindness. His tragedy is that his greatest strength—his faith—has become his greatest vulnerability.
+Maren's arc is about the danger of certainty. He is not evil—he genuinely believes he serves [[The Faith of the Three|the Three]] and the realm's good. But his conviction has made him blind to doubt, and something is exploiting that blindness. His tragedy is that his greatest strength—his faith—has become his greatest vulnerability.
 
 ### Possible Outcomes
 - **Redemption:** Confronted with undeniable proof, realizes he's been deceived; sacrifices himself to undo the damage
-- **Destruction:** Killed or removed before he can cause catastrophe; the Faith splinters
+- **Destruction:** Killed or removed before he can cause catastrophe; [[The Faith of the Three|the Faith]] splinters
 - **Victory (Dark):** Seizes power, establishes theocracy, becomes a puppet for darker forces
 - **Confrontation:** Must face the true source of his visions and choose between faith and truth
 
 ### As an Ally (Conditional)
 If somehow convinced his visions are false, or if convinced the party serves divine purpose, Maren could provide:
-- The Faith's resources and legitimacy
+- [[The Faith of the Three|The Faith]]'s resources and legitimacy
 - Powerful divine magic
 - Access to religious archives and knowledge
 - A reformation of the Church
 
 ### As an Enemy
 If the party opposes him:
-- Declared heretics and enemies of the Faith
+- Declared heretics and enemies of [[The Faith of the Three|the Faith]]
 - Hunted by Temple Knights and the Faithful Militia
 - Divine magic turned against them
 - The entire religious establishment as opposition
@@ -318,11 +318,11 @@ If forced to fight:
 
 ## Secrets
 
-1. **The visions are not from the Three.** Something else speaks to Maren—something that knows exactly what he wants to hear and uses truth to hide its lies.
+1. **The visions are not from [[The Faith of the Three|the Three]].** Something else speaks to Maren—something that knows exactly what he wants to hear and uses truth to hide its lies.
 
 2. **The golden ring in his eyes is a mark of corruption.** It appeared six months ago and is slowly growing. By the time it covers his entire iris, the transformation will be complete.
 
-3. **He has suppressed reports about the Ashen Fields.** The Grey Wardens' reports suggest something beyond divine judgment. Maren has buried these reports because they don't fit his narrative.
+3. **He has suppressed reports about [[The Ashen Fields|the Ashen Fields]].** [[The Grey Wardens]]' reports suggest something beyond divine judgment. Maren has buried these reports because they don't fit his narrative.
 
 4. **Deep down, he doubts.** In his darkest moments, Maren wonders if his certainty is a gift or a curse. He suppresses these doubts with prayer—and the visions always reassure him.
 

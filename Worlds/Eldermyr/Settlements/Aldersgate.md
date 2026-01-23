@@ -45,10 +45,10 @@ Aldersgate is the ancient capital of Eldermyr, a city of spires and politics whe
 ## Geography
 
 ### Location
-Aldersgate sits at the confluence of the Kingswater River and its major tributary, commanding the fertile heart of the Crown Lands. The city sprawls across both banks, connected by the famous Kingswater Bridge—the largest stone bridge in the realm. Its position makes it the natural crossroads of every major trade route, ensuring its dominance over commerce as well as politics.
+Aldersgate sits at the confluence of the Kingswater River and its major tributary, commanding the fertile heart of [[The Crown Lands|the Crown Lands]]. The city sprawls across both banks, connected by the famous Kingswater Bridge—the largest stone bridge in the realm. Its position makes it the natural crossroads of every major trade route, ensuring its dominance over commerce as well as politics.
 
 ### Climate
-The Crown Lands enjoy temperate weather with mild winters and warm summers. Spring rains fill the Kingswater, and autumn brings spectacular colors to the King's Wood visible from the city walls.
+[[The Crown Lands]] enjoy temperate weather with mild winters and warm summers. Spring rains fill the Kingswater, and autumn brings spectacular colors to the King's Wood visible from the city walls.
 
 ### Layout
 The city is roughly circular, defined by three concentric rings of walls from different eras of expansion. The oldest wall surrounds the Palace Hill where the Ironthrone Hall stands. The middle wall encompasses the Old City with its temples, noble houses, and guild halls. The outer wall, built two centuries ago, contains the sprawling merchant districts, artisan quarters, and the infamous Mudside slums near the docks.
@@ -58,7 +58,7 @@ The city is roughly circular, defined by three concentric rings of walls from di
 ### 1. Palace Hill
 **Character:** Imposing, restricted, the heart of power
 **Key Features:** The Ironthrone Hall, Royal Gardens, the White Tower (archives)
-**Who Lives Here:** The regent, royal household, the Small Council
+**Who Lives Here:** [[Lord Varic Valdren|The regent]], royal household, the Small Council
 **Notable Locations:** The Ironthrone Hall, the Hall of Ancestors, the Council Chamber
 
 ### 2. The High Quarter
@@ -110,11 +110,11 @@ The city is roughly circular, defined by three concentric rings of walls from di
 ## Government & Politics
 
 ### Current Ruler
-**Title & Name:** Lord Regent Varic Valdren
-**In Power Since:** Three months (since Aldric II's death)
+**Title & Name:** Lord Regent [[Lord Varic Valdren|Varic]] Valdren
+**In Power Since:** Three months (since [[High King Aldric II|Aldric II]]'s death)
 **How He Rules:** Through gold, information, and careful manipulation of the Small Council
 **Public Perception:** Seen as capable but self-interested; the common folk call him "the Merchant King"
-**Greatest Concern:** Maintaining the fiction that young Edric will be king while ensuring Varic holds real power
+**Greatest Concern:** Maintaining the fiction that [[Edric Valdren|young Edric]] will be king while ensuring [[Lord Varic Valdren|Varic]] holds real power
 
 ### Power Structure
 **Inner Circle:**
@@ -128,13 +128,13 @@ The city is roughly circular, defined by three concentric rings of walls from di
 - Master of Laws
 - Master of Whispers
 - Lord Commander of the City Watch
-- Representative of the Faith
+- Representative of [[The Faith of the Three|the Faith]]
 
 ### Political Factions
-1. **The Regency:** Lord Varic's supporters, mostly western interests and merchants
-2. **The Legitimists:** Those who support young Edric's true rule—increasingly organized
-3. **The Faith's Voice:** High Confessor Maren's supporters, seeking religious influence
-4. **The Eastern Interest:** Agents sympathetic to House Thorne, quietly building support
+1. **The Regency:** [[Lord Varic Valdren|Lord Varic]]'s supporters, mostly western interests and merchants
+2. **The Legitimists:** Those who support [[Edric Valdren|young Edric]]'s true rule—increasingly organized
+3. **[[The Faith of the Three|The Faith]]'s Voice:** [[High Confessor Maren]]'s supporters, seeking religious influence
+4. **The Eastern Interest:** Agents sympathetic to [[House Thorne]], quietly building support
 
 ## Economy
 
@@ -164,17 +164,17 @@ The three rings of walls are well-maintained. The outer wall is 30 feet high wit
 
 ### Military Forces
 **City Garrison:** 3,000 professional soldiers loyal to the crown
-**Valdren Household Guard:** 500 elite soldiers loyal to the regent personally
+**Valdren Household Guard:** 500 elite soldiers loyal to [[Lord Varic Valdren|the regent]] personally
 **Noble Retinues:** Perhaps 1,500 soldiers scattered among various households
 **The Watch:** 2,000 (law enforcement, not military)
 
 ## Notable Locations
 
 ### Ironthrone Hall
-The royal palace, built on the highest point of the city. The Ironthrone itself—forged from the weapons of defeated enemies a thousand years ago—sits in the Great Hall. Currently, the body of King Aldric II has been secretly preserved and placed on the throne to prevent panic while the succession is "resolved."
+The royal palace, built on the highest point of the city. The Ironthrone itself—forged from the weapons of defeated enemies a thousand years ago—sits in the Great Hall. Currently, the body of [[High King Aldric II|King Aldric]] II has been secretly preserved and placed on the throne to prevent panic while the succession is "resolved."
 
 ### The Chapel of the Fallen
-A memorial to those who died in the Great War. Contains the tomb of Prince Edric the Liberator, who killed the Mad King and died in the process. Young Edric Valdren visits often, communing with his namesake.
+A memorial to those who died in [[The Great War]]. Contains the tomb of Prince [[Edric Valdren|Edric]] the Liberator, who killed [[The Mad King]] and died in the process. Young [[Edric Valdren]] visits often, communing with his namesake.
 
 ### The Merchant's Exchange
 The economic heart of the realm, where commodity prices are set and major deals are struck. A riot here could collapse trade for months.
@@ -187,42 +187,42 @@ Somewhere in Mudside, the headquarters of Aldersgate's criminal underworld. No o
 
 ## Key Figures
 
-### Lord Varic Valdren
+### [[Lord Varic Valdren]]
 *See [[Lord Varic Valdren]]*
 The Lord Regent, controlling the capital through gold and guile.
 
-### Edric Valdren
+### [[Edric Valdren]]
 *See [[Edric Valdren]]*
 The boy heir, living in the palace, less a puppet than his grandfather believes.
 
 ### Lord Commander Aldric Stone
-Commander of the City Garrison. A career soldier loyal to the crown itself—not to whoever wears it. Torn between duty to the regent and growing unease about Valdren's true intentions.
+Commander of the City Garrison. A career soldier loyal to the crown itself—not to whoever wears it. Torn between duty to [[Lord Varic Valdren|the regent]] and growing unease about Valdren's true intentions.
 
 ### The Owl
 The Spymaster. No one knows their true identity. They serve whoever sits the throne—or whoever pays enough to convince them they represent the throne.
 
 ### Sister Elspeth
-Abbess of the Shepherd's Sanctuary, known for healing miracles. Popular with the common folk. Quietly corresponds with those concerned about the regent's ambitions.
+Abbess of the Shepherd's Sanctuary, known for healing miracles. Popular with the common folk. Quietly corresponds with those concerned about [[Lord Varic Valdren|the regent]]'s ambitions.
 
 ## Secrets
 
-1. **The King's Body.** Aldric II's corpse sits on the Ironthrone, preserved by Faith magic, displayed to prevent panic. The Small Council knows the truth: he was poisoned.
+1. **The King's Body.** [[High King Aldric II|Aldric II]]'s corpse sits on the Ironthrone, preserved by Faith magic, displayed to prevent panic. The Small Council knows the truth: he was poisoned.
 
-2. **The Tunnels.** Beneath the city, ancient tunnels connect key locations. The Owl uses them. So did the previous spymaster. So might young Edric.
+2. **The Tunnels.** Beneath the city, ancient tunnels connect key locations. The Owl uses them. So did the previous spymaster. So might [[Edric Valdren|young Edric]].
 
-3. **The Valdren Debt.** House Valdren has borrowed heavily from foreign powers to fund the regency. If they lose control, those debts come due—and the creditors will want payment in territory or trade concessions.
+3. **The Valdren Debt.** [[House Valdren]] has borrowed heavily from foreign powers to fund the regency. If they lose control, those debts come due—and the creditors will want payment in territory or trade concessions.
 
 4. **The Second Throne.** A prophecy in the White Tower archives speaks of a "throne of iron and a throne of bone." Some believe the rising dead are connected to an ancient claim on the realm itself.
 
 ## Plot Hooks
 
-1. **The Preserved King:** Someone wants proof that Aldric II was murdered. Getting close enough to the body to find evidence requires infiltrating the most secure place in the realm.
+1. **The Preserved King:** Someone wants proof that [[High King Aldric II|Aldric II]] was murdered. Getting close enough to the body to find evidence requires infiltrating the most secure place in the realm.
 
 2. **The Tunnel Map:** An old map shows tunnels connecting the palace to locations across the city. Several factions would kill for this map—or kill whoever has it.
 
 3. **The Merchant's Panic:** Someone is manipulating commodity prices to destabilize the regency. Finding out who reveals a conspiracy reaching to foreign shores.
 
-4. **The Boy King's Friends:** Young Edric is quietly gathering allies. He needs trustworthy people who aren't already compromised by one faction or another.
+4. **[[Edric Valdren]]'s Friends:** [[Edric Valdren]] is quietly gathering allies. He needs trustworthy people who aren't already compromised by one faction or another.
 
 5. **The Owl's Price:** The Spymaster knows everything worth knowing. They're willing to share—for a price that has nothing to do with gold.
 

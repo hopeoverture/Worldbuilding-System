@@ -33,7 +33,7 @@ reputation: Respected (but distrusted)
 > The Arcane Academy is the realm's only legal institution for training academic mages. It operates under heavy oversight from both crown and Faith, maintaining a delicate balance between pursuing magical knowledge and staying within society's tolerance. The Academy should feel ancient, controlled, and hiding more than it shows.
 
 ## Overview
-The Arcane Academy stands in Aldersgate, a fortress of stone and ancient wards that has trained academic mages for three centuries. Here, those rare individuals with the gift of academic magic—perhaps one in ten thousand—learn to channel arcane power through rigorous study, geometric formulae, and carefully prescribed methods. The Academy operates under strict oversight from the Crown and the Faith of the Three, teaching only sanctioned schools of magic while officially shunning forbidden arts. Its graduates serve as court advisors, healers, alchemists, and wardens—valuable but never fully trusted. In the current crisis, the Academy walks a careful line, claiming neutrality while its resources could tip the balance of power.
+The Arcane Academy stands in [[Aldersgate]], a fortress of stone and ancient wards that has trained academic mages for three centuries. Here, those rare individuals with [[Magic of Eldermyr]] of academic magic—perhaps one in ten thousand—learn to channel arcane power through rigorous study, geometric formulae, and carefully prescribed methods. The Academy operates under strict oversight from the Crown and [[The Faith of the Three]], teaching only sanctioned schools of magic while officially shunning forbidden arts. Its graduates serve as court advisors, healers, alchemists, and wardens—valuable but never fully trusted. In the current crisis, the Academy walks a careful line, claiming neutrality while its resources could tip the balance of power.
 
 ## Classification
 
@@ -50,7 +50,7 @@ The Arcane Academy stands in Aldersgate, a fortress of stone and ancient wards t
 ## Location
 
 ### Setting
-**Settlement:** [[Aldersgate]] (the capital)
+**Settlement:** [[Aldersgate]] ([[Aldersgate|the capital]])
 
 **District:** The Scholar's Quarter, near the Royal Archives and the Temple District
 
@@ -88,27 +88,27 @@ The Academy occupies a complex of connected buildings centered on the ancient To
 
 **Reputation:** Respected for maintaining the Academy's position through dangerous times; feared for his willingness to sacrifice individuals for the institution
 
-**Secret:** He knows far more forbidden magic than he admits; he maintains a secret collection of texts even the Faith doesn't know about
+**Secret:** He knows far more forbidden magic than he admits; he maintains a secret collection of texts even [[The Faith of the Three|the Faith]] doesn't know about
 
 ### Governing Body
 **Name:** The Council of Masters
 
-**Composition:** The Archmagister (chair), the heads of each magical school, the Master of Discipline, the Crown's Observer, the Faith's Warden
+**Composition:** [[Archmagister Corwin Ashford]] (chair), the heads of each magical school, the Master of Discipline, the Crown's Observer, [[The Faith of the Three]]'s Warden
 
 **Powers:** Sets curriculum, admits students, disciplines transgressors, advises the Crown on magical matters
 
 ### Administrative Structure
 | Position | Name | Responsibilities | Notes |
 |----------|------|------------------|-------|
-| Archmagister | Corwin Ashford | Overall leadership, external relations | The only voice that matters |
+| Archmagister | [[Archmagister Corwin Ashford]] Ashford | Overall leadership, external relations | The only voice that matters |
 | Master of Healing | Sister Aldara Bright | Healing curriculum, hospital oversight | Temple-trained before joining |
 | Master of Divination | Seer Matthias Crow | Divination studies, prophecy interpretation | Claims blindness; sees more than anyone |
 | Master of Discipline | Ser Jonas Grey | Student conduct, ward maintenance | Former soldier; no magical ability |
-| Crown's Observer | Lady Elara Vance | Reports to the Regent's council | Valdren appointment; closely watched |
+| Crown's Observer | Lady Elara Vance | Reports to [[Lord Varic Valdren]]'s council | Valdren appointment; closely watched |
 | Faith's Warden | Father Benedict | Ensures compliance with doctrine | Suspicious of everything |
 
 ### Administrative Politics
-The Academy is caught between powers. The Crown's Observer reports to Lord Varic Valdren, ensuring the Academy supports (or at least doesn't oppose) the regency. The Faith's Warden reports to High Confessor Maren, watching for heresy. The Archmagister navigates between them, keeping the Academy alive by making it too useful to destroy and too compliant to threaten.
+The Academy is caught between powers. The Crown's Observer reports to [[Lord Varic Valdren]], ensuring the Academy supports (or at least doesn't oppose) the regency. [[The Faith of the Three]]'s Warden reports to [[High Confessor Maren]], watching for heresy. [[Archmagister Corwin Ashford]] navigates between them, keeping the Academy alive by making it too useful to destroy and too compliant to threaten.
 
 ## Faculty
 
@@ -124,7 +124,7 @@ The Academy is caught between powers. The Crown's Observer reports to Lord Varic
 ### Notable Faculty
 | Name | Subject | Reputation | Secret |
 |------|---------|------------|--------|
-| Corwin Ashford | Administration | Shrewd political survivor | Possesses forbidden texts |
+| [[Archmagister Corwin Ashford]] Ashford | Administration | Shrewd political survivor | Possesses forbidden texts |
 | Sister Aldara Bright | Healing | The most beloved teacher | Struggles with burnout; her magic is fading |
 | Seer Matthias Crow | Divination | Disturbing accuracy | Has seen the rising dead; says nothing |
 | Master Hendrik Stone | Artifice | Greatest maker in a generation | Secretly builds weapons for the highest bidder |
@@ -193,7 +193,7 @@ What is NOT taught (officially):
 ### Research
 **Focus Areas:** Improved healing techniques, more efficient wards, alchemical processes
 
-**Notable Projects:** The Great Ward (protection for Aldersgate), the Seer's Atlas (mapping prophetic visions)
+**Notable Projects:** The Great Ward (protection for [[Aldersgate]]), the Seer's Atlas (mapping prophetic visions)
 
 ## Students
 
@@ -202,7 +202,7 @@ What is NOT taught (officially):
 
 **Capacity:** 200
 
-**Acceptance Rate:** Less than 5% of applicants have the gift; of those, 80% are accepted if they can pay
+**Acceptance Rate:** Less than 5% of applicants have [[Magic of Eldermyr|the gift]]; of those, 80% are accepted if they can pay
 
 ### Demographics
 | Group | Percentage | Notes |
@@ -240,8 +240,8 @@ What is NOT taught (officially):
 ### Famous Alumni
 | Name | Graduation | Specialty | Achievement |
 |------|------------|-----------|-------------|
-| High King Aldric I | 60 years ago | Divination | The Mad King—a cautionary tale |
-| Wardmaster General Soren | 40 years ago | Warding | Designed the capital's defenses |
+| High [[High King Aldric II]] I | 60 years ago | Divination | [[The Mad King]]—a cautionary tale |
+| Wardmaster General Soren | 40 years ago | Warding | Designed [[Aldersgate]]'s defenses |
 | Lady Corvina the Wise | 150 years ago | Healing | Ended the Weeping Plague |
 | Archmage Theodric | 200 years ago | Artifice | Forged the Crown of Unity (destroyed) |
 
@@ -264,7 +264,7 @@ What is NOT taught (officially):
 ### Secret Traditions
 - **The Night Watch initiation** — Advanced students explore the Sealed Wing
 - **The Reckoning** — Faculty meet in secret to discuss students who show forbidden potential
-- **The Archive** — A hidden collection of forbidden texts maintained by the Archmagister
+- **The Archive** — A hidden collection of forbidden texts maintained by [[Archmagister Corwin Ashford|the Archmagister]]
 
 ## Facilities
 
@@ -328,7 +328,7 @@ What is NOT taught (officially):
 | Path | Percentage | Employers |
 |------|------------|-----------|
 | Court Magician | 25% | Noble houses, royal court |
-| Temple Healer | 30% | Faith of the Three |
+| Temple Healer | 30% | Faith of [[The Faith of the Three]] |
 | Private Practice | 20% | Wealthy clients, merchant companies |
 | Academy Faculty | 15% | The Academy itself |
 | Crown Service | 10% | The Wardmaster's office, military |
@@ -346,7 +346,7 @@ What is NOT taught (officially):
 ### Financial Status
 **Current State:** Stable but tightening; the succession crisis has reduced noble enrollment
 
-**Recent Changes:** Lord Varic Valdren has offered increased funding—with conditions the Archmagister is reluctant to accept
+**Recent Changes:** [[Lord Varic Valdren]] has offered increased funding—with conditions [[Archmagister Corwin Ashford|the Archmagister]] is reluctant to accept
 
 ## Politics
 
@@ -355,16 +355,16 @@ What is NOT taught (officially):
 |---------|--------|--------|-------|
 | The Traditionalists | Maintain current restrictions; survive | Archmagister Ashford | Dominant |
 | The Reformers | Expand sanctioned magic; more autonomy | Master Hendrik Stone | Growing |
-| The Faithful | Closer alignment with the Faith | Father Benedict | Significant |
+| The Faithful | Closer alignment with [[The Faith of the Three]] | Father Benedict | Significant |
 | The Pragmatists | Support whoever wins the succession | Lady Elara Vance | Influential |
 
 ### External Relations
 | Entity | Relationship | Notes |
 |--------|--------------|-------|
 | The Crown | Dependent | The Academy exists at crown sufferance |
-| [[The Faith of the Three]] | Complicated | The Faith controls what is forbidden |
-| [[House Valdren]] | Wary | Varic wants the Academy's support |
-| [[House Thorne]] | Distant | Margret has little use for mages |
+| [[The Faith of the Three]] | Complicated | [[The Faith of the Three]] controls what is forbidden |
+| [[House Valdren]] | Wary | [[Lord Varic Valdren]] wants the Academy's support |
+| [[House Thorne]] | Distant | [[Lady Margret Thorne]] has little use for mages |
 | [[House Karath]] | None officially | The Academy fears what Karath is becoming |
 
 ### Government Relations
@@ -384,19 +384,19 @@ The Academy was established three centuries ago after the Mage Wars—a period w
 |-------|------|--------|
 | Founding | 300 years ago | Created the current system of regulated magic |
 | The Theodric Affair | 200 years ago | An Archmage attempted to seize power; destroyed |
-| The Mad King's Training | 60 years ago | Aldric I studied here; used what he learned |
-| The Great War Neutrality | 23 years ago | The Academy stayed neutral; lost respect on all sides |
+| [[The Mad King]]'s Training | 60 years ago | Aldric I studied here; used what he learned |
+| [[The Great War]] Neutrality | 23 years ago | The Academy stayed neutral; lost respect on all sides |
 
 ### Current Era
-The Academy navigates the succession crisis carefully. The Archmagister has declared neutrality, but pressures mount. House Valdren offers increased funding for support; House Thorne threatens reduced protection if the Academy aids their enemies. And the rising dead in the Ashen Fields represents a magical crisis the Academy cannot ignore—yet cannot openly investigate without political complications.
+The Academy navigates the succession crisis carefully. [[Archmagister Corwin Ashford]] has declared neutrality, but pressures mount. [[House Valdren]] offers increased funding for support; [[House Thorne]] threatens reduced protection if the Academy aids their enemies. And the rising dead in [[The Ashen Fields]] represents a magical crisis the Academy cannot ignore—yet cannot openly investigate without political complications.
 
 ## Secrets
 
-1. **The Archmagister maintains a forbidden library.** The Sealed Wing contains texts on necromancy, binding, and blood magic—not for practice, but for understanding threats. If the Faith discovered this, the Academy would burn.
+1. **[[Archmagister Corwin Ashford]] maintains a forbidden library.** The Sealed Wing contains texts on necromancy, binding, and blood magic—not for practice, but for understanding threats. If [[The Faith of the Three]] discovered this, the Academy would burn.
 
-2. **The Mad King learned his dark arts here.** Aldric I was a brilliant student who found his way into the Sealed Wing. Some of his discoveries remain hidden in the Academy's walls.
+2. **[[The Mad King]] learned his dark arts here.** Aldric I was a brilliant student who found his way into the Sealed Wing. Some of his discoveries remain hidden in the Academy's walls.
 
-3. **Seer Matthias Crow has seen what's coming.** The Master of Divination has witnessed visions of the Ashen Fields spreading, the dead overrunning the realm, and something crowned in black iron ruling the ruins. He has told no one.
+3. **Seer Matthias Crow has seen what's coming.** The Master of Divination has witnessed visions of [[The Ashen Fields|the Ashen Fields]] spreading, the dead overrunning the realm, and something crowned in black iron ruling the ruins. He has told no one.
 
 4. **Master Hendrik Stone sells weapons to all sides.** His artifice shop has created enchanted weapons for Valdren, Thorne, and agents whose allegiance he doesn't ask about.
 
@@ -408,9 +408,9 @@ The Academy navigates the succession crisis carefully. The Archmagister has decl
 
 2. **The Crow's Silence:** Seer Matthias Crow approaches the party secretly, offering to share his visions—but he needs something done first, something he cannot be seen to authorize.
 
-3. **The Recruitment:** Both Valdren and Thorne want the Academy's support. The party is hired to persuade (or pressure) the Archmagister. How far will they go?
+3. **The Recruitment:** Both Valdren and Thorne want the Academy's support. The party is hired to persuade (or pressure) [[Archmagister Corwin Ashford|the Archmagister]]. How far will they go?
 
-4. **The Old Tower:** Strange phenomena in the Tower of Measured Steps suggest something is waking in the foundations. The Archmagister cannot investigate openly—he needs outsiders.
+4. **The Old Tower:** Strange phenomena in the Tower of Measured Steps suggest something is waking in the foundations. [[Archmagister Corwin Ashford|The Archmagister]] cannot investigate openly—he needs outsiders.
 
 5. **The Graduate's Return:** A failed student who was expelled for forbidden research returns with power no Academy training should provide. Where did they learn what they know?
 

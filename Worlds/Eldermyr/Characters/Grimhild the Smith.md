@@ -43,7 +43,7 @@ role: Guildmaster
 # Grimhild the Smith
 
 ## Overview
-Grimhild the Smith is the legendary Guildmaster of the Forgemasters Guild and the greatest smith in living memory. Her weapons never break. Her armor has turned dragon fire. At seventy-two, she has trained three generations of smiths and armed the Eastern March's armies for half a century. She is also secretly forging something unprecedented—a weapon that might unite the realm or destroy it—and she needs materials that don't exist in Eldermyr.
+Grimhild the Smith is the legendary Guildmaster of [[The Forgemasters Guild]] and the greatest smith in living memory. Her weapons never break. Her armor has turned dragon fire. At seventy-two, she has trained three generations of smiths and armed [[The Eastern March]]'s armies for half a century. She is also secretly forging something unprecedented—a weapon that might unite the realm or destroy it—and she needs materials that don't exist in Eldermyr.
 
 ## Appearance
 
@@ -90,7 +90,7 @@ Grimhild was apprenticed at twelve, became a journeywoman at eighteen, and was a
 Grimhild became Guildmaster forty years ago after her predecessor died (in her forge, working, as she approved). She's refused to step down despite her age because she sees no one ready to replace her. Her standards are exacting; few measure up.
 
 ### The Secret Commission
-Three years ago, Grimhild began work on something unprecedented. She's told no one the full truth—only that she needs materials that don't exist in Eldermyr. She's asked Konrad Thorne to help arrange an expedition beyond the Ostmark Pass.
+Three years ago, Grimhild began work on something unprecedented. She's told no one the full truth—only that she needs materials that don't exist in Eldermyr. She's asked [[Ser Konrad Thorne|Konrad]] Thorne to help arrange an expedition beyond the Ostmark Pass.
 
 ## Statistics
 
@@ -154,7 +154,7 @@ Grimhild is not a warrior—but she's spent sixty years swinging heavy hammers, 
 ## Equipment
 
 ### Personal Forge
-Grimhild's forge in Hammerhall is legendary. The fires burn hotter, the anvil is ancient beyond reckoning, and the tools have been refined for centuries. Weapons made here are simply better.
+Grimhild's forge in [[Hammerhall]] is legendary. The fires burn hotter, the anvil is ancient beyond reckoning, and the tools have been refined for centuries. Weapons made here are simply better.
 
 ### The Guildmaster's Hammer
 A warhammer she forged when she became Guildmaster. It can shape metal at room temperature with enough strikes—a technique no one else has replicated.
@@ -165,17 +165,17 @@ Work in progress. Currently exists as a tang, a partial blade, and a vision. Req
 ## Relationships
 
 ### The Guild
-- **[[Ser Konrad Thorne]]** — The March lord who understands craft; she respects him
+- **[[Ser Konrad Thorne]]** — [[The Eastern March|The March]] lord who understands craft; she respects him
 - **The Masters** — Her council; she's trained most of them
 - **Apprentices** — She still teaches, though rarely; it's considered a great honor
 
 ### With Power
-- **[[Lady Margret Thorne]]** — Respects the Iron Lady; would support a Thorne king
+- **[[Lady Margret Thorne]]** — Respects [[Lady Margret Thorne|the Iron Lady]]; would support a Thorne king
 - **[[House Valdren]]** — Distrusts merchants on principle; they see value, not craft
 - **Everyone Else** — Largely indifferent to politics; cares about the work
 
 ### The Commission
-Only Grimhild knows the full truth about what she's forging. She's told Konrad she needs materials from beyond the Pass. She hasn't told him why.
+Only Grimhild knows the full truth about what she's forging. She's told [[Ser Konrad Thorne|Konrad]] she needs materials from beyond the Pass. She hasn't told him why.
 
 ## Story Role
 

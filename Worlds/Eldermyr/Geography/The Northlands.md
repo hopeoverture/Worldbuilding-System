@@ -27,10 +27,10 @@ population: ~200,000
 # The Northlands
 
 > [!info] Generation Instructions
-> The Northlands are a remote, ancient region where the Old Ways persist alongside the Faith. This region reflects Norse/Celtic naming conventions with nature-names and strong clan identity.
+> The Northlands are a remote, ancient region where the Old Ways persist alongside [[The Faith of the Three|the Faith]]. This region reflects Norse/Celtic naming conventions with nature-names and strong clan identity.
 
 ## Overview
-The Northlands stretch from the Greycrown Mountains to the northern reaches of the realm, a vast wilderness of ancient forests, frozen lakes, and scattered settlements clinging to hard-won clearings. No single great house rules here—instead, a patchwork of minor lords, clan chiefs, and free villages share power in uneasy balance. The Faith of the Three holds sway in the towns, but in the deep woods, the Old Ways never truly died. Spirit-Speakers commune with ancestors, sacred groves mark places of power, and the dead are honored as guides rather than simply mourned.
+The Northlands stretch from the Greycrown Mountains to the northern reaches of the realm, a vast wilderness of ancient forests, frozen lakes, and scattered settlements clinging to hard-won clearings. No single great house rules here—instead, a patchwork of minor lords, clan chiefs, and free villages share power in uneasy balance. [[The Faith of the Three]] holds sway in the towns, but in the deep woods, the Old Ways never truly died. [[The Spirit-Speakers|Spirit-Speakers]] commune with ancestors, sacred groves mark places of power, and the dead are honored as guides rather than simply mourned.
 
 ## Classification
 
@@ -89,7 +89,7 @@ The Northlands stretch from the Greycrown Mountains to the northern reaches of t
 
 **Lakes:**
 - Isfjord — Great frozen lake, thaws for only three months
-- Stoneholm Lake — Sacred to the Old Ways, where Spirit-Speakers gather
+- Stoneholm Lake — Sacred to the Old Ways, where [[The Spirit-Speakers|Spirit-Speakers]] gather
 - Dozens of smaller lakes, many unnamed on any map
 
 **Coastline:** None (landlocked, bounded by mountains)
@@ -121,7 +121,7 @@ The Northlands stretch from the Greycrown Mountains to the northern reaches of t
 - Numerous small villages and isolated homesteads scattered through clearings
 
 ### Ruins & Abandoned Places
-- The Standing Stones — Ancient circle predating the Faith, still used for Old Ways rituals
+- The Standing Stones — Ancient circle predating [[The Faith of the Three|the Faith]], still used for Old Ways rituals
 - Frozen Hold — A castle abandoned when the climate grew colder, now ice-locked
 - Spirit-Caves — Sacred caves where the Old Ways dead are laid to rest
 
@@ -135,8 +135,8 @@ The Northlands stretch from the Greycrown Mountains to the northern reaches of t
 | Group | Percentage | Region |
 |-------|------------|--------|
 | Northfolk (clans) | 85% | Throughout |
-| Crown Lands settlers | 10% | Vindrheim, trade towns |
-| Eastern March descent | 3% | Eastern foothills |
+| [[The Crown Lands]] settlers | 10% | Vindrheim, trade towns |
+| [[The Eastern March]] descent | 3% | Eastern foothills |
 | True Wildlings | 2% | Deep woods (rarely seen) |
 
 ### Languages
@@ -200,13 +200,13 @@ Notable legal traditions:
 - Luxuries (for those who want them)
 
 **Trade Partners:**
-- Crown Lands (grain for timber)
-- Eastern March (iron exchange)
-- Western Shore (luxury trade)
+- [[The Crown Lands|Crown Lands]] (grain for timber)
+- [[The Eastern March|Eastern March]] (iron exchange)
+- [[The Western Shore|Western Shore]] (luxury trade)
 
 ### Trade Routes
 Major paths through or to the region:
-- [[The Northern Way]] — Road from Aldersgate to Vindrheim
+- [[The Northern Way]] — Road from [[Aldersgate]] to Vindrheim
 - River routes along the Kingswater (seasonal)
 - Forest paths known only to locals
 
@@ -237,14 +237,14 @@ Northfolk are proud of their hardiness, their traditions, and their independence
 **Dominant Faith:** The Chronicler's Silence (regional Faith variant) in towns; The Old Ways in rural areas
 
 **Other Faiths:**
-- The Old Ways — Ancestor veneration, Spirit-Speakers, land spirits
+- The Old Ways — Ancestor veneration, [[The Spirit-Speakers|Spirit-Speakers]], land spirits
 - Orthodox Faith present but not dominant
 - Many practice both, seeing no contradiction
 
 **Sacred Sites:**
 - [[Myrkvid]] — The Dark Wood, heart of the Old Ways
 - The Standing Stones — Ancient ritual circle
-- Stoneholm Lake — Where Spirit-Speakers gather
+- Stoneholm Lake — Where [[The Spirit-Speakers|Spirit-Speakers]] gather
 - Ancestor Caves — Where the Old Ways dead are laid to rest
 
 ### Art & Architecture
@@ -257,15 +257,15 @@ Regional styles:
 ## History
 
 ### Origins
-The Northfolk are the oldest people in Eldermyr, predating the southern kingdoms. When the realm unified, the North was never truly conquered—it was persuaded, bribed, and eventually absorbed through marriage and trade. The Old Ways that the Faith suppressed elsewhere survived here, protected by distance and stubbornness.
+The Northfolk are the oldest people in Eldermyr, predating the southern kingdoms. When the realm unified, the North was never truly conquered—it was persuaded, bribed, and eventually absorbed through marriage and trade. The Old Ways that [[The Faith of the Three|the Faith]] suppressed elsewhere survived here, protected by distance and stubbornness.
 
 ### Key Events
 | Era | Event | Impact |
 |-----|-------|--------|
 | Ancient | First settlement by the Northfolk | The Old Ways established |
 | 500 years ago | Unification under the Crown | Nominal allegiance, practical independence |
-| 300 years ago | The Faith spreads north | Towns convert; forests remain Old Ways |
-| 23 years ago | The Great War | North stayed neutral, profited from both sides |
+| 300 years ago | [[The Faith of the Three]] spreads north | Towns convert; forests remain Old Ways |
+| 23 years ago | [[The Great War]] | North stayed neutral, profited from both sides |
 | Present | Succession Crisis | The clans debate whether to care at all |
 
 ### Former Rulers
@@ -274,7 +274,7 @@ Previous powers that controlled this region:
 - The crown claims sovereignty but rarely enforces it
 
 ### Recent History
-The Northlands sat out the Great War, supplying both sides with timber and furs while losing no blood. This pragmatic neutrality has left them in a strong position—everyone owes them, and no one can afford their enmity. Now, as the succession crisis unfolds, various factions court the northern clans. But why should the North care who sits a distant throne? Some chiefs see opportunity; others want to be left alone. The Allthing will decide.
+The Northlands sat out [[The Great War|the Great War]], supplying both sides with timber and furs while losing no blood. This pragmatic neutrality has left them in a strong position—everyone owes them, and no one can afford their enmity. Now, as the succession crisis unfolds, various factions court the northern clans. But why should the North care who sits a distant throne? Some chiefs see opportunity; others want to be left alone. The Allthing will decide.
 
 ## Dangers
 
@@ -300,7 +300,7 @@ Bandits, enemies, dark powers:
 
 ### Forbidden Areas
 Places people avoid:
-- The heart of Myrkvid (even Spirit-Speakers go carefully)
+- The heart of Myrkvid (even [[The Spirit-Speakers|Spirit-Speakers]] go carefully)
 - Frozen Hold (the cold there is unnatural)
 - Beyond the Greycrown Gap (few return)
 - The Drowning Pool (cursed)
@@ -311,7 +311,7 @@ Places people avoid:
 Famous natural or constructed features:
 - [[Myrkvid]] — The Dark Wood, ancient beyond reckoning
 - [[Vindrheim]] — Where the clans gather
-- The Standing Stones — Circle older than the Faith
+- The Standing Stones — Circle older than [[The Faith of the Three|the Faith]]
 - Isfjord — The great frozen lake
 
 ### Adventure Sites
@@ -343,7 +343,7 @@ Militarily or economically important locations:
 | Thane Erikson | Warden of the Northern Way | Guards the road, collects tolls |
 
 ### Notable Residents
-- Saga-Singer Kael — Keeper of oral history, knows stories from before the Faith
+- Saga-Singer Kael — Keeper of oral history, knows stories from before [[The Faith of the Three|the Faith]]
 - Huntmaster Fenris — Legendary tracker, said to speak with wolves
 
 ### Legendary Figures
@@ -354,11 +354,11 @@ Historical heroes connected to this region:
 
 ## Secrets
 
-1. **The Old Ways are growing stronger.** As the Faith weakens elsewhere, the northern spirits grow more active. Something is waking in Myrkvid that the Spirit-Speakers cannot control.
+1. **The Old Ways are growing stronger.** As [[The Faith of the Three]] weakens elsewhere, the northern spirits grow more active. Something is waking in Myrkvid that [[The Spirit-Speakers]] cannot control.
 
 2. **There is a kingdom beyond the Greycrowns.** Not foreign humans—something else. The smugglers who use the Gap have made bargains they don't fully understand.
 
-3. **Elder Yrsa knows what lies beneath the Ashen Fields.** The ancestor spirits have told her. She has not shared this knowledge because she believes the south must suffer for abandoning the Old Ways.
+3. **Elder Yrsa knows what lies beneath [[The Ashen Fields|the Ashen Fields]].** The ancestor spirits have told her. She has not shared this knowledge because she believes the south must suffer for abandoning the Old Ways.
 
 4. **The crown's grip on the North is weaker than anyone admits.** If the succession crisis leads to war, the clans will declare independence—and no southern army can take them.
 

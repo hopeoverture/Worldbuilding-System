@@ -33,10 +33,10 @@ location: "[[Hammerhall]]"
 owner: "[[Grimhild the Smith]]"
 ---
 
-# Grimhild's Commission
+# [[Grimhild the Smith|Grimhild]]'s Commission
 
 ## Overview
-In the deepest forge of Hammerhall, Forgemaster Grimhild the Smith works on a weapon she has told no one about. The commission came to her in dreams—a blade that could kill what should not exist, slay what refuses to die, and end what was never truly alive. She has been forging it for three years, working in secret during the darkest hours of night. The blade is nearly complete. When it is finished, it will be the only weapon in Eldermyr capable of destroying the Blackened Crown—and whoever wears it.
+In the deepest forge of [[Hammerhall]], Forgemaster [[Grimhild the Smith]] works on a weapon she has told no one about. The commission came to her in dreams—a blade that could kill what should not exist, slay what refuses to die, and end what was never truly alive. She has been forging it for three years, working in secret during the darkest hours of night. The blade is nearly complete. When it is finished, it will be the only weapon in Eldermyr capable of destroying [[The Blackened Crown|the Blackened Crown]]—and whoever wears it.
 
 ## Weapon Statistics
 
@@ -56,7 +56,7 @@ In the deepest forge of Hammerhall, Forgemaster Grimhild the Smith works on a we
 
 ### Properties
 - Versatile
-- Finesse (despite being a longsword—Grimhild's masterwork)
+- Finesse (despite being a longsword—[[Grimhild the Smith|Grimhild]]'s masterwork)
 
 ### Mastery Property
 **Mastery:** Sap
@@ -71,7 +71,7 @@ When you hit a creature with this weapon, that creature has Disadvantage on its 
 
 ### Attunement
 - **Requires Attunement:** Yes
-- **Prerequisites:** Grimhild has not revealed the requirements; the blade will choose its wielder
+- **Prerequisites:** [[Grimhild the Smith|Grimhild]] has not revealed the requirements; the blade will choose its wielder
 
 ### Enhancement
 - **Attack Bonus:** +3
@@ -85,16 +85,16 @@ When you hit a creature with this weapon, that creature has Disadvantage on its 
 
 **True Death.** Creatures killed by this weapon cannot be raised as undead by any means short of divine intervention. Their souls pass immediately to the Chronicler.
 
-**Crown Breaker.** *(Awakened ability—not yet revealed)* This weapon can damage artifacts as if they were creatures. Against the Blackened Crown specifically, it deals 10d10 radiant damage on a hit.
+**Crown Breaker.** *(Awakened ability—not yet revealed)* This weapon can damage artifacts as if they were creatures. Against [[The Blackened Crown|the Blackened Crown]] specifically, it deals 10d10 radiant damage on a hit.
 
 ### Charges
 *This weapon does not use charges, but some abilities are limited per day.*
 
 ### Sentience
-*The blade is not sentient, but Grimhild has infused it with purpose. It resonates when undead are near.*
+*The blade is not sentient, but [[Grimhild the Smith|Grimhild]] has infused it with purpose. It resonates when undead are near.*
 
 ### Curse
-*The blade bears no curse, but wielding it marks the wielder as a target for every undead in Eldermyr. The Blackened Crown will feel its presence.*
+*The blade bears no curse, but wielding it marks the wielder as a target for every undead in Eldermyr. [[The Blackened Crown]] will feel its presence.*
 
 ## Appearance
 
@@ -102,7 +102,7 @@ When you hit a creature with this weapon, that creature has Disadvantage on its 
 The blade is stark simplicity—no ornamentation, no runes, no decoration. It is a longsword of mirror-bright steel with a single, perfect edge. The blade seems to glow faintly in darkness, as if reflecting light that isn't there. The crossguard is a simple straight bar. The grip is wrapped in white leather. The pommel is a sphere of the same bright steel. Everything about it speaks of function over form, of a tool made for one purpose.
 
 ### Identifying Marks
-- No maker's mark (Grimhild has deliberately not signed it)
+- No maker's mark ([[Grimhild the Smith|Grimhild]] has deliberately not signed it)
 - The blade's perfect reflection (no imperfection in the steel)
 - A faint warmth when undead are within 60 feet
 - The white leather grip, unusual for combat weapons
@@ -110,18 +110,18 @@ The blade is stark simplicity—no ornamentation, no runes, no decoration. It is
 ## History
 
 ### Creation
-Grimhild began this blade three years ago, after the first reports of unrest in the Ashen Fields. She dreamed of a weapon—not commissioned by any lord, not ordered by any guild, simply *necessary*. She works on it only at night, using materials she has gathered from across the realm: star-metal from the Greycrowns, silver blessed at Thornhall, and cold iron from the deepest mines of the March.
+[[Grimhild the Smith|Grimhild]] began this blade three years ago, after the first reports of unrest in [[The Ashen Fields]]. She dreamed of a weapon—not commissioned by any lord, not ordered by any guild, simply *necessary*. She works on it only at night, using materials she has gathered from across the realm: star-metal from the Greycrowns, silver blessed at [[Thornhall]], and cold iron from the deepest mines of [[The Eastern March]].
 
 ### Notable Owners
 
-1. **Grimhild the Smith:** Current creator, has never wielded it
+1. **[[Grimhild the Smith]]:** Current creator, has never wielded it
 2. **(Destined Wielder):** Unknown—the blade will choose when complete
 
 ### Famous Deeds
 *None yet—the blade has never been used.*
 
 ### Current Status
-The blade is 90% complete. Grimhild works on it in a sealed forge beneath Hammerhall. She expects to finish within the month. She has told no one of its existence—not the Forgemasters Guild, not House Thorne, not even her apprentices.
+The blade is 90% complete. [[Grimhild the Smith|Grimhild]] works on it in a sealed forge beneath [[Hammerhall]]. She expects to finish within the month. She has told no one of its existence—not [[The Forgemasters Guild|the Forgemasters Guild]], not [[House Thorne]], not even her apprentices.
 
 ## Lore
 
@@ -129,7 +129,7 @@ The blade is 90% complete. Grimhild works on it in a sealed forge beneath Hammer
 The blade has no cultural significance yet—no one knows it exists. When it is revealed, it will become the realm's greatest hope against the rising dead.
 
 ### Legends
-*No legends yet—but Grimhild's dreams suggest the blade has a destiny.*
+*No legends yet—but [[Grimhild the Smith|Grimhild]]'s dreams suggest the blade has a destiny.*
 
 ### Recognition
 **Fame Level:** Unknown
@@ -139,21 +139,21 @@ No one would recognize this weapon. That is deliberate.
 ## Acquisition
 
 ### Current Location
-The sealed forge beneath Hammerhall, accessible only to Grimhild.
+The sealed forge beneath [[Hammerhall]], accessible only to [[Grimhild the Smith|Grimhild]].
 
 ### Guardian/Protection
-Grimhild herself guards it. The sealed forge has no other entrance and is warded against scrying.
+[[Grimhild the Smith|Grimhild]] herself guards it. The sealed forge has no other entrance and is warded against scrying.
 
 ### Claiming Requirements
-Unknown. Grimhild intends to present the blade when the time is right—but she doesn't know to whom.
+Unknown. [[Grimhild the Smith|Grimhild]] intends to present the blade when the time is right—but she doesn't know to whom.
 
 ## Plot Hooks
 
-1. **The Smith's Secret:** The party discovers Grimhild is working on something in secret. What is it, and why won't she reveal it?
+1. **The Smith's Secret:** The party discovers [[Grimhild the Smith|Grimhild]] is working on something in secret. What is it, and why won't she reveal it?
 
-2. **The Dream Commission:** A PC with a connection to the dead (or the Chronicler) dreams of a blade that can end the curse. The dream leads to Hammerhall.
+2. **The Dream Commission:** A PC with a connection to the dead (or the Chronicler) dreams of a blade that can end the curse. The dream leads to [[Hammerhall]].
 
-3. **Race Against Time:** Lord Draven's agents have learned Grimhild is creating something dangerous to their plans. The party must protect her—and the blade—until it's complete.
+3. **Race Against Time:** [[Lord Draven Karath|Lord Draven]]'s agents have learned [[Grimhild the Smith|Grimhild]] is creating something dangerous to their plans. The party must protect her—and the blade—until it's complete.
 
 4. **The Wielder's Choice:** The blade is finished. It chooses a PC as its wielder. But accepting it means becoming the target of every undead in Eldermyr.
 

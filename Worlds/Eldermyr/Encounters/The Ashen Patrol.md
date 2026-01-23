@@ -28,7 +28,7 @@ terrain: Blighted farmland near the Ashen Fields
 # The Ashen Patrol
 
 ## Overview
-The party encounters a patrol of the risen dead near the edge of the Ashen Fields—soldiers from the Great War who still march their old routes, attacking anything living that crosses their path. Unlike mindless undead, these soldiers retain fragments of their training and tactics. They fight as a unit, and somewhere among them, a sergeant still issues commands.
+The party encounters a patrol of the risen dead near the edge of [[The Ashen Fields]]—soldiers from [[The Great War]] who still march their old routes, attacking anything living that crosses their path. Unlike mindless undead, these soldiers retain fragments of their training and tactics. They fight as a unit, and somewhere among them, a sergeant still issues commands.
 
 ## Classification
 
@@ -141,11 +141,11 @@ The party encounters a patrol of the risen dead near the edge of the Ashen Field
 ## Battlefield
 
 ### Location
-**Setting:** A ruined farmstead on the edge of the Ashen Fields, with a collapsed barn and stone walls
+**Setting:** A ruined farmstead on the edge of [[The Ashen Fields|the Ashen Fields]], with a collapsed barn and stone walls
 
 **Dimensions:** 80 feet × 60 feet
 
-**Lighting:** Dim (perpetual overcast in the Reach; bright light sources give advantage against the Wight)
+**Lighting:** Dim (perpetual overcast in [[The Karath Reach|the Reach]]; bright light sources give advantage against the Wight)
 
 **Terrain Type:** Cluttered (ruined structures, walls, debris)
 
@@ -275,7 +275,7 @@ Survive the encounter; defeat or escape the patrol.
 
 ### Third Parties
 - Other survivors may be hiding in the area; if the party is losing, a local refugee might create a distraction (DM option)
-- If combat is loud and long, House Karath scouts may arrive afterward to investigate
+- If combat is loud and long, [[House Karath]] scouts may arrive afterward to investigate
 
 ### Time Pressure
 **Countdown:** None (but reinforcements arrive at round 9)
@@ -304,7 +304,7 @@ Survive the encounter; defeat or escape the patrol.
 **Magic Items:** None (but the medal may have plot significance)
 
 ### Information
-- These soldiers are from the 3rd Karath Infantry, who were destroyed at the Battle of Ashen Fields
+- These soldiers are from the 3rd Karath Infantry, who were destroyed at [[The Battle of Ashen Fields|the Battle of Ashen Fields]]
 - Their patrol route suggests they're guarding something to the south
 - The Sergeant's orders (carved into a piece of leather) read: "Hold the northern approach. None shall pass to the heart."
 
@@ -356,15 +356,15 @@ Survive the encounter; defeat or escape the patrol.
 
 ## Secrets
 
-1. **The Heart.** The Sergeant's orders mention "the heart." This refers to the center of the Ashen Fields, where the Figure resides.
+1. **The Heart.** The Sergeant's orders mention "the heart." This refers to the center of [[The Ashen Fields]], where [[The Mad King]] resides.
 
-2. **Karath Scouts.** Lord Draven's scouts have been watching this area. If the party defeats the patrol, they'll be approached within the day.
+2. **Karath Scouts.** [[Lord Draven Karath|Lord Draven]]'s scouts have been watching this area. If the party defeats the patrol, they'll be approached within the day.
 
 ## Plot Hooks
 
-1. **The Northern Approach:** Following the patrol's route backward leads toward the Ashen Fields' center. What are they guarding?
+1. **The Northern Approach:** Following the patrol's route backward leads toward [[The Ashen Fields|the Ashen Fields]]' center. What are they guarding?
 
-2. **The Medal's Owner:** The Sergeant was Sergeant Aldric Vorn, whose family still lives in Chernogrod. They thought he died a hero.
+2. **The Medal's Owner:** The Sergeant was Sergeant Aldric Vorn, whose family still lives in [[Chernogrod]]. They thought he died a hero.
 
 ## Image Prompts
 

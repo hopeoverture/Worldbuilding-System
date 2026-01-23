@@ -38,12 +38,12 @@ military_presence: Naval
 # Marevento
 
 ## Overview
-Marevento builds the ships that make the Western Shore wealthy. Every vessel in the Valdren Fleet, every merchant ship that crosses the Trader's Sea, began life in Marevento's yards. The town's craftsmen are artists in wood and rope, and the Shipwright's Guild guards its secrets jealously. When the succession crisis threatens trade, Marevento feels it first—fewer orders, idle workers, and nervous glances toward the ships of foreign powers.
+Marevento builds the ships that make [[The Western Shore|the Western Shore]] wealthy. Every vessel in the Valdren Fleet, every merchant ship that crosses the Trader's Sea, began life in Marevento's yards. The town's craftsmen are artists in wood and rope, and the Shipwright's Guild guards its secrets jealously. When the succession crisis threatens trade, Marevento feels it first—fewer orders, idle workers, and nervous glances toward the ships of foreign powers.
 
 ## Geography
 
 ### Location
-South of Porto Valdris along the coast, Marevento occupies a natural harbor perfect for shipbuilding—deep water, calm anchorage, and easy access to timber from the coastal hills.
+South of [[Porto Valdris]] along [[The Western Shore|the coast]], Marevento occupies a natural harbor perfect for shipbuilding—deep water, calm anchorage, and easy access to timber from the coastal hills.
 
 ### The Yards
 Seven great shipyards line the waterfront, each capable of building vessels from fishing boats to war galleys. The sound of hammers never stops.
@@ -69,15 +69,15 @@ A tavern frequented by naval officers and wealthy captains. [[Captain Alonzo the
 
 ## Key Figures
 
-### Guildmaster Alonzo Marinetti
+### Guildmaster [[Captain Alonzo the Bold|Alonzo Marinetti]]
 Master of the Shipwright's Guild, effectively the town's ruler. A practical man caught between Valdren pressure for more warships and the knowledge that arming one side means making enemies of the others.
 
-### Captain Alonzo the Bold
-Admiral of the Valdren Fleet, hero of a dozen sea battles, and Marevento's most famous son. His loyalty to House Valdren is absolute—but his concern for his hometown sometimes conflicts.
+### [[Captain Alonzo the Bold]]
+Admiral of the Valdren Fleet, hero of a dozen sea battles, and Marevento's most famous son. His loyalty to [[House Valdren]] is absolute—but his concern for his hometown sometimes conflicts.
 
 ## Plot Hooks
 
-1. **The Foreign Order:** A foreign power has secretly ordered ships from Marevento. The Valdrens don't know—yet. What happens when they find out?
+1. **The Foreign Order:** A foreign power has secretly ordered ships from Marevento. [[House Valdren|The Valdrens]] don't know—yet. What happens when they find out?
 
 2. **The Saboteur:** Ships launched from Marevento have been failing—subtle weaknesses that only show at sea. Someone is sabotaging the yards.
 

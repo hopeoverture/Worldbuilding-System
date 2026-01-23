@@ -77,7 +77,7 @@ The Faith does not acknowledge minor deities—only the Three.
 ### Fallen/Exiled Gods
 - Orthodox doctrine acknowledges no fallen gods
 - Heretical texts speak of a "Fourth" who was cast out—the god of chaos, freedom, or destruction—but the Synod condemns these as fabrications
-- **Secret:** The thing beneath [[the Ashen Fields]] may be something that predates even the Three
+- **Secret:** [[The Unnamed|The thing beneath]] [[the Ashen Fields]] may be something that predates even the Three
 
 ## Relationships
 
@@ -214,8 +214,8 @@ The Faith's position on foreign gods:
 ### Enemies
 **Divine Enemies:**
 - [[The Bound]] — Demons and corrupted spirits who oppose the covenant
-- Whatever the Mad King bargained with
-- **The Unnamed** — The thing beneath the Ashen Fields (unknown to doctrine)
+- Whatever [[The Mad King|the Mad King]] bargained with
+- **[[The Unnamed]]** — [[The Unnamed]] [[The Ashen Fields]] (unknown to doctrine)
 
 **Cosmic Threats:**
 - The return of primordial chaos
@@ -232,7 +232,7 @@ The Three are eternal and have always existed—this is doctrine. They emerged f
 2. **The Covenant of Rest:** Establishment of the afterlife and divine law
 3. **The Silence of the Fourth (heretical):** Alleged casting out of a chaos god
 4. **The Age of Saints:** Period when saints performed great miracles (500+ years ago)
-5. **The Thornhall Schism (disputed):** When the Chronicler's Silence tradition nearly split from the Orthodox Synod; reconciled but tensions remain
+5. **The [[Thornhall]] Schism (disputed):** When the Chronicler's Silence tradition nearly split from the Orthodox Synod; reconciled but tensions remain
 
 ### Changes Over Time
 - The Faith has grown more institutionalized and politically powerful over centuries
@@ -241,7 +241,7 @@ The Three are eternal and have always existed—this is doctrine. They emerged f
 - The current crisis is the greatest challenge in living memory
 
 ### Current Era
-The Faith faces its greatest test. The rising dead violate the most fundamental promise—that the Chronicler ensures all souls find rest. High Confessor Maren's claims of divine vision challenge orthodox doctrine. The succession crisis forces the church to take political sides. Some whisper that the covenant itself is breaking, and the clergy have no answers.
+The Faith faces its greatest test. The rising dead violate the most fundamental promise—that the Chronicler ensures all souls find rest. [[High Confessor Maren]]'s claims of divine vision challenge orthodox doctrine. The succession crisis forces the church to take political sides. Some whisper that the covenant itself is breaking, and the clergy have no answers.
 
 ## Mortal Impact
 
@@ -287,13 +287,13 @@ The Faith shapes every aspect of Eldermyr society:
 
 ## Secrets
 
-1. **The Three are real, but not alone.** Something older sleeps beneath [[the Ashen Fields]]—something that predates the covenant, perhaps predates the Three themselves. The Mad King found it. It is waking.
+1. **The Three are real, but not alone.** Something older sleeps beneath [[the Ashen Fields]]—something that predates the covenant, perhaps predates the Three themselves. [[The Mad King]] found it. It is waking.
 
-2. **High Confessor Maren's visions don't come from the Three.** She believes they do. She is wrong. Whatever speaks to her wears the voice of gods, but it is not divine.
+2. **[[High Confessor Maren]]'s visions don't come from the Three.** She believes they do. She is wrong. Whatever speaks to her wears the voice of gods, but it is not divine.
 
-3. **The "Fourth" may be real.** Heretical texts speak of a god of chaos who was unmade. But things unmade sometimes wish to be remade. Some scholars believe the thing beneath the Ashen Fields is the Fourth, imprisoned rather than destroyed.
+3. **The "Fourth" may be real.** Heretical texts speak of a god of chaos who was unmade. But things unmade sometimes wish to be remade. Some scholars believe [[The Unnamed]] [[The Ashen Fields]] is the Fourth, imprisoned rather than destroyed.
 
-4. **The saints' miracles have been declining for centuries.** The clergy hides this, but divine magic grows weaker with each generation. Something is wrong with the covenant—and it began long before the Mad King.
+4. **The saints' miracles have been declining for centuries.** The clergy hides this, but divine magic grows weaker with each generation. Something is wrong with the covenant—and it began long before [[The Mad King|the Mad King]].
 
 5. **The Chronicler's Book has begun writing itself.** In the great monastery at [[Thornhall]], the sacred replica of the Great Book—blank for centuries—has started filling with words no mortal wrote. The monks who read them have not spoken since.
 

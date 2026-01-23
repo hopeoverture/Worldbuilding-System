@@ -40,7 +40,7 @@ faction: "[[House Thorne]]"
 # Lady Margret Thorne
 
 ## Overview
-Lady Margret Thorne is the formidable matriarch of House Thorne, the military backbone of Eldermyr. She earned her title on the battlefield during the Great War, ruling beside her husband until his death and then alone for two decades. Now she is dying—a wasting sickness the healers cannot cure—and she must secure her house's future before her time runs out. She will not let a merchant's grandson wear the crown her house paid for in blood.
+Lady Margret Thorne is the formidable matriarch of [[House Thorne]], the military backbone of Eldermyr. She earned her title on the battlefield during [[The Great War|the Great War]], ruling beside her husband until his death and then alone for two decades. Now she is dying—a wasting sickness the healers cannot cure—and she must secure her house's future before her time runs out. She will not let a merchant's grandson wear the crown her house paid for in blood.
 
 ## Appearance
 
@@ -50,7 +50,7 @@ Lady Margret Thorne is the formidable matriarch of House Thorne, the military ba
 - **Height/Build:** 5'8", once powerfully built; now gaunt, muscles wasted, but carriage still proud
 - **Skin/Eyes:** Pale, almost gray; dark circles under steel-gray eyes that still blaze with will
 - **Hair:** Iron-gray, worn in a severe braid; was black as night in her youth
-- **Distinguishing Features:** Scar across left cheek from the Siege of Stahlburg; hands still calloused from sword grip; coughs blood when she thinks no one watches
+- **Distinguishing Features:** Scar across left cheek from the Siege of [[Stahlburg]]; hands still calloused from sword grip; coughs blood when she thinks no one watches
 
 ### Attire
 - **Typical Dress:** Practical dark clothing with Thorne's silver-and-black colors; always armored in public, even when she can barely stand
@@ -58,7 +58,7 @@ Lady Margret Thorne is the formidable matriarch of House Thorne, the military ba
 - **Symbol of Office:** Still wears her sword, though she can no longer swing it; removing it would be admitting defeat
 
 ### Presence
-When Margret enters a room, veterans straighten and younger lords fall silent. Even diminished by sickness, she commands with a look. The authority in her voice compensates for the weakness in her body. Those who knew her in her prime see a ghost of the woman who held Stahlburg against siege. Those who didn't still sense they're in the presence of someone who has earned every ounce of respect she's given.
+When Margret enters a room, veterans straighten and younger lords fall silent. Even diminished by sickness, she commands with a look. The authority in her voice compensates for the weakness in her body. Those who knew her in her prime see a ghost of the woman who held [[Stahlburg]] against siege. Those who didn't still sense they're in the presence of someone who has earned every ounce of respect she's given.
 
 ## Personality
 
@@ -67,29 +67,29 @@ When Margret enters a room, veterans straighten and younger lords fall silent. E
 2. **Controlled Fury:** Rage burns beneath the surface—at her failing body, at Valdren's scheming, at time running out—but she never loses control
 
 ### Ideals
-**Strength.** The realm is ruled by those with the power to take it and hold it. My house bled for this crown. We will not watch a merchant's puppet wear it while the Eastern March stands.
+**Strength.** The realm is ruled by those with [[Magic of Eldermyr]] to take it and hold it. My house bled for this crown. We will not watch a merchant's puppet wear it while [[The Eastern March]] stands.
 
 ### Bonds
-Her three sons are everything. Aldric has her sense of duty, Konrad has her pragmatism, and Viktor—Viktor has her ambition, which terrifies her. She will do anything to see them thrive, even if she has to break the realm to do it.
+Her three sons are everything. Aldric has her sense of duty, [[Ser Konrad Thorne|Konrad]] has her pragmatism, and [[Ser Viktor Thorne|Viktor]]—[[Ser Viktor Thorne|Viktor]] has her ambition, which terrifies her. She will do anything to see them thrive, even if she has to break the realm to do it.
 
 ### Flaws
 **Pride.** Margret cannot accept help, cannot show weakness, cannot admit she's afraid. She would rather die on her feet than live on her knees—and she's running out of feet to stand on.
 
 ### Motivations
-Margret wants to see a Thorne on the throne before she dies. Failing that, she wants the Eastern March secured and independent—a kingdom of its own if necessary. She will not leave her sons subject to Valdren's gold or Karath's madness. She will not leave them weak.
+Margret wants to see a Thorne on the throne before she dies. Failing that, she wants [[The Eastern March|the Eastern March]] secured and independent—a kingdom of its own if necessary. She will not leave her sons subject to Valdren's gold or Karath's madness. She will not leave them weak.
 
 ## Background
 
 ### Origin
 **Background:** Noble (Warrior Aristocracy)
 
-**Early Life:** Born Margret Eisenberg, daughter of a lesser March lord, she was raised to ride, fight, and lead. She married Lord Hartmut Thorne at eighteen—a political match that became a love match. When the Great War came, she fought beside him.
+**Early Life:** Born Margret Eisenberg, daughter of a lesser March lord, she was raised to ride, fight, and lead. She married Lord Hartmut Thorne at eighteen—a political match that became a love match. When [[The Great War|the Great War]] came, she fought beside him.
 
-### The Great War
-Margret's legend was forged at the Siege of Stahlburg. When her husband was wounded, she took command. For eight months she held the castle against the Mad King's forces, making them pay in blood for every inch. When House Thorne finally switched sides to join the rebellion, it was Margret who led the sortie that broke the siege.
+### [[The Great War]]
+Margret's legend was forged at the Siege of [[Stahlburg]]. When her husband was wounded, she took command. For eight months she held the castle against [[The Mad King|the Mad King]]'s forces, making them pay in blood for every inch. When [[House Thorne]] finally switched sides to join the rebellion, it was Margret who led the sortie that broke the siege.
 
 ### After the War
-Lord Hartmut died of his wounds three years after peace came. Margret became sole ruler of the Eastern March and raised their three sons to carry on the Thorne legacy. She was the strongest voice against Valdren's regency—and she was overruled. She has never forgiven that.
+Lord Hartmut died of his wounds three years after peace came. Margret became sole ruler of [[The Eastern March|the Eastern March]] and raised their three sons to carry on the Thorne legacy. She was the strongest voice against Valdren's regency—and she was overruled. She has never forgiven that.
 
 ### Current Situation
 The sickness came two years ago. The healers say it's a wasting of the blood; nothing natural can cure it. Margret has accepted that she's dying—but she refuses to die before she secures her house's future. Every council is a battle against her own body. Every public appearance requires hours of preparation to hide her weakness.
@@ -100,11 +100,11 @@ The sickness came two years ago. The healers say it's a wasting of the blood; no
 
 2. **She suspects her illness is not natural.** The sickness began after a dinner with Valdren envoys. She has no proof, but she believes she was poisoned. She's kept this suspicion from her sons to prevent them from acting rashly.
 
-3. **She has contingency plans.** If she dies before securing the succession, letters will be delivered to her sons with instructions for war. The Eastern March will not bow to Valdren.
+3. **She has contingency plans.** If she dies before securing the succession, letters will be delivered to her sons with instructions for war. [[The Eastern March]] will not bow to Valdren.
 
 4. **She knows about the rising dead.** Reports from the border have reached her. She's more concerned with the succession than with walking corpses—but she's pragmatic enough to prepare for both.
 
-5. **She has considered alliance with Karath.** Enemy of my enemy. She rejected it—Draven is too unstable, and whatever he's involved with feels wrong—but desperation might change her mind.
+5. **She has considered alliance with Karath.** Enemy of my enemy. She rejected it—[[Lord Draven Karath|Draven]] is too unstable, and whatever he's involved with feels wrong—but desperation might change her mind.
 
 ## Statistics
 
@@ -170,14 +170,14 @@ Now she can manage perhaps one action before exhaustion claims her.
 - **Late Husband:** Lord Hartmut Thorne — Died of war wounds; she still speaks to his portrait
 
 ### Allies
-- **[[The Forgemasters Guild]]** — Grimhild respects her; the Guild would follow a Thorne king
-- **The Eastern March lords** — Loyal to House Thorne, ready to march
+- **[[The Forgemasters Guild]]** — [[Grimhild the Smith|Grimhild]] respects her; the Guild would follow a Thorne king
+- **[[The Eastern March]] lords** — Loyal to [[House Thorne]], ready to march
 - **[[Grandmaster Aldric Greymane]]** — Old friend from the war; one of the few she'd trust with the truth
 
 ### Enemies
 - **[[Lord Varic Valdren]]** — Despises him; certain he's manipulating the regency; suspects him of poisoning her
-- **[[House Karath]]** — Ancient enemies, made worse by the Great War; Draven is unstable
-- **[[High Confessor Maren]]** — The Faith's interference in succession is intolerable
+- **[[House Karath]]** — Ancient enemies, made worse by [[The Great War|the Great War]]; [[Lord Draven Karath|Draven]] is unstable
+- **[[High Confessor Maren]]** — [[The Faith of the Three|The Faith]]'s interference in succession is intolerable
 
 ### Complicated
 - **[[Edric Valdren]]** — The boy himself isn't the enemy. Margret might support him if he were free of his grandfather. Might.
@@ -200,14 +200,14 @@ Margret's arc is about legacy. She must accept that she cannot control everythin
 
 ### As an Ally
 If the party proves themselves—especially against the rising dead—Margret can provide:
-- Military support (the March army)
+- Military support ([[The Eastern March|the March]] army)
 - Legitimacy (a war hero's endorsement)
 - Strategic brilliance (she's still the best tactician in the realm)
 - Access to her sons and their resources
 
 ### As an Enemy
 If the party supports Valdren or threatens her sons:
-- The March army becomes an obstacle
+- [[The Eastern March|The March]] army becomes an obstacle
 - Her intelligence network works against them
 - Her sons will hunt them
 - She will spend her last strength destroying them
@@ -221,7 +221,7 @@ If the party supports Valdren or threatens her sons:
 
 ### Sample Dialogue
 
-> "I held Stahlburg for eight months against the Mad King's army. Do you think Varic Valdren's gold frightens me? I've been paid in blood. I know its value."
+> "I held [[Stahlburg]] for eight months against [[The Mad King|the Mad King]]'s army. Do you think [[Lord Varic Valdren|Varic]] Valdren's gold frightens me? I've been paid in blood. I know its value."
 
 > "The boy may wear the crown, but we all know who holds the strings. I will not see my sons kneel to a puppet regent."
 
@@ -233,11 +233,11 @@ If the party supports Valdren or threatens her sons:
 
 1. **The Dying Request:** Margret secretly contacts the party. She needs something done that she can't ask her sons to do—something that might save her house but would destroy their honor if they knew.
 
-2. **The Cure:** Rumors speak of a cure for Margret's illness—in the Ashen Fields, in the Northlands, in forgotten magic. Is it real? What would it cost?
+2. **The Cure:** Rumors speak of a cure for Margret's illness—in [[The Ashen Fields]], in [[The Northlands]], in forgotten magic. Is it real? What would it cost?
 
-3. **The Alliance:** Margret considers uniting with House Karath against Valdren. The party might be sent to negotiate—or to prevent it.
+3. **The Alliance:** Margret considers uniting with [[House Karath]] against Valdren. The party might be sent to negotiate—or to prevent it.
 
-4. **The Succession:** Margret dies, and her sons must carry on. Which one leads? Does the March stay united?
+4. **The Succession:** Margret dies, and her sons must carry on. Which one leads? Does [[The Eastern March|the March]] stay united?
 
 ## Image Prompts
 

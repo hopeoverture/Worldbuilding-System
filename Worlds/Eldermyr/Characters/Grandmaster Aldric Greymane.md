@@ -43,7 +43,7 @@ role: Grandmaster of the Grey
 # Grandmaster Aldric Greymane
 
 ## Overview
-Grandmaster Aldric Greymane is the leader of the Grey Wardens, the order devoted to ensuring the dead find their rest. For thirty years he has hunted necromancers, laid spirits to peace, and fought the unquiet dead. Now he faces the Ashen Fields—a horror beyond anything the order has confronted—with too few wardens, too little support, and a curse slowly killing him. He will not retreat. He cannot. This is what the order was created for.
+Grandmaster Aldric Greymane is the leader of [[The Grey Wardens]], the order devoted to ensuring the dead find their rest. For thirty years he has hunted necromancers, laid spirits to peace, and fought the unquiet dead. Now he faces [[The Ashen Fields]]—a horror beyond anything the order has confronted—with too few wardens, too little support, and a curse slowly killing him. He will not retreat. He cannot. This is what the order was created for.
 
 ## Appearance
 
@@ -72,7 +72,7 @@ Greymane radiates grim determination. He's not comforting to be around—too int
 **Sacred Rest.** Every soul deserves peace. The dead who walk are victims, not monsters—they've been stolen from the Chronicler's halls, and I will return them if it's the last thing I do.
 
 ### Bonds
-The Grey Wardens are his family, his purpose, his life. He's never married, never had children. The order is everything. He will not let it fail.
+[[The Grey Wardens]] are his family, his purpose, his life. He's never married, never had children. The order is everything. He will not let it fail.
 
 ### Flaws
 **Martyrdom.** Greymane is dying, and he's made peace with it. This peace has become something darker—a willingness to sacrifice himself that doesn't consider what his loss would cost the order, the realm, or those who depend on him.
@@ -83,13 +83,13 @@ Greymane wants to stop the rising dead before he dies. Not for glory, not for re
 ## Background
 
 ### The Warden's Path
-Greymane joined the Grey Wardens at eighteen after a necromancer killed his family. He rose through the ranks through competence, devotion, and an unwavering commitment to the Chronicler's teachings. He became Grandmaster fifteen years ago.
+Greymane joined [[The Grey Wardens|the Grey Wardens]] at eighteen after a necromancer killed his family. He rose through the ranks through competence, devotion, and an unwavering commitment to the Chronicler's teachings. He became Grandmaster fifteen years ago.
 
 ### The Curse
 Twelve years ago, Greymane killed a powerful necromancer. In the moment of the necromancer's death, the mage spoke a word—a curse that branded Greymane's leg and began slowly consuming him. The wound never heals. It ages him faster than natural. The healers give him years at best.
 
 ### The Current Crisis
-The Ashen Fields represent everything Greymane has trained for—and everything that might be too much. He's sent his best Wardens, committed every resource, and still the dead rise faster than they can be laid to rest. He needs help, needs answers, needs time he doesn't have.
+[[The Ashen Fields]] represent everything Greymane has trained for—and everything that might be too much. He's sent his best Wardens, committed every resource, and still the dead rise faster than they can be laid to rest. He needs help, needs answers, needs time he doesn't have.
 
 ## Statistics
 
@@ -177,18 +177,18 @@ Salt, iron filings, blessed water, silver dust, holy symbols, stakes, binding co
 ## Relationships
 
 ### The Order
-- **Warden-Commander Mira Duskwell** — His most trusted commander; leading the Ashen Fields expedition
+- **Warden-Commander Mira Duskwell** — His most trusted commander; leading [[The Ashen Fields|the Ashen Fields]] expedition
 - **Brother Corvus** — The archivist; brilliant but concerning; knows too much about the forbidden
-- **The Wardens** — Three hundred warriors who would follow him to hell
+- **[[The Grey Wardens|The Wardens]]** — Three hundred warriors who would follow him to hell
 
 ### With Power
 - **[[High Confessor Maren]]** — Nominal superior; increasingly frustrating; obstructs rather than helps
-- **[[Lady Margret Thorne]]** — Old friend from the Great War; one of the few who understands duty
+- **[[Lady Margret Thorne]]** — Old friend from [[The Great War|the Great War]]; one of the few who understands duty
 - **[[Archmagister Corwin Ashford]]** — Has requested Academy assistance; waiting for answer
 
 ### The Enemy
 - **[[Lord Draven Karath]]** — Suspects Karath involvement; lacks proof; would act if he had it
-- **The Unnamed** — Doesn't know what it truly is; knows something commands the dead
+- **[[The Unnamed]]** — Doesn't know what it truly is; knows something commands the dead
 
 ## Story Role
 
@@ -203,13 +203,13 @@ Greymane must learn that he doesn't have to die to be useful. His martyrdom is s
 
 ## Secrets
 
-1. **He's read the forbidden texts.** The Wardens have their own archive of necromantic lore. Greymane has studied it to understand his enemies. He worries the knowledge is corrupting him.
+1. **He's read the forbidden texts.** [[The Grey Wardens|The Wardens]] have their own archive of necromantic lore. Greymane has studied it to understand his enemies. He worries the knowledge is corrupting him.
 
 2. **The curse is accelerating.** He has months, not years. He hasn't told anyone except the order's chief healer, who is bound to secrecy.
 
-3. **He knows Karath is involved.** The Wardens have evidence that Lord Draven has visited the Ashen Fields repeatedly. He lacks the political power to act on it.
+3. **He knows Karath is involved.** [[The Grey Wardens]] have evidence that [[Lord Draven Karath|Lord Draven]] has visited [[The Ashen Fields]] repeatedly. He lacks the political power to act on it.
 
-4. **He fears he won't be enough.** At night, Greymane prays and wonders if he's led his order to its doom. The Ashen Fields might be the end of everything the Wardens have built.
+4. **He fears he won't be enough.** At night, Greymane prays and wonders if he's led his order to its doom. [[The Ashen Fields]] might be the end of everything [[The Grey Wardens|the Wardens]] have built.
 
 ## Image Prompts
 

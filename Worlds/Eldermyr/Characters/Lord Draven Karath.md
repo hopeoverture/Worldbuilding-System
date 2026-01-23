@@ -42,7 +42,7 @@ faction: "[[House Karath]]"
 # Lord Draven Karath
 
 ## Overview
-Lord Draven Karath is the vengeful patriarch of the fallen House Karath, and the man who has made a bargain with the ancient horror beneath the Ashen Fields. Twenty-three years ago, his father was the "Mad King" whose tyranny sparked the Great War. The realm destroyed House Karath for it—stripped their lands, slaughtered their armies, left them nothing but ashes and graves. Draven has spent his life nursing that hatred. Now, he has found something in those mass graves that will give him the power to make the realm pay. He believes he controls it. He is wrong.
+Lord Draven Karath is the vengeful patriarch of [[House Karath]] Karath, and the man who has made a bargain with the ancient horror beneath [[The Ashen Fields]]. Twenty-three years ago, his father was the "Mad King" whose tyranny sparked [[The Great War]]. The realm destroyed [[House Karath]] for it—stripped their lands, slaughtered their armies, left them nothing but ashes and graves. Draven has spent his life nursing that hatred. Now, he has found something in those mass graves that will give him [[Magic of Eldermyr]] to make the realm pay. He believes he controls it. He is wrong.
 
 ## Appearance
 
@@ -55,8 +55,8 @@ Lord Draven Karath is the vengeful patriarch of the fallen House Karath, and the
 - **Distinguishing Features:** Veins on his hands and neck are visible and dark, as if the blood running through them is wrong; when angry, shadows seem to deepen around him
 
 ### Attire
-- **Typical Dress:** Black and gray, the mourning colors House Karath has worn since the war; his ancestors' sigils in tarnished silver
-- **Armor:** Ancient Karath plate, black with age, inscribed with symbols that predate the Faith
+- **Typical Dress:** Black and gray, the mourning colors [[House Karath]] has worn since the war; his ancestors' sigils in tarnished silver
+- **Armor:** Ancient Karath plate, black with age, inscribed with symbols that predate [[The Faith of the Three|the Faith]]
 - **Signature Items:** An iron crown—a replica of the one his father wore—that he has never publicly claimed; a sword that whispers
 
 ### Presence
@@ -72,29 +72,29 @@ Draven radiates wrongness. Animals shy from him. Children cry. The faithful feel
 **Vengeance.** My father was murdered. My family was destroyed. My people were punished for a war they didn't start. The realm owes us a debt of blood—and I will collect every drop.
 
 ### Bonds
-His son Aleksei is the last hope of House Karath. Draven would do anything to see the boy restored to power—even if it means becoming something that can no longer be called a father.
+His son [[Aleksei Karath|Aleksei]] is the last hope of [[House Karath]]. Draven would do anything to see the boy restored to power—even if it means becoming something that can no longer be called a father.
 
 ### Flaws
-**Hubris.** Draven believes he controls the power he's bargained with. He thinks he can use The Unnamed and then discard it when he's done. He is catastrophically wrong, and by the time he realizes it, it may be too late for everyone.
+**Hubris.** Draven believes he controls [[Magic of Eldermyr|the power]] he's bargained with. He thinks he can use [[The Unnamed]] and then discard it when he's done. He is catastrophically wrong, and by the time he realizes it, it may be too late for everyone.
 
 ### Motivations
-Draven wants restoration. He wants House Karath ascendant, the other houses destroyed or subjugated, and his son Aleksei crowned king. He wants the realm to remember what it did to his family—and to suffer for it. He tells himself this is justice. The thing beneath the Ashen Fields tells him the same thing, in dreams that feel like truth.
+Draven wants restoration. He wants [[House Karath]] ascendant, the other houses destroyed or subjugated, and his son [[Aleksei Karath|Aleksei]] crowned king. He wants the realm to remember what it did to his family—and to suffer for it. He tells himself this is justice. [[The Unnamed]] [[The Ashen Fields]] tells him the same thing, in dreams that feel like truth.
 
 ## Villainy
 
 ### The Bargain
-Three years ago, Draven visited the Ashen Fields alone. He walked into the mass graves where thirty thousand died in a single day. Something spoke to him there—something old, something that had been waiting. It offered him power. It offered him vengeance. All it wanted was to be fed.
+Three years ago, Draven visited [[The Ashen Fields|the Ashen Fields]] alone. He walked into the mass graves where thirty thousand died in a single day. Something spoke to him there—something old, something that had been waiting. It offered him power. It offered him vengeance. All it wanted was to be fed.
 
 Draven accepted. He has been feeding it ever since.
 
 ### Methods
-- **The Rising Dead:** The corpses in the Ashen Fields rise at his command (or so he believes). He uses them as weapons, terror, and distractions.
+- **The Rising Dead:** The corpses in [[The Ashen Fields|the Ashen Fields]] rise at his command (or so he believes). He uses them as weapons, terror, and distractions.
 - **Political Manipulation:** Karath agents in every major court, spreading rumors, inciting division, weakening the realm from within
-- **Corruption Spreading:** The taint of the Ashen Fields is expanding. Crops fail. Animals go mad. The dead rise in other places. All according to plan (he thinks).
-- **Dark Communion:** Regular visits to the Fields to receive instruction from The Unnamed; each visit changes him a little more
+- **Corruption Spreading:** The taint of [[The Ashen Fields|the Ashen Fields]] is expanding. Crops fail. Animals go mad. The dead rise in other places. All according to plan (he thinks).
+- **Dark Communion:** Regular visits to the Fields to receive instruction from [[The Unnamed]]; each visit changes him a little more
 
 ### Crimes
-1. **Made a pact with The Unnamed** — Awakened (or began awakening) an ancient evil
+1. **Made a pact with [[The Unnamed]]** — Awakened (or began awakening) an ancient evil
 2. **Responsible for the rising dead** — Thousands of corpses walking again
 3. **Spreading corruption** — The curse that blights the land is growing because of him
 4. **Political destabilization** — His agents work to trigger the civil war
@@ -106,23 +106,23 @@ Draven accepted. He has been feeding it ever since.
 ### Ultimate Goal
 A Karath king on the throne, the other great houses destroyed, and the realm reborn under his family's rule. That's what Draven tells himself.
 
-What The Unnamed wants is something else entirely.
+What [[The Unnamed]] wants is something else entirely.
 
 ## Background
 
 ### Origin
 **Background:** Noble (Fallen Dynasty)
 
-**Early Life:** Draven was twelve when his grandfather, the Mad King, was killed by his own son in battle. He was thirteen when his father, the prince who killed a king, died of his wounds. He watched his house stripped of power, his family scattered or killed, his ancestral lands reduced to scorched earth. He grew up on hatred.
+**Early Life:** Draven was twelve when his grandfather, [[The Mad King|the Mad King]], was killed by his own son in battle. He was thirteen when his father, the prince who killed a king, died of his wounds. He watched his house stripped of power, his family scattered or killed, his ancestral lands reduced to scorched earth. He grew up on hatred.
 
 ### The Years Between
-Draven rebuilt what he could. He managed House Karath's diminished holdings, married a minor noblewoman (Yelena's mother, who died in childbirth), and raised his children to remember what was taken from them. He smiled at the other lords while plotting their deaths. He attended the councils and swallowed insults. He waited.
+Draven rebuilt what he could. He managed [[House Karath]]'s diminished holdings, married a minor noblewoman ([[Yelena Karath|Yelena]]'s mother, who died in childbirth), and raised his children to remember what was taken from them. He smiled at the other lords while plotting their deaths. He attended the councils and swallowed insults. He waited.
 
 ### The Discovery
-Three years ago, something drew him to the Ashen Fields. A dream, a whisper, an instinct he couldn't explain. He walked among the mass graves and found what was waiting there. The Unnamed had been trapped for millennia—but the Great War's slaughter had weakened its prison. It needed a willing vessel, a human will aligned with its hunger. It found one in Draven.
+Three years ago, something drew him to [[The Ashen Fields]]. A dream, a whisper, an instinct he couldn't explain. He walked among the mass graves and found what was waiting there. [[The Unnamed]] had been trapped for millennia—but [[The Great War]]'s slaughter had weakened its prison. It needed a willing vessel, a human will aligned with its hunger. It found one in Draven.
 
 ### Current Status
-Draven commands House Karath's remaining forces, controls a network of agents throughout the realm, and channels power from The Unnamed. The rising dead obey him (mostly). The corruption spreads (accelerating). The other houses are distracted by their succession crisis (as planned). Everything is falling into place. The only problem is that Draven is changing. The thing inside him is growing stronger. And sometimes, in the dark, he wonders if he's still the one in control.
+Draven commands [[House Karath]]'s remaining forces, controls a network of agents throughout the realm, and channels power from [[The Unnamed]]. The rising dead obey him (mostly). The corruption spreads (accelerating). The other houses are distracted by their succession crisis (as planned). Everything is falling into place. The only problem is that Draven is changing. The thing inside him is growing stronger. And sometimes, in the dark, he wonders if he's still the one in control.
 
 ## Statistics
 
@@ -155,7 +155,7 @@ Draven commands House Karath's remaining forces, controls a network of agents th
 - **Special:** Can sense the dead within 1 mile; knows when someone dies nearby
 
 ### Languages
-Common, Karath Dialect (Slavic-influenced), Abyssal (learned from The Unnamed), Infernal (partial)
+Common, Karath Dialect (Slavic-influenced), Abyssal (learned from [[The Unnamed]]), Infernal (partial)
 
 ## Combat
 
@@ -169,9 +169,9 @@ Draven makes three attacks with his longsword and can command the dead as a bonu
 | Eldritch Blast | +9 | 3d10+4 | Force | 120 ft. range, 3 beams |
 
 ### Signature Abilities
-1. **Command the Dead:** As a bonus action, Draven can issue commands to any undead within 120 feet that he has raised or that serve The Unnamed. Up to 12 undead can follow his orders.
+1. **Command the Dead:** As a bonus action, Draven can issue commands to any undead within 120 feet that he has raised or that serve [[The Unnamed]]. Up to 12 undead can follow his orders.
 
-2. **Hunger of the Void:** Once per day, Draven can channel The Unnamed's power. All creatures within 30 feet must make a DC 17 Constitution save or take 8d8 necrotic damage (half on save). Draven heals for half the damage dealt. Using this ability costs him something he can't quite name.
+2. **Hunger of the Void:** Once per day, Draven can channel [[The Unnamed]]'s power. All creatures within 30 feet must make a DC 17 Constitution save or take 8d8 necrotic damage (half on save). Draven heals for half the damage dealt. Using this ability costs him something he can't quite name.
 
 3. **Shadow Step:** Draven can teleport up to 60 feet to a space he can see that is in dim light or darkness. He leaves behind a momentary afterimage of something that is not quite him.
 
@@ -182,7 +182,7 @@ Draven can take 3 legendary actions:
 - **Shadow Step (2 actions):** Draven teleports and makes one sword attack
 
 ### Lair Actions
-In Chernogrod or the Ashen Fields, on initiative count 20:
+In [[Chernogrod]] or [[The Ashen Fields|the Ashen Fields]], on initiative count 20:
 1. Shadows deepen; all light is reduced by one step
 2. 1d4 skeletons rise from nearby corpses or the earth
 3. One creature must make a DC 17 Wisdom save or be frightened until the end of their next turn
@@ -193,7 +193,7 @@ In Chernogrod or the Ashen Fields, on initiative count 20:
 - **Spellcasting Ability:** Charisma
 - **Spell Save DC:** 17
 - **Spell Attack Bonus:** +9
-- **Pact:** The Unnamed (functions as Great Old One patron)
+- **Pact:** [[The Unnamed]] (functions as Great Old One patron)
 
 ### Cantrips
 Eldritch Blast, Chill Touch, Minor Illusion
@@ -229,8 +229,8 @@ Eldritch Blast, Chill Touch, Minor Illusion
 | Item | Rarity | Properties |
 |------|--------|------------|
 | Blackthorn | Very Rare | +1 longsword, +2d6 necrotic, whispers warnings (advantage on initiative) |
-| Iron Crown (replica) | Rare | Advantage on Intimidation; disadvantage on saves vs. The Unnamed's influence |
-| The Watcher's Eye | Rare | Allows scrying on locations within the Ashen Fields (Yelena holds this) |
+| Iron Crown (replica) | Rare | Advantage on Intimidation; disadvantage on saves vs. [[The Unnamed]]'s influence |
+| [[Yelena Karath]] | Rare | Allows scrying on locations within [[The Ashen Fields]] ([[Yelena Karath]] holds this) |
 
 ## Minions & Allies
 
@@ -240,20 +240,20 @@ Eldritch Blast, Chill Touch, Minor Illusion
 3. **Captain Yakov** — Commander of the Karath guard; fanatically loyal; knows about the pact and doesn't care
 
 ### Forces
-- **House Karath soldiers:** ~2,000 (diminished but fanatical)
+- **[[House Karath]] soldiers:** ~2,000 (diminished but fanatical)
 - **The Rising Dead:** Currently thousands; growing daily
 - **Agents:** Spies in every major court; assassins available
 
-### The Unnamed
-The ancient thing beneath the Ashen Fields is not Draven's ally—it is his master, though he doesn't accept this. It grants him power, guidance, and the rising dead. In return, it feeds on the corruption spreading through the land, the souls of the dead, and slowly, Draven himself.
+### [[The Unnamed]]
+The ancient thing beneath [[The Ashen Fields|the Ashen Fields]] is not Draven's ally—it is his master, though he doesn't accept this. It grants him power, guidance, and the rising dead. In return, it feeds on the corruption spreading through the land, the souls of the dead, and slowly, Draven himself.
 
 ## Relationships
 
 ### Family
-- **Son:** Aleksei Karath (12) — The only innocent thing Draven cares about; everything he does, he does for Aleksei's future
+- **Son:** [[Aleksei Karath]] (12) — The only innocent thing Draven cares about; everything he does, he does for [[Aleksei Karath|Aleksei]]'s future
 - **Sister:** [[Yelena Karath]] — His closest confidant and the only person who knows (almost) everything
-- **Father (deceased):** Prince Kazimir — Killed his father the Mad King, died of his wounds; Draven saw him as a hero
-- **Grandfather (deceased):** The Mad King — Draven has complicated feelings; the King was cruel but was still family
+- **Father (deceased):** Prince Kazimir — Killed his father [[The Mad King|the Mad King]], died of his wounds; Draven saw him as a hero
+- **Grandfather (deceased):** [[The Mad King]] — Draven has complicated feelings; the King was cruel but was still family
 
 ### Enemies
 - **[[House Thorne]]** — Led the war against his family; Draven hates them most
@@ -261,35 +261,35 @@ The ancient thing beneath the Ashen Fields is not Draven's ally—it is his mast
 - **[[The Grey Wardens]]** — The only ones actively investigating the rising dead; must be neutralized
 - **The Realm** — Everyone who stood by while his house was destroyed
 
-### The Unnamed
-Draven believes their relationship is a partnership. It is not. The Unnamed is patient. It has waited millennia. It can wait a little longer for Draven to realize the truth—or for it not to matter anymore.
+### [[The Unnamed]]
+Draven believes their relationship is a partnership. It is not. [[The Unnamed]] is patient. It has waited millennia. It can wait a little longer for Draven to realize the truth—or for it not to matter anymore.
 
 ## Story Role
 
 ### Threat Level
-**Continental** — If Draven's plans succeed, the realm falls. If The Unnamed fully awakens, the threat becomes far greater.
+**Continental** — If Draven's plans succeed, the realm falls. If [[The Unnamed]] fully awakens, the threat becomes far greater.
 
 ### Arc
 Draven's arc is about the cost of vengeance. He began as a wronged man with legitimate grievances. He has become a monster who endangers everyone, including his own son. His tragedy is that by the time he realizes what he's done, it may be too late to stop it.
 
 ### Possible Outcomes
-- **Redemption:** Realizes the horror he's unleashed, sacrifices himself to stop The Unnamed
+- **Redemption:** Realizes the horror he's unleashed, sacrifices himself to stop [[The Unnamed]]
 - **Victory:** Destroys his enemies, puts his son on the throne, then is consumed by the thing he served
-- **Destruction:** Defeated before his plans come to fruition; The Unnamed finds another vessel
-- **Transformation:** Loses himself entirely; becomes an avatar of The Unnamed
+- **Destruction:** Defeated before his plans come to fruition; [[The Unnamed]] finds another vessel
+- **Transformation:** Loses himself entirely; becomes an avatar of [[The Unnamed]]
 
 ### Confrontations
-1. **Initial Encounter:** The party learns of Draven's involvement, perhaps through House Thorne or the Grey Wardens. They see evidence of his power but not the man himself.
+1. **Initial Encounter:** The party learns of Draven's involvement, perhaps through [[House Thorne]] or [[The Grey Wardens|the Grey Wardens]]. They see evidence of his power but not the man himself.
 
 2. **Escalation:** Direct confrontation—Draven reveals himself, perhaps while raiding, negotiating, or demonstrating power. He offers them a choice: join him or die.
 
-3. **Final Confrontation:** In the Ashen Fields or Chernogrod, with The Unnamed's influence visible and Draven barely human anymore. The question: can he be saved, or must he be destroyed?
+3. **Final Confrontation:** In [[The Ashen Fields|the Ashen Fields]] or [[Chernogrod]], with [[The Unnamed]]'s influence visible and Draven barely human anymore. The question: can he be saved, or must he be destroyed?
 
 ### Defeat Conditions
-Draven can be killed, but killing him doesn't stop The Unnamed—it may accelerate the awakening. True victory requires:
+Draven can be killed, but killing him doesn't stop [[The Unnamed]]—it may accelerate the awakening. True victory requires:
 - Stopping Draven's plan
-- Dealing with The Unnamed (rebinding, destroying, or negotiating)
-- Saving Aleksei from his father's fate
+- Dealing with [[The Unnamed]] (rebinding, destroying, or negotiating)
+- Saving [[Aleksei Karath|Aleksei]] from his father's fate
 
 ## Tactics
 
@@ -308,17 +308,17 @@ Draven leads with intimidation and offers of surrender. If refused:
 - Implies that surrender is the only sensible option
 
 ### Contingencies
-1. **If defeated:** Yelena has orders to take Aleksei and flee to foreign lands
-2. **If killed:** The Unnamed will find another vessel; Draven's death may accelerate its awakening
+1. **If defeated:** [[Yelena Karath|Yelena]] has orders to take [[Aleksei Karath|Aleksei]] and flee to foreign lands
+2. **If killed:** [[The Unnamed]] will find another vessel; Draven's death may accelerate its awakening
 3. **If captured:** His agents will attempt rescue or assassination (of him—he knows too much to be questioned)
 
 ## Secrets
 
-1. **He is losing control.** The power he channels is changing him. Sometimes he hears The Unnamed's voice even when he hasn't summoned it. Sometimes he can't remember hours of his day.
+1. **He is losing control.** [[Magic of Eldermyr|The power]] he channels is changing him. Sometimes he hears [[The Unnamed]]'s voice even when he hasn't summoned it. Sometimes he can't remember hours of his day.
 
-2. **The Unnamed predates the Three.** It was here before humans, before the gods, before history. The Great War didn't create it—it just weakened its prison.
+2. **[[The Unnamed]] predates [[The Faith of the Three|the Three]].** It was here before humans, before the gods, before history. [[The Great War]] didn't create it—it just weakened its prison.
 
-3. **Aleksei is showing signs.** Draven's son has begun having nightmares about the Fields. The Unnamed is interested in the boy. Draven tells himself this is natural; deep down, he knows it's not.
+3. **[[Aleksei Karath|Aleksei]] is showing signs.** Draven's son has begun having nightmares about the Fields. [[The Unnamed]] is interested in the boy. Draven tells himself this is natural; deep down, he knows it's not.
 
 4. **There's still human in him.** Despite everything, Draven loves his son and would die for him. This might be the only way to reach him—or the weapon that destroys him.
 

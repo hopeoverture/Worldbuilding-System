@@ -42,7 +42,7 @@ role: Heir to the Eastern March
 # Ser Aldric Thorne
 
 ## Overview
-Ser Aldric Thorne is the eldest son of Lady Margret Thorne and heir to the Eastern March. Where his mother is iron, Aldric is steel—just as strong but with more flexibility. He is a soldier's soldier, beloved by the troops he commands, respected by the lords who will one day answer to him, and haunted by the knowledge that his mother is dying and the succession crisis may force him to choose between honor and survival.
+Ser Aldric Thorne is the eldest son of [[Lady Margret Thorne]] and heir to [[The Eastern March|the Eastern March]]. Where his mother is iron, Aldric is steel—just as strong but with more flexibility. He is a soldier's soldier, beloved by the troops he commands, respected by the lords who will one day answer to him, and haunted by the knowledge that his mother is dying and the succession crisis may force him to choose between honor and survival.
 
 ## Appearance
 
@@ -74,7 +74,7 @@ His mother is his North Star. He knows she's dying; he knows she's preparing him
 **Inflexibility.** Aldric's honor can become rigidity. He struggles with moral gray areas and may make enemies of potential allies because he cannot compromise principles that are, perhaps, less absolute than he believes.
 
 ### Motivations
-Aldric wants to be worthy—worthy of his mother's legacy, worthy of his house's sacrifice in the Great War, worthy of the soldiers who follow him. He fears he isn't enough, that when the crisis comes, he'll fail. He buries this fear in duty.
+Aldric wants to be worthy—worthy of his mother's legacy, worthy of his house's sacrifice in [[The Great War|the Great War]], worthy of the soldiers who follow him. He fears he isn't enough, that when the crisis comes, he'll fail. He buries this fear in duty.
 
 ## Background
 
@@ -82,7 +82,7 @@ Aldric wants to be worthy—worthy of his mother's legacy, worthy of his house's
 Aldric has been a soldier since he could hold a sword. He fought in border skirmishes at seventeen, commanded his first company at twenty-two, and has spent the years since preparing for a war everyone knows is coming. He's competent, respected, and battle-tested—but he's never commanded an army, never faced a crisis like the succession.
 
 ### The Burden
-Since his mother's illness, Aldric has taken on more and more responsibility. He handles military matters, maintains relations with the March lords, and prepares for the day when he must make the choice his mother has been building toward: peace under Valdren's puppet, or war for Thorne independence.
+Since his mother's illness, Aldric has taken on more and more responsibility. He handles military matters, maintains relations with [[The Eastern March|the March]] lords, and prepares for the day when he must make the choice his mother has been building toward: peace under Valdren's puppet, or war for Thorne independence.
 
 ## Statistics
 
@@ -116,11 +116,11 @@ Since his mother's illness, Aldric has taken on more and more responsibility. He
 ### Family
 - **Mother:** [[Lady Margret Thorne]] — His commander, teacher, and example; watching her die is breaking him
 - **Brother:** [[Ser Konrad Thorne]] — Trusts him completely; they complement each other
-- **Brother:** [[Ser Viktor Thorne]] — Worries about Viktor's ambition; loves him anyway
+- **Brother:** [[Ser Viktor Thorne]] — Worries about [[Ser Viktor Thorne|Viktor]]'s ambition; loves him anyway
 
 ### Allies
-- **The March Lords:** Respect Aldric; will follow him when Margret is gone
-- **The Forgemasters:** Good relations; Grimhild approves of him
+- **[[The Eastern March|The March]] Lords:** Respect Aldric; will follow him when [[Lady Margret Thorne|Margret]] is gone
+- **[[The Forgemasters Guild|The Forgemasters]]:** Good relations; [[Grimhild the Smith|Grimhild]] approves of him
 - **Common Soldiers:** Love him; he remembers names and shares hardships
 
 ### Complicated
@@ -132,8 +132,8 @@ Since his mother's illness, Aldric has taken on more and more responsibility. He
 ### Function
 **Primary:** Military commander, honorable warrior, potential ally
 
-**As an Ally:** Provides military support, legitimacy in the March, and a moral compass
-**As an Enemy:** Commands the March's armies; formidable in battle
+**As an Ally:** Provides military support, legitimacy in [[The Eastern March|the March]], and a moral compass
+**As an Enemy:** Commands [[The Eastern March|the March]]'s armies; formidable in battle
 
 ### Arc
 Aldric must learn that honor isn't enough—sometimes you need cunning, compromise, or ruthlessness. His growth is about becoming a leader for the realm he's inheriting, not the one his mother conquered.
@@ -141,7 +141,7 @@ Aldric must learn that honor isn't enough—sometimes you need cunning, compromi
 ## Secrets
 
 1. **He knows his mother suspects poison.** She hasn't told him who; he's investigating quietly.
-2. **He's been approached by Valdren agents** offering alliance. He rejected them, but he kept it from his mother.
+2. **He's been approached by [[House Valdren|Valdren]] agents** offering alliance. He rejected them, but he kept it from his mother.
 3. **He doubts himself.** At night, he wonders if he's ready. The answer scares him.
 
 ## Image Prompts

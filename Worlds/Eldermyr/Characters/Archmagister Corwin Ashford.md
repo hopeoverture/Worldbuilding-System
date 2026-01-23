@@ -42,7 +42,7 @@ role: Archmagister (leader of the Academy)
 # Archmagister Corwin Ashford
 
 ## Overview
-Archmagister Corwin Ashford is the leader of the Arcane Academy and the most powerful sanctioned wizard in Eldermyr. An elderly scholar who has devoted his life to the careful, responsible practice of magic, he now faces impossible choices: the succession crisis threatens his Academy's neutrality, the rising dead may require forbidden knowledge, and the thing he fears most—losing control of magic's terrible power—seems increasingly unavoidable.
+Archmagister Corwin Ashford is the leader of [[The Arcane Academy|the Arcane Academy]] and the most powerful sanctioned wizard in Eldermyr. An elderly scholar who has devoted his life to the careful, responsible practice of magic, he now faces impossible choices: the succession crisis threatens his Academy's neutrality, the rising dead may require forbidden knowledge, and the thing he fears most—losing control of magic's terrible power—seems increasingly unavoidable.
 
 ## Appearance
 
@@ -65,27 +65,27 @@ Archmagister Corwin Ashford is the leader of the Arcane Academy and the most pow
 2. **Hidden Steel:** Beneath the grandfatherly manner is a man who has spent fifty years controlling forces that could level cities; he is not weak
 
 ### Ideals
-**Responsibility.** Magic is power, and power demands restraint. We who wield it must be more careful than those who don't. The moment we forget that, we become the Mad King.
+**Responsibility.** Magic is power, and power demands restraint. We who wield it must be more careful than those who don't. The moment we forget that, we become [[The Mad King|the Mad King]].
 
 ### Bonds
-The Academy is his life's work. Three generations of mages have passed through its halls under his guidance. He will not see it destroyed by politics, faith, or dark forces.
+[[The Arcane Academy|The Academy]] is his life's work. Three generations of mages have passed through its halls under his guidance. He will not see it destroyed by politics, faith, or dark forces.
 
 ### Flaws
 **Inaction as Wisdom:** Corwin's caution can become paralysis. He hesitates when he should act, studies when he should fight, and hopes problems will resolve themselves when they won't.
 
 ### Motivations
-Corwin wants the Academy to survive—and through it, the responsible practice of magic in Eldermyr. He fears the succession crisis will politicize the Academy, the Faith will suppress it, or the rising dead will force mages to use forbidden arts. He wants to find a path that preserves everything he's built.
+Corwin wants [[The Arcane Academy]] to survive—and through it, the responsible practice of magic in Eldermyr. He fears the succession crisis will politicize [[The Arcane Academy]], [[The Faith of the Three]] will suppress it, or the rising dead will force mages to use forbidden arts. He wants to find a path that preserves everything he's built.
 
 ## Background
 
 ### Academic Career
-Corwin joined the Academy at fifteen and never left. He rose through the ranks through patience, skill, and an unerring talent for abjuration—protective magic. He became Archmagister thirty years ago and has guided the Academy through two succession crises, countless political pressures, and the constant suspicion of the Faith.
+Corwin joined [[The Arcane Academy]] at fifteen and never left. He rose through the ranks through patience, skill, and an unerring talent for abjuration—protective magic. He became Archmagister thirty years ago and has guided [[The Arcane Academy]] through two succession crises, countless political pressures, and the constant suspicion of [[The Faith of the Three]].
 
-### The Mad King's Shadow
-Corwin knew the Mad King—studied at the Academy at the same time, in fact. He saw Alaric's brilliance curdle into something dark. The experience shaped his philosophy: magic must be controlled, or it controls you. The Mad King haunts him still.
+### [[The Mad King]]'s Shadow
+Corwin knew [[The Mad King]]—studied at [[The Arcane Academy]] at the same time, in fact. He saw Alaric's brilliance curdle into something dark. The experience shaped his philosophy: magic must be controlled, or it controls you. [[The Mad King]] haunts him still.
 
 ### Current Crisis
-The succession has put the Academy in an impossible position. Valdren wants the Academy's support for the regency. Thorne wants weapons. The Faith wants oversight. And Corwin suspects the rising dead are magical in nature—which means someone will soon demand he investigate using precisely the forbidden arts he's spent his life suppressing.
+The succession has put [[The Arcane Academy]] in an impossible position. Valdren wants [[The Arcane Academy]]'s support for the regency. Thorne wants weapons. [[The Faith of the Three]] wants oversight. And Corwin suspects the rising dead are magical in nature—which means someone will soon demand he investigate using precisely the forbidden arts he's spent his life suppressing.
 
 ## Statistics
 
@@ -159,19 +159,19 @@ Prestidigitation, Light, Mage Hand, Fire Bolt, Minor Illusion
 
 ## Relationships
 
-### Within the Academy
+### Within [[The Arcane Academy|the Academy]]
 - **Seer Matthias Crow** — His most troubling master; Crow's prophecies are becoming darker
 - **Master Hendrik Stone** — His most trusted master; handles practical security
 - **Students** — Treats them as his children; has trained hundreds
 
 ### With Power
 - **[[Lord Varic Valdren]]** — Valdren wants Academy support; Corwin delays and delays
-- **[[High Confessor Maren]]** — The Faith's pressure is increasing; Maren suspects the Academy hides forbidden texts (he's right)
-- **[[The Grey Wardens]]** — Greymane has requested Academy assistance with the rising dead; Corwin is considering it
+- **[[High Confessor Maren]]** — [[The Faith of the Three]]'s pressure is increasing; [[High Confessor Maren|Maren]] suspects [[The Arcane Academy]] hides forbidden texts (he's right)
+- **[[The Grey Wardens]]** — [[Grandmaster Aldric Greymane|Greymane]] has requested Academy assistance with the rising dead; Corwin is considering it
 
 ### The Past
-- **The Mad King** — Corwin remembers young Alaric; the memory haunts his nightmares
-- **Forbidden Knowledge** — The Academy vault contains texts Corwin wishes didn't exist; he's their guardian
+- **[[The Mad King]]** — Corwin remembers young Alaric; the memory haunts his nightmares
+- **Forbidden Knowledge** — [[The Arcane Academy|The Academy]] vault contains texts Corwin wishes didn't exist; he's their guardian
 
 ## Story Role
 
@@ -186,13 +186,13 @@ Corwin must learn that caution isn't always wisdom. The rising dead may require 
 
 ## Secrets
 
-1. **The Restricted Vault exists.** The Academy has a collection of forbidden texts—necromancy, demon summoning, blood magic—kept for "research purposes." Corwin is the only one with full access.
+1. **The Restricted Vault exists.** [[The Arcane Academy|The Academy]] has a collection of forbidden texts—necromancy, demon summoning, blood magic—kept for "research purposes." Corwin is the only one with full access.
 
-2. **He knew the Mad King.** More than knew—they were friends, briefly, before Alaric's corruption. Corwin sometimes wonders if he could have stopped it.
+2. **He knew [[The Mad King|the Mad King]].** More than knew—they were friends, briefly, before Alaric's corruption. Corwin sometimes wonders if he could have stopped it.
 
 3. **He's been researching the rising dead.** Quietly, using the forbidden texts. What he's found terrifies him. It's not just necromancy—it's something older.
 
-4. **Seer Crow's visions are getting worse.** The seer's prophecies now focus on the Academy's destruction. Corwin doesn't know how to stop it.
+4. **Seer Crow's visions are getting worse.** The seer's prophecies now focus on [[The Arcane Academy|the Academy]]'s destruction. Corwin doesn't know how to stop it.
 
 ## Image Prompts
 

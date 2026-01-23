@@ -42,7 +42,7 @@ role: Master of Iron (logistics and production)
 # Ser Konrad Thorne
 
 ## Overview
-Ser Konrad Thorne is the second son of Lady Margret Thorne and the practical heart of the Eastern March's military machine. While Aldric leads the soldiers and Viktor chases glory, Konrad ensures they have weapons, armor, food, and the thousand other things an army needs. He is the Master of Iron—liaison to the Forgemasters Guild, overseer of the March's war production, and the brother who makes the others' heroics possible.
+Ser Konrad Thorne is the second son of [[Lady Margret Thorne]] and the practical heart of [[The Eastern March]]'s military machine. While Aldric leads the soldiers and [[Ser Viktor Thorne|Viktor]] chases glory, Konrad ensures they have weapons, armor, food, and the thousand other things an army needs. He is the Master of Iron—liaison to [[The Forgemasters Guild]], overseer of [[The Eastern March]]'s war production, and the brother who makes the others' heroics possible.
 
 ## Appearance
 
@@ -68,21 +68,21 @@ Ser Konrad Thorne is the second son of Lady Margret Thorne and the practical hea
 **Function.** An army marches on its stomach, fights with its weapons, and survives on its supplies. Glory is for songs. Logistics is for victory.
 
 ### Bonds
-The forges are his temple. Konrad has spent years with Grimhild the Smith, earning respect the hard way. The Forgemasters answer to House Thorne because of him, not despite him.
+The forges are his temple. Konrad has spent years with [[Grimhild the Smith]], earning respect the hard way. [[The Forgemasters Guild|The Forgemasters]] answer to [[House Thorne]] because of him, not despite him.
 
 ### Flaws
 **Emotional Distance:** Konrad struggles with feelings. He shows love through service, not words. His brothers and mother sometimes wonder if he cares; he does, deeply—he just doesn't know how to say it.
 
 ### Motivations
-Konrad wants the March prepared—for war, for winter, for whatever's coming. He sees the crisis everyone else is politicking about and thinks about supply chains, weapon stockpiles, and siege reserves. When it all falls apart, he'll be the one who kept them alive.
+Konrad wants [[The Eastern March|the March]] prepared—for war, for winter, for whatever's coming. He sees the crisis everyone else is politicking about and thinks about supply chains, weapon stockpiles, and siege reserves. When it all falls apart, he'll be the one who kept them alive.
 
 ## Background
 
 ### The Second Son
-Never destined to inherit, Konrad found his calling in the practical arts. He took over the March's logistics at twenty-five and has made it the most efficient in the realm. He negotiated the Forgemasters alliance, established supply routes, and built the infrastructure that would sustain a war.
+Never destined to inherit, Konrad found his calling in the practical arts. He took over [[The Eastern March]]'s logistics at twenty-five and has made it the most efficient in the realm. He negotiated [[The Forgemasters Guild]] alliance, established supply routes, and built the infrastructure that would sustain a war.
 
-### With Grimhild
-Konrad spent three years learning smithing from Grimhild herself—not to become a smith, but to understand the craft he was managing. She respects him. That respect is worth more than titles.
+### With [[Grimhild the Smith|Grimhild]]
+Konrad spent three years learning smithing from [[Grimhild the Smith|Grimhild]] herself—not to become a smith, but to understand the craft he was managing. She respects him. That respect is worth more than titles.
 
 ## Statistics
 
@@ -109,11 +109,11 @@ Konrad spent three years learning smithing from Grimhild herself—not to become
 ### Family
 - **Mother:** [[Lady Margret Thorne]] — Respects and loves her; quietly ensures her final plans are logistically possible
 - **Brother:** [[Ser Aldric Thorne]] — The sword to Konrad's shield; complements perfectly
-- **Brother:** [[Ser Viktor Thorne]] — Worries about Viktor; supplies his ambitions anyway
+- **Brother:** [[Ser Viktor Thorne]] — Worries about [[Ser Viktor Thorne|Viktor]]; supplies his ambitions anyway
 
 ### Allies
 - **[[Grimhild the Smith]]** — Mutual respect; she taught him; he manages for her
-- **[[The Forgemasters Guild]]** — The relationship that makes the March dangerous
+- **[[The Forgemasters Guild]]** — The relationship that makes [[The Eastern March|the March]] dangerous
 
 ## Story Role
 
@@ -121,16 +121,16 @@ Konrad spent three years learning smithing from Grimhild herself—not to become
 **Primary:** Quartermaster, logistics expert, alliance manager
 
 **As an Ally:** Provides weapons, supplies, and practical support
-**As an Enemy:** Can cut off supplies; knows every weakness in the March's infrastructure
+**As an Enemy:** Can cut off supplies; knows every weakness in [[The Eastern March|the March]]'s infrastructure
 
 ### Arc
-Konrad must learn to speak his heart, not just his ledgers. When crisis comes, his brothers will need to know he loves them. The March will need to know he cares about more than efficiency.
+Konrad must learn to speak his heart, not just his ledgers. When crisis comes, his brothers will need to know he loves them. [[The Eastern March|The March]] will need to know he cares about more than efficiency.
 
 ## Secrets
 
-1. **He knows the war numbers.** Konrad has calculated how long the March can sustain war against Valdren. The answer isn't good.
-2. **Grimhild told him about her commission.** He's the only one outside the Guild who knows she's forging something special.
-3. **He suspects Viktor's ambitions.** He's been preparing contingencies in case his youngest brother does something stupid.
+1. **He knows the war numbers.** Konrad has calculated how long [[The Eastern March|the March]] can sustain war against Valdren. The answer isn't good.
+2. **[[Grimhild the Smith|Grimhild]] told him about her commission.** He's the only one outside the Guild who knows she's forging something special.
+3. **He suspects [[Ser Viktor Thorne|Viktor]]'s ambitions.** He's been preparing contingencies in case his youngest brother does something stupid.
 
 ## Image Prompts
 

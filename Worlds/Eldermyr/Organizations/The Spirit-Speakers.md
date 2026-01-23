@@ -28,13 +28,13 @@ power_level: Minor (officially); Significant (in the Northlands)
 # The Spirit-Speakers
 
 ## Overview
-The Spirit-Speakers are practitioners of the Old Ways—the pre-Faith tradition of ancestor veneration and spirit communion that survives in the Northlands. They serve as intermediaries between the living and the dead, interpreting dreams, conducting rituals at sacred sites, and maintaining the connection between generations. The Faith of the Three tolerates them as folk tradition; the Northfolk rely on them for guidance. Now, with the dead rising in the south, the Spirit-Speakers face a crisis: the ancestors are disturbed, and something is wrong with death itself.
+The Spirit-Speakers are practitioners of the Old Ways—the pre-Faith tradition of ancestor veneration and spirit communion that survives in [[The Northlands|the Northlands]]. They serve as intermediaries between the living and the dead, interpreting dreams, conducting rituals at sacred sites, and maintaining the connection between generations. [[The Faith of the Three]] tolerates them as folk tradition; the Northfolk rely on them for guidance. Now, with the dead rising in the south, the Spirit-Speakers face a crisis: the ancestors are disturbed, and something is wrong with death itself.
 
 ## Classification
 
 **Type:** Informal Religious Tradition (not a formal organization)
 
-**Status:** Tolerated by the Faith; central to Northland culture
+**Status:** Tolerated by [[The Faith of the Three|the Faith]]; central to Northland culture
 
 **Legal Position:** Not officially recognized; not actively persecuted
 
@@ -57,8 +57,8 @@ The Spirit-Speakers are practitioners of the Old Ways—the pre-Faith tradition 
 ### Sacred Sites
 - [[Stoneholm]] Lake — Where Spirit-Speakers gather annually
 - [[Myrkvid]] (The Dark Wood) — Ancient and powerful
-- The Standing Stones — Predating the Faith
-- Countless ancestor shrines throughout the Northlands
+- The Standing Stones — Predating [[The Faith of the Three|the Faith]]
+- Countless ancestor shrines throughout [[The Northlands|the Northlands]]
 
 ## Structure
 
@@ -86,47 +86,47 @@ Spirit-Speakers gather once yearly at Stoneholm Lake for:
 - Major rituals requiring combined power
 - Discussing matters affecting the Old Ways
 
-## Relationship with the Faith
+## Relationship with [[The Faith of the Three|the Faith]]
 
 ### Official Position
-The Faith of the Three views Spirit-Speaking as:
+[[The Faith of the Three]] views Spirit-Speaking as:
 - Harmless folk superstition (best case)
 - Dangerous error bordering on heresy (worst case)
 - Tolerated as long as practitioners don't challenge doctrine
 
 ### Practical Coexistence
 - Many Northfolk observe both traditions
-- Spirit-Speakers defer to the Faith in public
-- The Faith rarely enforces doctrine in the deep Northlands
+- Spirit-Speakers defer to [[The Faith of the Three|the Faith]] in public
+- [[The Faith of the Three]] rarely enforces doctrine in the deep [[The Northlands]]
 - Tensions exist but rarely escalate
 
 ### The Theological Problem
-The rising dead in the Ashen Fields challenges both traditions. The Faith says the Chronicler guides souls to rest; the Old Ways say ancestors linger to guide the living. Neither explains dead who rise to fight old battles.
+The rising dead in [[The Ashen Fields]] challenges both traditions. [[The Faith of the Three]] says the Chronicler guides souls to rest; the Old Ways say ancestors linger to guide the living. Neither explains dead who rise to fight old battles.
 
 ## Current Crisis
 
 ### The Ancestors Are Disturbed
-Spirit-Speakers throughout the Northlands report:
+Spirit-Speakers throughout [[The Northlands|the Northlands]] report:
 - Ancestors appearing agitated in communion rituals
 - Dreams filled with warnings and fear
 - Land spirits withdrawing from sacred sites
 - Something wrong with the passage of the dead
 
 ### Elder Yrsa's Secret
-Elder Yrsa has been in communion with ancestors who witnessed the Battle of Ashen Fields. They have told her what lies beneath the mass graves—and it is older than the Three, older than the Old Ways, older than memory. She believes the south must suffer for abandoning the ancestors. She has not shared this knowledge.
+Elder Yrsa has been in communion with ancestors who witnessed [[The Battle of Ashen Fields]]. They have told her what lies beneath the mass graves—and it is older than [[The Faith of the Three]], older than the Old Ways, older than memory. She believes the south must suffer for abandoning the ancestors. She has not shared this knowledge.
 
 ### The Choice
 Some Spirit-Speakers want to warn the south, despite everything. Others agree with Yrsa—let the faithless reap what they've sown. The dead will decide.
 
 ## Secrets
 
-1. **Elder Yrsa knows what The Unnamed is.** The ancestors have told her about the thing beneath the Ashen Fields. It was here before humans. It was bound long ago. It is waking.
+1. **Elder Yrsa knows what [[The Unnamed]] is.** The ancestors have told her about [[The Unnamed]] [[The Ashen Fields]]. It was here before humans. It was bound long ago. It is waking.
 
 2. **Spirit-Speaking works differently now.** Since the rising began, communion with the dead has become easier—too easy. Some fear the boundary between living and dead is thinning everywhere.
 
-3. **The Old Ways are growing stronger.** As the Faith weakens, the old spirits are becoming more active. Something is waking in Myrkvid that even the Spirit-Speakers cannot control.
+3. **The Old Ways are growing stronger.** As [[The Faith of the Three|the Faith]] weakens, the old spirits are becoming more active. Something is waking in Myrkvid that even the Spirit-Speakers cannot control.
 
-4. **A Spirit-Speaker visited the Ashen Fields.** Raven-Eye traveled south in secret and attempted to commune with the risen dead. What she learned broke something in her. She speaks only in riddles now.
+4. **A Spirit-Speaker visited [[The Ashen Fields|the Ashen Fields]].** Raven-Eye traveled south in secret and attempted to commune with the risen dead. What she learned broke something in her. She speaks only in riddles now.
 
 ## Plot Hooks
 
@@ -134,7 +134,7 @@ Some Spirit-Speakers want to warn the south, despite everything. Others agree wi
 
 2. **The Silent Speaker:** The Silent One has been sending dreams to someone in the party. She has a message—but delivering it requires entering her dreams.
 
-3. **Raven-Eye's Riddles:** The young Spirit-Speaker who visited the Ashen Fields speaks truths hidden in madness. Can the party decode her warnings?
+3. **Raven-Eye's Riddles:** The young Spirit-Speaker who visited [[The Ashen Fields|the Ashen Fields]] speaks truths hidden in madness. Can the party decode her warnings?
 
 4. **The Gathering Interrupted:** Something attacks the annual gathering at Stoneholm. The Spirit-Speakers need protection—and answers.
 

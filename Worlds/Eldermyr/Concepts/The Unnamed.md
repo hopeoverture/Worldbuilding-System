@@ -24,7 +24,7 @@ status_current: Awakening
 # The Unnamed
 
 ## Overview
-Before the Faith of the Three, before the kingdom of Eldermyr, before humans walked these lands, something slumbered beneath what would become the Ashen Fields. It has many names in forgotten tongues, but the Faith calls it simply "The Unnamed"—for to name it is to acknowledge it, and to acknowledge it is to give it power. It is not a god. It is not a demon. It is something older and hungrier, and the Great War's bloodshed has begun to wake it.
+Before [[The Faith of the Three]], before the kingdom of Eldermyr, before humans walked these lands, something slumbered beneath what would become [[The Ashen Fields]]. It has many names in forgotten tongues, but [[The Faith of the Three]] calls it simply "The Unnamed"—for to name it is to acknowledge it, and to acknowledge it is to give it power. It is not a god. It is not a demon. It is something older and hungrier, and [[The Great War]]'s bloodshed has begun to wake it.
 
 ## Nature
 
@@ -34,8 +34,8 @@ The Unnamed defies mortal understanding. It is not alive in any conventional sen
 ### What It Wants
 The Unnamed wants to feed. It feeds on death, on souls, on the severing of the Chronicler's covenant. Every soul that fails to reach the Final Walk nourishes it. Every undead that rises gives it power. It has been patient for millennia. It can wait longer. But it is no longer waiting.
 
-### Relationship to the Three
-The Faith of the Three emerged in part as a response to the Unnamed. The Chronicler's covenant—the promise that all souls will pass to the Final Walk—was designed to starve the thing below. For centuries, it worked. The Unnamed slumbered, weakened. Then the Great War came, and 10,000 souls were denied their passage.
+### Relationship to [[The Faith of the Three|the Three]]
+[[The Faith of the Three]] emerged in part as a response to the Unnamed. The Chronicler's covenant—the promise that all souls will pass to the Final Walk—was designed to starve the thing below. For centuries, it worked. The Unnamed slumbered, weakened. Then [[The Great War|the Great War]] came, and 10,000 souls were denied their passage.
 
 ## History
 
@@ -43,21 +43,21 @@ The Faith of the Three emerged in part as a response to the Unnamed. The Chronic
 The Unnamed existed before the gods took notice of this land. It fed on whatever died here—animals, plants, eventually the first thinking creatures. The land was cursed, shunned by all who could feel its wrongness.
 
 ### The First Binding
-When humans came to this land, their shamans (predecessors to the Spirit-Speakers) recognized the danger. They could not destroy the Unnamed, but they could contain it. Through sacrifice and ritual, they bound it to slumber. The land above became fertile, the curse seemingly lifted.
+When humans came to this land, their shamans (predecessors to [[The Spirit-Speakers|the Spirit-Speakers]]) recognized the danger. They could not destroy the Unnamed, but they could contain it. Through sacrifice and ritual, they bound it to slumber. The land above became fertile, the curse seemingly lifted.
 
-### The Faith's Arrival
-The Faith of the Three institutionalized the binding without fully understanding it. The Chronicler's covenant—proper death rites, souls guided to the Final Walk—starved the Unnamed of sustenance. For five centuries, it slumbered deeper and deeper.
+### [[The Faith of the Three|The Faith]]'s Arrival
+[[The Faith of the Three]] institutionalized the binding without fully understanding it. The Chronicler's covenant—proper death rites, souls guided to the Final Walk—starved the Unnamed of sustenance. For five centuries, it slumbered deeper and deeper.
 
-### The Great War
-The Mad King Valdus Karath somehow learned of the Unnamed. His necromantic experiments were attempts to access its power. When he fell at the Battle of Ashen Fields, 10,000 souls were trapped—denied passage, fed to the thing below. The Unnamed began to wake.
+### [[The Great War]]
+[[The Mad King]] [[The Mad King]] somehow learned of the Unnamed. His necromantic experiments were attempts to access its power. When he fell at [[The Battle of Ashen Fields]], 10,000 souls were trapped—denied passage, fed to the thing below. The Unnamed began to wake.
 
 ### Now
-Twenty-three years of accumulated death and trapped souls have nearly restored the Unnamed to wakefulness. It speaks to those who listen (Lord Draven hears it in his dreams). It moves through the Figure at the Heart of the Fields. It is close—so close—to breaking free entirely.
+Twenty-three years of accumulated death and trapped souls have nearly restored the Unnamed to wakefulness. It speaks to those who listen ([[Lord Draven Karath|Lord Draven]] hears it in his dreams). It moves through [[The Mad King|the Figure]] at the Heart of the Fields. It is close—so close—to breaking free entirely.
 
 ## Manifestations
 
 ### The Hunger
-Those near the Ashen Fields feel a constant, gnawing emptiness. Food provides no satisfaction. Sleep brings no rest. The Unnamed's influence drains vitality from the living.
+Those near [[The Ashen Fields|the Ashen Fields]] feel a constant, gnawing emptiness. Food provides no satisfaction. Sleep brings no rest. The Unnamed's influence drains vitality from the living.
 
 ### The Whispers
 In dreams and quiet moments, the Unnamed speaks. Not in words, exactly, but in impressions—offers of power, promises of peace through oblivion, temptations tailored to each listener.
@@ -65,22 +65,22 @@ In dreams and quiet moments, the Unnamed speaks. Not in words, exactly, but in i
 ### The Dead
 The rising undead are not directly controlled by the Unnamed, but they are manifestations of its influence. The more death, the more undead; the more undead, the stronger the Unnamed grows.
 
-### The Figure
-Whether the Figure at the Heart is the Mad King, a puppet, or an avatar of the Unnamed itself is unclear. It may be all three—the Unnamed wearing Valdus's corpse like a mask.
+### [[The Mad King|The Figure]]
+Whether [[The Mad King]] at the Heart is [[The Mad King]], a puppet, or an avatar of the Unnamed itself is unclear. It may be all three—the Unnamed wearing Valdus's corpse like a mask.
 
 ## Those Who Know
 
-### Lord Draven Karath
-Draven has been in contact with the Unnamed, though he doesn't fully understand what he's communing with. He believes he's speaking to his grandfather's spirit, or to some power that will restore his house. He is being used.
+### [[Lord Draven Karath]]
+[[Lord Draven Karath|Draven]] has been in contact with the Unnamed, though he doesn't fully understand what he's communing with. He believes he's speaking to his grandfather's spirit, or to some power that will restore his house. He is being used.
 
-### High Confessor Maren
-Maren's visions may come from the Unnamed rather than the Three. The thing beneath is skilled at mimicry, at wearing the faces of gods. If Maren believes himself divinely chosen, he may serve the Unnamed's purposes.
+### [[High Confessor Maren]]
+[[High Confessor Maren|Maren]]'s visions may come from the Unnamed rather than [[The Faith of the Three|the Three]]. The thing beneath is skilled at mimicry, at wearing the faces of gods. If [[High Confessor Maren|Maren]] believes himself divinely chosen, he may serve the Unnamed's purposes.
 
-### The Spirit-Speakers
-The oldest Spirit-Speakers remember the ancient bindings. They know what slumbers below, even if they don't speak of it openly. They are seeking ways to reinforce the old protections.
+### [[The Spirit-Speakers]]
+The oldest [[The Spirit-Speakers|Spirit-Speakers]] remember the ancient bindings. They know what slumbers below, even if they don't speak of it openly. They are seeking ways to reinforce the old protections.
 
-### Grimhild the Smith
-Grimhild's dreams of a blade that can kill what cannot die come from... somewhere. Perhaps the Three, perhaps the First Shamans, perhaps even a part of the Unnamed that seeks its own destruction. Her commission is the realm's best hope.
+### [[Grimhild the Smith]]
+[[Grimhild the Smith|Grimhild]]'s dreams of a blade that can kill what cannot die come from... somewhere. Perhaps [[The Faith of the Three|the Three]], perhaps the First Shamans, perhaps even a part of the Unnamed that seeks its own destruction. Her commission is the realm's best hope.
 
 ## Defeating the Unnamed
 
@@ -90,27 +90,27 @@ Unknown. The Unnamed has existed since before recorded history. No force has eve
 ### Containment
 The Unnamed can be forced back to slumber by:
 - Restoring the Chronicler's covenant (releasing trapped souls)
-- Destroying the Blackened Crown (breaking its anchor)
+- Destroying [[The Blackened Crown|the Blackened Crown]] (breaking its anchor)
 - Massive sacrifice (feeding it enough to satisfy it temporarily—a terrible option)
 
 ### The Hope
-If the Blackened Crown is destroyed while a legitimate monarch wears the Iron Crown, the trapped souls may be released, starving the Unnamed back into slumber. But this requires facing the Figure, destroying an artifact of immense power, and having a true king or queen to wear the Iron Crown.
+If [[The Blackened Crown]] is destroyed while a legitimate monarch wears [[The Iron Crown]], the trapped souls may be released, starving the Unnamed back into slumber. But this requires facing [[The Mad King]], destroying an artifact of immense power, and having a true king or queen to wear [[The Iron Crown]].
 
 ## Secrets
 
-1. **It Has Done This Before.** The land that would become the Ashen Fields has been cursed and cleansed multiple times throughout history. Each time, the Unnamed was driven back. Each time, it remembered. It has learned.
+1. **It Has Done This Before.** The land that would become [[The Ashen Fields|the Ashen Fields]] has been cursed and cleansed multiple times throughout history. Each time, the Unnamed was driven back. Each time, it remembered. It has learned.
 
-2. **It Knows About Grimhild.** The Unnamed is aware that a weapon is being forged to oppose it. It cannot act directly against her—she is protected by something—but it can act through agents. Draven's people are watching Hammerhall.
+2. **It Knows About [[Grimhild the Smith|Grimhild]].** The Unnamed is aware that a weapon is being forged to oppose it. It cannot act directly against her—she is protected by something—but it can act through agents. [[Lord Draven Karath|Draven]]'s people are watching [[Hammerhall]].
 
 3. **It Is Not Alone.** There are other sleeping horrors beneath Eldermyr. The Unnamed is simply the closest to waking. If it rises, others may follow.
 
 ## Plot Hooks
 
-1. **The Voice in Dreams:** A PC begins hearing whispers, feeling the Unnamed's influence. The power offered is real. The cost may be everything.
+1. **The Voice in Dreams:** A PC begins hearing whispers, feeling the Unnamed's influence. [[Magic of Eldermyr|The power]] offered is real. The cost may be everything.
 
-2. **The Old Binding:** The Spirit-Speakers know of ancient rituals that might reinforce the containment. But they require components, locations, and sacrifices the modern Faith would never approve.
+2. **The Old Binding:** [[The Spirit-Speakers]] know of ancient rituals that might reinforce the containment. But they require components, locations, and sacrifices the modern Faith would never approve.
 
-3. **Face the Truth:** Someone must descend beneath the Ashen Fields, into the ancient tunnels, and confront whatever form the Unnamed takes. What they learn could save the realm—if they survive.
+3. **Face the Truth:** Someone must descend beneath [[The Ashen Fields|the Ashen Fields]], into the ancient tunnels, and confront whatever form the Unnamed takes. What they learn could save the realm—if they survive.
 
 ## Image Prompts
 

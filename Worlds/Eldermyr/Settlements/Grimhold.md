@@ -30,7 +30,7 @@ civilian_capacity: 3000 (siege)
 # Grimhold
 
 ## Overview
-Grimhold guards the Greycrown Gap, the northern passage between the Eastern March and the Northlands. For centuries, it has watched for threats from the cold north—raiders, monsters, and worse. Now, with something stirring in the mountains and rumors of dead things walking the high passes, Grimhold's garrison finds itself facing the kind of threat the fortress was built to contain.
+Grimhold guards the Greycrown Gap, the northern passage between [[The Eastern March]] and [[The Northlands]]. For centuries, it has watched for threats from the cold north—raiders, monsters, and worse. Now, with something stirring in the mountains and rumors of dead things walking the high passes, Grimhold's garrison finds itself facing the kind of threat the fortress was built to contain.
 
 ## Geography
 
@@ -64,12 +64,12 @@ Carved into the mountain, vast chambers hold supplies for a two-year siege. Fed 
 - **Reserve:** 200 support troops
 
 ### Command
-**Lord Commander Aldric Stone-Fist** — A grizzled veteran who lost his hand to frostbite, replaced with a stone prosthetic (carved by Grimhild herself). He's served at Grimhold for thirty years and knows every approach, every weakness, every sound the wind makes.
+**Lord Commander Aldric Stone-Fist** — A grizzled veteran who lost his hand to frostbite, replaced with a stone prosthetic (carved by [[Grimhild the Smith|Grimhild]] herself). He's served at Grimhold for thirty years and knows every approach, every weakness, every sound the wind makes.
 
 ## Notable Locations
 
 ### The Watchtower
-The highest point, rising above the wall. Beacon fires can signal Stahlburg within hours.
+The highest point, rising above the wall. Beacon fires can signal [[Stahlburg]] within hours.
 
 ### The Hall of Shields
 Where fallen defenders' shields line the walls, dating back centuries. A new section has been added recently—more shields than usual.
@@ -78,7 +78,7 @@ Where fallen defenders' shields line the walls, dating back centuries. A new sec
 A shrine to the Chronicler, appropriate for those who guard the boundary between the living and whatever lurks in the mountain darkness.
 
 ### The Northern Gate
-Facing the Northlands, this gate opens for trade, diplomacy, and—rarely—war.
+Facing [[The Northlands|the Northlands]], this gate opens for trade, diplomacy, and—rarely—war.
 
 ## Current Situation
 
@@ -86,7 +86,7 @@ Facing the Northlands, this gate opens for trade, diplomacy, and—rarely—war.
 Patrols report strange sightings in the high passes—figures that move wrong, tracks that shouldn't exist, sounds at night that freeze the blood. The northern clans send warnings: don't go into the mountains at night.
 
 ### Reinforcement Requests
-Lord Commander Stone-Fist has asked Stahlburg for reinforcements. With the succession crisis consuming Lady Margret's attention, the response has been delayed.
+Lord Commander Stone-Fist has asked [[Stahlburg]] for reinforcements. With the succession crisis consuming [[Lady Margret Thorne|Lady Margret]]'s attention, the response has been delayed.
 
 ## Secrets
 

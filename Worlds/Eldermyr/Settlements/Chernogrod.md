@@ -42,28 +42,28 @@ military_presence: Moderate
 # Chernogrod
 
 ## Overview
-Chernogrod is a city in mourning—for its dead, for its past glory, and perhaps for its future. Once the proud seat of a great house, it now huddles behind black stone walls, defiant against a realm that crushed it and a curse that creeps ever closer from the Ashen Fields. Here, [[Lord Draven Karath]] nurses his hatred in the Black Keep, making bargains with powers that no sane man would acknowledge. The city's people endure because endurance is all they have left—and because something is growing in the darkness beneath their lord's fortress.
+Chernogrod is a city in mourning—for its dead, for its past glory, and perhaps for its future. Once the proud seat of a great house, it now huddles behind black stone walls, defiant against a realm that crushed it and a curse that creeps ever closer from [[The Ashen Fields|the Ashen Fields]]. Here, [[Lord Draven Karath]] nurses his hatred in the Black Keep, making bargains with powers that no sane man would acknowledge. The city's people endure because endurance is all they have left—and because something is growing in the darkness beneath their lord's fortress.
 
 ## Geography
 
 ### Location
-Chernogrod sits on a rise of black granite overlooking the lower Chorna River, some thirty miles from the Ashen Fields. The location was chosen centuries ago for its defensive position; the black stone that gives the city its name provides both building material and psychological weight. To the south, the Bitter Coast offers the only reliable trade route since the land routes became dangerous.
+Chernogrod sits on a rise of black granite overlooking the lower Chorna River, some thirty miles from [[The Ashen Fields|the Ashen Fields]]. The location was chosen centuries ago for its defensive position; the black stone that gives the city its name provides both building material and psychological weight. To the south, the Bitter Coast offers the only reliable trade route since the land routes became dangerous.
 
 ### Terrain
 The city occupies a natural defensive position—a granite outcrop rising from the scarred farmland. The Chorna River (running increasingly gray as it passes the Fields upstream) provides water, though it's no longer safe to drink without boiling. The surrounding countryside is blighted—dead orchards, abandoned farms, fields that produce less each year.
 
 ### Climate
-Temperate, but wrong. The seasons still turn, but spring brings no renewal near the curse. Mist rises from the Fields and drifts south; the sun seems perpetually dim; crops wither even with adequate rain. The locals say the Ashen Fields are exhaling, and Chernogrod breathes the same air.
+Temperate, but wrong. The seasons still turn, but spring brings no renewal near the curse. Mist rises from the Fields and drifts south; the sun seems perpetually dim; crops wither even with adequate rain. The locals say [[The Ashen Fields|the Ashen Fields]] are exhaling, and Chernogrod breathes the same air.
 
 ## Layout
 
 ### The Black Walls
-Chernogrod's walls are built from the local black granite, giving the city its name. They're old, weathered, but sound—House Karath has maintained them even when they couldn't maintain hope. Three gates pierce the walls, though the northern gate has been sealed since the curse began spreading.
+Chernogrod's walls are built from the local black granite, giving the city its name. They're old, weathered, but sound—[[House Karath]] has maintained them even when they couldn't maintain hope. Three gates pierce the walls, though the northern gate has been sealed since the curse began spreading.
 
 ### The Districts
 The city is smaller than it was—whole neighborhoods abandoned as population fell, reclaimed by nature or dismantled for materials. What remains clusters around the Black Keep and the southern waterfront.
 
-**The Keep Quarter:** The area immediately around the Black Keep, home to what remains of the nobility and those who serve Lord Draven directly.
+**The Keep Quarter:** The area immediately around the Black Keep, home to what remains of the nobility and those who serve [[Lord Draven Karath|Lord Draven]] directly.
 
 **The Living City:** The central districts where most inhabitants cling to existence—markets, temples, workshops that still function.
 
@@ -74,41 +74,41 @@ The city is smaller than it was—whole neighborhoods abandoned as population fe
 ## The Black Keep
 
 ### Structure
-The fortress of House Karath is carved from the same black granite as the walls, rising in stark towers above the city. Unlike the refined palaces of other great houses, this is a fortress pure and simple—built for war, maintained through defeat, now humming with something darker.
+The fortress of [[House Karath]] is carved from the same black granite as the walls, rising in stark towers above the city. Unlike the refined palaces of other great houses, this is a fortress pure and simple—built for war, maintained through defeat, now humming with something darker.
 
 ### What's Changed
-The lower levels have been sealed. Strange sounds echo at night. The servants whisper about lights in windows that should be dark. Lord Draven spends hours in chambers no one else may enter. His sister [[Yelena Karath]] comes and goes through passages that don't appear on any map.
+The lower levels have been sealed. Strange sounds echo at night. The servants whisper about lights in windows that should be dark. [[Lord Draven Karath|Lord Draven]] spends hours in chambers no one else may enter. His sister [[Yelena Karath]] comes and goes through passages that don't appear on any map.
 
 ### The Catacombs
-Beneath the Keep, ancient tunnels extend into the rock. The Karath family buried their dead here for centuries. Recently, Lord Draven has been... renovating.
+Beneath the Keep, ancient tunnels extend into the rock. The Karath family buried their dead here for centuries. Recently, [[Lord Draven Karath|Lord Draven]] has been... renovating.
 
 ## Demographics
 
 ### Population Collapse
-**Current Population:** ~35,000 (down from 60,000 before the Great War, 400,000 in the Reach overall)
+**Current Population:** ~35,000 (down from 60,000 before [[The Great War]], 400,000 in [[The Karath Reach]] overall)
 **Trend:** Still declining—those who can leave, do
 
 ### Who Remains
 - The loyal—those who share Karath hatred of the other houses
 - The trapped—those too poor, too old, or too sick to flee
-- The faithful—those who still believe House Karath will rise again
+- The faithful—those who still believe [[House Karath]] will rise again
 - The changed—those who have spent too much time near the Fields
 
 ### Social Classes
-Class distinctions have collapsed. Everyone is poor; everyone is desperate; everyone is bound by shared trauma. The noble families either fled after the war or threw in their lot with Draven's cause. The distinction that matters now is loyalty—to Lord Draven, to the house, to the dream of vengeance.
+Class distinctions have collapsed. Everyone is poor; everyone is desperate; everyone is bound by shared trauma. The noble families either fled after the war or threw in their lot with [[Lord Draven Karath|Draven]]'s cause. The distinction that matters now is loyalty—to [[Lord Draven Karath|Lord Draven]], to the house, to the dream of vengeance.
 
 ## Government
 
-### Lord Draven's Rule
-Draven Karath rules absolutely. There is no council, no advisors with independent power, no check on his authority. He is the law. His word is final. Those who question him disappear—to prison, to exile, or to the Ashen Fields.
+### [[Lord Draven Karath|Lord Draven]]'s Rule
+[[Lord Draven Karath|Draven]] Karath rules absolutely. There is no council, no advisors with independent power, no check on his authority. He is the law. His word is final. Those who question him disappear—to prison, to exile, or to [[The Ashen Fields|the Ashen Fields]].
 
 ### The Inner Circle
-Only two people have Draven's ear:
+Only two people have [[Lord Draven Karath|Draven]]'s ear:
 - **[[Yelena Karath]]** — His sister, the Lady of Whispers, who manages intelligence and dark works
-- **Ser Mikhail Volkov** — Captain of the Guard, childhood friend, the only person Draven trusts with a weapon
+- **Ser Mikhail Volkov** — Captain of the Guard, childhood friend, the only person [[Lord Draven Karath|Draven]] trusts with a weapon
 
 ### The Tribute
-Theoretically, House Karath pays tribute to the crown and to the houses that defeated them. Draven stopped paying six months ago. No one has come to collect—yet.
+Theoretically, [[House Karath]] pays tribute to the crown and to the houses that defeated them. [[Lord Draven Karath|Draven]] stopped paying six months ago. No one has come to collect—yet.
 
 ## Economy
 
@@ -126,25 +126,25 @@ Things are traded in Chernogrod that can't be traded elsewhere—forbidden texts
 
 ## Religion
 
-### The Faith Strained
-The Cathedral of Sorrows still stands, still holds services, still offers what comfort faith can provide. But the priests struggle to explain why the Three permitted such suffering, why the dead will not rest, why prayers seem to go unanswered.
+### [[The Faith of the Three|The Faith]] Strained
+The Cathedral of Sorrows still stands, still holds services, still offers what comfort faith can provide. But the priests struggle to explain why [[The Faith of the Three|the Three]] permitted such suffering, why the dead will not rest, why prayers seem to go unanswered.
 
 ### Rising Alternatives
-Some have turned to the Old Ways—ancestor veneration, land spirits, traditions the Faith suppressed. Others whisper of a power that answers when the Three are silent. The Ash Penitents have appeared—flagellants who believe the curse is divine punishment for the realm's sins.
+Some have turned to the Old Ways—ancestor veneration, land spirits, traditions [[The Faith of the Three]] suppressed. Others whisper of a power that answers when [[The Faith of the Three]] are silent. The Ash Penitents have appeared—flagellants who believe the curse is divine punishment for the realm's sins.
 
 ### Father Petrov
-The High Priest of the Cathedral, struggling to hold his flock's faith together while privately wondering if the Three have abandoned the Karath Reach entirely.
+The High Priest of the Cathedral, struggling to hold his flock's faith together while privately wondering if [[The Faith of the Three]] have abandoned [[The Karath Reach]] entirely.
 
 ## Notable Locations
 
 ### The Black Keep
-Lord Draven's fortress, seat of House Karath, and increasingly the heart of something dark. The upper levels function normally; the lower levels are sealed; the catacombs echo with sounds that shouldn't exist.
+[[Lord Draven Karath|Lord Draven]]'s fortress, seat of [[House Karath]], and increasingly the heart of something dark. The upper levels function normally; the lower levels are sealed; the catacombs echo with sounds that shouldn't exist.
 
 ### The Cathedral of Sorrows
 The largest temple in the city, its onion domes visible from the harbor. Packed with worshippers praying for deliverance. The priests do what they can. It's not enough.
 
 ### The Grudge Stone
-A great black stone in the central square where wrongs are carved to never be forgotten. The stone is nearly full—generations of grievances inscribed in tight script. Recently, someone carved new names: every lord who voted for Karath's punishment after the Great War.
+A great black stone in the central square where wrongs are carved to never be forgotten. The stone is nearly full—generations of grievances inscribed in tight script. Recently, someone carved new names: every lord who voted for Karath's punishment after [[The Great War|the Great War]].
 
 ### The Northern Gate
 Sealed and bricked up. On the other side, the abandoned quarter stretches toward the curse. Sometimes, at night, something knocks from the outside.
@@ -157,49 +157,49 @@ Where the Mourning Women gather to sing the laments, keeping alive the names of 
 
 ## Key Figures
 
-### Lord Draven Karath
+### [[Lord Draven Karath]]
 *See [[Lord Draven Karath]]*
 The broken lord, consumed by vengeance, making bargains no sane man would accept. He was a boy when his family was destroyed. He has had twenty years to nurse his hatred. Now he has power—power that feeds on the thirty thousand dead.
 
-### Yelena Karath
+### [[Yelena Karath]]
 *See [[Yelena Karath]]*
-Draven's sister, deeper into the darkness than even he knows. She sees through the Watcher's Eye, walks in dreams, and communes with something that shouldn't be named.
+[[Lord Draven Karath|Draven]]'s sister, deeper into the darkness than even he knows. She sees through [[Yelena Karath|the Watcher's Eye]], walks in dreams, and communes with something that shouldn't be named.
 
 ### Lady Mira Karath
-Draven's wife, dead in childbirth—but her memory haunts the Keep. Some say Draven speaks to her portrait. Others say she speaks back.
+[[Lord Draven Karath|Draven]]'s wife, dead in childbirth—but her memory haunts the Keep. Some say [[Lord Draven Karath|Draven]] speaks to her portrait. Others say she speaks back.
 
-### Aleksei Karath
-Draven's son, twelve years old, increasingly frightened by what his father has become. His aunt Yelena is "teaching" him things. He has nightmares about a figure in a crown of blackened iron.
+### [[Aleksei Karath]]
+[[Lord Draven Karath|Draven]]'s son, twelve years old, increasingly frightened by what his father has become. His aunt [[Yelena Karath|Yelena]] is "teaching" him things. He has nightmares about a figure in a crown of blackened iron.
 
 ### Ser Mikhail Volkov
-Captain of the Guard, Draven's only true friend. He knows his lord is descending into something terrible. He stays because he remembers the boy Draven was, and because someone has to protect young Aleksei.
+Captain of the Guard, [[Lord Draven Karath|Draven]]'s only true friend. He knows his lord is descending into something terrible. He stays because he remembers the boy [[Lord Draven Karath|Draven]] was, and because someone has to protect young [[Aleksei Karath|Aleksei]].
 
 ### Old Yeva
-A hedge witch who remembers the Old Ways. The Faith tolerates her because she heals the sick and comforts the dying. She fears what's stirring in the catacombs but can't bring herself to flee.
+A hedge witch who remembers the Old Ways. [[The Faith of the Three|The Faith]] tolerates her because she heals the sick and comforts the dying. She fears what's stirring in the catacombs but can't bring herself to flee.
 
 ## Secrets
 
-1. **The Catacombs are awake.** The Karath dead are stirring in their tombs. Draven visits them. They speak to him. They're angry.
+1. **The Catacombs are awake.** The Karath dead are stirring in their tombs. [[Lord Draven Karath|Draven]] visits them. They speak to him. They're angry.
 
-2. **Lady Mira's portrait bleeds.** On certain nights, the portrait weeps blood. Draven has made it part of his rituals. Yelena knows it's not his wife speaking through the canvas.
+2. **Lady Mira's portrait bleeds.** On certain nights, the portrait weeps blood. [[Lord Draven Karath|Draven]] has made it part of his rituals. [[Yelena Karath|Yelena]] knows it's not his wife speaking through the canvas.
 
 3. **The changed guard the walls.** Some of Chernogrod's soldiers have been... altered by exposure to the Fields. They don't eat. They don't sleep. They obey without question. Ser Mikhail is horrified but can't stop it.
 
-4. **Lady Mira still lives.** She faked her death to escape Draven's growing madness. She's in Porto Valdris under a false name, corresponding with Lord Varic Valdren. She'll betray everything if it saves her son.
+4. **Lady Mira still lives.** She faked her death to escape [[Lord Draven Karath|Draven]]'s growing madness. She's in [[Porto Valdris]] under a false name, corresponding with [[Lord Varic Valdren]]. She'll betray everything if it saves her son.
 
-5. **Aleksei can hear the dead.** The boy has inherited something—or been given it. When he sleeps, he visits the Ashen Fields. The dead are teaching him. He doesn't understand what he's learning.
+5. **[[Aleksei Karath|Aleksei]] can hear the dead.** The boy has inherited something—or been given it. When he sleeps, he visits [[The Ashen Fields|the Ashen Fields]]. The dead are teaching him. He doesn't understand what he's learning.
 
 ## Plot Hooks
 
-1. **The Lady's Escape:** Lady Mira (secretly alive) needs trusted agents to extract her son from Chernogrod before Yelena's "lessons" consume him completely.
+1. **The Lady's Escape:** Lady Mira (secretly alive) needs trusted agents to extract her son from Chernogrod before [[Yelena Karath|Yelena]]'s "lessons" consume him completely.
 
-2. **The Watcher's Warning:** A figure in a grey cloak (a Grey Warden undercover) needs help gathering evidence of Draven's dark dealings—evidence that could justify intervention.
+2. **The Watcher's Warning:** A figure in a grey cloak (a Grey Warden undercover) needs help gathering evidence of [[Lord Draven Karath|Draven]]'s dark dealings—evidence that could justify intervention.
 
 3. **The Mourning Women:** Their songs have changed. They're singing something new—coordinates, perhaps, or instructions. Someone needs to find out what and why.
 
-4. **The Old Ways:** Old Yeva knows rituals that might protect against the curse—but she needs materials from the heart of the Ashen Fields.
+4. **The Old Ways:** Old Yeva knows rituals that might protect against the curse—but she needs materials from the heart of [[The Ashen Fields|the Ashen Fields]].
 
-5. **Aleksei's Dreams:** The boy reaches out in dreams to someone outside the city. He's terrified. He's powerful. He needs help before he becomes what his aunt is making.
+5. **[[Aleksei Karath|Aleksei]]'s Dreams:** The boy reaches out in dreams to someone outside the city. He's terrified. He's powerful. He needs help before he becomes what his aunt is making.
 
 ## Image Prompts
 

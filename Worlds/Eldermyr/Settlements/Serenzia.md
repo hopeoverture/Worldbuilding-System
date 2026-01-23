@@ -38,12 +38,12 @@ military_presence: Minimal
 # Serenzia
 
 ## Overview
-Serenzia is where the Western Shore goes to be beautiful. Terraced vineyards produce the realm's finest wines; artists and poets gather in sun-drenched plazas; and the Sereni Academy trains the next generation of diplomats, scholars, and artists. Unlike the commercial bustle of Porto Valdris, Serenzia cultivates refinement. The current crisis has brought an edge to the town's pleasant atmosphere—too many nobles with too much time and too many opinions.
+Serenzia is where [[The Western Shore|the Western Shore]] goes to be beautiful. Terraced vineyards produce the realm's finest wines; artists and poets gather in sun-drenched plazas; and the Sereni Academy trains the next generation of diplomats, scholars, and artists. Unlike the commercial bustle of [[Porto Valdris]], Serenzia cultivates refinement. The current crisis has brought an edge to the town's pleasant atmosphere—too many nobles with too much time and too many opinions.
 
 ## Geography
 
 ### Location
-Inland from the coast, Serenzia occupies hillsides covered in vineyards. The town spreads across multiple hills, connected by shaded paths and terraces. No walls confine it—Serenzia trusts in its pleasant uselessness for protection.
+Inland from [[The Western Shore|the coast]], Serenzia occupies hillsides covered in vineyards. The town spreads across multiple hills, connected by shaded paths and terraces. No walls confine it—Serenzia trusts in its pleasant uselessness for protection.
 
 ### The Vineyards
 The surrounding hills are striped with grape terraces. The Serenzia vintage is legendary—bottles sell for more than a common laborer earns in a month.
@@ -78,7 +78,7 @@ Where painters, sculptors, and poets live, work, and argue about beauty. Patrons
 The town's nominal ruler, more interested in his wine collection than politics. His neutrality is carefully maintained—everyone buys Serenzia wine.
 
 ### Maestro Lorenzo Bellini
-The Academy's headmaster, educator of future leaders. He knows secrets about every great house's children—the ones who passed through his halls.
+[[The Arcane Academy|The Academy]]'s headmaster, educator of future leaders. He knows secrets about every great house's children—the ones who passed through his halls.
 
 ### Lady Viola Amoroso
 The realm's most famous poet, whose verses circulate in manuscript. Her political poems are veiled but pointed; everyone tries to guess who she's criticizing now.
@@ -92,7 +92,7 @@ Serenzia's neutrality is strained. Representatives of all factions have "summer 
 
 1. **The Poisoned Vintage:** Someone has poisoned a shipment of Serenzia's finest wine—bound for a noble wedding. Hundreds could die. Who did it, and can it be stopped?
 
-2. **The Academy Secrets:** A student has discovered something in the Academy archives—secrets about the great houses' children. Now they're dead, and the secrets are missing.
+2. **[[The Arcane Academy]] Secrets:** A student has discovered something in [[The Arcane Academy]] archives—secrets about the great houses' children. Now they're dead, and the secrets are missing.
 
 3. **Lady Viola's Truth:** The poet's latest work names names. Before it can be published, she's vanished. Finding her reveals a conspiracy.
 

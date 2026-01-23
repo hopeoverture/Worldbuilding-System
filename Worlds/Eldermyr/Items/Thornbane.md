@@ -36,7 +36,7 @@ owner: "[[Lady Margret Thorne]]"
 # Thornbane
 
 ## Overview
-Thornbane is the ancestral greatsword of House Thorne, forged over three centuries ago from cold iron drawn from the deepest mines of the Eastern March. It has been wielded by every Lord and Lady of Stahlburg since its creation, and its presence on the battlefield has turned the tide of more wars than historians can count. The blade is said to drink the courage of its enemies and feed it to its wielder. In the current succession crisis, whoever holds Thornbane holds the loyalty of the March.
+Thornbane is the ancestral greatsword of [[House Thorne]], forged over three centuries ago from cold iron drawn from the deepest mines of [[The Eastern March]]. It has been wielded by every Lord and [[Lady Margret Thorne]] since its creation, and its presence on the battlefield has turned the tide of more wars than historians can count. The blade is said to drink the courage of its enemies and feed it to its wielder. In the current succession crisis, whoever holds Thornbane holds the loyalty of [[The Eastern March]].
 
 ## Weapon Statistics
 
@@ -71,7 +71,7 @@ When you make a melee attack with Thornbane and miss, you still deal slashing da
 
 ### Attunement
 - **Requires Attunement:** Yes
-- **Prerequisites:** Must be of House Thorne bloodline or sworn by oath to House Thorne's service
+- **Prerequisites:** Must be of [[House Thorne]] bloodline or sworn by oath to [[House Thorne]]'s service
 
 ### Enhancement
 - **Attack Bonus:** +3
@@ -83,7 +83,7 @@ When you make a melee attack with Thornbane and miss, you still deal slashing da
 
 **Thorn's Judgment.** When you hit a creature with Thornbane, you can choose to mark that creature. While marked, the creature has disadvantage on attack rolls against targets other than you. The mark lasts for 1 minute or until you mark a different creature.
 
-**Battle Cry of the March.** As a bonus action, you can raise Thornbane and release a war cry. Each ally within 30 feet who can see and hear you gains temporary hit points equal to your Charisma modifier + your proficiency bonus. Once used, this ability cannot be used again until the next dawn.
+**Battle Cry of [[The Eastern March|the March]].** As a bonus action, you can raise Thornbane and release a war cry. Each ally within 30 feet who can see and hear you gains temporary hit points equal to your Charisma modifier + your proficiency bonus. Once used, this ability cannot be used again until the next dawn.
 
 **Doom of Kings.** When you score a critical hit against a creature that has a title of nobility or rulership, the target must succeed on a DC 17 Constitution saving throw or be Stunned until the end of your next turn. This ability has no effect on creatures without such titles.
 
@@ -104,8 +104,8 @@ Thornbane is a massive greatsword, nearly five feet from pommel to tip, forged f
 ### Identifying Marks
 - The Thorne sigil engraved on the pommel
 - Runic inscriptions along the fuller in Old March script: "Through Iron, Strength"
-- The distinctive blue-black color of Eastern March cold iron
-- A small notch near the crossguard from the Battle of Ashen Fields
+- The distinctive blue-black color of [[The Eastern March|Eastern March]] cold iron
+- A small notch near the crossguard from [[The Battle of Ashen Fields|the Battle of Ashen Fields]]
 
 ## History
 
@@ -114,24 +114,24 @@ Thornbane was forged 312 years ago by the legendary smith Aldric Iron-Hand at th
 
 ### Notable Owners
 
-1. **Lord Brennan Thorne:** First wielder, used Thornbane to unite the Eastern March under Thorne rule. Died of old age, blade passed to his son.
+1. **Lord Brennan Thorne:** First wielder, used Thornbane to unite [[The Eastern March|the Eastern March]] under Thorne rule. Died of old age, blade passed to his son.
 2. **Lady Katrin Thorne:** The "Iron Lady" who wielded Thornbane against the Second Northern Invasion, killing the Frost Giant chieftain Grimjaw in single combat.
-3. **Lord Edmund Thorne:** Lady Margret's husband, carried Thornbane in the Great War. Died at the Battle of Ashen Fields; the blade was recovered from his body.
-4. **Lady Margret Thorne:** Current wielder, though she has not drawn the blade in battle since her husband's death.
+3. **Lord Edmund Thorne:** [[Lady Margret Thorne|Lady Margret]]'s husband, carried Thornbane in [[The Great War]]. Died at [[The Battle of Ashen Fields]]; the blade was recovered from his body.
+4. **[[Lady Margret Thorne]]:** Current wielder, though she has not drawn the blade in battle since her husband's death.
 
 ### Famous Deeds
 
-1. **The Unification of the March** — Lord Brennan used Thornbane to defeat seven rival lords, creating House Thorne's dominion.
+1. **The Unification of [[The Eastern March|the March]]** — Lord Brennan used Thornbane to defeat seven rival lords, creating [[House Thorne]]'s dominion.
 2. **The Fall of Grimjaw** — Lady Katrin beheaded the giant chieftain, ending the Northern Invasion.
 3. **The Last Stand at Ashford** — Lord Edmund held the line with Thornbane while retreating forces escaped, killing thirty men before falling.
 
 ### Current Status
-Thornbane rests in Lady Margret Thorne's private chambers in Stahlburg, mounted above her hearth. She has not drawn it since her husband's death, but her sons eye it with varying degrees of longing. The eldest, Ser Aldric, believes he should bear it as Sword of the March. The blade's next wielder will send a powerful message about House Thorne's future.
+Thornbane rests in [[Lady Margret Thorne]]'s private chambers in [[Stahlburg]], mounted above her hearth. She has not drawn it since her husband's death, but her sons eye it with varying degrees of longing. The eldest, [[Ser Aldric Thorne|Ser Aldric]], believes he should bear it as Sword of [[The Eastern March|the March]]. The blade's next wielder will send a powerful message about [[House Thorne]]'s future.
 
 ## Lore
 
 ### Cultural Significance
-In the Eastern March, Thornbane is more than a weapon—it is a symbol of legitimate Thorne rule. Soldiers of the March are taught to fight and die for "Throne and Thorn," the double meaning intentional. When Thornbane appears on the battlefield, the army's morale surges; if it falls, they break.
+In [[The Eastern March]], Thornbane is more than a weapon—it is a symbol of legitimate Thorne rule. Soldiers of [[The Eastern March]] are taught to fight and die for "Throne and Thorn," the double meaning intentional. When Thornbane appears on the battlefield, the army's morale surges; if it falls, they break.
 
 ### Legends
 
@@ -141,26 +141,26 @@ In the Eastern March, Thornbane is more than a weapon—it is a symbol of legiti
 ### Recognition
 **Fame Level:** National
 
-Throughout Eldermyr, any warrior would recognize Thornbane on sight. Its distinctive appearance and legendary status make it one of the most famous weapons in the realm. In the Eastern March, commoners bow when the blade passes.
+Throughout Eldermyr, any warrior would recognize Thornbane on sight. Its distinctive appearance and legendary status make it one of the most famous weapons in the realm. In [[The Eastern March|the Eastern March]], commoners bow when the blade passes.
 
 ## Acquisition
 
 ### Current Location
-Thornbane is held in Stahlburg, specifically in Lady Margret Thorne's personal chambers in the Iron Keep.
+Thornbane is held in [[Stahlburg]], specifically in [[Lady Margret Thorne]]'s personal chambers in the Iron Keep.
 
 ### Guardian/Protection
-The blade is protected by the Keep's formidable defenses, but more practically by the fact that anyone who took it would face the wrath of the entire Eastern March. No guards stand directly over it—none are needed.
+The blade is protected by the Keep's formidable defenses, but more practically by the fact that anyone who took it would face the wrath of the entire [[The Eastern March|Eastern March]]. No guards stand directly over it—none are needed.
 
 ### Claiming Requirements
-Only a member of House Thorne or someone sworn to Thorne service can attune to Thornbane. Lady Margret has not formally passed the blade to any of her sons, a deliberate ambiguity that keeps peace among them—for now.
+Only a member of [[House Thorne]] or someone sworn to Thorne service can attune to Thornbane. [[Lady Margret Thorne|Lady Margret]] has not formally passed the blade to any of her sons, a deliberate ambiguity that keeps peace among them—for now.
 
 ## Plot Hooks
 
-1. **The Succession of Steel:** Lady Margret asks the party to investigate which of her sons should receive Thornbane—or if any of them are worthy.
+1. **The Succession of Steel:** [[Lady Margret Thorne|Lady Margret]] asks the party to investigate which of her sons should receive Thornbane—or if any of them are worthy.
 
 2. **The Blade's Memory:** An enchanter claims they can unlock memories trapped in Thornbane, showing Lord Edmund's final moments—and who betrayed him at Ashford.
 
-3. **The Iron King's Prophecy:** Someone interprets the prophecy to mean Thornbane must slay Lord Varic Valdren, who styles himself Regent. Assassins are coming for the blade.
+3. **The Iron King's Prophecy:** Someone interprets the prophecy to mean Thornbane must slay [[Lord Varic Valdren]], who styles himself Regent. Assassins are coming for the blade.
 
 ## Image Prompts
 

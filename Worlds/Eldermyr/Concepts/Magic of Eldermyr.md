@@ -31,7 +31,7 @@ Magic in Eldermyr is rare, powerful, and dangerous. Perhaps one person in a thou
 
 Magic draws from multiple sources—divine grace, inherited blood, rigorous study, communion with spirits, or darker bargains—but all magic shares one truth: it costs. Power is not free. The Art demands payment in exhaustion, components, years of life, or pieces of the soul. Those who forget this lesson do not practice magic for long.
 
-Since the Mad King's fall twenty-three years ago, the realm views magic with renewed suspicion. His dark rituals broke something that was better left whole. Now the dead stir in the [[Ashen Fields]], and the [[The Faith of the Three|Faith]] hunts forbidden practitioners with renewed zeal.
+Since [[The Mad King]]'s fall twenty-three years ago, the realm views magic with renewed suspicion. His dark rituals broke something that was better left whole. Now the dead stir in the [[Ashen Fields]], and the [[The Faith of the Three]] hunts forbidden practitioners with renewed zeal.
 
 ## Classification
 
@@ -41,7 +41,7 @@ Magic in Eldermyr falls into five broad traditions, each with its own source, me
 
 | Tradition | Source | Status | Practitioners |
 |-----------|--------|--------|---------------|
-| **Divine** | Granted by [[The Faith of the Three\|the Three]] | Respected | Priests, Confessors |
+| **Divine** | Granted by [[The Faith of the Three\]] | Respected | Priests, Confessors |
 | **Bloodline** | Inherited magical ancestry | Tolerated | Noble Sorcerers |
 | **Academic** | Rigorous study and discipline | Distrusted | Wizards, Scholars |
 | **Spirit** | Communion with the dead | Suspicious | Wise Women, Mediums |
@@ -69,7 +69,7 @@ Magic reshapes reality through will, knowledge, and sacrifice. The caster impose
 - Accessed through prayer, ritual, and devotion to [[The Faith of the Three|the Three]]
 - Requires ordination and genuine faith
 - Power flows from the gods through the practitioner
-- Limited by doctrine—the Three do not grant power for forbidden works
+- Limited by doctrine—[[The Faith of the Three|the Three]] do not grant power for forbidden works
 
 **Bloodline Magic:**
 - Manifests instinctively, often in childhood
@@ -204,9 +204,9 @@ Certain things disrupt or resist magic:
 | Risk | Cause | Effect |
 |------|-------|--------|
 | **Exhaustion** | Any casting | Physical collapse |
-| **Madness** | Prolonged or powerful use | The Mad King's fate |
+| **Madness** | Prolonged or powerful use | [[The Mad King]]'s fate |
 | **Nightmares** | Regular practice | Visions of things that notice you |
-| **Attention** | Forbidden magic | Demons notice; the Faith investigates |
+| **Attention** | Forbidden magic | Demons notice; [[The Faith of the Three]] investigates |
 | **Spiritual Debt** | Pacts, spirit magic | Something comes to collect |
 | **Mutation** | Forbidden magic | Physical changes |
 | **Personality Shift** | Prolonged forbidden use | You become what you practice |
@@ -225,7 +225,7 @@ Certain things disrupt or resist magic:
 
 | Tradition | Method | Duration | Institution |
 |-----------|--------|----------|-------------|
-| Divine | Temple education | 5-10 years | Monasteries of the Three |
+| Divine | Temple education | 5-10 years | Monasteries of [[The Faith of the Three]] |
 | Bloodline | Instinct + family teaching | Lifetime | Noble houses |
 | Academic | Master-apprentice | 7-15 years | Individual towers |
 | Spirit | Dream instruction, oral tradition | Varies | Hidden lineages |
@@ -243,15 +243,15 @@ Certain things disrupt or resist magic:
 1. **Initiate:** Learning prayers, minor blessings
 2. **Priest:** Can channel healing, perform rites
 3. **Confessor:** Significant divine power, leads congregations
-4. **High Confessor:** Leader of the Faith, speaks for the Three
+4. **High Confessor:** Leader of [[The Faith of the Three]], speaks for [[The Faith of the Three]]
 
 ## Social Impact
 
 ### Public Perception
 
-Common folk treat magic users with wary respect. A healer is welcomed. A diviner is consulted. A wizard is watched. After the Mad King, everyone remembers what happens when magic goes wrong.
+Common folk treat magic users with wary respect. A healer is welcomed. A diviner is consulted. A wizard is watched. After [[The Mad King|the Mad King]], everyone remembers what happens when magic goes wrong.
 
-The Faith teaches that divine magic is blessed, bloodline magic is tolerated (a gift from the Three to ancient heroes), and academic magic is acceptable if properly regulated. Everything else ranges from suspicious to heretical.
+[[The Faith of the Three]] teaches that divine magic is blessed, bloodline magic is tolerated (a gift from [[The Faith of the Three]] to ancient heroes), and academic magic is acceptable if properly regulated. Everything else ranges from suspicious to heretical.
 
 ### Legal Framework
 
@@ -259,13 +259,13 @@ The Faith teaches that divine magic is blessed, bloodline magic is tolerated (a 
 
 **Restricted:** Mind-affecting magic (enchantment, memory manipulation) is legal only for Faith inquisitors during sanctioned investigations.
 
-**Forbidden:** Necromancy, demon summoning, blood sacrifice, and soul magic are capital crimes. The Faith maintains inquisitors specifically to hunt such practitioners.
+**Forbidden:** Necromancy, demon summoning, blood sacrifice, and soul magic are capital crimes. [[The Faith of the Three|The Faith]] maintains inquisitors specifically to hunt such practitioners.
 
 ### Military Applications
 
 Battle mages are rare and valuable. A pyromancer or electromancer can break an enemy formation. A skilled healer keeps soldiers fighting. Diviners provide intelligence.
 
-During the Great War, both sides employed mages—but the Mad King's forces used darker arts. The Battle of [[Ashen Fields]] saw rituals that have left the land cursed to this day.
+During [[The Great War]], both sides employed mages—but [[The Mad King]]'s forces used darker arts. The Battle of [[Ashen Fields]] saw rituals that have left the land cursed to this day.
 
 ### Economic Role
 
@@ -277,11 +277,11 @@ This makes mages valuable to nobles and merchants—and creates tension between 
 
 ### Origin
 
-Magic has existed since the dawn of Eldermyr. The Three granted power to the first priests. The ancient bloodlines were blessed (or cursed) by beings long forgotten. Academic magic was systematized by scholars of the Old Empire, centuries ago.
+Magic has existed since the dawn of Eldermyr. [[The Faith of the Three|The Three]] granted power to the first priests. The ancient bloodlines were blessed (or cursed) by beings long forgotten. Academic magic was systematized by scholars of the Old Empire, centuries ago.
 
-### The Mad King's Legacy
+### [[The Mad King]]'s Legacy
 
-Twenty-three years ago, King Aldric I—convinced something terrible was coming—turned to forbidden magic. His rituals required blood sacrifice. His court mages became demon-binders. His soldiers carried cursed weapons.
+Twenty-three years ago, [[High King Aldric II|King Aldric]] I—convinced something terrible was coming—turned to forbidden magic. His rituals required blood sacrifice. His court mages became demon-binders. His soldiers carried cursed weapons.
 
 He was right that something was coming. His methods made it worse.
 
@@ -291,7 +291,7 @@ Those wards held for twenty years. They're failing now.
 
 ### Current Era
 
-Magic in Eldermyr exists under a shadow. The Faith watches practitioners more closely than before. Common folk trust mages less. The old academies have shrunk; fewer masters take apprentices.
+Magic in Eldermyr exists under a shadow. [[The Faith of the Three|The Faith]] watches practitioners more closely than before. Common folk trust mages less. The old academies have shrunk; fewer masters take apprentices.
 
 And yet magic is needed more than ever. The dead are rising. Something walks in the [[Ashen Fields]]. [[Lord Draven Karath]] has reached out to powers he shouldn't have.
 
@@ -299,11 +299,11 @@ The realm's mages must decide which side they serve—or whether to flee before 
 
 ## Secrets
 
-1. The [[Mad King]]'s power came from something trapped beneath the [[Ashen Fields]]—something older than the Three. His rituals weren't summoning; they were answering.
+1. The [[Mad King]]'s power came from something trapped beneath the [[Ashen Fields]]—something older than [[The Faith of the Three|the Three]]. His rituals weren't summoning; they were answering.
 
 2. The wards sealing the [[Ashen Fields]] didn't just hold the dead down. They held something IN. The dead are rising because something is breaking out.
 
-3. [[High Confessor Maren]]'s visions don't come from the Three. He hasn't realized this yet.
+3. [[High Confessor Maren]]'s visions don't come from [[The Faith of the Three|the Three]]. He hasn't realized this yet.
 
 4. Some bloodline magic doesn't descend from ancient heroes blessed by the gods. Some descends from things that wore human faces for a time.
 
@@ -311,7 +311,7 @@ The realm's mages must decide which side they serve—or whether to flee before 
 
 1. A village healer is accused of necromancy—her patients recover too well, and the local priest is suspicious. Is she innocent, or has she found a new source of power?
 
-2. A dying wizard seeks an apprentice to inherit his tower—but his library contains texts that would earn a death sentence if the Faith discovered them.
+2. A dying wizard seeks an apprentice to inherit his tower—but his library contains texts that would earn a death sentence if [[The Faith of the Three|the Faith]] discovered them.
 
 3. The [[Ashen Fields]] wards need reinforcement. The realm's masters must gather to repair them—but someone doesn't want the wards restored.
 

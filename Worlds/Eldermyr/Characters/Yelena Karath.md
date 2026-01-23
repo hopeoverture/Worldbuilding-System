@@ -43,7 +43,7 @@ role: Spymistress and sorceress
 # Yelena Karath
 
 ## Overview
-Yelena Karath is Lord Draven's younger sister, House Karath's spymistress, and the one who truly understands what her brother has bargained with. Where Draven channels The Unnamed's power through rage and will, Yelena approaches it through knowledge and patience. She is deeper into the darkness than even Draven realizes—and she's not certain she wants to come back.
+Yelena Karath is [[Lord Draven Karath|Lord Draven]]'s younger sister, [[House Karath]]'s spymistress, and the one who truly understands what her brother has bargained with. Where [[Lord Draven Karath|Draven]] channels [[The Unnamed]]'s power through rage and will, Yelena approaches it through knowledge and patience. She is deeper into the darkness than even [[Lord Draven Karath]] realizes—and she's not certain she wants to come back.
 
 ## Appearance
 
@@ -57,7 +57,7 @@ Yelena Karath is Lord Draven's younger sister, House Karath's spymistress, and t
 
 ### Attire
 - **Typical:** Black and gray robes, always hooded; silver jewelry inscribed with symbols she claims are protective
-- **The Watcher's Eye:** An amulet she never removes; allows her to scry on the Ashen Fields
+- **The Watcher's Eye:** An amulet she never removes; allows her to scry on [[The Ashen Fields|the Ashen Fields]]
 
 ### Presence
 Yelena feels wrong. Even those without magical sensitivity notice something off about her—a chill in the air, a sense of being watched, a sudden urge to leave. Animals flee her. Children cry. The faithful feel genuine fear. She has learned to use this, but it makes normal human connection impossible.
@@ -66,47 +66,47 @@ Yelena feels wrong. Even those without magical sensitivity notice something off 
 
 ### Traits
 1. **Cold Curiosity:** Studies everything, including horror, with the detachment of a scholar dissecting a specimen
-2. **Protective Possession:** Everything she does is ultimately for House Karath; her corruption is a sacrifice, not a surrender
+2. **Protective Possession:** Everything she does is ultimately for [[House Karath]]; her corruption is a sacrifice, not a surrender
 
 ### Ideals
-**Knowledge.** Power comes from understanding. My brother rages at our enemies; I learn their secrets. He bargained with The Unnamed for strength; I bargained for knowledge. One of us made the better deal.
+**Knowledge.** Power comes from understanding. My brother rages at our enemies; I learn their secrets. He bargained with [[The Unnamed]] for strength; I bargained for knowledge. One of us made the better deal.
 
 ### Bonds
-Her nephew Aleksei is the future of House Karath. Yelena watches over him—perhaps too closely. She sees potential in the boy that frightens and excites her.
+Her nephew [[Aleksei Karath|Aleksei]] is the future of [[House Karath]]. Yelena watches over him—perhaps too closely. She sees potential in the boy that frightens and excites her.
 
 ### Flaws
-**Addiction to Power.** Yelena has gone too far to stop. Each communion with The Unnamed gives her more knowledge, more power, more understanding—and costs her more of her humanity. She knows this. She can't stop.
+**Addiction to Power.** Yelena has gone too far to stop. Each communion with [[The Unnamed]] gives her more knowledge, more power, more understanding—and costs her more of her humanity. She knows this. She can't stop.
 
 ### Motivations
-Yelena wants to understand. Not just The Unnamed, but everything—the nature of death, the structure of the cosmos, the secrets that hide behind reality. She tells herself this is for House Karath's restoration. But increasingly, the knowledge is its own reward.
+Yelena wants to understand. Not just [[The Unnamed]], but everything—the nature of death, the structure of the cosmos, the secrets that hide behind reality. She tells herself this is for [[House Karath]]'s restoration. But increasingly, the knowledge is its own reward.
 
 ## Villainy
 
 ### Methods
 - **Scrying and Surveillance:** Watches enemies through the Watcher's Eye; knows secrets no one should know
 - **Dream Invasion:** Can enter dreams of those she's met; implants suggestions, extracts information
-- **The Spy Network:** Runs House Karath's intelligence operations; agents in every major court
-- **Dark Communion:** Regularly consults The Unnamed; receives prophecies and guidance
+- **The Spy Network:** Runs [[House Karath]]'s intelligence operations; agents in every major court
+- **Dark Communion:** Regularly consults [[The Unnamed]]; receives prophecies and guidance
 
 ### Crimes
-1. **Deeper pact with The Unnamed than Draven knows** — She's further gone than her brother
+1. **Deeper pact with [[The Unnamed]] than [[Lord Draven Karath|Draven]] knows** — She's further gone than her brother
 2. **Murder through magic** — At least a dozen enemies killed through curses, dreams, and worse
-3. **Corrupting influence on Aleksei** — Teaching him things he's too young to know
-4. **Actively feeding information to The Unnamed** — What she learns, it learns
+3. **Corrupting influence on [[Aleksei Karath|Aleksei]]** — Teaching him things he's too young to know
+4. **Actively feeding information to [[The Unnamed]]** — What she learns, it learns
 
 ### Justification
-"My brother thinks he's using The Unnamed. He's wrong, but he doesn't need to know that yet. What matters is that House Karath survives—that Aleksei inherits something worth having. If I have to sacrifice my soul for that, so be it. Someone has to understand what we're dealing with. Someone has to become what's necessary. I volunteer."
+"My brother thinks he's using [[The Unnamed]]. He's wrong, but he doesn't need to know that yet. What matters is that [[House Karath]] survives—that [[Aleksei Karath|Aleksei]] inherits something worth having. If I have to sacrifice my soul for that, so be it. Someone has to understand what we're dealing with. Someone has to become what's necessary. I volunteer."
 
 ## Background
 
 ### Early Life
-Yelena was always the clever sibling. While Draven nursed his hatred, she studied—first conventional magic, then darker arts. The Mad King's legacy included a library of forbidden texts; Yelena found them. She was already halfway to corruption before Draven made his bargain.
+Yelena was always the clever sibling. While [[Lord Draven Karath|Draven]] nursed his hatred, she studied—first conventional magic, then darker arts. [[The Mad King]]'s legacy included a library of forbidden texts; Yelena found them. She was already halfway to corruption before [[Lord Draven Karath|Draven]] made his bargain.
 
 ### The Second Pact
-When Draven told her about The Unnamed, Yelena wasn't horrified. She was fascinated. She made her own approach, her own bargain. Where Draven wanted power, she wanted knowledge. The Unnamed gave her both—and she gave it access to her mind.
+When [[Lord Draven Karath|Draven]] told her about [[The Unnamed]], Yelena wasn't horrified. She was fascinated. She made her own approach, her own bargain. Where [[Lord Draven Karath|Draven]] wanted power, she wanted knowledge. [[The Unnamed]] gave her both—and she gave it access to her mind.
 
 ### Current Status
-Yelena is the shadow behind Draven's throne. She runs the spy network, counsels on magical matters, and serves as liaison with The Unnamed in ways Draven doesn't fully understand. She's also watching Aleksei, preparing him for a future her brother can't imagine.
+Yelena is the shadow behind [[Lord Draven Karath|Draven]]'s throne. She runs the spy network, counsels on magical matters, and serves as liaison with [[The Unnamed]] in ways [[Lord Draven Karath|Draven]] doesn't fully understand. She's also watching [[Aleksei Karath|Aleksei]], preparing him for a future her brother can't imagine.
 
 ## Statistics
 
@@ -135,7 +135,7 @@ Yelena is the shadow behind Draven's throne. She runs the spy network, counsels 
 ### Senses
 - **Passive Perception:** 16
 - **Truesight:** 30 ft. (pact gift)
-- **Special:** The Watcher's Eye grants scrying at will on the Ashen Fields
+- **Special:** The Watcher's Eye grants scrying at will on [[The Ashen Fields|the Ashen Fields]]
 
 ### Languages
 Common, Karath Dialect, Abyssal, Deep Speech, Elvish, Dwarvish, Infernal
@@ -149,7 +149,7 @@ Common, Karath Dialect, Abyssal, Deep Speech, Elvish, Dwarvish, Infernal
 | Chill Touch | +8 | 3d8 | Necrotic | Target can't regain HP |
 
 ### Signature Abilities
-1. **The Watcher's Eye:** At will, can scry on any location within the Ashen Fields. Can also scry on anyone she's met (DC 18 Wisdom save to resist).
+1. **The Watcher's Eye:** At will, can scry on any location within [[The Ashen Fields|the Ashen Fields]]. Can also scry on anyone she's met (DC 18 Wisdom save to resist).
 
 2. **Dream Walk:** Can enter the dreams of any creature she's met within 100 miles. Can communicate, extract information, or leave suggestions.
 
@@ -188,44 +188,44 @@ Common, Karath Dialect, Abyssal, Deep Speech, Elvish, Dwarvish, Infernal
 ## Equipment
 
 ### The Watcher's Eye
-An amulet of black iron and silver, inscribed with The Unnamed's symbols. Grants at-will scrying on the Ashen Fields and advantage on divination spells.
+An amulet of black iron and silver, inscribed with [[The Unnamed]]'s symbols. Grants at-will scrying on [[The Ashen Fields|the Ashen Fields]] and advantage on divination spells.
 
 ### Ritual Components
-Yelena carries an extensive kit of components for dark rituals, divination, and communion with The Unnamed.
+Yelena carries an extensive kit of components for dark rituals, divination, and communion with [[The Unnamed]].
 
 ### Resources
-- House Karath's spy network
+- [[House Karath]]'s spy network
 - Access to forbidden texts
-- Direct line to The Unnamed's knowledge
+- Direct line to [[The Unnamed]]'s knowledge
 
 ## Relationships
 
 ### Family
 - **Brother:** [[Lord Draven Karath]] — Loves him; serves him; knows he doesn't understand what they've become
-- **Nephew:** Aleksei Karath — Her project; she's preparing him for something
+- **Nephew:** [[Aleksei Karath]] — Her project; she's preparing him for something
 - **Late Family:** Remembers them all; the hatred keeps her warm
 
-### The Unnamed
-Yelena's relationship with The Unnamed is more complex than Draven's. She treats it as a patron, a teacher, and a puzzle to be solved. It treats her as... useful.
+### [[The Unnamed]]
+Yelena's relationship with [[The Unnamed]] is more complex than [[Lord Draven Karath|Draven]]'s. She treats it as a patron, a teacher, and a puzzle to be solved. It treats her as... useful.
 
 ### Enemies
-- Everyone Draven opposes
-- Anyone who threatens Aleksei
+- Everyone [[Lord Draven Karath|Draven]] opposes
+- Anyone who threatens [[Aleksei Karath|Aleksei]]
 - Reality itself, increasingly
 
 ## Story Role
 
 ### Function
-**Primary:** Spymistress, occult advisor, true threat behind Draven
+**Primary:** Spymistress, occult advisor, true threat behind [[Lord Draven Karath|Draven]]
 
-**Threat Level:** Regional, potentially catastrophic—she knows things that could accelerate The Unnamed's awakening
+**Threat Level:** Regional, potentially catastrophic—she knows things that could accelerate [[The Unnamed]]'s awakening
 
 ### Arc
 Yelena's arc is about the price of knowledge. She wanted to understand; now she understands too much. Her redemption (if possible) would require accepting that some knowledge isn't worth the cost—and that she still has something human worth saving.
 
 ### As an Ally (Conditional)
 If somehow turned, Yelena could provide:
-- Intelligence on The Unnamed's nature and weaknesses
+- Intelligence on [[The Unnamed]]'s nature and weaknesses
 - Insider knowledge of Karath plans
 - Powerful divination and occult support
 
@@ -233,17 +233,17 @@ If somehow turned, Yelena could provide:
 - Near-perfect intelligence on the party
 - Dream attacks and scrying
 - Powerful curse magic
-- Will sacrifice anything for House Karath
+- Will sacrifice anything for [[House Karath]]
 
 ## Secrets
 
-1. **She's further gone than Draven.** He thinks he made the deeper bargain. He's wrong. Yelena has given The Unnamed access to her senses; it sees through her eyes.
+1. **She's further gone than [[Lord Draven Karath|Draven]].** He thinks he made the deeper bargain. He's wrong. Yelena has given [[The Unnamed]] access to her senses; it sees through her eyes.
 
-2. **She knows The Unnamed's true nature.** She's pieced together what it is—or was—before it was bound. The knowledge terrifies her. She hasn't told Draven.
+2. **She knows [[The Unnamed]]'s true nature.** She's pieced together what it is—or was—before it was bound. The knowledge terrifies her. She hasn't told [[Lord Draven Karath|Draven]].
 
-3. **She's preparing Aleksei.** Not to succeed Draven as a normal heir, but as something else. She's not sure what yet; The Unnamed is guiding her.
+3. **She's preparing [[Aleksei Karath|Aleksei]].** Not to succeed [[Lord Draven Karath|Draven]] as a normal heir, but as something else. She's not sure what yet; [[The Unnamed]] is guiding her.
 
-4. **Part of her wants to stop.** Deep down, the woman Yelena used to be is screaming. But the knowledge is so beautiful, and the power is so useful, and it's too late anyway...
+4. **Part of her wants to stop.** Deep down, the woman Yelena used to be is screaming. But the knowledge is so beautiful, and [[Magic of Eldermyr|the power]] is so useful, and it's too late anyway...
 
 ## Image Prompts
 

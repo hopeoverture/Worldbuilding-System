@@ -28,24 +28,24 @@ stability: Strained
 # The Grey Wardens
 
 > [!info] Generation Instructions
-> The Grey Wardens are an ancient order devoted to the Chronicler—the aspect of the Three who governs death and the final rest. They investigate disturbances of the dead and combat necromancy. With the rising dead in the Ashen Fields, their small order suddenly faces a crisis that could determine the realm's fate. They should feel grim, devoted, and stretched too thin.
+> The Grey Wardens are an ancient order devoted to the Chronicler—the aspect of [[The Faith of the Three]] who governs death and the final rest. They investigate disturbances of the dead and combat necromancy. With the rising dead in [[The Ashen Fields]], their small order suddenly faces a crisis that could determine the realm's fate. They should feel grim, devoted, and stretched too thin.
 
 ## Overview
-The Grey Wardens are the Chronicler's sword—an ancient order of warrior-priests devoted to ensuring the dead find their final rest. For centuries they have hunted necromancers, laid restless spirits to peace, and investigated disturbances in the great quiet. They are few; their work is difficult and largely thankless. But now, with the dead rising in the Ashen Fields and the corruption spreading, the Grey Wardens find themselves at the center of the realm's greatest crisis. Their Grandmaster believes this is what the order was created for. He also knows they are vastly outnumbered by what they must fight.
+The Grey Wardens are the Chronicler's sword—an ancient order of warrior-priests devoted to ensuring the dead find their final rest. For centuries they have hunted necromancers, laid restless spirits to peace, and investigated disturbances in the great quiet. They are few; their work is difficult and largely thankless. But now, with the dead rising in [[The Ashen Fields|the Ashen Fields]] and the corruption spreading, the Grey Wardens find themselves at the center of the realm's greatest crisis. Their Grandmaster believes this is what the order was created for. He also knows they are vastly outnumbered by what they must fight.
 
 ## Classification
 
 ### Type
-**Organization Type:** Religious Military Order (under the Faith of the Three)
+**Organization Type:** Religious Military Order (under [[The Faith of the Three|the Faith of the Three]])
 
 **Focus:** Combating undead, hunting necromancers, investigating disturbances of the dead
 
 ### Status
-**Recognition:** Sanctioned by the Faith, chartered by the Crown
+**Recognition:** Sanctioned by [[The Faith of the Three|the Faith]], chartered by the Crown
 
 **Prestige:** Respected but overlooked—until recently
 
-**Current State:** Overwhelmed by the Ashen Fields crisis
+**Current State:** Overwhelmed by [[The Ashen Fields|the Ashen Fields]] crisis
 
 ## Purpose
 
@@ -96,11 +96,11 @@ Wardens are forbidden from:
 
 ### Leadership
 **Grandmaster:** [[Grandmaster Aldric Greymane]]
-**Title:** Grandmaster of the Grey, First Watcher of the Chronicler
+**Title:** Grandmaster of the Grey, [[Grandmaster Aldric Greymane|First Watcher]] of the Chronicler
 
 **Description:** A grizzled man in his fifties, gray-haired (hence his name), scarred from decades of fighting the dead. Walks with a limp from a wound that never fully healed—a necromancer's curse, they say. Eyes that have seen too much but still burn with conviction.
 
-**Philosophy:** The Ashen Fields are the great test. The order will rise to it or die trying. There is no third option.
+**Philosophy:** [[The Ashen Fields]] are the great test. The order will rise to it or die trying. There is no third option.
 
 ### Ranks
 | Rank | Count | Responsibilities |
@@ -114,23 +114,23 @@ Wardens are forbidden from:
 
 ### Headquarters
 **Name:** The Grey Bastion
-**Location:** [[Thornhall]] (the holy city), near the great cathedral
+**Location:** [[Thornhall]] ([[Thornhall|the holy city]]), near the great cathedral
 
 **Description:** A fortress-monastery of gray stone, ancient and practical. Training yards, armories, a chapel to the Chronicler, and extensive archives of necromantic lore (for study, not practice).
 
 ### Regional Presence
 | Location | Strength | Commander | Status |
 |----------|----------|-----------|--------|
-| Thornhall (HQ) | 120 | Grandmaster Greymane | Stable |
-| Aldersgate | 40 | Warden-Commander Helena Ashbrook | Reduced (sent to the Fields) |
+| [[Thornhall]] (HQ) | 120 | Grandmaster [[Grandmaster Aldric Greymane]] | Stable |
+| [[Aldersgate]] | 40 | Warden-Commander Helena Ashbrook | Reduced (sent to the Fields) |
 | The Border Posts | 30 | Warden-Commander Bertram Stone | Undermanned |
-| The Ashen Fields (forward) | 60 | Warden-Commander Mira Duskwell | Active combat |
+| [[The Ashen Fields]] (forward) | 60 | Warden-Commander Mira Duskwell | Active combat |
 | Other regions | 50 | Various Senior Wardens | Skeleton crews |
 
 ## Membership
 
 ### Requirements
-- Demonstrated faith in the Three (particularly the Chronicler)
+- Demonstrated faith in [[The Faith of the Three|the Three]] (particularly the Chronicler)
 - Physical fitness for combat
 - Willingness to take the Grey Oath
 - Clean record regarding forbidden magic
@@ -157,7 +157,7 @@ All Wardens swear:
 ### Demographics
 | Background | Percentage | Notes |
 |------------|------------|-------|
-| Temple-raised | 40% | Orphans and devotees from the Faith |
+| Temple-raised | 40% | Orphans and devotees from [[The Faith of the Three]] |
 | Military veterans | 30% | Soldiers seeking purpose |
 | Bereaved | 15% | Those who lost family to necromancy |
 | Former criminals | 10% | Seeking redemption |
@@ -195,53 +195,53 @@ The Grey Wardens maintain extensive records on:
 - Necromantic techniques (for recognition, not use)
 - Undead types and how to combat them
 - Historical incidents and their resolutions
-- The Ashen Fields (growing daily)
+- [[The Ashen Fields]] (growing daily)
 
 ## Current Crisis
 
-### The Ashen Fields
-The rising dead in Pepelishte represent the greatest threat the order has faced:
+### [[The Ashen Fields]]
+The rising dead in [[The Ashen Fields|Pepelishte]] represent the greatest threat the order has faced:
 - **Scale:** Thousands of dead, possibly more
 - **Nature:** Not mindless—they fight with purpose
 - **Source:** Unknown (the Wardens suspect necromancy but something more)
 - **Spread:** The corruption is expanding
-- **The Figure:** Reports of something wearing a crown of black iron
+- **[[The Mad King|The Figure]]:** Reports of something wearing a crown of black iron
 
 ### Warden Response
-- 60 Wardens assigned to the Ashen Fields (under Mira Duskwell)
+- 60 Wardens assigned to [[The Ashen Fields|the Ashen Fields]] (under Mira Duskwell)
 - Establishing a forward base at the edge of the corruption
 - Attempting to identify the source and nature of the rising
 - Suffering casualties—12 Wardens lost in the past three months
 - Requesting reinforcements that don't exist
 
 ### The Problem
-The Wardens are designed to hunt individual necromancers and deal with isolated incidents. The Ashen Fields represent an army. They need:
+The Wardens are designed to hunt individual necromancers and deal with isolated incidents. [[The Ashen Fields]] represent an army. They need:
 - More personnel (recruiting heavily but training takes time)
-- More resources (the Faith is stretched thin)
+- More resources ([[The Faith of the Three|the Faith]] is stretched thin)
 - Political support (the succession crisis distracts everyone)
 - Information (no one knows what they're truly facing)
 
 ## Politics
 
-### Within the Faith
+### Within [[The Faith of the Three|the Faith]]
 - **The Synod** supports the Wardens but has limited resources
-- **High Confessor Maren** sees the rising dead as divine judgment; his support is uncertain
+- **[[High Confessor Maren]]** sees the rising dead as divine judgment; his support is uncertain
 - **Some bishops** believe the Wardens' aggressive investigation threatens political relationships
 
 ### With Secular Powers
 - **The Crown** (regency) has not fully acknowledged the threat
-- **House Valdren** views the crisis as a Karath problem, not theirs
-- **House Thorne** might ally with the Wardens if it suited their interests
-- **House Karath** officially denies any involvement; the Wardens are suspicious
+- **[[House Valdren]]** views the crisis as a Karath problem, not theirs
+- **[[House Thorne]]** might ally with the Wardens if it suited their interests
+- **[[House Karath]]** officially denies any involvement; the Wardens are suspicious
 
 ### Internal
-- **Hardliners** want to march into the Ashen Fields in force, regardless of cost
+- **Hardliners** want to march into [[The Ashen Fields|the Ashen Fields]] in force, regardless of cost
 - **Cautious voices** argue for more information before committing
 - **The desperate** consider whether forbidden knowledge might be needed to fight forbidden power
 
 ## Key Figures
 
-### Ser Aldric Greymane
+### [[Ser Aldric Thorne|Ser Aldric]] [[Grandmaster Aldric Greymane|Greymane]]
 **Age:** 54
 **Title:** Grandmaster of the Grey
 **Appearance:** Weathered, gray-haired, scarred. Moves with purpose despite his limp. Wears the traditional gray over practical armor. His eyes are the color of steel—and just as hard.
@@ -253,16 +253,16 @@ The Wardens are designed to hunt individual necromancers and deal with isolated 
 **Title:** Commander of the Forward Post
 **Appearance:** Dark-skinned, shaven-headed, ritual scars on her forearms (tradition from her homeland). Built for endurance rather than strength.
 **Personality:** Pragmatic, unflinching, beloved by those under her command.
-**Role:** Leads the effort at the Ashen Fields. Has seen things she cannot adequately describe.
+**Role:** Leads the effort at [[The Ashen Fields|the Ashen Fields]]. Has seen things she cannot adequately describe.
 **Secret:** She has captured a speaking dead—one that remembers being alive. Its words haunt her.
 
 ### Warden-Commander Helena Ashbrook
 **Age:** 45
-**Title:** Commander of the Aldersgate Post
+**Title:** Commander of the [[Aldersgate]] Post
 **Appearance:** Aristocratic bearing, silver-streaked dark hair, missing two fingers on her left hand.
 **Personality:** Political, careful, effective at navigating secular power.
-**Role:** The order's voice in the capital; navigating the succession crisis.
-**Secret:** She has been approached by agents of House Valdren offering resources—for a price.
+**Role:** The order's voice in [[Aldersgate|the capital]]; navigating the succession crisis.
+**Secret:** She has been approached by agents of [[House Valdren]] offering resources—for a price.
 
 ### Brother Corvus
 **Age:** Unknown (appears elderly)
@@ -270,31 +270,31 @@ The Wardens are designed to hunt individual necromancers and deal with isolated 
 **Appearance:** Hunched, paper-thin skin, remarkably sharp eyes. Always surrounded by books and scrolls.
 **Personality:** Brilliant, obsessive, possibly mad.
 **Role:** Knows more about necromancy than anyone living (he claims).
-**Secret:** He has been to the Ashen Fields in dreams. Something there knows him.
+**Secret:** He has been to [[The Ashen Fields|the Ashen Fields]] in dreams. Something there knows him.
 
 ## Secrets
 
-1. **The Wardens have forbidden texts.** Like the Arcane Academy, they maintain archives of necromantic lore—for understanding their enemy. If the Faith knew the extent, there would be consequences.
+1. **The Wardens have forbidden texts.** Like [[The Arcane Academy]], they maintain archives of necromantic lore—for understanding their enemy. If [[The Faith of the Three]] knew the extent, there would be consequences.
 
-2. **Grandmaster Greymane is partially cursed.** The wound that gave him his limp was inflicted by a necromancer who spoke a word that has never fully faded. Greymane ages faster than he should; he may have only years left.
+2. **Grandmaster [[Grandmaster Aldric Greymane]] is partially cursed.** The wound that gave him his limp was inflicted by a necromancer who spoke a word that has never fully faded. [[Grandmaster Aldric Greymane]] ages faster than he should; he may have only years left.
 
-3. **Commander Duskwell captured a speaking dead.** One of the risen at the Ashen Fields retained its memories and spoke to her. It said it was commanded by someone wearing a crown—and that it was grateful to be free when she destroyed it.
+3. **Commander Duskwell captured a speaking dead.** One of the risen at [[The Ashen Fields|the Ashen Fields]] retained its memories and spoke to her. It said it was commanded by someone wearing a crown—and that it was grateful to be free when she destroyed it.
 
 4. **Brother Corvus has communicated with something in the Fields.** In his dreams, something has offered him knowledge in exchange for... something. He has not refused. He has not agreed. He has kept listening.
 
-5. **The Wardens know House Karath is involved.** They have evidence that Lord Draven has visited the Ashen Fields repeatedly. They lack the political power to act on this knowledge.
+5. **The Wardens know [[House Karath]] is involved.** They have evidence that [[Lord Draven Karath|Lord Draven]] has visited [[The Ashen Fields|the Ashen Fields]] repeatedly. They lack the political power to act on this knowledge.
 
 ## Plot Hooks
 
 1. **The Warden's Call:** The order is desperately recruiting. The party is offered membership—or at least a contract for specific services.
 
-2. **The Forward Post:** Warden-Commander Duskwell needs reinforcements or information. The party is sent to the edge of the Ashen Fields.
+2. **The Forward Post:** Warden-Commander Duskwell needs reinforcements or information. The party is sent to the edge of [[The Ashen Fields|the Ashen Fields]].
 
 3. **The Speaking Dead:** The party encounters a risen dead that talks—begs for release—and reveals information about what commands it.
 
 4. **The Archive Break-In:** Someone is stealing from the Warden archives. The thief knows exactly what they want. The party must find them before the knowledge spreads.
 
-5. **The Grandmaster's Confession:** Greymane approaches the party privately. He is dying. He needs someone to complete a mission he cannot—one that might save the order, or damn it.
+5. **[[Grandmaster Aldric Greymane]]'s Confession:** [[Grandmaster Aldric Greymane]] approaches the party privately. He is dying. He needs someone to complete a mission he cannot—one that might save the order, or damn it.
 
 ## Image Prompts
 

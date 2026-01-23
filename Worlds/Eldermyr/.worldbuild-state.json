@@ -1,0 +1,365 @@
+{
+  "version": "2.0",
+  "world_name": "Eldermyr",
+  "current_phase": 9,
+  "current_section": "9.1",
+  "completed_phases": [1, 2, 3, 4, 5, 6, 7, 8, 9],
+  "decisions": {
+    "naming_culture": "mixed_regional",
+    "regional_cultures": {
+      "crown_lands": "English/French Medieval",
+      "eastern_march": "Germanic/Anglo-Saxon",
+      "western_shore": "Romance/Mediterranean",
+      "northlands": "Norse/Celtic",
+      "karath_reach": "Slavic/Eastern European"
+    },
+    "tone": "low-high-political blend",
+    "inspirations": [
+      "Game of Thrones",
+      "Lord of the Rings",
+      "Medieval Europe",
+      "Octopath Traveler"
+    ],
+    "rating": "mature",
+    "themes": [
+      "Power and Corruption",
+      "Redemption",
+      "Legacy and Heritage",
+      "Freedom vs Security",
+      "Faith and Doubt",
+      "War and Peace",
+      "Duty vs Desire",
+      "Class and Inequality",
+      "Monsters and Humanity"
+    ],
+    "avoid_topics": [],
+    "hook": "The Great War ended a generation ago, but peace has not healed Eldermyr. The victorious houses have grown arrogant; the defeated nurse their hatred in silence. And in the scarred lands where the worst battles raged, something is growing in the mass graves that no one has dared to visit.",
+    "central_conflict": [
+      "Succession Crisis",
+      "Civil War Brewing",
+      "Ancient Evil Awakening",
+      "Plague/Curse Spreading"
+    ],
+    "conflict_details": {
+      "fallen_ruler": {
+        "name": "High King Aldric II",
+        "title": "The Steward",
+        "reign_length": "23 years",
+        "death": "Died in sleep, suspected poison"
+      },
+      "factions": [
+        {
+          "name": "House Valdren",
+          "leader": "Lord Varic Valdren",
+          "claim": "Blood - grandson Edric is rightful heir",
+          "public_goal": "Lawful succession",
+          "secret_goal": "Varic rules as regent forever, remove boy if difficult"
+        },
+        {
+          "name": "House Thorne",
+          "leader": "Lady Margret Thorne",
+          "claim": "Power - paid for crown in blood",
+          "public_goal": "Strong proven ruler",
+          "secret_goal": "A Thorne on the throne, realm burns otherwise"
+        },
+        {
+          "name": "House Karath",
+          "leader": "Lord Draven Karath",
+          "claim": "Restoration - Mad King was betrayed",
+          "public_goal": "Justice for harsh punishment",
+          "secret_goal": "Revenge, contact with dark power"
+        },
+        {
+          "name": "The Faith of the Three",
+          "leader": "High Confessor Maren",
+          "claim": "Divine mandate",
+          "public_goal": "Peace and unity",
+          "secret_goal": "Believes himself chosen, visions corrupting him"
+        }
+      ],
+      "great_war": {
+        "years_ago": 23,
+        "duration": "4 years",
+        "cause": "Mad King's tyranny and dark rituals",
+        "key_battle": "Battle of Ashen Fields",
+        "outcome": "Prince Edric killed father, died himself; Aldric II took crown"
+      },
+      "rising_threat": {
+        "type": "Rising dead",
+        "location": "Ashen Fields / Karath Reach",
+        "nature": "War dead rising, still fighting old battles, corruption spreading",
+        "mysterious_figure": "Figure resembling Mad King with crown of blackened iron"
+      },
+      "ticking_clocks": {
+        "months": "Open war between houses",
+        "one_year": "Curse spreads beyond scarred lands",
+        "two_years": "Realm too weak to fight what's coming",
+        "five_years": "No realm, only the dead"
+      }
+    },
+    "intended_feelings": [
+      "Dread and Tension",
+      "Political Intrigue",
+      "Mystery and Secrets",
+      "Horror and Revulsion",
+      "Righteous Anger",
+      "Moral Complexity",
+      "Rebellion"
+    ],
+    "world_age": "Late Medieval",
+    "world_state": "Tension",
+    "magic": {
+      "prevalence": "Rare (1 in 1,000)",
+      "sources": [
+        "Divine Grant",
+        "Bloodlines",
+        "Academic Study",
+        "Demonic Pacts",
+        "Ancestral Spirits",
+        "Life Force (underlying)",
+        "Runic/Symbolic"
+      ],
+      "who_can_use": "Varies by type",
+      "learning_methods": {
+        "divine": "Temple Training",
+        "bloodline": "Instinctive, Inherited Memory",
+        "academic": "Master-Apprentice",
+        "spirit": "Dream Instruction, Oral Traditions, Secret Societies",
+        "forbidden": "Forbidden Libraries, Dark Communion"
+      },
+      "costs": {
+        "all_magic": ["Physical Exhaustion", "Expensive Components", "Social Wariness"],
+        "prolonged_use": ["Mental Strain", "Nightmares"],
+        "forbidden": ["Attracts Attention", "Spiritual Debt", "Mutation", "Personality Shift"],
+        "darkest": ["Sacrifice"]
+      },
+      "society_view": "Varies by type - Divine respected, Academic distrusted, Forbidden hunted",
+      "forbidden_magic": [
+        "Necromancy",
+        "Soul Magic",
+        "Blood Sacrifice",
+        "Demon Summoning",
+        "Possession Invitation",
+        "Mind Control",
+        "Bloodline Curses",
+        "Blood Binding",
+        "Binding"
+      ],
+      "limitations": [
+        "No True Resurrection",
+        "No Immortality",
+        "No Time Travel",
+        "Cannot Create Permanent Life",
+        "Cannot Affect the Gods",
+        "Magic Always Costs",
+        "Cannot Destroy Souls",
+        "Cannot Heal Everything"
+      ],
+      "protections": [
+        "Cold Iron",
+        "Sacred Ground",
+        "True Faith"
+      ],
+      "schools": {
+        "sanctioned": ["Healing", "Divination", "Alchemy", "Warding", "Artifice"],
+        "distrusted": ["Illusion", "Enchantment", "Transmutation", "Pyromancy", "Geomancy"],
+        "rare": ["Druidism", "Electromancy", "Telepathy"],
+        "forbidden": ["Necromancy", "Summoning", "Binding", "Biomancy"],
+        "legendary": ["Teleportation", "Portal Magic", "Conjuration"]
+      }
+    },
+    "divine": {
+      "pantheon": "The Faith of the Three",
+      "deities": [
+        {
+          "name": "The Warden",
+          "domain": "Order, Justice, Rightful Rule",
+          "symbol": "Crown above crossed scales and sword"
+        },
+        {
+          "name": "The Shepherd",
+          "domain": "Mercy, Healing, the Common Good",
+          "symbol": "Open hands beneath hooded figure"
+        },
+        {
+          "name": "The Chronicler",
+          "domain": "Memory, Death, the Final Rest",
+          "symbol": "Veiled figure holding great book"
+        }
+      ],
+      "divine_interaction": "Subtle and Contested - gods work through scripture, sacraments, signs; direct visions are doctrinally suspect",
+      "other_beings": {
+        "saints": ["Saint Aldwyn the Merciful", "Saint Kira of the Blade", "Saint Erasmus the Rememberer"],
+        "ancestor_spirits": "Echoes that linger, Spirit-Speakers can commune",
+        "demons": "The Bound - corrupted spirits opposed to the covenant",
+        "the_unnamed": "Ancient thing beneath the Ashen Fields, predates the Three"
+      },
+      "afterlife": {
+        "passage": "The Final Walk to the Chronicler's Halls",
+        "recording": "Every deed inscribed in the Great Book",
+        "rest": "Eternal peace with ancestors",
+        "the_silence": "Souls who choose dissolution rather than face themselves"
+      },
+      "other_faiths": {
+        "regional_variations": ["The Warden's Hand (East)", "The Shepherd's Path (West)", "The Chronicler's Silence (North)"],
+        "old_ways": "Pre-Faith traditions - ancestor veneration, land spirits, sacred groves",
+        "heresies": ["The Triarchy", "The Revealed", "The Unburdened", "The Ash Penitents"],
+        "foreign": ["Sun Courts (south)", "Stone Kingdoms (east)", "Sky spirits (western steppes)"]
+      },
+      "crisis": "The dead rising violates the Chronicler's covenant; something is intercepting souls"
+    },
+    "geography": {
+      "scope": "Single kingdom on larger continent",
+      "size": "Comparable to medieval France",
+      "borders": {
+        "north": "Mountains",
+        "east": "Mountains (foreign lands beyond)",
+        "west": "Sea",
+        "south": "Sea"
+      },
+      "regions": [
+        {
+          "name": "The Crown Lands",
+          "location": "Central",
+          "ruling_house": "Royal (contested)",
+          "faith": "Orthodox",
+          "naming": "English/French Medieval",
+          "terrain": "Fertile river valleys, gentle hills",
+          "settlements": ["Aldersgate (capital)", "Thornhall (holy city)", "Crossford"]
+        },
+        {
+          "name": "The Eastern March",
+          "location": "East",
+          "ruling_house": "House Thorne",
+          "faith": "The Warden's Hand",
+          "naming": "Germanic/Anglo-Saxon",
+          "terrain": "Rolling highlands, fortified keeps, mountain border",
+          "settlements": ["Stahlburg", "Grimhold", "Wolfsberg", "Ostmark Pass"]
+        },
+        {
+          "name": "The Western Shore",
+          "location": "West",
+          "ruling_house": "House Valdren",
+          "faith": "The Shepherd's Path",
+          "naming": "Romance/Mediterranean",
+          "terrain": "Coastal cliffs, wealthy port cities",
+          "settlements": ["Porto Valdris", "Marevento", "Serenzia"],
+          "features": ["Lo Stretto d'Oro (The Golden Strait)"]
+        },
+        {
+          "name": "The Northlands",
+          "location": "North",
+          "ruling_house": "Minor houses + Old Ways",
+          "faith": "The Chronicler's Silence",
+          "naming": "Norse/Celtic",
+          "terrain": "Dense forests, mountain valleys, harsh winters",
+          "settlements": ["Vindrheim", "Isfjord", "Stoneholm"],
+          "features": ["Myrkvid (The Dark Wood)"]
+        },
+        {
+          "name": "The Karath Reach",
+          "location": "South",
+          "ruling_house": "House Karath (diminished)",
+          "faith": "Orthodox (resentful)",
+          "naming": "Slavic/Eastern European",
+          "terrain": "Once-fertile farmlands, now scarred",
+          "settlements": ["Chernogrod", "Volkovka", "Ravnograd"],
+          "features": ["The Ashen Fields (Pepelishte)"]
+        }
+      ]
+    }
+  },
+  "entities_created": [
+    "World Overview",
+    "Magic of Eldermyr",
+    "The Faith of the Three",
+    "The Crown Lands",
+    "The Eastern March",
+    "The Western Shore",
+    "The Northlands",
+    "The Karath Reach",
+    "House Valdren",
+    "House Thorne",
+    "House Karath",
+    "The Arcane Academy",
+    "The Grey Wardens",
+    "The Forgemasters Guild",
+    "The Spirit-Speakers",
+    "Lord Varic Valdren",
+    "Edric Valdren",
+    "Lady Margret Thorne",
+    "Lord Draven Karath",
+    "High Confessor Maren",
+    "Ser Aldric Thorne",
+    "Ser Konrad Thorne",
+    "Ser Viktor Thorne",
+    "Yelena Karath",
+    "Archmagister Corwin Ashford",
+    "Grandmaster Aldric Greymane",
+    "Grimhild the Smith",
+    "Aldersgate",
+    "Stahlburg",
+    "Porto Valdris",
+    "Chernogrod",
+    "Thornhall",
+    "Hammerhall",
+    "Crossford",
+    "Grimhold",
+    "Wolfsberg",
+    "Marevento",
+    "Serenzia",
+    "Volkovka",
+    "Thornbane",
+    "The Iron Crown",
+    "The Blackened Crown",
+    "Grimhild's Commission",
+    "The Shepherd's Crook",
+    "The Ashen Patrol",
+    "Audience with the Regent",
+    "The Ashen Fields",
+    "The Unnamed",
+    "The Great War",
+    "The Battle of Ashen Fields",
+    "The Mad King",
+    "High King Aldric II",
+    "Aleksei Karath",
+    "Captain Alonzo the Bold"
+  ],
+  "skipped_sections": ["2C (Cosmology)"],
+  "relationship_map": {},
+  "faction_goals": {
+    "House Valdren": {
+      "public": "Lawful succession for Edric",
+      "secret": "Varic rules as regent, remove boy if necessary",
+      "current_action": "Positioning as legitimate regency",
+      "timeline": "Immediate",
+      "seat": "Porto Valdris",
+      "region": "The Western Shore"
+    },
+    "House Thorne": {
+      "public": "Strong ruler, not a child",
+      "secret": "Thorne on throne at any cost",
+      "current_action": "Gathering military support",
+      "timeline": "Waiting for moment",
+      "seat": "Stahlburg",
+      "region": "The Eastern March"
+    },
+    "House Karath": {
+      "public": "Justice for past wrongs",
+      "secret": "Revenge, dark alliance",
+      "current_action": "Contact with power in scarred lands",
+      "timeline": "Building strength",
+      "seat": "Chernogrod",
+      "region": "The Karath Reach"
+    },
+    "The Faith of the Three": {
+      "public": "Divine mandate to choose ruler",
+      "secret": "Maren believes himself chosen",
+      "current_action": "Preaching, having visions",
+      "timeline": "Unknown",
+      "seat": "Thornhall",
+      "region": "The Crown Lands"
+    }
+  },
+  "last_updated": "2026-01-22T00:00:00.000Z"
+}

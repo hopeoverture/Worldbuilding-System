@@ -56,6 +56,7 @@ D&D 5e 2024 Rules/            # Complete D&D 5e 2024 reference
 | `/link-entities [entity1] [entity2]` | Create bidirectional wikilinks; use "auto [world]" to scan for missing links |
 | `/random-encounter [location] [level]` | Generate combat, social, or exploration encounters using world entities |
 | `/session-prep [world] [focus]` | Create DM session notes, NPC cheat sheets, location briefs |
+| `/populate-entity [entity]` | Scan entity for mentions, create linked entities, and add wikilinks |
 
 ## Template Format
 

@@ -418,28 +418,41 @@ What would it take to capture this stronghold?
 
 ### Guidelines
 When generating AI art for this stronghold, include:
-- **Setting Type:** Military fortification, defensive structure
-- **Architecture:** Walls, towers, battlements, gates
-- **Atmosphere:** Imposing, martial, weathered
-- **Activity:** Guards on walls, military presence
-- **Surroundings:** Terrain that explains defensive position
-- **Condition:** Age and maintenance level
-- **Lighting:** Dramatic lighting emphasizing strength and age
+- **Terrain dominance:** The stronghold's relationship to the landscape that makes it defensible—height, natural barriers, choke points, sight lines
+- **Military purpose visible:** Walls designed to resist siege, towers positioned for overlapping fields of fire, gates meant to kill attackers, nothing decorative without function
+- **History of conflict:** Scars from past battles, repairs in different stone, additions for changing warfare, the fortress as a record of violence survived
+- **Garrison life:** Guards on duty, weapons maintained, supplies stored, the organized bustle of a military community
+- **Threat awareness:** The stronghold facing its danger—watching passes, commanding crossings, blocking invasion routes
+- **Weather and endurance:** Built to withstand everything, weathered by centuries, permanent in a way that civilian buildings are not
+
+### Stronghold Integration (Strongholds Are Violence Made Stone)
+Every architectural element should suggest the fortress's military purpose and history:
+- *Don't write:* "stone walls" → *Write:* "walls fifteen feet thick at the base, the outer face of fitted ashlar rising smooth and unclimbable, the inner face of rougher work where repairs have been made after each of the five sieges the fortress has survived—each patch of different stone a chapter of military history written in mortar"
+- *Don't write:* "towers at the corners" → *Write:* "towers projecting beyond the wall face so defenders can rain death on anyone attempting to scale the curtain walls, their tops bristling with merlons behind which archers wait, arrow loops dark slits that track movement like watching eyes"
+- *Don't write:* "main gate" → *Write:* "the killing ground that any attacker must cross—a barbican extending beyond the main wall, then the gate passage dark and narrow with murder holes above and arrow slits on either side, then the iron portcullis that can drop in a heartbeat, then the oak doors a foot thick and bound in iron, and all of it overlooked by towers that have never failed to make attackers pay in blood for every step"
+
+### Distinctive Feature Ideas for Strongholds
+- **Defensive intelligence:** Every feature serving a purpose—overlapping fields of fire, covered approaches, retreating defensive layers, no dead ground
+- **Battle scars:** Patches in walls where siege weapons hit, replaced sections in different stone, additions to counter new weapons
+- **Garrison presence:** Guards visible on walls, weapons maintained, supplies moving, the organized activity of a community at war
+- **Strategic sight lines:** What the fortress watches—passes, rivers, borders, coastlines—the threat visible in the distance
+- **Endurance features:** Deep wells, massive storerooms, walls thick enough to survive months of pounding, the patience of stone
+- **Command presence:** Banners flying, standards displayed, the visual claim to authority and willingness to defend it
 
 ### Exterior (Wide Shot)
-Establishing shot showing the full stronghold from approach.
+Establishing shot showing the full stronghold in its landscape, emphasizing its strategic position and military character.
 
 **Template:**
-> Wide establishing shot of a medieval [stronghold type], [wall and tower description] rising from [terrain]. [Number] towers with [features]. [Gate and approach description]. [Surrounding landscape and defensive terrain]. [Weather/atmosphere]. [Time of day lighting]. [Military activity - guards, banners]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate architectural and environmental detail, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy fortress exterior.
+> [Fortress in landscape—e.g., "the Irongate, the fortress that has guarded the mountain pass for seven centuries, losing it only twice and retaking it both times at terrible cost"]. [Terrain relationship—e.g., "rising from the living rock of the mountainside as if the mountain itself had chosen to grow walls, the eastern face following the cliff line where no siege engine could be positioned, the western approach a killing ground of cleared slopes with no cover for half a mile"]. [Wall description—e.g., "curtain walls thirty feet high and fifteen thick, built from the grey granite of the mountains they guard, their faces smooth and slightly inward-sloping to deflect stones and deny handholds; in places the original construction, in others the patches of different stone where siege damage has been repaired over the centuries"]. [Tower arrangement—e.g., "seven towers projecting from the walls at irregular intervals—irregular because each commands a specific approach or covers a specific weakness, their placement the wisdom of military architects refined by each siege"]. [Gate complex—e.g., "the main gate facing the road, a barbican projecting forward to force any attacker through a gauntlet of arrow fire, the gate itself recessed and shadowed, the iron teeth of the portcullis visible in the darkness"]. [Military presence—e.g., "guards visible on the walls walking their eternal rounds, banners of the garrison flying from the highest tower, a patrol returning through the gate with dust on their armor"]. [Atmosphere—e.g., "mountain clouds breaking around the peaks behind the fortress, late afternoon light catching the western walls while the eastern face lies in shadow, the particular stillness of a place that watches and waits"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate architectural and environmental detail, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy mountain fortress illustration" or "Fantasy military stronghold establishing shot"].
 
 **Prompt:**
 
 
 ### Interior (Courtyard/Key Area)
-Ground-level view of the main courtyard or important interior space.
+Ground-level view inside the stronghold walls, showing the military community and the fortress's inner workings.
 
 **Template:**
-> Interior courtyard view of a medieval [stronghold type]. [Surrounding walls and buildings]. [Central feature - well, training yard, assembly area]. [Architectural details - stone, wear, military fixtures]. [Garrison activity - soldiers, training, duties]. [Equipment and supplies visible]. [Atmospheric elements - shadows, dust, weather]. [Time of day lighting]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate architectural and environmental detail, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy fortress interior.
+> [Location specifics—e.g., "the main bailey of the Irongate at the hour of morning drill, when the garrison goes through the exercises that have remained unchanged for generations"]. [Architectural framing—e.g., "the inner curtain wall rising forty feet on three sides, its walkways accessible by stone stairs worn hollow by the feet of countless sentries; the keep tower dominating the fourth side, its base a solid mass of stone with no entrance below the second floor"]. [Courtyard character—e.g., "the packed earth of the training yard, beaten iron-hard by generations of boots, the sand pit for close combat practice, the straw dummies showing the wear of a thousand practice blades"]. [Military activity—e.g., "a squad drilling with pike and shield in formation that hasn't changed in two centuries, a sergeant's voice bouncing off the walls in eternal criticism; archers at the butts loosing in rotation; a smith hammering at the armory forge while his apprentice works the bellows"]. [Support infrastructure—e.g., "the stables against the north wall, the smithy's smoke rising from the west corner, the well at the yard's center protected by a stone housing that doubles as a defensive position, the kitchen building where something is always cooking for the garrison"]. [Garrison presence—e.g., "soldiers in various states of armor, some fresh from watch and others heading to it, an officer watching the drill with arms crossed, a quartermaster checking supplies in the storeroom doorway"]. [Atmosphere—e.g., "the particular sound of a military compound—orders called, metal ringing, horses stamping, boots marching—all echoing between the stone walls that turn the bailey into an amphitheater of military life"]. [Lighting—e.g., "morning sun angling over the eastern wall, shadows of the battlements striping the yard, the keep tower casting a long shadow in which the officers confer"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate architectural and environmental detail, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy fortress courtyard scene illustration" or "Fantasy military garrison life illustration"].
 
 **Prompt:**
 

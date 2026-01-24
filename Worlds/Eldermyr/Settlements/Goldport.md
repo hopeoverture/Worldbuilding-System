@@ -273,9 +273,16 @@ The succession crisis has made Goldport's neutrality both invaluable and dangero
 
 ## Image Prompts
 
+### Art Style
+**Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate architectural and environmental detail, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition.**
+
 ### Exterior (Wide Shot)
 **Prompt:**
-Wide establishing shot of Goldport, a fortified banking town built on a steep volcanic island rising from blue Mediterranean waters. Four distinct terraces climbing from harbor to summit, connected by switchback roads. White and cream stone buildings with terracotta roofs. A fortified harbor with sea walls at the base. The summit crowned by the imposing Iron Vaults carved into rock. No flashy decoration—solid, wealthy, secure. Clear day, morning light catching the white buildings against blue sea and sky. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, 8K quality. Fantasy banking fortress illustration.
+> Wide establishing shot of Goldport, a fortified banking town built on a steep volcanic island rising from blue Mediterranean waters. Four distinct terraces climbing from harbor to summit, connected by switchback roads. White and cream stone buildings with terracotta roofs. A fortified harbor with sea walls at the base. The summit crowned by the imposing Iron Vaults carved into rock. No flashy decoration—solid, wealthy, secure. Clear day, morning light catching the white buildings against blue sea and sky. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy banking fortress illustration.
+
+### The Exchange Floor
+**Prompt:**
+> Interior of the Exchange in Goldport, the open plaza where currency trading occurs. Great rate boards line the walls, displaying exchange values updated by runners every hour. Brokers in immaculate but understated clothing negotiate in clusters, their conversations low and precise. A central podium where the Exchange Mistress announces official rates. The floor is polished marble; the architecture is solid and functional—wealth expressed through quality rather than decoration. Well-dressed merchants from across the kingdom conduct business, their regional attire marking their origins. Halfling accountants move between groups with ledgers. The atmosphere of serious money—where fortunes change hands through whispered numbers and discreet nods. Late morning light streams through high windows. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on clothing and architecture, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy financial exchange illustration.
 
 ## Connections
 

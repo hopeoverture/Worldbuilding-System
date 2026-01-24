@@ -225,18 +225,31 @@ List 1-2 adventure ideas involving this animal:
 
 ### Guidelines
 When generating AI art for this animal, include:
-- **Species:** Specific animal form
+- **Species:** Specific animal form with any fantasy variations
 - **Pose:** Natural behavior or characteristic stance
-- **Environment:** Natural habitat
+- **Environment:** Natural habitat appropriate to species
 - **Condition:** Wild, domesticated, working
-- **Lighting:** Natural lighting appropriate to habitat
-- **Atmosphere:** Wildlife documentary quality
+- **Lighting:** Natural lighting appropriate to habitat and time
+- **Atmosphere:** Wildlife documentary quality with fantasy elements if applicable
+
+### Natural Behavior Integration (Show the Animal's Life)
+Every detail should reveal how this creature lives:
+- *Don't write:* "brown fur" → *Write:* "rich chestnut coat with darker points at ears and muzzle, thick winter undercoat visible where the outer guard hairs part, the fur worn smoother along the flanks where it pushes through underbrush"
+- *Don't write:* "alert ears" → *Write:* "tall ears swiveling independently, the left tracking something behind while the right points forward, veins visible in the thin skin backlit by morning sun, small nicks and tears along the edges from years of thorny passage"
+- *Don't write:* "standing in field" → *Write:* "paused mid-graze in a meadow of knee-high grass, head raised and jaw still working the last mouthful, legs positioned for instant flight, a study in prey-animal readiness"
+
+### Individual Character (Animals Have Stories Too)
+Even wild animals should show individual history:
+- Scars from predator encounters or territorial disputes
+- Age indicators in wear patterns, greying muzzle, clouded eyes
+- Condition reflecting season and food availability
+- Personality in body language—bold, wary, curious, tired
 
 ### Natural Pose
 Animal in its natural habitat displaying characteristic behavior.
 
 **Template:**
-> [Size] [animal type] in natural [habitat] setting, [coloring and markings], [natural pose - grazing, hunting, resting, alert]. [Anatomical details - fur/feather/scale texture, eyes, distinctive features]. [Environmental elements - vegetation, terrain, weather]. [Natural lighting - golden hour, dappled forest light, etc.]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on fur, feathers, scales, and anatomy, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Wildlife illustration.
+> [Size with environment scale—e.g., "a large stag standing shoulder-height to the surrounding ferns"] [animal type with specifics—e.g., "a mature forest elk in his prime, perhaps eight or nine years old judging by the spread of his antlers"]. [Coloring with life history—e.g., "coat of deep reddish-brown with paler belly and throat, darker along the spine where rain runs off, the fur thick with autumn preparation, a patch of pale scarring on the left haunch where something's claws once found purchase"]. [Pose with behavior—e.g., "caught in the moment between alert and flight, head turned sharply to face the viewer, nostrils flared and testing the air, front hooves set wide and hindquarters gathered for explosive movement—a creature that survives by never quite trusting anything"]. [Head and expression—e.g., "noble head with a twelve-point rack of antlers, several tines chipped from this autumn's rut-fights, dark liquid eyes that hold both wildness and ancient wariness, ears locked forward, breath visible as twin plumes in the cold air"]. [Body details—e.g., "powerful neck thickened for the mating season, ribs just barely visible suggesting the lean times before winter plenty, muscles twitching beneath the fur as adrenaline builds"]. [Environment—e.g., "standing in a clearing of autumn forest, morning mist knee-deep between the golden-brown bracken, birch and oak rising behind with leaves turning, a stream visible in the background where he came to drink"]. [Atmospheric elements—e.g., "first light of dawn filtering through the trees in golden rays, catching moisture in the air like suspended diamonds, the stag backlit with a halo of mist and morning light"]. [Lighting—e.g., "golden hour light from the side emphasizing the texture of fur and the majesty of antlers, cool shadows in the forest behind creating depth"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on fur, feathers, scales, and anatomy, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy forest stag wildlife portrait" or "Fantasy wild horse herd illustration"].
 
 **Prompt:**
 
@@ -245,7 +258,7 @@ Animal in its natural habitat displaying characteristic behavior.
 Animal shown in relationship with civilization (if applicable).
 
 **Template:**
-> [Animal type] in [domestic context - stable, farm, market, with rider/handler], [condition - groomed, working, at rest]. [Equipment if applicable - saddle, harness, collar]. [Human interaction or evidence]. [Setting appropriate to use]. [Warm/natural lighting]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on fur, feathers, scales, and anatomy, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy animal illustration.
+> [Animal type with role—e.g., "a heavy draft horse, bred for strength across generations of careful selection"]. [Condition reflecting life—e.g., "coat well-groomed and gleaming from daily attention, a few old scars on the legs from years of plow and cart work, mane braided in the local farming style with ribbons that mark the spring festival"]. [Equipment with use-wear—e.g., "fitted with a worn leather harness dark with years of oil and sweat, brass fittings polished from use rather than intention, the padding beneath showing careful repair where it matters"]. [Individual character—e.g., "a patient face with the calm eyes of a horse that has done this work for fifteen years, white blaze partially hidden by a forelock that will never lie flat, one ear cocked back to listen for commands while the other tracks passing birds—smart enough to be bored, gentle enough not to care"]. [Body with working life—e.g., "massive shoulders and hindquarters developed for pulling, feathered fetlocks dusted with the morning's mud, hooves freshly shod but already gathering farmyard clay"]. [Human interaction—e.g., "a farmer's weathered hand visible at the bridle, the easy grip of long partnership, both man and horse relaxed in familiar routine"]. [Setting—e.g., "standing in a farmyard at the edge of plowed fields, the farmer's cottage visible behind with smoke rising from the chimney, chickens scratching unconcerned around those massive hooves"]. [Lighting—e.g., "warm morning light suggesting the start of a working day, long shadows stretching across the yard, the kind of light that makes even hard work look peaceful"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on fur, feathers, scales, and anatomy, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy working horse portrait" or "Fantasy trained war-mount illustration"].
 
 **Prompt:**
 

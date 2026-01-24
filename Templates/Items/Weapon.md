@@ -187,28 +187,41 @@ List 2-3 adventure opportunities connected to this weapon:
 
 ### Guidelines
 When generating AI art for this weapon, include:
-- **Weapon Type:** Specific weapon form and style
-- **Materials:** Metal type, wood, leather, gems
-- **Craftsmanship:** Level of detail and quality
-- **Condition:** New, battle-worn, ancient, restored
-- **Magical Elements:** Glows, runes, ethereal effects (if magical)
-- **Setting:** Display, held, or environmental context
-- **Lighting:** Dramatic lighting emphasizing key features
+- **History in steel:** Every nick, stain, and repair telling the story of battles fought and owners past
+- **Smithcraft identity:** The techniques and traditions visible in the forging—whether dwarven, elvish, orcish, or human
+- **Purpose evident:** A weapon designed for war looks different from one made for ceremony or dueling
+- **Balance made visible:** The weight distribution, the grip placement, the engineering of violence
+- **Magical integration:** For enchanted weapons, the magic should feel inherent rather than applied—part of the weapon's nature
+- **Material authenticity:** The specific metals, woods, leathers, and gems that define the weapon's origin and value
+
+### Weapon Integration (Weapons Are Violence Made Beautiful)
+Every element should express the weapon's purpose, history, and the hands that wielded it:
+- *Don't write:* "ornate longsword" → *Write:* "a longsword forged in the old kingdom's tradition, the blade folded steel showing the river-pattern that marks the royal armory, three centuries of oil and blood darkening the fuller, the crossguard still bearing the dent where it caught a killing blow meant for a prince—the leather grip worn to the exact shape of the hand that saved a dynasty"
+- *Don't write:* "magical axe with glowing runes" → *Write:* "a battle-axe with runes that pulse like a heartbeat, carved by dwarf runepriests in the language of the mountain's bones, the glow intensifying near enemies as if the weapon remembers every grudge of the clan that forged it—the shaft of ironwood scarred by five generations of hands, the blade edge still keen despite a hundred battles"
+- *Don't write:* "dagger on table" → *Write:* "an assassin's blade resting on black velvet, thin as a whisper and twice as deadly, the blade coated in something that doesn't quite reflect light, the hilt wrapped in silk that was once white but has absorbed enough palm-sweat and purpose to turn the grey of old secrets"
+
+### Distinctive Feature Ideas for Weapons
+- **Combat history:** The blade notches, edge rolls, and repairs that map a weapon's battlefield experience
+- **Grip evidence:** Leather worn by specific hands, indentations where fingers pressed in desperate moments
+- **Forge identity:** The patterns, stamps, and techniques that identify the smith or tradition
+- **Blood memory:** Stains that won't quite clean, discolorations at the fuller, the evidence of violence past
+- **Magical pulse:** For enchanted weapons, the rhythm of power—veins of light, temperature variations, the sense of awareness
+- **Material marriage:** How different components work together—the tang through the grip, the guard's protective geometry, the pommel's counterweight
 
 ### Full Weapon
-Complete weapon shown in detail, possibly with subtle environmental context.
+Complete weapon shown in detail, with context that reveals its nature and history.
 
 **Template:**
-> Full view of a [weapon type], [material description], [craftsmanship level]. [Blade/head description]. [Hilt/handle description]. [Guard/pommel description]. [Decorative elements - engravings, gems, runes]. [Condition - pristine, battle-worn, ancient]. [Magical effects if applicable - glowing runes, ethereal aura]. Displayed against [simple background / held by armored hand / resting on surface]. [Dramatic lighting]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on metal, leather, wood, and materials, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy weapon illustration.
+> [Weapon with identity—e.g., "the bastard sword of Lord Valdren, the blade that held the eastern pass for three days and nights during the Orc Wars, now displayed in the hall where his descendants still rule"]. [Forge characteristics—e.g., "forged in the Ironhold tradition, the blade showing the watered-steel pattern that marked their finest work, the crossguard shaped like a mountain range in miniature, the pommel bearing the Valdren stag in silver now black with age"]. [History evidence—e.g., "the blade nicked in seventeen places where orcish iron met human steel, each notch left deliberately unground as a tally of duels survived, the edge still sharp enough to draw blood on touch despite three centuries"]. [Grip and handling—e.g., "the leather grip wrapped and rewrapped a dozen times, each layer pressing down the last, the combined sweat of the lords who've held it darkening the cords to something like ancient wood"]. [Condition—e.g., "cleaned but not restored, the centuries of honest use left as honor rather than erased, the blade oiled but showing the shadow-stains that blood leaves on steel that's tasted enough of it"]. [Magical elements if applicable—e.g., "the faint shimmer along the edge that suggests the battle-blessings still hold, the way light catches the blade at angles that shouldn't quite work"]. [Display context—e.g., "resting on its pegs above the great hearth, the firelight catching the steel as if it remembers the forgefire, the shadow it casts on the wall suggesting a giant's reach"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on metal, leather, wood, and materials, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy ancestral sword illustration" or "Fantasy legendary weapon portrait"].
 
 **Prompt:**
 
 
 ### Detail Shot
-Close-up of distinctive features—hilt, blade engravings, magical properties.
+Close-up of distinctive features—where the weapon's story is written in materials and marks.
 
 **Template:**
-> Extreme close-up detail shot of [specific weapon part], [material and texture description]. [Intricate details - engravings, runes, maker's mark, gems]. [Surface quality - polished, worn, etched]. [Magical elements visible at close range]. Macro photography style. [Dramatic lighting highlighting textures]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on metal, leather, wood, and materials, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy weapon detail.
+> [Specific focus with meaning—e.g., "extreme close-up of the sword's crossguard where it meets the blade, the junction where three different metalworking traditions merge"]. [Material detail—e.g., "the Damascus pattern of the blade visible at the ricasso, flowing like frozen water, each fold representing a day of the smith's labor—two hundred and forty folds visible in the watered pattern, nearly a year of work in finger-widths of steel"]. [History marks—e.g., "the crossguard bearing the scar where a Valdren lord caught an axe-blow that would have split his skull, the steel bent inward and never straightened because the survival was more important than perfection"]. [Craftsmanship evidence—e.g., "the maker's mark at the base of the blade, the mountain-and-hammer of the Ironhold smiths, still crisp after three centuries while everything around it has worn smooth"]. [Magical manifestation if applicable—e.g., "the runes carved into the fuller glowing with the sullen red of banked coals, the heat radiating visibly in the air above them though the blade remains cool to touch"]. [Texture and surface—e.g., "the blade's surface a palimpsest of polishing scratches, oil films, and infinitesimal pitting where blood ate at the steel before it could be cleaned—a surface that absorbs light rather than reflecting it cleanly"]. Macro photography style, extreme detail, shallow depth of field drawing focus to the junction. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on metal, leather, wood, and materials, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy sword detail illustration" or "Fantasy weapon crossguard close-up"].
 
 **Prompt:**
 

@@ -390,16 +390,42 @@ Who comes and why?
 ### Art Style
 **Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on coastlines and vegetation, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition.**
 
+### Guidelines
+When generating AI art for this island, include:
+- **Water framing:** The omnipresent sea defining the island, water color gradations
+- **Terrain character:** Volcanic peaks, coral flats, jungle-clad hills—each island type distinct
+- **Coastline variety:** Beaches, cliffs, reefs, mangroves, harbors natural and made
+- **Isolation sense:** The way horizon is sea in all directions, the apartness
+- **Endemic life:** Unique vegetation, unfamiliar species, things found nowhere else
+- **Light quality:** Tropical brilliance, maritime atmosphere, the way light behaves over water
+
+### Island Integration (Islands Are Worlds Apart)
+Every element should suggest isolation, uniqueness, and the constant presence of the sea:
+- *Don't write:* "island rising from sea" → *Write:* "land asserting itself against infinite blue, the island climbing from turquoise shallows through white surf line to the green ramparts of its interior, a complete world in miniature—forest and mountain and stream all compressed into a space the sea could swallow"
+- *Don't write:* "tropical beach" → *Write:* "sand the color of ground pearls curving between jungle and lagoon, coconut palms bending toward the water in perpetual reach for the horizon, the beach marked only by the overnight tracks of crabs and turtles"
+- *Don't write:* "remote location" → *Write:* "the sea surrounding in every direction, the nearest land over the horizon and weeks away by sail, the sky meeting water in a circle with the island at its center—the loneliness and the freedom that only islands know"
+
+### Distinctive Feature Ideas for Islands
+- **Sea presence:** water visible from every high point, the sound of surf constant, salt on everything
+- **Endemic uniqueness:** plants that evolved nowhere else, animals without fear of humans, the strangeness of isolation
+- **Terrain compression:** jungle and beach and mountain all visible in a single view, ecosystems layered close
+- **Maritime edges:** reef breaks, lagoon colors, the transition from sand to sea, volcanic rock meeting waves
+- **Human adaptation:** stilt houses, outrigger canoes, temples on headlands, the particular architecture of islanders
+
 ### Island Vista
+The island as a complete world, showing terrain, sea-framing, and the quality of isolation.
+
 **Template:**
-> [Island name] rising from [ocean/sea name]. [Terrain - volcanic peak, lush hills, flat coral]. [Coastline - beaches, cliffs, reefs]. [Surrounding waters - turquoise shallows, deep blue]. [Clouds and atmosphere]. [Sense of isolation and mystery]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy island illustration.
+> [Island name with character—e.g., "the Isle of Pearls, a jade gem set in sapphire sea, home to a people who have never seen a horse or known a winter"]. [Island form—e.g., "a volcanic remnant rising steeply from the water, its central peak shrouded in perpetual cloud, its lower slopes terraced for rice and taro over uncounted generations; the green so vivid against the blue it seems impossible"]. [Coastline—e.g., "the shore alternating between black volcanic rock where the waves explode in white fury, and crescent beaches of pale sand protected by curving reefs; a natural harbor on the western side where the village clusters"]. [Water framing—e.g., "sea in every direction, shifting from turquoise in the shallows through jade to deepest blue where the reef drops away to the abyss; the horizon line where sky meets water unbroken save for a distant smudge that might be another island or might be cloud"]. [Endemic character—e.g., "palms and breadfruit and trees that have no mainland name, birds of impossible color in the canopy, the vegetation so dense on the windward slopes it seems impenetrable"]. [Atmosphere—e.g., "the light of the tropics, intense and shadowless at noon but golden now as evening approaches, turning the water to molten metal and the jungle to black velvet"]. [Sense of isolation—e.g., "a complete world in one view, everything the inhabitants have ever known visible in a single sweeping glance, the sea both prison wall and highway"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on coastlines and vegetation, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy tropical island paradise illustration" or "Fantasy volcanic island landscape illustration"].
 
 **Prompt:**
 
 
 ### Island Settlement or Interior
+Life on the island—human adaptation to isolation and the sea's constant presence.
+
 **Template:**
-> [Settlement or location] on [island name]. [Architecture suited to island life]. [Vegetation and terrain]. [Ocean visible in background]. [Activity and inhabitants]. [Atmospheric lighting]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy island illustration.
+> [Location specifics—e.g., "the main village of the Isle of Pearls, built where the freshwater stream meets the lagoon"]. [Architecture—e.g., "houses raised on stilts against monsoon floods, walls of woven palm and bamboo, roofs steeply pitched to shed tropical rain; a communal longhouse at the village center where the elders gather; stone-lined fish ponds between houses where the tide brings food twice daily"]. [Maritime life—e.g., "outrigger canoes drawn up on the beach, nets drying on frames, the smell of smoking fish; the sea visible between every building, inescapable, the source of everything"]. [Vegetation—e.g., "carefully maintained: breadfruit and mango for shade, a garden of taro in the wetland, the jungle held back by machete but pressing always at the boundaries"]. [Activity—e.g., "fishermen returning with the afternoon catch, children learning to swim before they learn to walk, women weaving the sails that make voyage possible"]. [Island visible—e.g., "the peak rising behind the village, cloud-wrapped, the terraced hillsides stepping up toward the forest; the lagoon stretching away to the reef line where waves mark the boundary with the open ocean"]. [Atmosphere—e.g., "the particular quality of island evening, cooling but never cold, the sounds of surf and wind in palms and human voices, the sky turning colors that don't exist on mainland sunsets"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on coastlines and vegetation, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy island village illustration" or "Fantasy tropical settlement illustration"].
 
 **Prompt:**
 

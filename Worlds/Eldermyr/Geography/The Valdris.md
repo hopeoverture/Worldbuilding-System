@@ -76,3 +76,16 @@ Floating markets operate along the lower Valdris, where traders meet to exchange
 
 ### Organizations
 - **Controller (mouth):** [[House Valdren]]
+
+## Image Prompts
+
+### Art Style
+**Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on water and riverine commerce, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition.**
+
+### River Vista
+**Prompt:**
+> The Valdris in its broad lower reaches, the Golden River living up to its name as sunset light turns the slow-moving waters to liquid gold. Wide enough for sailing vessels, the river is busy with commerce: merchant barges laden with grain floating downstream, smaller boats rowing upstream with imported goods. Prosperous farmland lining both banks—wheat fields, orchards, wealthy estates with private docks. A riverside town visible on one bank, its warehouses and markets oriented toward the water. The river's gentle current barely visible, perfect for navigation in either direction. The sense of wealth flowing both ways—the trade artery that funds House Valdren's power. Hyper-realistic digital art, photorealistic rendering, golden hour lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy trade river illustration.
+
+### The Delta at Porto Valdris
+**Prompt:**
+> The Valdris delta where the Golden River meets the sea at Porto Valdris. The river splitting into multiple channels through marshy wetlands before reaching the harbor. Porto Valdris straddling the main channel, controlling all traffic—wharves and warehouses lining both banks, bridges connecting the two halves of the city. Merchant vessels anchored in the protected harbor beyond, their masts a forest against the sky. Smaller boats navigating between the channels, toll collectors in longboats approaching incoming traffic. The famous floating markets visible on the outer channels where traders meet to exchange goods without entering port. Mediterranean evening light, wealthy city architecture rising above the water. Hyper-realistic digital art, photorealistic rendering, cinematic evening lighting, rich textures, intricate detail on delta geography and maritime commerce, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy river delta port illustration.

@@ -309,16 +309,42 @@ Those who rule here:
 ### Art Style
 **Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on terrain and vegetation, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition.**
 
+### Guidelines
+When generating AI art for these hills, include:
+- **Rolling rhythm:** The repeating pattern of crest and valley, the sense of land in gentle motion
+- **Depth layers:** Successive hills fading into distance, atmospheric perspective
+- **Vegetation patterns:** How plant cover follows terrain—woods in valleys, grass on ridges
+- **Light play:** Sun catching crests while valleys shadow, dappled patterns on slopes
+- **Human adaptation:** Terracing, hilltop settlements, sheep paths, stone walls
+- **Weather interaction:** Mist pooling in valleys, clouds catching on higher hills, rain patterns
+
+### Hills Integration (Hills Are Gentle Rhythms)
+Every element should suggest the rolling, folded character of hill country:
+- *Don't write:* "rolling hills" → *Write:* "the land rising and falling in ancient rhythm, each crest revealing the next valley and the next hill beyond, the pattern repeating to the horizon like frozen waves in a green sea"
+- *Don't write:* "valley between" → *Write:* "the hollow between hills where a stream has carved its patient path, the slopes on either side catching different light—one in morning sun, one in shadow—oak woods climbing the shaded side where moisture gathers"
+- *Don't write:* "mist in valley" → *Write:* "morning mist filling the lowlands like milk in a bowl, hilltops rising above it as green islands, the mist slowly burning off as the sun climbs, revealing farms and sheep and the thread of road"
+
+### Distinctive Feature Ideas for Hills
+- **Rhythm and repetition:** the visual music of crest after crest, the way valleys connect and separate
+- **Vegetation zones:** bare sheep-cropped grass on windy tops, thick woods in sheltered valleys, heather and gorse on acid soil
+- **Human marks:** stone walls dividing pastures, terraced fields on sunny slopes, tracks worn by centuries of feet
+- **Light effects:** one hillside gold with sun while its neighbor is purple in shadow, storm light picking out a single hill
+- **Weather drama:** cloud shadows racing across the slopes, rain falling on one hill while its neighbor stays dry, mist rising from woods
+
 ### Hillside Vista
+The rolling landscape showing depth, rhythm, and the gentle drama of folded land.
+
 **Template:**
-> Rolling hills of [hills name], [vegetation - green pastures, heather-covered, forested slopes]. [Valleys between with streams or settlements]. [Sky and lighting - morning mist, golden afternoon, dramatic clouds]. [Depth showing receding hills]. [Pastoral or wild atmosphere]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy hill country illustration.
+> [Hills name with character—e.g., "the Shepherd Hills, where every valley holds a farm and every crest holds a memory"]. [Rolling pattern—e.g., "hills rising and falling in gentle waves toward every horizon, their crests rounded by millennia of rain and wind, their slopes patchworked with pasture and woodland and the golden squares of harvested fields"]. [Depth and layers—e.g., "successive ridges fading from vivid green in the foreground through softer shades to blue-grey in the distance where the hills merge with the sky"]. [Vegetation patterns—e.g., "oak woods following the streams in the valleys, climbing the shaded north slopes; open pasture on the sunny sides dotted with white sheep; gorse in yellow bloom on the higher ground"]. [Human presence—e.g., "stone walls tracing the contours like threads, dividing farm from farm; a church spire rising from a hidden valley; smoke from cottages tucked into sheltered folds"]. [Light—e.g., "afternoon sun catching the western slopes in gold while the eastern faces already gather shadow, the contrast emphasizing every fold and hollow in the land"]. [Weather—e.g., "a few clouds trailing shadows across the hills, their dark patches racing from crest to crest, the air clear after morning rain"]. [Atmosphere—e.g., "the particular peace of hill country, where every view is bounded and sheltered, where sound carries strangely, where the horizon is never flat and the sky is framed by land"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on terrain and vegetation, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy rolling hill country landscape illustration" or "Fantasy pastoral highlands illustration"].
 
 **Prompt:**
 
 
 ### Hill Village or Feature
+Human presence in the hills—settlements that nestle rather than dominate.
+
 **Template:**
-> [Village or notable feature] in [hills name]. [Architecture - stone cottages, terraced farms, hilltop fort]. [Inhabitants at work]. [Surrounding hillsides]. [Weather and season]. [Sense of elevation and shelter]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy hill settlement illustration.
+> [Location with specifics—e.g., "the village of Highdale, built where three valleys meet and a stream provides power for the mill"]. [Architecture—e.g., "cottages of local stone with slate roofs, built low against the wind, clustering around the church and inn; gardens climbing in terraces up the valley side; the mill wheel turning in the stream below"]. [Integration with land—e.g., "the village fitting into the landscape like it grew there, stone the same grey as the outcrops on the hill above, paths following the contours, every building oriented to catch sun or shelter from wind"]. [Human activity—e.g., "a shepherd bringing his flock down the track, women at the well, smoke rising from chimneys as the day's baking begins, the rhythms of a community shaped by the land"]. [Surrounding hills—e.g., "the village cradled in its valley with hills rising on three sides, protecting from weather and outsiders alike, the road winding out through the gap to the east"]. [Weather and season—e.g., "autumn morning with mist still filling the lower valley, the hilltops golden with sunrise, the village caught in between—half in light, half in lingering shadow"]. [Atmosphere—e.g., "the particular intimacy of hill villages, where the land shapes everything, where neighbors are few but reliable, where the outside world seems very far away"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on terrain and vegetation, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy hill valley village illustration" or "Fantasy highland settlement illustration"].
 
 **Prompt:**
 

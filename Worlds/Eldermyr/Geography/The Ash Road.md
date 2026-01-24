@@ -106,3 +106,16 @@ Extended exposure to the cursed lands causes sickness. Travelers who linger too 
 ### History
 - **Key Event:** [[The Battle of Ashen Fields]] (nearby)
 - **Decline:** Post-war, accelerated by curse
+
+## Image Prompts
+
+### Art Style
+**Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on road and abandonment, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition.**
+
+### The Safe Section
+**Prompt:**
+> The Ash Road north of Crossford where it still functions as a trade route, ancient paving stones visible through a thin layer of fallen leaves. The road lined with the ash trees that gave it its name—though many look sickly, their leaves brown even in summer. A merchant caravan heading north, guards looking nervously southward. Waymarkers still standing, though some are cracked or toppled. The road well-maintained here, stone bridges intact, drainage ditches clear. But the traffic is thin, and travelers move quickly. In the far distance, the hills rise toward the Crown Lands and safety. Overcast sky, the perpetual gray that characterizes the region. Hyper-realistic digital art, photorealistic rendering, diffuse overcast lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy declining trade road illustration.
+
+### The Abandoned Section
+**Prompt:**
+> The Ash Road south of Crossford where the curse has claimed the land, ancient paving stones cracked and heaved, weeds and gray grass growing through. The ash trees lining the road are dead, their bark blackened, branches bare, standing like skeletal sentinels. Abandoned villages visible on either side—doors standing open, roofs collapsed, possessions visible through empty windows. The road empty of living travelers. Mist drifting across from the direction of the Ashen Fields, carrying the smell of old fires and something worse. A single wagon stands abandoned, its draft animal long gone, cargo rotting. In the distance, a figure stands motionless by the roadside—not necessarily hostile, but not necessarily alive. The atmosphere of a road that once carried life and prosperity, now carrying only ghosts. Hyper-realistic digital art, photorealistic rendering, gray diffuse lighting, rich textures, intricate detail on abandonment and curse effects, haunting atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy cursed road illustration.

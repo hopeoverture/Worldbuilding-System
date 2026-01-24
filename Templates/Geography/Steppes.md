@@ -354,16 +354,42 @@ Rulers of the steppe:
 ### Art Style
 **Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on grasslands and horses, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition.**
 
+### Guidelines
+When generating AI art for this steppe, include:
+- **Horse culture:** The ever-present horses, herds on the horizon, the centaur-relationship of rider and mount
+- **Immense sky:** The dome of heaven dominating, weather visible for days, the sky as important as land
+- **Grass ocean:** Waves of movement, color shifts with season, the particular palette of semi-arid land
+- **Nomad presence:** Portable dwellings, mobile herds, the art of people who carry their world
+- **Wind made visible:** Grass bending, dust trailing, standards snapping, the constant wind of open land
+- **Temperature extremes:** The harsh sun of summer, the killing cold of winter, the adaptations that allow life
+
+### Steppe Integration (The Steppe Is Freedom and Death)
+Every element should suggest the particular character of the horse-dominated grassland:
+- *Don't write:* "grassland" → *Write:* "an ocean of feathergrass stretching to horizons in every direction, the silver-green waves rolling under the wind in patterns that never repeat, the occasional dark dot of a marmot burrow the only break in the endless undulation"
+- *Don't write:* "horsemen" → *Write:* "riders who learned their craft before they learned to walk, moving across the steppe like centaurs, the horse and human a single creature—the mounted warriors who have broken every army that tried to bring civilization to this trackless land"
+- *Don't write:* "nomad camp" → *Write:* "a circle of gers rising from the grass like white mushrooms, smoke rising from each crown, horse herds grazing downwind, the entire encampment able to move in an hour because nothing here is permanent but the sky"
+
+### Distinctive Feature Ideas for Steppes
+- **Horse imagery:** wild herds flowing like water, riders racing, the particular beauty of steppe horses
+- **Weather drama:** storm fronts visible for a hundred miles, dust storms erasing the horizon, the terrible clarity of winter
+- **Portable culture:** gers in circles, herds around camps, everything on horseback, the lack of permanent marks
+- **Seasonal extremes:** summer grass high and golden, winter snow drifted over frozen grass, the harsh transitions
+- **Historical weight:** burial mounds on horizons, ancient standing stones, the graves of empires beneath the grass
+
 ### Steppe Vista
+The endless grassland showing scale, sky-dominance, and the particular character of horse-country.
+
 **Template:**
-> Endless expanse of [steppe name], [grass type and condition]. [Dramatic sky - vast clouds, storm on horizon, endless blue]. [Horsemen or herds in distance]. [Sense of limitless space and freedom]. [Wind visible in grass movement]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy steppe illustration.
+> [Steppe name with character—e.g., "the Sea of Grass, where empires have risen from the saddle and fallen back into the wind"]. [Grass character—e.g., "feathergrass and wild rye rolling to every horizon in waves of silver-green, the stems tall enough to hide a crouching rider, the color shifting with wind and cloud-shadow in patterns that suggest something alive and breathing"]. [Sky dominance—e.g., "the sky taking two-thirds of the world, a dome of profound blue marked with clouds that pile into towers at the horizon—weather visible for days in every direction, the coming storm already casting its shadow fifty miles distant"]. [Immense scale—e.g., "no tree, no building, no vertical thing to break the endless horizontal except a lone kurgan on a distant rise, a burial mound of some forgotten khan whose empire is now only grass and wind"]. [Movement—e.g., "the wind constant, making the grass flow like water toward the east, carrying dust and the smell of distant rain, sending small things scurrying before it"]. [Life—e.g., "a herd of wild horses visible on the horizon, moving together like a school of fish, their dark shapes flowing over the grass; hawks circling on the thermals; the marmot whistles that serve as the steppe's warning system"]. [Atmosphere—e.g., "the particular quality of steppe air—dry, thin, tasting of grass and distance, carrying sound strangely so that hoofbeats miles away come clearly"]. [Human presence—e.g., "a rider on the skyline, barely visible, watching—always watching, because the steppe rewards only the watchful"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on grasslands and horses, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy vast steppe landscape illustration" or "Fantasy horse-culture grassland illustration"].
 
 **Prompt:**
 
 
 ### Nomad Camp or Activity
+The mobile life of steppe peoples—home that travels, war from the saddle.
+
 **Template:**
-> [Nomad camp or mounted warriors] on [steppe name]. [Yurts/gers and horse herds]. [Nomadic people in traditional dress]. [Activity - riding, herding, gathering]. [Steppe extending to horizon]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy nomad illustration.
+> [Camp or action—e.g., "a gathering of the Golden Horde for the summer kuriltai, more gers than the eye can count spreading across the valley"]. [Dwellings—e.g., "white gers arranged in the traditional circles by clan and status, each peaked roof crowned with a banner marking its owner, smoke rising from every crown-ring as the evening meals prepare"]. [Horses—e.g., "horse herds beyond counting grazing the surrounding steppe, the wealth of nations measured in these animals; riders moving among them, checking, selecting, the constant tending that steppe life demands"]. [People—e.g., "warriors in leather and felt gathered before the great ger of the khan, their armor the color of the grass they came from; women working felt and leather, their skill making the civilization that needs no cities"]. [Activity—e.g., "the business of the gathering evident—merchants trading, warriors comparing horses, children racing ponies, the elders in council; the annual reunion of a people who spend most of their lives scattered across an ocean of grass"]. [Steppe visible—e.g., "the grassland stretching away beyond the camp, endless and patient, ready to swallow this gathering the moment it moves on—the steppe that was here before these people and will be here after"]. [Atmosphere—e.g., "the sounds of a temporary city, voices and hoofbeats and the bleating of sheep, the smell of cooking meat and horse-sweat and the ever-present grass"]. [Lighting—e.g., "golden evening light washing across the camp, long shadows stretching east, the sky purple and orange above as another day ends on the sea of grass"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on grasslands and horses, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy nomad gathering illustration" or "Fantasy steppe encampment illustration"].
 
 **Prompt:**
 

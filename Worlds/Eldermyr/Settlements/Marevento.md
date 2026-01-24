@@ -81,6 +81,19 @@ Admiral of the Valdren Fleet, hero of a dozen sea battles, and Marevento's most 
 
 2. **The Saboteur:** Ships launched from Marevento have been failing—subtle weaknesses that only show at sea. Someone is sabotaging the yards.
 
+## Image Prompts
+
+### Art Style
+**Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate architectural and environmental detail, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition.**
+
+### Exterior (Wide Shot)
+**Prompt:**
+> Wide establishing shot of Marevento, the Shipwright's Town, stretching along a natural deep-water harbor on the Western Shore. Seven great shipyards line the waterfront, their dry docks and slipways holding vessels in various stages of construction—skeletal ribs of ships awaiting planking, galleys being fitted with masts, a nearly-complete warship gleaming with fresh paint. Wooden cranes and scaffolding rise above the yards. The town climbs gently from the harbor, timber and stone buildings with red-tiled roofs in the Mediterranean style. Smoke rises from forges and pitch-boilers. The famous Ropewalk stretches along the western edge—a quarter-mile covered structure. Mediterranean blue waters, late afternoon golden light catching brass fittings on ships, the constant activity of a town devoted to building the kingdom's fleet. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy shipyard town illustration.
+
+### The Great Yards at Dawn
+**Prompt:**
+> Interior view of Marevento's Great Yards at dawn as work begins on a new Valdren warship. The massive skeleton of a war galley rises from the construction cradle, its keel sixty feet long, ribs curving upward like the bones of a great beast. Shipwrights in leather aprons climb scaffolding, carrying tools and planking. The smell of fresh-cut timber and hot pitch fills the air. Master craftsmen inspect joints with critical eyes while apprentices haul materials. In the background, the harbor is visible through the yard's open front, finished ships riding at anchor awaiting delivery. The Shipwright's Guild banner hangs from a crane. Golden dawn light streams through the structure, catching sawdust motes in the air. The atmosphere of skilled labor and marine tradition—this is where the Golden Fleet is born. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on ship construction, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy shipbuilding illustration.
+
 ## Connections
 
 ### Geography

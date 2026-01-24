@@ -383,28 +383,40 @@ List 4 things locals might share (mix true and false):
 
 ### Guidelines
 When generating AI art for this town, include:
-- **Setting Type:** Regional market town, trading hub
-- **Architecture:** Mix of building styles showing growth over time
-- **Atmosphere:** Busy, commercial, lived-in
-- **Activity:** Market activity, travelers, carts, commerce
-- **Features:** Walls (if present), prominent buildings, market square
-- **Surroundings:** Approach roads, surrounding landscape
-- **Lighting:** Time of day appropriate to desired mood
+- **Growth visible:** Older stone core surrounded by newer timber construction, buildings of different eras side by side, expansion beyond original walls
+- **Commerce focus:** Merchant wagons on approach roads, market square as visual center, warehouses and trading halls prominent
+- **Regional character:** Architecture reflecting local materials and traditions, surrounding landscape explaining the town's economy
+- **Crossroads energy:** Multiple roads converging, travelers from different directions, a sense of things in motion
+- **Prosperity indicators:** Quality of construction, goods visible in the market, condition of walls and public buildings
+- **Scale balance:** Large enough to have distinct areas, small enough to see across, human figures giving scale
+
+### Town Integration (Towns Are Crossroads Made Permanent)
+Every element should suggest the town's role as a hub of trade and regional life:
+- *Don't write:* "market square" → *Write:* "the market square that has been the town's heart since the first traders gathered here three centuries ago, worn cobblestones showing the paths that carts have followed for generations, the central well that serves as both water source and informal banking counter where deals are sealed with a handshake"
+- *Don't write:* "town walls" → *Write:* "walls built a century ago when the town outgrew its wooden palisade, the stone already weathered to the color of old bone, gates wide enough for the wagons that are the town's lifeblood, newer construction spilling beyond the walls because safety matters less than proximity to the market"
+- *Don't write:* "busy streets" → *Write:* "streets that were once fields between buildings, now permanently claimed by commerce—merchants' stalls that have become permanent shops, upper floors added for storage, the ground floors open to the street with goods spilling onto tables and racks"
+
+### Distinctive Feature Ideas for Towns
+- **Trade indicators:** Merchant wagon trains approaching, warehouse districts, guildhall prominence, goods being loaded and unloaded
+- **Regional connection:** Roads visible leading to different destinations, river or crossroads explaining the location, local products on display
+- **Growth patterns:** Original core visible (often stone), newer expansions (often timber), construction or renovation in progress
+- **Social spaces:** Market square dominating, taverns with travelers' horses outside, temple or guildhall as secondary centers
+- **Working character:** Less polish than cities, more visible labor, craftsmen in their shops, practical rather than decorative architecture
 
 ### Exterior (Wide Shot)
-Establishing shot showing the full town from approach or elevated position.
+Establishing shot showing the full town from approach or elevated position, capturing its role as a regional hub.
 
 **Template:**
-> Wide establishing shot of a medieval market town, [wall description if applicable], [number] buildings of mixed [architectural styles]. Prominent [central landmark] visible. [Surrounding landscape and approach roads]. [Weather/atmosphere]. [Time of day lighting]. [Activity - travelers approaching, smoke rising, market bustle visible]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate architectural and environmental detail, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy town landscape.
+> [Town in landscape—e.g., "the market town of Crossways seen from the eastern road, where five trade routes have met since before the kingdom was founded"]. [Defensive description—e.g., "modest stone walls encircling the original town, their gates standing open during daylight hours, newer construction spilling beyond in wooden buildings that trust prosperity over protection"]. [Central features—e.g., "the temple tower and guildhall roof rising above the common buildings, marking the heart of the market square; the lord's manor on the low hill behind, watching over everything"]. [Commerce visible—e.g., "merchant wagons approaching from the north road, their canvas covers bright with guild symbols; a caravan of pack mules descending from the mountain pass; the market square visible as an open space already filling with the day's commerce"]. [Surrounding context—e.g., "the river curving past the town's western edge where the mills stand; farmland checkering the gentle hills in every direction; the forest beginning where the cleared land ends, a dark line on the horizon"]. [Life signs—e.g., "smoke rising from a hundred chimneys, the smell of baking bread and forge smoke, dogs barking at the arriving wagons"]. [Time and atmosphere—e.g., "early morning light catching the temple tower in gold while the streets below still lie in shadow, mist burning off the river, the day's business just beginning"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate architectural and environmental detail, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy market town establishing shot" or "Fantasy trading town landscape illustration"].
 
 **Prompt:**
 
 
 ### Interior (Street Level)
-Ground-level view of the market square or main street.
+Ground-level view immersed in the market square or main street, showing commerce and community.
 
 **Template:**
-> Street-level view of a bustling medieval town [square/main street], [building descriptions] with [architectural details]. [Market stalls/shops] lining the area. [Townsfolk and travelers] engaged in [activities]. [Carts, animals, goods]. [Ground - cobblestones/packed earth]. [Atmospheric details - shadows, dust, smells implied through visuals]. [Time of day lighting]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate architectural and environmental detail, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy town market scene.
+> [Location specifics—e.g., "the heart of Crossways' market square on a trade day, when merchants from five regions compete for the town's coin"]. [Architectural framing—e.g., "two-story buildings lining the square, the ground floors open to commerce with goods displayed on tables and hooks, the upper floors jutting out on timber supports to gain space, guild signs and merchant symbols competing for attention"]. [Market character—e.g., "stalls of canvas and timber filling the square's center, each merchant's territory marked by a generation of tradition, the arrangement as fixed as if drawn in stone; produce from the local farms, goods from distant cities, crafts from the guild workshops"]. [Population—e.g., "farmers in from the villages for market day, merchants in the sober clothes of their trade, travelers pausing to resupply, a noble's servant shopping for the manor, children underfoot chasing a dog"]. [Commerce detail—e.g., "a wool merchant spreading samples on his table while a weaver examines the fiber, a smith displaying finished tools to a farmer, a baker's boy carrying a tray of fresh loaves through the crowd, coins changing hands in the universal language"]. [Ground and texture—e.g., "cobblestones in the center giving way to packed earth at the edges, cart ruts marking the main paths, straw scattered to manage the mud, a dog investigating dropped food"]. [Atmosphere—e.g., "mid-morning light filling the square, shadows cast by the buildings beginning to shrink, the sound of bargaining and greeting and argument, dust rising from the foot traffic"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate architectural and environmental detail, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy town market scene illustration" or "Fantasy trading town street life"].
 
 **Prompt:**
 

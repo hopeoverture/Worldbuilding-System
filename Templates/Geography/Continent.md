@@ -268,16 +268,42 @@ Historical heroes and villains:
 ### Art Style
 **Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on landscapes and atmospheric effects, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition.**
 
+### Guidelines
+When generating AI art for this continent, include:
+- **Geographic diversity:** Mountain ranges, forests, deserts, and plains all visible at continental scale
+- **Climate gradients:** Temperature and vegetation changes from equator to poles, from coast to interior
+- **Coastline character:** Fjords, bays, peninsulas, island chains—the continent's relationship with the sea
+- **Civilization marks:** Roads visible as threads, cities as dots of light or cleared land, the human imprint on nature
+- **Scale indicators:** Weather systems visible, clouds casting shadows over mountain ranges, the curvature of vast distances
+- **Artistic cartography:** The blend of map-view and realistic rendering that conveys both information and beauty
+
+### Continent Integration (Continents Are Worlds)
+Every element should suggest the vast scale and internal diversity of a landmass:
+- *Don't write:* "large landmass" → *Write:* "a continent spanning forty degrees of latitude, its northern reaches locked in permanent ice while its southern coasts bask in tropical heat—a complete world of climates and peoples compressed into one great landmass"
+- *Don't write:* "mountain range" → *Write:* "a spine of mountains running north to south like the raised scales of a dragon's back, dividing the continent into east and west, blocking weather and peoples alike—the great barrier that has shaped history for ten thousand years"
+- *Don't write:* "various regions" → *Write:* "a mosaic of kingdoms and wilderness, each region distinct in character yet connected by rivers that are the continent's veins and roads that are its arteries—the tapestry of civilization and wild places that makes this land"
+
+### Distinctive Feature Ideas for Continents
+- **Scale elements:** weather patterns visible from altitude, mountain ranges as wrinkles, rivers as veins, forests as texture
+- **Climate zones:** the visible gradient from tropical to temperate to arctic, deserts in rain shadows, green coastal strips
+- **Civilization patterns:** clusters of development around coasts and rivers, empty wilderness in mountains and deep forest
+- **Coastline drama:** peninsulas reaching into the sea, protected bays, the particular shape that makes navigation possible
+- **Historical weight:** the sense that this land has seen the rise and fall of empires, that the geography has shaped history
+
 ### Continental Map View
+The continent from above, showing scale, diversity, and the geography that shapes civilization.
+
 **Template:**
-> Aerial view of fantasy continent [name], showing [major geographic features - mountain ranges, forests, deserts, rivers]. [Climate variation visible from tropical to temperate to arctic]. [Coastlines and surrounding seas]. [Scale suggesting vast distances]. Satellite-style perspective with artistic enhancement. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy cartography illustration.
+> [Continent name with character—e.g., "Valdoria, the Old World, cradle of civilization and graveyard of empires"]. [Aerial perspective—e.g., "viewed from high atmosphere, the continent's shape visible in its entirety—a great landmass stretching from arctic ice to tropical jungles, its bulk commanding the eastern hemisphere"]. [Major geographic features—e.g., "the Ironwall Mountains visible as a wrinkled ridge dividing east from west; the Great Forest a vast green shadow covering the northeast; the Burning Wastes a tan scar in the rain shadow of the southern peaks; the river systems branching like veins of silver"]. [Climate zones—e.g., "the color gradation visible from space—white ice in the far north, deep green boreal forest, the lighter green of temperate farmland, tan of dry steppes, the distinctive palette of each climate"]. [Coastlines—e.g., "the western coast jagged with fjords and peninsulas, the eastern coast smoother with river deltas building new land into the sea; island chains curving away like disconnected pieces of the mainland"]. [Weather visible—e.g., "a storm system over the central plains, its spiral visible from altitude, clouds casting shadows over kingdoms; clear skies over the southern deserts, the haze of humidity over the tropical regions"]. [Civilization marks—e.g., "the cleared land of the central kingdoms visible as a different texture, roads just visible as faint lines connecting clustered settlements, the darkness of deep wilderness where no one lives"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on landscapes and atmospheric effects, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy continental overview illustration" or "Fantasy world map aerial view illustration"].
 
 **Prompt:**
 
 
 ### Iconic Landscape
+A representative vista showing the continent's character in a single view.
+
 **Template:**
-> Sweeping vista of [specific region] in [continent name]. [Dominant terrain feature - mountains, plains, forest]. [Civilization visible - distant cities, roads, farmland]. [Atmospheric conditions - weather, time of day]. [Scale showing vastness]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy landscape illustration.
+> [Specific region representing continental character—e.g., "the heartland of Valdoria, where the great kingdoms rose and the continent's identity was forged"]. [Sweeping vista—e.g., "a view from the High Ridge looking west, showing a hundred miles of the continent's most settled lands—the patchwork of farms in the valleys, the walled towns on their hills, the dark line of the Great Forest on the northern horizon"]. [Terrain variety—e.g., "rolling hills in the foreground giving way to broad river valleys, distant mountains blue with distance, the terrain demonstrating why this land became the heart of civilization—water and soil and shelter"]. [Civilization visible—e.g., "the smoke of a dozen towns visible in the middle distance, the thread of the King's Road connecting them, ships visible on the river below, the marks of ten thousand years of human habitation"]. [Natural features—e.g., "the ancient forest on the northern hills, dark and brooding, never fully tamed; the glint of lakes in the valley bottoms; the distant silver thread of the great river heading for the sea"]. [Weather and light—e.g., "afternoon light making the landscape glow, long shadows beginning to creep from the eastern hills, scattered clouds dropping shadows that move across the farmland, the particular golden quality of late summer"]. [Scale—e.g., "the vastness suggested by the way detail fades into blue distance, the horizon perhaps fifty miles away, the sense that this is just one view of a land that stretches far beyond sight in every direction"]. [Atmosphere—e.g., "the settled quality of old country, land that has been worked and loved and fought over for ages, the layers of history visible in the ruins on hilltops and the roads that follow paths older than memory"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on landscapes and atmospheric effects, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy heartland panorama illustration" or "Fantasy civilization landscape illustration"].
 
 **Prompt:**
 

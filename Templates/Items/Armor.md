@@ -178,28 +178,41 @@ List 2-3 adventure opportunities connected to this armor:
 
 ### Guidelines
 When generating AI art for this armor, include:
-- **Armor Type:** Specific armor form and coverage
-- **Materials:** Metal type, leather, cloth accents
-- **Craftsmanship:** Level of detail and quality
-- **Condition:** New, battle-worn, ancient, restored
-- **Magical Elements:** Glows, runes, ethereal effects (if magical)
-- **Display:** On stand, worn, or environmental context
-- **Lighting:** Dramatic lighting emphasizing form and detail
+- **Survival history:** The dents, repairs, and replaced sections that tell of battles survived and blows turned
+- **Body memory:** How the armor has shaped itself to its wearers, the articulation that allows movement, the fit that becomes personal
+- **Forge tradition:** The techniques visible in the construction—whether gothic fluting, eastern lamellar, or dwarven riveting
+- **Status expression:** The quality and decoration that reveal the wearer's rank, wealth, and identity
+- **Functional beauty:** Form following function—each curve deflecting blows, each gap allowing movement, the engineering of survival
+- **Material authenticity:** The specific metals, leathers, and textiles that define origin and purpose
+
+### Armor Integration (Armor Is Survival Made Wearable)
+Every element should express the armor's protective purpose and the lives it has preserved:
+- *Don't write:* "ornate plate armor" → *Write:* "plate armor forged for a duke's champion, the steel curved and fluted in the fashion of the southern kingdoms, each surface angled to deflect lance and sword, the breastplate still bearing the crater where a warhammer's blow was spread across enough surface to bruise rather than kill—the man lived, and the armor's imperfection became his house's proudest possession"
+- *Don't write:* "old chainmail" → *Write:* "mail that has been passed down through four generations of the town guard, the original rings visible at the shoulders where stress is lowest, patched with newer links at the belly and arms where past wearers took wounds, each repair a different shade of steel telling the history of the armorer's art over eighty years"
+- *Don't write:* "magical armor on display" → *Write:* "the champion's harness displayed on an oak stand, the steel seeming to breathe with residual enchantment, the blessed runes along the gorget glowing faintly in darkness as if the armor still watches for threats—displayed but not retired, ready to walk to war again at the kingdom's need"
+
+### Distinctive Feature Ideas for Armor
+- **Combat archaeology:** The dents, replaced plates, and repair work that map a suit's battlefield history
+- **Wear patterns:** The polished points where sword belts rubbed, the scratches from mounting horses, the evidence of daily use
+- **Articulation engineering:** How the pieces fit together, the sliding rivets and leather points that allow movement within protection
+- **Heraldic identity:** The devices, colors, and symbols that identify faction and rank
+- **Magical integration:** For enchanted armor, the way protection manifests—runes that glow when danger approaches, steel that doesn't quite behave like normal metal
+- **Personal customization:** The modifications made for specific wearers—thickened plates over vital organs, accommodations for old wounds
 
 ### Full Armor (Display)
-Complete armor shown on stand or mannequin, emphasizing form and craftsmanship.
+Complete armor shown on stand, revealing its construction, history, and purpose.
 
 **Template:**
-> Full view of [armor type] displayed on armored stand, [material description], [craftsmanship level]. [Main body description - cuirass, plates, mail]. [Pauldrons and arm protection]. [Leg protection]. [Helmet if included]. [Decorative elements - engravings, heraldry, inlays]. [Condition - pristine, battle-worn, ancient]. [Magical effects if applicable - glowing runes, ethereal aura]. Dark background with [dramatic lighting]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on metal, leather, fabric, and materials, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy armor illustration.
+> [Armor with identity—e.g., "the ceremonial plate of the Knight-Commander, worn by seven leaders of the Order across two centuries of crusade, now displayed in the chapter house where it awaits the next worthy champion"]. [Construction tradition—e.g., "forged in the grand style of the southern armories, the plates fitted with such precision that a blade finds no gap larger than a fingernail, the surfaces fluted in waves that channel blows away from the vital core"]. [History evidence—e.g., "the breastplate bearing three distinct craters where killing blows were turned to bruises, the left pauldron replaced entirely after whatever broke the original—the newer steel slightly brighter despite a century of polishing to match"]. [Decorative elements—e.g., "the Order's sunburst picked out in gold at the chest, the rivets finished as tiny suns, the gorget engraved with prayers in a script no longer read except by the eldest brothers"]. [Condition—e.g., "maintained by generations of squires who treat the work as holy duty, every surface oiled, every buckle supple, every strap replaced before it could fail—ready to be worn in an hour's need"]. [Display context—e.g., "mounted on an oak stand shaped like a kneeling knight, positioned so the morning light through the chapel windows strikes the breastplate as if in blessing, the empty helmet seeming to watch the doorway"]. [Magical elements if applicable—e.g., "the wards still active after two centuries, the air around the armor carrying a faint warmth and the smell of incense that no one remembers burning"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on metal, leather, fabric, and materials, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy ceremonial plate armor illustration" or "Fantasy knight armor display"].
 
 **Prompt:**
 
 
 ### Worn View
-Armor shown worn by figure, emphasizing fit and movement.
+Armor shown in use, emphasizing how it moves, protects, and identifies its wearer.
 
 **Template:**
-> [Armor type] worn by [figure description - armored knight, warrior, etc.], [material visible], [craftsmanship evident]. [How it fits and moves]. [Heroic or battle-ready pose]. [Environmental context - battlefield, throne room, armory]. [Lighting emphasizing metallic surfaces]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on metal, leather, fabric, and materials, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy armored figure.
+> [Armor in action context—e.g., "the Knight-Commander in full harness, standing at the chapter house doors as the morning light catches the steel he has earned the right to wear"]. [How it fits—e.g., "the armor shaped to his body over two years of wear, moving with him rather than despite him, the articulation at shoulder and elbow allowing the full range of his sword arm while protecting every joint"]. [Movement evidence—e.g., "captured in the moment between stances, the weight of the steel evident in how he plants his feet, the plates shifting against each other with the soft music of well-fitted armor"]. [Identity expression—e.g., "the Order's sunburst blazing on his chest, the commander's gold trim at helm and pauldron, the personal device of his house on the shield that completes the harness"]. [Environmental context—e.g., "the chapter house behind him with its banners of fallen brothers, the morning mist still clinging to the courtyard stones, the light catching each surface differently—polished steel, oiled leather, wool padding visible at the joints"]. [Battle readiness—e.g., "his hand resting on his sword hilt, the gauntlet fitting as naturally as his own skin, the stance of a man who has survived enough battles to know the weight is worth bearing"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on metal, leather, fabric, and materials, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy knight in armor illustration" or "Fantasy armored warrior portrait"].
 
 **Prompt:**
 

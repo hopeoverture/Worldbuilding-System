@@ -106,9 +106,16 @@ Lord Commander Stone-Fist has asked [[Stahlburg]] for reinforcements. With the s
 
 ## Image Prompts
 
-### Exterior
+### Art Style
+**Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate architectural and environmental detail, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition.**
+
+### Exterior (Wide Shot)
 **Prompt:**
-> Wide shot of Grimhold, a fortress spanning a mountain gap. Massive walls 60 feet high connect two keeps built into sheer cliff faces. The Greycrown Gap stretches beyond, a narrow pass between snow-capped peaks. Watch fires burn in tower windows. Soldiers patrol the walls, cloaks snapping in the wind. Snow lies on every surface. The fortress is gray stone, weathered and ancient, built for war and ready for it. The atmosphere is grim, watchful, cold. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, 8K quality. Fantasy mountain fortress.
+> Wide shot of Grimhold, a fortress spanning a mountain gap. Massive walls 60 feet high connect two keeps built into sheer cliff faces. The Greycrown Gap stretches beyond, a narrow pass between snow-capped peaks. Watch fires burn in tower windows. Soldiers patrol the walls, cloaks snapping in the wind. Snow lies on every surface. The fortress is gray stone, weathered and ancient, built for war and ready for it. The atmosphere is grim, watchful, cold. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy mountain fortress illustration.
+
+### The Hall of Shields
+**Prompt:**
+> Interior of the Hall of Shields within Grimhold, where fallen defenders are honored. A long stone hall lined with shields mounted on the walls—hundreds of them, dating back centuries, each bearing the personal heraldry of a soldier who died defending the Gap. The shields are organized by era, older ones faded and battle-scarred near the entrance, newer ones still bearing bright paint closer to the end. One section has been expanded recently, with too many new shields bearing recent dates. Torch light flickers across the memorial. Lord Commander Stone-Fist stands before the newest additions, his stone prosthetic hand resting on his sword hilt. The ceiling is vaulted stone, carved with the names of battles won. Cold mountain air seeps through arrow slits. The atmosphere of solemn duty and mounting dread—more shields than usual means something is wrong in the mountains. Hyper-realistic digital art, photorealistic rendering, torch-lit cinematic lighting, rich textures, intricate detail on shield heraldry, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy memorial hall illustration.
 
 ## Connections
 

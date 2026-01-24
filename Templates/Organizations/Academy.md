@@ -437,16 +437,43 @@ Describe in 2-3 sentences the academy's present status and challenges.
 ### Art Style
 **Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on academic architecture and scholarly elements, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition.**
 
+### Guidelines
+When generating AI art for this academy, include:
+- **Accumulated wisdom:** Architecture that speaks of centuries of learning, libraries visible, the physical infrastructure of knowledge
+- **Institutional weight:** Buildings designed to inspire seriousness, to make students feel part of something larger and older
+- **Knowledge in practice:** Students learning, professors teaching, the active process of education rather than empty halls
+- **Hierarchy of learning:** Faculty distinguished from students, senior students from junior, the ranks of academic progress visible
+- **Subject evidence:** The tools and products of the disciplines taught—specimens, equipment, practice areas
+- **Tradition markers:** Academic robes, institutional symbols, the ceremonies and customs that bind generations of scholars
+
+### Academy Integration (Academies Are Knowledge Made Institution)
+Every element should express the academy's role in shaping minds and preserving wisdom:
+- *Don't write:* "stone buildings" → *Write:* "halls of grey stone that have housed scholars for four centuries, each building added in a different generation's style yet somehow harmonious, ivy climbing walls where famous philosophers once walked, the architecture suggesting that knowledge is worth building temples to house it"
+- *Don't write:* "students in robes" → *Write:* "students in the academy's colors—junior year in plain black, seniors in black with silver trim, graduates who've earned their hood wearing the colored lining that marks their specialty, the simple visual system that lets everyone know at a glance who has earned what"
+- *Don't write:* "professor at a desk" → *Write:* "the master lecturing from a podium worn smooth by three generations of scholars, the portrait of the academy's founder watching from behind, the blackboard covered in diagrams that would mean nothing to the uninitiated but are the week's examination material for terrified students"
+
+### Distinctive Feature Ideas for Academies
+- **Architectural hierarchy:** The library largest and most elaborate, faculty offices in the historic buildings, student housing practical
+- **Learning visible:** Classrooms in session visible through windows, students practicing in courtyards, the activity of education
+- **Institutional symbols:** The academy seal, the colors, the motto carved in stone, the identifying marks of belonging
+- **Knowledge infrastructure:** Libraries, laboratories, practice halls, the specialized spaces different subjects require
+- **Temporal markers:** The bell that calls classes, the academic calendar, the rhythm of terms and examinations
+- **Achievement display:** Honor rolls, famous alumni memorialized, the prizes and recognitions that motivate ambition
+
 ### Campus View
+The academy as a whole—the community of learning in its physical form.
+
 **Template:**
-> [Academy name] campus, [architectural style] buildings arranged around [central feature - quad, courtyard, tower]. [Students and faculty in academic attire]. [Academic atmosphere - books, magical effects, training activities as appropriate]. [Time of day and weather]. [Grounds and landscaping]. [Sense of history and prestige]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on academic architecture and scholarly elements, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy academy illustration.
+> [Academy in context—e.g., "the Arcane Academy of Highthrone, where the kingdom's mages have been trained since the Mage-King's founding grant three centuries ago"]. [Architectural character—e.g., "a cluster of towers and halls on the hill above the city, the grey stone of the original buildings ringed by newer construction in styles spanning generations, the great library dome rising above all else, the whole enclosed by walls that are as much tradition as defense"]. [Central gathering space—e.g., "the Grand Quad at the academy's heart, where five paths converge beneath the ancient oak that tradition says the founder planted, its branches spreading to shade the benches where students study in good weather"]. [Educational activity—e.g., "students crossing between classes in their ranked robes, a master leading a group toward the practice fields, an examination in progress visible through the lecture hall windows, the busy industry of minds being shaped"]. [Institutional markers—e.g., "the academy banner flying from the library tower, the seal carved above the main gate, the colors of black and silver appearing on robes and bags and the ribbons of junior students not yet entitled to hoods"]. [Atmosphere—e.g., "autumn morning with mist burning off the lower city, the leaves beginning to turn, the particular energy of term beginning when everything seems possible"]. [Supporting detail—e.g., "the statue of the founder in the quad's center, arm raised as if still teaching, pigeons on his head that students take as good luck to disturb; the notice board covered with announcements for clubs and lectures and warnings about examination conduct"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on academic architecture and scholarly elements, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy magic academy campus illustration" or "Fantasy university establishing shot"].
 
 **Prompt:**
 
 
 ### Lecture Hall
+The classroom where knowledge passes from master to student—the academy's fundamental transaction.
+
 **Template:**
-> Interior of lecture hall at [academy name], [professor teaching subject] to [student composition]. [Room features - tiered seating, demonstration area, blackboard/magical displays]. [Subject-specific elements - specimens, magical apparatus, weapons, instruments]. [Lighting through tall windows or magical sources]. [Academic atmosphere of learning and discovery]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy classroom illustration.
+> [Classroom with character—e.g., "Lecture Hall Three, where the Academy's most famous course in elemental theory has been taught for a century, by masters whose portraits watch from the walls"]. [Physical space—e.g., "a semicircular chamber with tiered seating rising to the back, the seats polished by generations of student posteriors, the desks before them carved with initials and notes and the doodles of the bored—a palimpsest of academic generations"]. [The teaching focus—e.g., "the master's podium at the chamber's focus, raised so every student can see, the demonstration table before it equipped with arcane apparatus, the blackboard behind covered in equations and diagrams in the master's distinctive hand"]. [Subject evidence—e.g., "for an elemental theory class: a summoning circle inlaid in the floor before the podium, specimen containers along the walls holding bound elementals for demonstration, the smell of ozone and the taste of magic in the air"]. [The lecture in progress—e.g., "the master in mid-explanation, hands shaping invisible forces, a contained flame dancing on the demonstration table to illustrate the point, students leaning forward or scribbling notes or—in the back row—trying to stay awake"]. [Light and atmosphere—e.g., "tall windows providing light for note-taking, the magical apparatus providing its own illumination, dust motes visible in the light shafts like a visible measure of how long the hall has been in use"]. [Academic character—e.g., "the particular tension of minds engaged with difficult material, the occasional spark of understanding lighting a face, the master's voice echoing in a chamber designed for it"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on academic architecture and scholarly elements, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy magic academy lecture illustration" or "Fantasy arcane classroom scene"].
 
 **Prompt:**
 

@@ -96,6 +96,19 @@ Serenzia's neutrality is strained. Representatives of all factions have "summer 
 
 3. **Lady Viola's Truth:** The poet's latest work names names. Before it can be published, she's vanished. Finding her reveals a conspiracy.
 
+## Image Prompts
+
+### Art Style
+**Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate architectural and environmental detail, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition.**
+
+### Exterior (Wide Shot)
+**Prompt:**
+> Wide establishing shot of Serenzia, the Jewel of the Hills, an elegant cultural town spread across terraced hillsides covered in vineyards. No walls confine this refined settlement—the town flows organically across multiple hills, connected by shaded paths and cypress-lined roads. Elegant villas and townhouses in cream and terracotta rise among gardens and grape terraces. The Theatre of Masks crowns one hill, its classical architecture gleaming white. The Sereni Academy occupies another, its courtyards visible from afar. Artists' studios with large windows dot the hillsides. Striped vineyard rows cover every available slope, the famous Serenzia grapes ripening in afternoon sun. Mediterranean warmth, golden hour light, the atmosphere of refined beauty and cultivated leisure. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy wine country town illustration.
+
+### The Theatre of Masks
+**Prompt:**
+> The Theatre of Masks in Serenzia during an evening performance. A classical open-air amphitheatre carved into the hillside, semicircular rows of marble seats rising to hold hundreds of spectators. The stage below features elaborate scenery and masked performers mid-act—a play about politics veiled as mythology. Torches and oil lamps illuminate the performance as the last light fades from the sky. Well-dressed nobles and wealthy merchants fill the seats, their faction colors carefully neutral for this cultural ground. Vineyards visible on surrounding hills beyond the theatre's rim. The Sereni Academy visible in the background, its windows glowing with candlelight. The atmosphere of high culture amid political tension—art as the one neutral language in a divided kingdom. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate architectural detail, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy theatre illustration.
+
 ## Connections
 
 ### Geography

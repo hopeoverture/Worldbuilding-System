@@ -108,3 +108,16 @@ The guild has not declared for any faction. [[Grimhild the Smith|Grimhild]] main
 ### Organizations
 - **Patron House:** [[House Thorne]]
 - **Clients:** All noble houses
+
+## Image Prompts
+
+### Art Style
+**Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on forge equipment and metalwork, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition.**
+
+### The Forges of Hammerhall
+**Prompt:**
+> The great forge hall at Hammerhall, heart of the Forgemasters Guild and the realm's weapon production. A massive stone hall built into the mountainside, its ceiling lost in smoke and heat shimmer. Dozens of forges line the walls, each tended by master smiths and their apprentices, the ring of hammer on anvil creating a constant rhythm. Waterwheels visible through high windows power trip hammers and bellows. Grimhild the Smith works at the central forge—the largest and oldest—her powerful arms swinging a hammer despite her advanced age, sparks cascading from white-hot steel. Journeymen carry finished blades to quenching troughs while apprentices pump bellows and stack ingots. Racks of completed weapons line one wall: swords, axes, polearms, each bearing the Forgemaster mark. The heat is visible in the air, sweat glistening on bare arms and leather-aproned chests. Iron chandeliers hold candles for the detailed work, but most light comes from the forges themselves—orange and white in the dim hall. The atmosphere of honest labor, ancient craft, and the power that comes from arming armies. Hyper-realistic digital art, photorealistic rendering, forge-fire lighting, rich textures, intricate detail on smithing equipment and craftwork, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy forge hall illustration.
+
+### Grimhild's Masterwork
+**Prompt:**
+> Grimhild the Smith presenting a completed commission to a Thorne knight in her private forge at Grimhold. The legendary forgemaster stands beside her anvil, holding up a longsword that catches the firelight—the blade shows the distinctive wave pattern of her folded steel, the edge so keen it seems to cut the light itself. Grimhild is elderly but unbowed, her arms corded with muscle, her face weathered but proud, silver hair bound back from the heat. Her leather apron bears burns from fifty years at the forge. The knight examines the blade with reverence, knowing he holds a weapon that will outlast him by centuries. The private forge is smaller than the guild halls but more personal: tools arranged with care, failed experiments in a barrel, a shrine to the Smith aspect of the Three above the door. On the wall, examples of her greatest works: blades commissioned by three generations of House Thorne. Through the window, the waterwheels of the Stahlfluss turn endlessly. The atmosphere of craft perfected over a lifetime, of weapons that become legends. Hyper-realistic digital art, photorealistic rendering, warm forge lighting, rich textures, intricate detail on master smith and legendary weapon, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy master smith illustration.

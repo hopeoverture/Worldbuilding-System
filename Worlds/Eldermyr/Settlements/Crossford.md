@@ -126,9 +126,16 @@ Commander of the town watch, a veteran who fought in [[The Great War]]. He's see
 
 ## Image Prompts
 
-### Exterior
+### Art Style
+**Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate architectural and environmental detail, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition.**
+
+### Exterior (Wide Shot)
 **Prompt:**
-> Wide shot of Crossford, a bustling market town at the junction of three major roads. Three bridges span a wide river. The central Market Square is packed with stalls and crowds. Roads stretch in four directions, lined with inns and warehouses. Medieval architecture in warm stone and timber. Banners and flags mark different districts. Carts and wagons crowd the roads. The atmosphere is busy, prosperous, and slightly nervous. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, 8K quality. Fantasy market town.
+> Wide shot of Crossford, a bustling market town at the junction of three major roads. Three bridges span a wide river. The central Market Square is packed with stalls and crowds. Roads stretch in four directions, lined with inns and warehouses. Medieval architecture in warm stone and timber. Banners and flags mark different districts. Carts and wagons crowd the roads. The atmosphere is busy, prosperous, and slightly nervous. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy market town illustration.
+
+### The Four Corners Inn
+**Prompt:**
+> Interior of The Four Corners inn in Crossford, the famous establishment at the exact junction of the roads. A large common room where merchants from all four directions gather—their different regional clothing and trade goods visible. The innkeeper mediates between tables of faction representatives in color-coded attire who pretend not to be negotiating. Maps of the kingdom's trade routes hang on the walls. Windows show each of the four roads visible through different panes. A roaring fireplace, wooden beams blackened with age, candles on every table. The atmosphere of neutral ground in dangerous times—where deals are struck and enemies share meals. Hyper-realistic digital art, photorealistic rendering, warm interior cinematic lighting, rich textures, intricate detail on regional costumes and trade goods, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy inn interior illustration.
 
 ## Connections
 

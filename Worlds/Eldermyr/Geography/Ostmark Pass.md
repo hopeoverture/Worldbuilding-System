@@ -105,3 +105,16 @@ The most dangerous time—melting snow causes floods and rockslides. Even the fo
 ### History
 - **Purpose:** Border defense since [[House Thorne]] was granted [[The Eastern March]]
 - **Never Fallen:** Unique in Eldermyr's fortifications
+
+## Image Prompts
+
+### Art Style
+**Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on mountain terrain and fortifications, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition.**
+
+### Pass Vista
+**Prompt:**
+> Ostmark Pass cutting through the formidable Ostmark Range, the only route wide enough for armies to cross. Sheer granite cliffs rising thousands of feet on either side, the pass narrowing dramatically toward the distant Gates. The fortified road winding up through switchbacks, watch towers visible at regular intervals along the climb. Snow on the peaks above even in summer, clouds catching on the high crags. The pass rising toward its summit at nearly 8,000 feet. A patrol of House Thorne soldiers visible on the road, their banners marking the realm's eastern border. The sense of strategic importance—whoever holds this pass holds Eldermyr's back door. Hyper-realistic digital art, photorealistic rendering, dramatic mountain lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy mountain pass illustration.
+
+### The Gate Fortress
+**Prompt:**
+> The Gate Fortress at the narrowest point of Ostmark Pass, massive walls stretching from cliff to cliff across a gap barely 100 feet wide. The Iron Gates themselves are closed—enormous iron-reinforced doors that have sealed the pass only three times in history. Multiple levels of defense visible: murder holes in the cliffs above, arrow slits in the walls, catapults on the towers. House Thorne banners flying from the battlements. The road ends here for those without permission; beyond the gates, the eastern lands are visible as a hazy promise of the unknown. A merchant caravan waits at the gate, being inspected before passage is granted. The sense of impregnability—no army has ever forced these gates. Hyper-realistic digital art, photorealistic rendering, dramatic afternoon lighting, rich textures, intricate detail on fortress architecture and mountain setting, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy mountain fortress illustration.

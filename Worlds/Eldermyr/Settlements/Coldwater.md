@@ -264,9 +264,16 @@ Coldwater finds itself strategically important as both Thorne and royal forces m
 
 ## Image Prompts
 
+### Art Style
+**Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate architectural and environmental detail, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition.**
+
 ### Exterior (Wide Shot)
 **Prompt:**
-Wide establishing shot of Coldwater, a frontier mountain town clinging to a rocky shelf at 4,500 feet elevation. Stone buildings with steep slate roofs clustered along a single main street. The town backed by sheer cliffs, with the Greycrown Mountains rising dramatically behind. A glacial stream running through the center, crossed by stone bridges. Stone walls encircling three sides. Wagon yards on the lower end, the trail climbing toward snowy peaks on the upper end. Late afternoon golden light, patches of snow, wood smoke rising from chimneys. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, dramatic atmosphere, 8K quality. Fantasy mountain town illustration.
+> Wide establishing shot of Coldwater, a frontier mountain town clinging to a rocky shelf at 4,500 feet elevation. Stone buildings with steep slate roofs clustered along a single main street. The town backed by sheer cliffs, with the Greycrown Mountains rising dramatically behind. A glacial stream running through the center, crossed by stone bridges. Stone walls encircling three sides. Wagon yards on the lower end, the trail climbing toward snowy peaks on the upper end. Late afternoon golden light, patches of snow, wood smoke rising from chimneys. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy mountain town illustration.
+
+### The Last Hearth at Evening
+**Prompt:**
+> Interior of The Last Hearth inn in Coldwater on a cold evening, the warm heart of civilization's last outpost before the mountain wilds. A large common room with a massive stone fireplace roaring with heat, the only true warmth for miles. Travelers of all types crowd the room—wealthy merchants in fine cloaks, grizzled mountain guides in fur and leather, dwarf miners speaking in low voices, a goliath trader towering above the crowd. Mira Firebrand the innkeeper moves between tables, knowing everyone's business while keeping everyone's secrets. Steam rises from bowls of stew. Maps of the pass routes are pinned to walls, routes marked in different colors. Through frost-covered windows, the last light of day catches distant peaks. The atmosphere of frontier hospitality—where tomorrow's survival depends on tonight's planning. Hyper-realistic digital art, photorealistic rendering, warm interior cinematic lighting contrasted with cold window light, rich textures, intricate detail on diverse patrons and mountain gear, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy frontier inn illustration.
 
 ## Connections
 

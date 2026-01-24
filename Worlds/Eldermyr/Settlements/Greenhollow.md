@@ -230,9 +230,16 @@ The village prospers but worries grow. The succession crisis has disrupted wool 
 
 ## Image Prompts
 
+### Art Style
+**Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate architectural and environmental detail, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition.**
+
 ### Exterior (Wide Shot)
 **Prompt:**
-Wide establishing shot of Greenhollow, a small pastoral village nestled in a sheltered valley between gentle green hills. Twenty rustic thatched-roof cottages clustered around a central stone well. A larger Meeting Hall with smoke rising from its chimney. Stone sheep pens at the village edges. Rolling grasslands dotted with grazing sheep on surrounding hills. Standing stones visible on the hilltop above. Late afternoon golden light, peaceful atmosphere, wildflowers in the meadows. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, 8K quality. Fantasy village landscape.
+> Wide establishing shot of Greenhollow, a small pastoral village nestled in a sheltered valley between gentle green hills. Twenty rustic thatched-roof cottages clustered around a central stone well. A larger Meeting Hall with smoke rising from its chimney. Stone sheep pens at the village edges. Rolling grasslands dotted with grazing sheep on surrounding hills. Standing stones visible on the hilltop above. Late afternoon golden light, peaceful atmosphere, wildflowers in the meadows. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy village landscape illustration.
+
+### The Standing Stones at Moonrise
+**Prompt:**
+> The Standing Stones above Greenhollow at moonrise, the ancient stone circle that predates human settlement humming with mysterious power. Seven weathered stones arranged in a circle on the hilltop, their surfaces carved with spiraling patterns worn smooth by millennia. The full moon rises behind the tallest stone, casting long shadows across the grass. Offerings left by villagers rest at each stone's base—ribbons, small carvings, pouches of herbs. The stones themselves seem to glow faintly from within, a subtle luminescence that shouldn't exist. Below, the lights of Greenhollow twinkle in the valley, peaceful and unaware. At the edges of the circle, the air seems to shimmer—a hint of something else, somewhere else, visible only in peripheral vision. The atmosphere of ancient mystery awakening—the boundary between worlds growing thin. Hyper-realistic digital art, photorealistic rendering, moonlit cinematic lighting, rich textures, mystical atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy standing stones illustration.
 
 ## Connections
 

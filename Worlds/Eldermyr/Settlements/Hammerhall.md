@@ -124,9 +124,16 @@ A talented young smith, perhaps [[Grimhild the Smith|Grimhild]]'s eventual succe
 
 ## Image Prompts
 
-### Exterior
+### Art Style
+**Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate architectural and environmental detail, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition.**
+
+### Exterior (Wide Shot)
 **Prompt:**
-> Wide shot of Hammerhall, an industrial town at the base of Iron Falls. A thundering waterfall two hundred feet high powers dozens of waterwheels. Smoke and steam rise from forge buildings along the river. The town climbs the valley sides in tiers—workshops, housing, the Guild Hall crowning the upper level. Sparks visible from open forges. The Stahlfluss River runs swift and cold from the falls. Mountain peaks rise behind. The constant activity of an industrial center dedicated to steel. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, 8K quality. Fantasy forge town.
+> Wide shot of Hammerhall, an industrial town at the base of Iron Falls. A thundering waterfall two hundred feet high powers dozens of waterwheels. Smoke and steam rise from forge buildings along the river. The town climbs the valley sides in tiers—workshops, housing, the Guild Hall crowning the upper level. Sparks visible from open forges. The Stahlfluss River runs swift and cold from the falls. Mountain peaks rise behind. The constant activity of an industrial center dedicated to steel. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy forge town illustration.
+
+### The Great Works at Night
+**Prompt:**
+> Interior of the Great Works in Hammerhall at night, twelve massive forges operating in full production. Molten metal glows orange-white in crucibles, casting dancing shadows across soot-blackened walls. Smiths in leather aprons and protective masks work in teams, their faces illuminated by the forge light. The great water-powered hammers strike in rhythmic thunder. Cascades of sparks shower across the workshop floor. Half-finished weapons and armor hang from racks—swords, breastplates, the tools of war. Through high windows, the spray of Iron Falls catches the firelight. The heat is visible as wavering air. Journeymen rush between stations while Master Smiths oversee their work. The atmosphere of industry and craft pushed to its limits—where Eldermyr's finest steel is born in fire and sweat. Hyper-realistic digital art, photorealistic rendering, dramatic fire-lit cinematic lighting, rich textures, intricate detail on smithing equipment, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy forge interior illustration.
 
 ## Connections
 

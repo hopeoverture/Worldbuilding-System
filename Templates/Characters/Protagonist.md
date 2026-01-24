@@ -293,19 +293,50 @@ Describe both internal struggles (fears, doubts, moral dilemmas) and external st
 ### Guidelines
 When generating AI art for this character, include:
 - **Subject:** Species, gender, approximate age, body type
-- **Face:** Key facial features, expression that captures personality
-- **Hair:** Style, length, color, any distinctive elements
+- **Face (CRITICAL for uniqueness):** Be extremely specific with facial features:
+  - *Face shape:* oval, round, square, heart-shaped, angular, long, diamond
+  - *Forehead:* high, low, broad, narrow, prominent brow ridge
+  - *Eyebrows:* thick, thin, arched, straight, bushy, scarred through, feathered
+  - *Eyes:* deep-set, wide-set, hooded, almond-shaped, round, downturned; specific color with variations (e.g., "pale grey with dark limbal rings")
+  - *Nose:* straight, aquiline, button, broad, crooked, hawk-like, upturned, broken
+  - *Cheekbones:* high and prominent, low, sunken, rounded, sharp
+  - *Lips:* full, thin, bow-shaped, asymmetric, scarred
+  - *Chin/Jaw:* strong square jaw, weak chin, pointed, cleft chin, heavy jowls, sharp jawline
+  - *Skin:* complexion, freckles, wrinkles, acne scars, pockmarks, weathered, sun-damaged
+  - *Distinctive marks:* specific scars (location, shape, origin), birthmarks, moles, tattoos, brand marks
+  - *Facial hair:* style, thickness, color, grooming level (if applicable)
+- **Expression:** Specific emotion that reveals personality (determined squint, warm half-smile, haunted gaze, confident smirk)
+- **Hair:** Style, length, color, texture (straight, wavy, curly, coily), any distinctive elements (grey streaks, braids, shaved sections)
 - **Attire:** Clothing style, armor type, signature colors
 - **Pose:** Action or stance that reflects their role (heroic, contemplative, battle-ready)
 - **Equipment:** Visible weapons, shields, magical items, accessories
 - **Setting:** Environment that contextualizes the character (tavern, battlefield, throne room)
 - **Lighting:** Mood lighting (dramatic shadows, warm firelight, ethereal glow)
 
+### Psychology Integration (CRITICAL)
+Every physical feature should reveal character, history, and psychology. Don't just describe WHAT features look like—describe what they SUGGEST about the person:
+- *Don't write:* "thin lips" → *Write:* "thin lips pressed into a habitual line of patience, softening only at the corners when amused"
+- *Don't write:* "blue eyes" → *Write:* "pale blue eyes that hold steady when others look away, the gaze of someone accustomed to hard truths"
+- *Don't write:* "weathered skin" → *Write:* "sun-weathered skin mapped with laugh lines around the eyes and worry lines across the brow—the face of someone who has lived fully in joy and grief"
+- *Don't write:* "broken nose" → *Write:* "a nose broken and reset slightly crooked, worn like a badge from the fight that taught them to never underestimate an opponent"
+
+### Hands Visible (Optional but Recommended)
+For bust portraits, consider including visible hands which reveal character:
+- Work-roughened with specific calluses (sword grip, rope handling, pen calluses)
+- Gestures that reveal personality (open and welcoming, clenched with tension, fingers touching thoughtfully)
+- Details that tell history (scarred knuckles, ink-stained fingers, missing finger, wedding band indent)
+
+### Distinctive Feature Ideas for Protagonists
+- **Eyes that tell their arc:** weary but unbroken, haunted but hopeful, fierce but fair
+- **Marks of experience:** scars from formative events, calluses from their craft, weathering from their journey
+- **Signs of internal conflict:** tension in the jaw from words unsaid, premature grey from burdens carried, smile lines fighting with frown lines
+- **Heroic imperfections:** the broken nose they never had reset, the scar they could have healed but kept as a reminder, asymmetry that makes them real
+
 ### Portrait (Bust)
-Close-up framing from chest up, focusing on face and upper body details.
+Close-up framing from chest up, focusing on face and upper body details. Include hands if they would add character.
 
 **Template:**
-> Portrait bust of a [species] [class], [gender], [age description]. [Facial features and expression]. [Hair description]. Wearing [attire/armor on upper body]. [Head/shoulder pose]. Background: [blurred or simple setting]. [Lighting]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on skin, fabric, metal, and materials, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy character portrait.
+> Portrait bust of a [species] [class], [gender], [specific age with how it manifests—e.g., "thirty-two but appearing older from years on the road" or "young but with eyes that have seen too much"]. [Face shape] face with [forehead type with character—e.g., "high proud forehead bearing a thin scar that vanishes into the hairline"]. [Eyebrow description with expression—e.g., "dark eyebrows, the left one bisected by an old wound, often furrowed in thought"]. [Eye shape/set with psychology—e.g., "deep-set grey-green eyes that hold steady and thoughtful, the gaze of someone who listens before speaking"]. [Nose type with history—e.g., "a strong straight nose, slightly reddened at the tip from cold nights on watch"]. [Cheekbone description with condition—e.g., "high cheekbones weathered by sun and wind, a farmer's daughter turned warrior"]. [Lip description with habit—e.g., "full lips often pressed together in concentration, quirking at the corner when plans come together"]. [Chin/jaw with character—e.g., "a determined jaw, strong but not brutish, the jaw of someone who has learned when to fight and when to wait"]. [Skin details: complexion, texture, weathering, with story—e.g., "tan complexion with a spray of freckles across the nose and cheeks, sun-kissed from years traveling open roads"]. [Distinctive marks with origin and meaning—e.g., "a ragged scar running from left temple to cheekbone, earned protecting someone who couldn't protect themselves"]. [Facial hair if applicable with grooming and character]. [Specific expression revealing personality and current emotional state—e.g., "expression of quiet resolve with a hint of weariness, the look of someone who carries heavy responsibilities but hasn't forgotten why they fight"]. [Hair with specific details: "copper-red hair worn long and practical, often escaping a hasty braid, a few grey strands appearing at the temples despite their youth"]. [Hands visible if included—e.g., "hands visible, left resting on sword pommel with sword-caller's calluses, right hand open in a gesture of parley"]. Wearing [detailed attire with condition and meaning—e.g., "well-worn traveling leathers over a faded green tunic, practical rather than impressive, a silver clasp at the throat that was their mother's"]. [Pose with meaning—e.g., "slight forward lean, engaged and ready, neither aggressive nor defensive"]. Background: [setting with atmospheric detail—e.g., "blurred forest edge at golden hour, suggesting a journey about to begin or just ended"]. [Lighting with mood—e.g., "warm afternoon light catching copper highlights in their hair, casting soft shadows that suggest depth and complexity"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on skin, fabric, metal, and materials, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy reluctant hero portrait" or "Fantasy chosen one portrait"].
 
 **Prompt:**
 
@@ -314,7 +345,7 @@ Close-up framing from chest up, focusing on face and upper body details.
 Full figure framing showing complete character, equipment, and stance.
 
 **Template:**
-> Full body portrait of a [species] [class], [gender], [age description], [body type]. [Facial features and expression]. [Hair description]. Wearing [complete attire/armor]. Holding/wielding [equipment]. [Action pose or stance]. Background: [detailed setting]. [Lighting]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on skin, fabric, metal, and materials, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy character illustration.
+> Full body portrait of a [species] [class], [gender], [specific age with manifestation], [body type with character—e.g., "lean and wiry, built for endurance rather than brute strength, moving with the economy of motion that comes from years of training"]. [Face shape] face with [3-4 most distinctive facial features with psychology, condensed—e.g., "sharp observant eyes beneath a scarred brow, a crooked nose worn proudly, and a jaw that sets stubbornly when challenged"]. [Specific expression with story—e.g., "expression of focused determination, the look of someone about to step into danger for someone else's sake"]. [Hair description with movement and condition—e.g., "dark hair pulled back in a warrior's knot, practical and severe, a few strands escaped and whipping in the wind"]. [Skin tone and notable marks—e.g., "bronze skin bearing the pale lines of old wounds, a map of survival"]. Wearing [complete attire with detail and story—e.g., "battered but well-maintained half-plate over dark traveling clothes, the armor showing the marks of many repairs, each dent a story, a faded standard wrapped around one arm as a vow"]. [Equipment with significance—e.g., "longsword in right hand held in a guard position that speaks of training, a battered shield on the left arm bearing a scratched-out noble crest they've renounced"]. [Pose with meaning and movement—e.g., "mid-stride forward, weight committed, the stance of someone who has made their decision and won't turn back"]. Background: [detailed setting with atmosphere—e.g., "burning village behind them, smoke and ash swirling, the orange glow of flames silhouetting their determination"]. [Lighting with drama—e.g., "backlit by fire with face illuminated by the cool light of an approaching dawn, caught between destruction and hope"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on skin, fabric, metal, and materials, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy hero rising moment illustration"].
 
 **Prompt:**
 

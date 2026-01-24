@@ -152,19 +152,35 @@ List 1-2 quick ways they might become useful or interesting:
 **Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on skin, fabric, metal, and materials, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition.**
 
 ### Guidelines
-For background characters, keep image prompts simple and focused:
+For background characters, keep image prompts focused but include 2-3 distinctive facial features:
 - **Subject:** Species, gender, age range, occupation
-- **Face:** Simple expression fitting their demeanor
+- **Face (pick 2-3 distinctive features):** Even minor NPCs need identifying traits:
+  - *One memorable facial feature:* crooked nose, prominent ears, heavy brow, gap-toothed smile, lazy eye
+  - *Face character:* round and friendly, gaunt and tired, ruddy from drink, sun-weathered, careworn
+  - *Distinctive mark:* notable scar, missing tooth, pockmarks, mole, bushy eyebrows
+  - *Expression habit:* perpetual frown, easy smile, squinting suspicion, nervous twitch
+- **Expression:** Simple emotion fitting their demeanor and occupation
 - **Attire:** Work clothes or common garb appropriate to role
 - **Pose:** Doing their job or in a natural idle stance
 - **Setting:** Their workplace or typical location
 - **Lighting:** Natural or appropriate to workplace
 
+### Quick Psychology (Even Minor NPCs Have Stories)
+Even background characters should have features that hint at a life:
+- *Simple version:* "tired eyes from long shifts" rather than just "tired eyes"
+- *Simple version:* "callused hands" → "callused hands permanently curved from holding reins all day"
+- *Simple version:* "gap-toothed smile" → "gap-toothed smile that appears easily and often, the face of someone content with simple pleasures"
+
+### Distinctive Feature Ideas for Background Characters
+- **Single memorable trait:** the serving girl with the birthmark, the guard with the missing ear, the baker with flour perpetually in his beard
+- **Occupation stamp:** squint from sewing, stoop from mining, calluses in specific patterns
+- **Personality in one detail:** the nervous twitch, the easy grin, the suspicious squint at strangers
+
 ### Portrait (Bust)
 Close-up framing from chest up, simple composition for minor NPCs.
 
 **Template:**
-> Portrait bust of a [species] [occupation], [gender], [age range]. [Simple expression fitting demeanor]. [Hair description]. Wearing [common/work attire]. [Natural head pose]. Background: [blurred workplace/location]. Natural lighting. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on skin, fabric, metal, and materials, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy NPC portrait.
+> Portrait bust of a [species] [occupation], [gender], [age range with one detail—e.g., "middle-aged with grey creeping into the temples" or "young but already weathered by farmwork"]. [Face character with one story—e.g., "round friendly face of someone who greets regulars by name" or "gaunt tired face of someone who works double shifts to feed a family"]. [2-3 distinctive features with hints of life—e.g., "a crooked nose reset badly after a tavern brawl years ago, bushy eyebrows that dance expressively, and squinting eyes from years of reading ledgers in candlelight"]. [Skin with occupation—e.g., "sun-weathered complexion with pale circles where a hat usually sits"]. [Simple expression with character—e.g., "expression of patient weariness, ready to take the next order or hear the next complaint"]. [Hair simple—e.g., "dark hair pulled back practically, a few grey strands"]. [Hands if visible with work—e.g., "hands visible, wiping on apron from habit, nails short and clean"]. Wearing [work attire—e.g., "a stained apron over simple homespun, practical and well-mended"]. [Pose—e.g., "slight forward lean of someone always ready to be of service"]. Background: [workplace—e.g., "blurred tavern interior, warm and bustling"]. [Lighting—e.g., "warm firelight from below, suggesting evening service"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on skin, fabric, metal, and materials, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Simple thematic tag—e.g., "Fantasy tavern server portrait" or "Fantasy market vendor portrait"].
 
 **Prompt:**
 
@@ -173,7 +189,7 @@ Close-up framing from chest up, simple composition for minor NPCs.
 Full figure framing showing character at work or in typical pose.
 
 **Template:**
-> Full body portrait of a [species] [occupation], [gender], [age range]. [Simple expression]. [Hair description]. Wearing [common/work attire]. [Doing occupation-related activity or standing naturally]. Background: [workplace/location]. Natural lighting. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on skin, fabric, metal, and materials, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy NPC illustration.
+> Full body portrait of a [species] [occupation], [gender], [age range with life marker]. [Face condensed with 2 memorable features—e.g., "weathered face with a notable scar across the chin and eyes that still hold military alertness"]. [Expression with occupation—e.g., "expression of professional attention, alert to trouble before it starts"]. [Hair simple]. [Body type from work—e.g., "stocky build maintained despite years off the battlefield, old soldier turned watchman"]. Wearing [work attire with detail—e.g., "town watch uniform worn with unconscious pride, boots polished from habit, truncheon at the belt"]. [Activity—e.g., "standing at post with weight shifted to ease an old leg wound, hands clasped behind back"]. Background: [location—e.g., "city gate at dusk, torches being lit, travelers passing"]. [Lighting—e.g., "golden hour light with long shadows, the transition from day to night watch"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on skin, fabric, metal, and materials, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy city watchman illustration"].
 
 **Prompt:**
 

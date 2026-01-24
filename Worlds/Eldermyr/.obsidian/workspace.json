@@ -11,10 +11,14 @@
             "id": "19007aa5fbfd4a1f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Captain Alonzo the Bold.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Captain Alonzo the Bold"
             }
           }
         ]
@@ -178,12 +182,30 @@
   },
   "active": "19007aa5fbfd4a1f",
   "lastOpenFiles": [
-    "Characters/The Mad King.md",
+    "Settlements/Coldwater.md.tmp.41120.1769283802319",
+    "Settlements/Port Corsair.md.tmp.41120.1769283800469",
+    "Settlements/Goldport.md.tmp.41120.1769283798613",
+    "Settlements/Greenhollow.md.tmp.41120.1769283749097",
+    "Settlements/Millford.md.tmp.41120.1769283747226",
+    "Settlements/Volkovka.md.tmp.41120.1769283745398",
+    "Settlements/Grimhold.md.tmp.41120.1769283743581",
+    "Settlements/Hammerhall.md.tmp.41120.1769283741713",
+    "Settlements/Crossford.md.tmp.41120.1769283739654",
+    "Settlements/Ravnograd.md.tmp.41120.1769283652147",
+    "Settlements/Vindrheim.md.tmp.41120.1769283650176",
+    "Characters/High King Aldric II.png",
+    "Characters/High Confessor Maren.png",
+    "Characters/Grimhild the Smith.png",
+    "Characters/Grandmaster Aldric Greymane.png",
+    "Characters/Ser Viktor Thorne.png",
+    "Characters/Ser Konrad Thorne (1).png",
+    "Characters/Ser Aldric Thorne (1).png",
+    "Characters/Aleksei Karath (1).png",
+    "Characters/Edric Valdren.png",
+    "Characters/Captain Alonzo the Bold.png",
+    "Characters/Archmagister Corwin Ashford.md",
     "Characters/Aleksei Karath.md",
-    "World Overview.md",
-    "World Overview.md.tmp.60148.1769183697521",
-    "World Overview.md.tmp.60148.1769183690114",
-    "Items/The Iron Crown.md.tmp.60148.1769183469516",
-    "Settlements/Aldersgate.md.tmp.60148.1769183456259"
+    "Characters/The Mad King.md",
+    "World Overview.md"
   ]
 }

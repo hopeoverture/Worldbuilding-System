@@ -271,20 +271,43 @@ List 4-5 adventure opportunities:
 ### Art Style
 **Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on dark ritual elements and cultist regalia, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition.**
 
+### Guidelines
+When generating AI art for this cult, include:
+- **Transgression visible:** The crossing of normal boundaries, the acts that separate cultists from society, the visual evidence of forbidden practice
+- **Hidden sanctuaries:** Spaces claimed for dark worship, concealed from the mundane world, designed for secrecy
+- **Unnatural elements:** Light that behaves wrongly, shadows that move independently, the visual intrusion of the power served
+- **Devotion corrupted:** The trappings of worship twisted to dark purpose, the parody of legitimate religion
+- **Hierarchy of darkness:** The leader distinguished from followers, the inner circle from the initiates, power structure visible even in transgression
+- **Willing participation:** The choice to embrace darkness, the faces of those who have stepped beyond the pale
+
+### Cult Integration (Cults Are Transgression Made Sacred)
+Every element should express the cult's rejection of normal order and embrace of forbidden power:
+- *Don't write:* "robed figures" → *Write:* "cultists in robes of deepest black, the fabric cut from cloth never touched by sunlight, the hoods pulled low to hide faces that their families believe respectable—each robe bearing the embroidered symbol that can never be unsewn, the mark of commitment that makes return impossible"
+- *Don't write:* "dark altar" → *Write:* "the altar that was once an church's font, stolen decades ago and inverted, its baptismal basin now catching blood instead of water, its carved angels defaced into leering horrors, the transformation a theology in itself—what was holy made profane, what blessed made cursed"
+- *Don't write:* "ritual circle" → *Write:* "the pattern on the floor laid out in blood and ash and substances best not named, the geometry following rules that hurt the eye, the lines that shouldn't connect somehow meeting, the whole design pulsing with a light that casts shadows in the wrong direction"
+
+### Distinctive Feature Ideas for Cults
+- **Transgressive symbolism:** Holy symbols inverted, natural forms corrupted, designs that hurt to look at too long
+- **Hidden depth:** The mundane surface, the secret entrance, the layers of concealment
+- **Unnatural phenomena:** Light that doesn't behave, shadows with independent movement, temperature inversions, smells of elsewhere
+- **Willing corruption:** Faces showing choice rather than compulsion, the serenity of the converted, the zeal of true believers
+- **Ritual infrastructure:** Altars stained by use, circles permanently etched, the equipment of regular dark practice
+- **Power manifestation:** The presence of the patron visible or implied, the thing they serve showing attention
+
 ### Ritual Scene
-Cultists performing dark ritual.
+The cult at their forbidden worship—the moment where mortal meets darkness.
 
 **Template:**
-> Dark ritual scene, [number] robed cultists surrounding [ritual focus - altar, summoning circle, sacrifice]. [Cult symbols and candles]. [Unholy light or dark energy]. [Underground chamber, abandoned temple, forest clearing]. [Ominous atmosphere]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy cult ritual illustration.
+> [Setting with meaning—e.g., "the ritual chamber beneath the abandoned temple, where the cult has practiced for three generations unknown to the city above"]. [Space designed for darkness—e.g., "a chamber that was once a crypt, the stone walls running with moisture that isn't water, the ceiling low enough to force bowing, the only light from candles of black tallow that burn with purple flame"]. [The ritual focus—e.g., "the altar of inverted stone at the chamber's heart, the summoning circle drawn around it in blood renewed at every dark moon, the geometry of the pattern following rules that don't belong to this world—angles that shouldn't connect somehow meeting, lines that seem to move when viewed from the corner of the eye"]. [Cultists arranged—e.g., "thirteen cultists in robes of deepest black, kneeling at the circle's edge, their hoods thrown back to reveal faces that the world above knows as merchants and clerks and one city councilman, their expressions showing the serenity of true believers in the moment of contact"]. [The leader—e.g., "the high priest at the altar's head, arms raised in invocation, the words he speaks in a language that was old when humans were young, his eyes rolled back showing white as the power flows through him"]. [Manifestation—e.g., "above the altar, the darkness gathering into something that might be form, the candle flames bending toward it as if in worship, the shadows of the cultists stretching toward the manifestation like supplicants, the temperature dropping until breath mists"]. [Atmosphere—e.g., "the smell of incense that contains ingredients best not identified, the sound of chanting that harmonizes with something beyond hearing, the particular quality of a moment when the barrier between worlds grows thin"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on dark ritual elements and cultist regalia, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy dark cult ritual illustration" or "Fantasy summoning ceremony scene"].
 
 **Prompt:**
 
 
 ### Cult Symbol
-Hidden symbol or mark.
+The mark that identifies the faithful and claims territory for darkness.
 
 **Template:**
-> [Cult symbol] carved/painted on [surface - stone, flesh, parchment], [design elements - tentacles, eyes, forbidden geometry]. [Blood, dark ink, eldritch glow]. [Partially hidden or recently discovered]. [Ominous lighting]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy cult symbol illustration.
+> [Symbol with weight—e.g., "the mark of the Veiled Eye, the symbol that has identified the cult's members and claimed its territories for five centuries of secret practice"]. [Form and placement—e.g., "carved into the stone lintel of a doorway that leads nowhere the uninitiated can reach, the cuts deep and black-stained, the design half-hidden by shadow and the deliberate overgrowth of ivy encouraged to conceal it"]. [Design elements—e.g., "an eye within a circle of tentacles, the eye vertical like a cat's or a serpent's, the pupil rendered as a doorway through which something peers back, the tentacles numbered thirteen and arranged to suggest both rays of dark light and grasping limbs"]. [Evidence of practice—e.g., "the stone darkened around the symbol where anointing oils have been applied, the carving worn smooth in places where devoted hands have touched it for blessing, fresh blood visible in the deepest grooves from a recent observance"]. [Wrongness—e.g., "the shadow the symbol casts falling in the wrong direction, the eye seeming to follow the viewer's movement, the particular unease of looking at something that looks back"]. [Context—e.g., "moonlight catching the edge of the carving, the rest in shadow, the symbol visible only to those who know where to look and in what way, a gate for the faithful and a warning for the aware"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on carving and eldritch symbolism, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy cult symbol illustration" or "Fantasy eldritch mark close-up"].
 
 **Prompt:**
 

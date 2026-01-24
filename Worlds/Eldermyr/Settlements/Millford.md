@@ -225,9 +225,16 @@ Millford finds itself at the center of Eldermyr's food supply crisis. Lord Thorn
 
 ## Image Prompts
 
+### Art Style
+**Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate architectural and environmental detail, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition.**
+
 ### Exterior (Wide Shot)
 **Prompt:**
-Wide establishing shot of Millford, a prosperous market town on the King's Road. The Millstream River flowing through the center with seventeen watermills lining its banks, their wheels turning. Market Square visible with wagons and trading activity. Wooden palisade walls, stone gatehouse on the King's Road. Grain warehouses and the Great Granary dominating one end of town. Golden wheat fields stretching to the horizon. Late afternoon harvest light, dust in the air, the sense of agricultural abundance. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, dramatic atmosphere, 8K quality. Fantasy market town illustration.
+> Wide establishing shot of Millford, a prosperous market town on the King's Road. The Millstream River flowing through the center with seventeen watermills lining its banks, their wheels turning. Market Square visible with wagons and trading activity. Wooden palisade walls, stone gatehouse on the King's Road. Grain warehouses and the Great Granary dominating one end of town. Golden wheat fields stretching to the horizon. Late afternoon harvest light, dust in the air, the sense of agricultural abundance. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy market town illustration.
+
+### Mill Row at Dawn
+**Prompt:**
+> Street-level view of Mill Row in Millford at dawn, the line of seventeen watermills along the Millstream beginning their day's work. The great wooden waterwheels turn in sequence, their splashing creating a rhythmic backdrop. Grain carts queue at the mills, farmers waiting to have their harvest processed. Mill workers in flour-dusted aprons haul sacks between buildings. The constant rumble of grinding stones is visible in the vibration of the air. Steam and dust rise from the mill buildings. The Millstream rushes past, its power harnessed completely by the wheels. The Great Granary looms at the end of the row, already receiving the first of the day's processed grain. Golden morning light catches the dust, giving everything a warm glow. The atmosphere of agricultural industry—the essential work that feeds the kingdom. Hyper-realistic digital art, photorealistic rendering, golden morning cinematic lighting, rich textures, intricate detail on mill architecture and workers, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy mill district illustration.
 
 ## Connections
 

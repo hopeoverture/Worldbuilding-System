@@ -604,28 +604,41 @@ List 5 things people whisper about (mix true and false):
 
 ### Guidelines
 When generating AI art for this city, include:
-- **Setting Type:** Major fantasy city, urban center
-- **Architecture:** Grand buildings, varied districts, towers and spires
-- **Atmosphere:** Busy, complex, layered
-- **Activity:** Crowds, commerce, daily urban life
-- **Features:** Walls, landmarks, distinct districts visible
-- **Scale:** Convey the size and importance
-- **Lighting:** Dramatic lighting emphasizing grandeur or mood
+- **Scale indicators:** Tiny figures against massive architecture, distant districts fading to haze, ships like toys in the harbor
+- **Social layering:** Wealthy spires rising above working-class density, slums pressed against walls, districts with distinct character
+- **Living city signs:** Smoke from a thousand chimneys, laundry lines between buildings, market canopies, construction scaffolding
+- **History visible:** Older construction at the core, newer expansions beyond, buildings from different eras side by side
+- **Commerce everywhere:** Carts in the streets, ships at dock, market squares visible from above, goods being moved
+- **Defensive posture:** Walls showing repair and reinforcement, towers at strategic points, gates controlling access
+- **Atmospheric depth:** Haze at distance, light catching smoke and dust, weather affecting visibility
+
+### City Integration (Cities Are Living Organisms)
+Every architectural and environmental element should suggest the city's history, economy, and character:
+- *Don't write:* "city walls" → *Write:* "walls that have grown with the city over centuries—the ancient inner ring of dark stone barely visible between newer buildings, the outer walls of pale limestone still showing the quarry marks of their recent construction, towers every hundred paces where guards walk patterns unchanged since the founding"
+- *Don't write:* "crowded streets" → *Write:* "streets that have forgotten the sky—upper floors jutting out until neighbors could shake hands across the gap, the cobblestones worn smooth by ten thousand daily footsteps, the air thick with the smell of a hundred trades and the sound of commerce in a dozen languages"
+- *Don't write:* "grand buildings" → *Write:* "temples and palaces rising above the common rooftops like mountains above foothills, their spires catching the light while the streets below lie in shadow, each dome and tower a statement of wealth and power visible for miles"
+
+### Distinctive Feature Ideas for Cities
+- **Skyline variety:** Temple domes, castle towers, guild hall spires, chimney smoke, crane gantries at harbors, bell towers competing for height
+- **District character:** Color-coded neighborhoods (red tile roofs vs. grey slate), wealthy areas with gardens visible, industrial smoke over craftsman quarters
+- **Water features:** Rivers dividing the city, bridges of various ages and styles, harbors with forests of masts, canals threading between buildings
+- **Defense layers:** Multiple wall rings showing city growth, fortified gates, military districts near danger, citadels on high ground
+- **Life signs:** Washing on lines, market umbrellas, smoke rising, carts in motion, ships at anchor, animals in streets
 
 ### Exterior (Wide Shot)
-Establishing shot showing the full city from distance or aerial view.
+Establishing shot showing the full city from distance or elevated position, conveying scale, complexity, and character.
 
 **Template:**
-> Wide establishing shot of a grand medieval fantasy city, [wall and fortification description], sprawling [district types] visible. [Prominent landmarks - towers, temples, palaces] rising above the rooftops. [Surrounding landscape - river, hills, plains]. [Weather/atmosphere - clear, misty, dramatic clouds]. [Time of day lighting - golden hour, dramatic sunset, morning mist]. Scale showing thousands of buildings. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate architectural and environmental detail, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Epic fantasy cityscape.
+> Vast panorama of [city name with character—e.g., "Thronehold, the seat of seven kingdoms, where empires have risen and fallen for a thousand years"]. [Wall description with history—e.g., "three rings of walls marking three centuries of expansion, the inner ring of black basalt barely visible between ancient buildings, the middle ring of grey granite patched and reinforced a hundred times, the outer ring of pale limestone still fresh from the quarry"]. [Skyline variety—e.g., "the great cathedral dome rising above all else, flanked by the twin towers of the royal palace and the hundred spires of the noble quarter; guild halls with their guild symbols in gilded iron; the great lighthouse at the harbor mouth still burning though the sun has set"]. [District character—e.g., "the wealthy districts on the hills with their garden terraces and white marble, the merchant quarter along the river dense with warehouses and cranes, the craftsman districts trailing smoke from a thousand forges, the slums pressed against the outer walls in a maze of wooden construction"]. [Commerce and activity—e.g., "ships crowding the harbor, their masts a forest of bare timber; market squares visible as open spaces in the urban density; carts streaming through the gates on roads that run straight to the horizon"]. [Surrounding landscape—e.g., "the river curving around the city's northern flank, farmland checkering the hills to the south, the forest a dark line on the eastern horizon"]. [Atmospheric conditions—e.g., "late afternoon light turning the western walls to gold while the eastern districts fall into shadow, smoke drifting east on the sea breeze, haze softening the distant towers"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate architectural and environmental detail, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy capital city panorama illustration" or "Fantasy metropolis establishing shot"].
 
 **Prompt:**
 
 
 ### Interior (Street Level)
-Ground-level view of a major square, market, or landmark area.
+Ground-level view immersed in the city's life—a major square, market, or landmark area showing human-scale interaction.
 
 **Template:**
-> Street-level view of [specific district/location] in a grand fantasy city. [Architectural style] buildings [height and details]. [Central feature - fountain, statue, market stalls, temple steps]. [Population - crowds, merchants, guards, nobles]. [Activity and commerce]. [Street details - cobblestones, drainage, carts]. [Atmospheric elements - shadows, light rays, dust motes, banners]. [Time of day lighting]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate architectural and environmental detail, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy city street scene.
+> [Location with specifics—e.g., "the Grand Market of Thronehold, where half the world's goods change hands before noon"]. [Architectural framing—e.g., "guild halls five stories tall lining the square, their facades a competition of carved stonework and gilded signs, the upper floors connected by covered bridges where guild masters can watch the trading below without descending to the common level"]. [Central feature—e.g., "the great fountain at the square's heart, a bronze sea serpent spouting water that catches the light, merchants using its rim as informal banking tables, children splashing in defiance of their nurses"]. [Population layers—e.g., "every class visible in a single glance—nobles in sedan chairs pushing through the crowd, merchants in fur-trimmed robes haggling over samples, common folk buying the day's bread, beggars working the edges, a squad of city watch trying to look alert"]. [Commerce detail—e.g., "stalls of colorful canvas selling everything from southern spices to northern furs, a slave auction drawing a crowd at the eastern end, wine merchants rolling barrels to a waiting cart, a fishmonger shouting prices that echo off the stone"]. [Street texture—e.g., "cobblestones worn smooth in the center, rougher at the edges, the gutters running with the morning's wash water, cart ruts marking the main thoroughfare, horse droppings that a street boy sweeps for copper"]. [Atmospheric elements—e.g., "light shafting between the buildings in golden rays, dust and pollen visible in the beams, shadows sharp where awnings block the sun, the smell of a hundred foods and trades implied in the visual chaos"]. [Time and activity—e.g., "mid-morning at the market's peak, the crowd dense enough that movement requires negotiation, the din of haggling and calling and argument"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate architectural and environmental detail, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy city market scene illustration" or "Fantasy urban street life illustration"].
 
 **Prompt:**
 

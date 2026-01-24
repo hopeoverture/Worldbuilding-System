@@ -86,6 +86,19 @@ The realm's greatest tracker, missing one eye from a wolf attack in her youth. S
 
 2. **[[The Arcane Academy]] Scandal:** A cadet has died under mysterious circumstances. His father demands answers—but [[The Arcane Academy]] has secrets it would kill to keep.
 
+## Image Prompts
+
+### Art Style
+**Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate architectural and environmental detail, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition.**
+
+### Exterior (Wide Shot)
+**Prompt:**
+> Wide establishing shot of Wolfsberg, a highland fortress-town perched on a rocky plateau overlooking the Eastern March moors. The Wolf Keep dominates the center—stern gray stone towers decorated with wolf skulls at the gates. The town cascades down the mountainside in defensive terraces, stone buildings with steep slate roofs designed to shed heavy snow. The War Academy visible below the keep, its training grounds active with drilling soldiers. Highland moors stretch to the horizon in shades of purple heather and brown grass. The Ostmark Range rises behind, snow-capped peaks against a dramatic sky. Smoke from smithies and cookfires. Watch fires burning on the plateau's edge. The atmosphere of military discipline and highland hardiness—a town that breeds warriors. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy highland fortress town illustration.
+
+### The Huntsman's Lodge
+**Prompt:**
+> Interior of the Huntsman's Lodge tavern in Wolfsberg on a winter evening. A massive stone fireplace dominates one wall, its fire roaring constantly against the highland cold. The walls are covered with hunting trophies—wolf pelts, boar tusks, a great stag's antlers, the skull of something monstrous from the mountains. Rough wooden tables filled with soldiers, hunters, and Academy cadets drinking ale and swapping stories. A grizzled huntmaster holds court in the corner, telling tales of legendary hunts. Weapons hung on pegs near the door—every patron armed. Snow visible through frost-covered windows. The smell of roasted meat and wood smoke. The atmosphere of warrior camaraderie and highland tradition—where reputations are made over firelight and ale. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on trophies and interior, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy tavern interior illustration.
+
 ## Connections
 
 ### Geography

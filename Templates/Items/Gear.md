@@ -138,28 +138,41 @@ List 1-2 adventure opportunities connected to this item:
 
 ### Guidelines
 When generating AI art for this gear, include:
-- **Item Type:** Specific form and function
-- **Materials:** What it's made from
-- **Craftsmanship:** Quality and style
-- **Condition:** New, used, weathered, ancient
-- **Magical Elements:** Visual effects if magical
-- **Context:** In use, displayed, or environmental
-- **Lighting:** Appropriate to item and setting
+- **Function in form:** The design shaped by purpose—every feature serving the item's intended use
+- **Use evidence:** The wear patterns, handling marks, and modifications from actual application
+- **Material honesty:** Authentic textures of metal, leather, wood, and cloth showing their true nature
+- **Craft identity:** The techniques and traditions visible in construction—who made it and how
+- **Context clues:** The environment where this gear belongs, the hands that would use it
+- **Practical beauty:** The aesthetics that emerge from well-designed function rather than decoration
+
+### Gear Integration (Gear Is Function Made Portable)
+Every element should express the item's purpose and the hands that rely on it:
+- *Don't write:* "thieves' tools" → *Write:* "a lockpick set wrapped in oiled leather that's darker where nervous fingers have gripped it, the picks graduated in size and shape for every lock from rusty padlocks to noble strongboxes, each tool worn to the hand of its owner, the case designed to unroll silently—no metal on metal, no clink to betray"
+- *Don't write:* "climbing gear" → *Write:* "a mountaineer's kit assembled over years of vertical work, the rope frayed at the ends where it's been cut after too many catches, the pitons showing the hammer-marks of a hundred placements, the carabiners polished bright from use—gear that's saved a life often enough that its owner checks it with the reverence of someone who knows the cost of failure"
+- *Don't write:* "healer's kit" → *Write:* "a field surgeon's bag that's smelled blood on three continents, the leather stained with things that don't wash out, the bandages rolled precisely because precision saves time when time saves lives, the instruments worn to a particular grip after ten thousand stitches—the bag of someone who's learned to work with what they carry and has chosen each item for reasons that cost someone to learn"
+
+### Distinctive Feature Ideas for Gear
+- **Use archaeology:** The wear patterns that map how the item is held, carried, and operated
+- **Purpose engineering:** Every feature serving function, the elegance of well-solved problems
+- **Owner customization:** Modifications, personalizations, and adaptations for specific needs
+- **Material aging:** How different substances respond to use—metal polishing, leather softening, wood smoothing
+- **Professional markers:** The signs of someone who uses this equipment seriously rather than occasionally
+- **Storage solution:** How the item is carried, protected, and kept ready for use
 
 ### Item Portrait
-Clear view of the complete item showing form and detail.
+The gear revealed—craftsmanship and purpose unified.
 
 **Template:**
-> Detailed view of a [item type], [material description], [craftsmanship level]. [Form and structure]. [Decorative elements or markings]. [Condition - new, well-used, weathered]. [Magical effects if applicable]. Displayed on [surface/background]. [Warm/dramatic lighting]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on materials and craftsmanship, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy equipment illustration.
+> [Gear with identity—e.g., "the navigator's instruments that have crossed every sea the kingdom touches, the tools that turned a fishing captain's son into the most sought-after pilot on the trading routes"]. [Form and materials—e.g., "the astrolabe of brass that's been polished by decades of use until the engraved markings are shallow, the compass in its gimbaled case, the charts rolled in their waterproof tube, the dividers worn to fit one specific hand—each piece essential, nothing carried that isn't used"]. [Craftsmanship—e.g., "the astrolabe made by the instrument-makers of the Imperial Academy, its precision proven by successful landfalls across thirty years, the compass a replacement for one lost in the wreck that taught the navigator to always have two, the whole kit speaking of accumulated expertise"]. [Use evidence—e.g., "the brass worn bright at the holding points, the compass glass scratched from a hundred readings in bad light, the chart tube dented where it caught a falling spar, the dividers' points replaced twice because accuracy matters—the marks of gear that works for a living"]. [Condition—e.g., "maintained with the obsessive care of someone whose life depends on accuracy, every surface clean, every mechanism oiled, the wear of use but not of neglect"]. [Setting—e.g., "laid out on a chart table for use, the harbor visible through the cabin window, the particular order of a navigator preparing for departure"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on materials and craftsmanship, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy navigator's instruments illustration" or "Fantasy professional toolkit portrait"].
 
 **Prompt:**
 
 
 ### In Use
-Item shown being used or in its typical context.
+The gear in action—function fulfilled, skill applied.
 
 **Template:**
-> [Item type] being used by [figure/hands], [material visible], [action being performed]. [Environmental context - workshop, dungeon, camp, tavern]. [Activity details]. [Lighting appropriate to setting]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on materials and craftsmanship, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy gear in use.
+> [Gear being used—e.g., "the navigator taking a sighting at dawn, the astrolabe raised against the rising sun, the skill of thirty years visible in how he holds the instrument steady despite the ship's motion"]. [Action—e.g., "the navigator's arms braced against the rail, one eye sighting through the astrolabe's apertures, the other checking the horizon, his lips moving as he counts the altitude—a routine performed so often it's become meditation"]. [Context—e.g., "the deck around him showing the morning's activity, sailors at their work but quiet while the navigator takes his reading, the importance of this moment acknowledged by everyone who depends on accurate position"]. [Gear in operation—e.g., "the astrolabe catching the light, the sunlight glinting from the brass, the engraved scale visible as he adjusts for the sun's position, the precision of the instrument matched by the precision of use"]. [Environmental interaction—e.g., "the sea calm enough for accurate reading, the horizon clear, the sun just high enough for proper measurement, conditions the navigator has waited for since before dawn"]. [Atmosphere—e.g., "the particular concentration of someone doing something that matters, the expertise visible in every motion, the quiet competence of a professional at work"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on materials and craftsmanship, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy navigator at work illustration" or "Fantasy sailing profession scene"].
 
 **Prompt:**
 

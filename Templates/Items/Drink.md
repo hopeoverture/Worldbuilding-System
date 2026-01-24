@@ -165,27 +165,41 @@ List 1-2 adventure opportunities connected to this drink:
 
 ### Guidelines
 When generating AI art for this drink, include:
-- **Drink Type:** Specific beverage and color
-- **Vessel:** Mug, goblet, bottle, glass type
-- **Visual Properties:** Clarity, foam, condensation
-- **Setting:** Tavern, feast, market, cellar
-- **Lighting:** Warm tavern light, dramatic
-- **Atmosphere:** Social or solitary context
+- **Liquid character:** The color, clarity, and movement that identify the beverage—wine's legs, ale's foam, spirit's stillness
+- **Vessel tradition:** The container matching the drink's culture and class—pewter tankards for common ale, crystal for noble wine
+- **Temperature evidence:** Condensation on cold glasses, steam from hot drinks, the visual cues of proper serving temperature
+- **Light interaction:** How the beverage catches, filters, or glows with illumination—the ruby depths of wine, the golden transparency of mead
+- **Production echoes:** Hints of what made this drink—grape varieties, brewing traditions, distillation artistry
+- **Social context:** The setting and company appropriate to the beverage—tavern conviviality, noble formality, solitary contemplation
+
+### Drink Integration (Drinks Are Craft Made Liquid)
+Every element should express the beverage's character, origin, and the pleasure it offers:
+- *Don't write:* "mug of ale" → *Write:* "a tankard of the local ale—dark as autumn earth and crowned with foam the color of fresh cream, the bubbles still rising through the murky depths, condensation beading on the pewter that's been polished by ten thousand hands before this one—the foam carrying the smell of the barley fields that surround the village"
+- *Don't write:* "glass of wine" → *Write:* "wine from the southern vineyards in a goblet of cut crystal, the red so deep it's nearly black until the light catches it, then ruby flames dance in its depths—the legs running slow down the glass speaking of sugar and strength, the perfume of oak and blackberry rising from the surface, the vessel worth more than a year of common wages"
+- *Don't write:* "cup of tea" → *Write:* "the ritual tea of the mountain monasteries, served in the cups that have held a thousand meditations, the liquid the green of new leaves in spring, steam carrying the scent of the high gardens where monks tend the bushes between prayers—served without word, received with a bow, drunk in the silence that makes contemplation possible"
+
+### Distinctive Feature Ideas for Drinks
+- **Surface behavior:** Foam persistence, wine legs, the still surface of strong spirits
+- **Color depth:** How light penetrates or is stopped, the gradients visible in the glass
+- **Vessel personality:** The drinking container as cultural artifact—its material, shape, and wear
+- **Temperature markers:** Condensation, steam, the fog of chilled glass
+- **Pour aftermath:** The residue on the rim, the settling bubbles, the evidence of recent filling
+- **Social evidence:** Multiple glasses, the toast in progress, the communal nature of drinking
 
 ### Served Drink
-Drink as it would be served, emphasizing the beverage and vessel.
+The beverage presented—liquid craft awaiting enjoyment.
 
 **Template:**
-> [Drink type] in [vessel type], [liquid color and clarity]. [Foam/head if applicable]. [Condensation or temperature indicators]. [Light passing through liquid]. On [surface - wooden bar, tavern table, silver tray]. [Background elements - other drinks, tavern atmosphere]. [Warm lighting]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on liquid and glass, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy drink illustration.
+> [Drink with identity—e.g., "the Black Stout of Ironhold, the ale that's sustained dwarven miners for centuries and become legendary among travelers who've earned the right to drink in their halls"]. [Liquid character—e.g., "dark as the mine shafts it's brewed beside, the foam thick enough to leave a mustache on any drinker, the body so heavy it barely moves when the tankard's set down—bubbles rising slowly through the opacity like copper sparks in darkness"]. [Vessel—e.g., "served in the traditional iron tankard that's as much weapon as drinking vessel, the rim dented by being slammed down after dwarven toasts, the handle shaped for a grip that's equally comfortable holding a hammer or a drink"]. [Temperature and service—e.g., "drawn fresh from the cask, the temperature of the deep caves where it's stored, condensation forming on the iron in the warmer human tavern, the foam still settling from the pour"]. [Light interaction—e.g., "candlelight unable to penetrate the darkness of the liquid but catching the foam in gold, the wet sides of the tankard gleaming, the small pool of condensation forming on the worn bar"]. [Setting—e.g., "the tankard resting on a bar that's heard a thousand drinking songs, the barkeep's cloth nearby, other drinkers' vessels visible at the edges of frame—the particular warmth of a tavern where strangers become friends over shared cups"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on liquid and glass, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy dwarven ale illustration" or "Fantasy tavern drink portrait"].
 
 **Prompt:**
 
 
 ### Context Shot
-Drink shown in its social or production context.
+The drink in its world—social ritual made liquid.
 
 **Template:**
-> [Drink type] shown in [context - busy tavern, feast, brewery, cellar]. [Multiple glasses/bottles, people drinking or toasting]. [Cultural indicators - decor, barrels, brewing equipment]. [Activity and atmosphere]. [Lighting appropriate to setting]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on liquid and glass, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy tavern/drinking scene.
+> [Drink in social context—e.g., "the evening toast at the Valdren harvest festival, when the year's first pressing is shared by everyone from lord to laborer in a tradition older than the current dynasty"]. [The scene—e.g., "the great hall filled with the entire estate, long tables running its length, the lord's family at the high table with the same wine in the same goblets as the farmhands below, the particular democracy of harvest celebration"]. [The drink—e.g., "the new wine bright and young, almost pink, not yet the deep red it will become with age—tradition demands it be drunk now, imperfect and promising, a celebration of potential rather than achievement"]. [The toast in progress—e.g., "goblets raised throughout the hall, the lord standing with his raised, the words of the traditional blessing rolling across a room that's heard them for twenty generations, the moment before everyone drinks together"]. [Cultural elements—e.g., "servants refilling from the huge casks rolled in for this night, children with their watered portions, the musicians paused to allow the blessing, the decorations of harvest—wheat sheaves and grape clusters—festooning the stone walls"]. [Atmosphere—e.g., "firelight and candlelight catching hundreds of raised glasses, the particular anticipation of the moment, the sound of the blessing's final words echoing in stone, the intake of breath before collective drinking"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on liquid and glass, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy harvest toast illustration" or "Fantasy medieval feast drinking scene"].
 
 **Prompt:**
 

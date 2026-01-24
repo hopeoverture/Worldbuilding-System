@@ -119,3 +119,16 @@ While the houses circle each other, the dead rise in [[The Ashen Fields]]. [[Hig
 
 ### Items
 - **Inherited:** [[The Iron Crown]] (unclaimed)
+
+## Image Prompts
+
+### Art Style
+**Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on royal chambers and mourning scenes, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition.**
+
+### The Discovery
+**Prompt:**
+> The royal bedchamber at dawn, moments after the discovery of High King Aldric II's death. The elderly king lies still and peaceful in his great bed, the covers barely disturbed, his face showing no pain—as if he simply decided not to wake. Morning light streams through tall windows, catching motes of dust in the air. The king's valet stands frozen at the bedside, hand still reaching toward his master, face a mask of dawning horror. The chamber itself speaks of a careful, ordered life: maps of Eldermyr on the walls, correspondence neatly stacked, the crown that should have passed to his heir sitting on its velvet cushion. A half-empty wine cup sits on the bedside table—the same cup Lady Serana served him the night before. The atmosphere of a realm's fate changing in a single, silent moment. Hyper-realistic digital art, photorealistic rendering, dawn lighting, rich textures, intricate detail on royal furnishings and the moment of discovery, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy royal death scene illustration.
+
+### The Funeral Procession
+**Prompt:**
+> The funeral procession for High King Aldric II through the streets of Aldersgate, a solemn parade marking the end of an era. The king's body lies on a draped bier carried by armored guards, the Iron Crown resting on a cushion beside him—unclaimed, its future uncertain. Behind the bier walks Lord Varic Valdren in regent's black, his face a mask of appropriate grief hiding calculating eyes. Lady Margret Thorne follows in mourning armor, barely concealing her fury. The young heir Edric Valdren walks between factions, a boy caught in the middle of a gathering storm. Crowds line the streets in genuine mourning—Aldric was not loved, but he was stability. Priests of the Three walk alongside, chanting the rites of passage. The Great Temple rises in the background where the interment will take place. Banners hang at half-staff. The bells toll. The atmosphere of a kingdom holding its breath, knowing that when the mourning ends, the fighting will begin. Hyper-realistic digital art, photorealistic rendering, overcast day lighting, rich textures, intricate detail on funeral ceremony and political tension, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy royal funeral illustration.

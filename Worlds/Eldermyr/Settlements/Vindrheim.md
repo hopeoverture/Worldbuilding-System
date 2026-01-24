@@ -118,6 +118,19 @@ Just outside town, a sacred grove where [[The Spirit-Speakers]] perform their ri
 ### The Frozen Tankard
 The largest tavern in town, famous for its mead and as a gathering place for traders and adventurers.
 
+## Image Prompts
+
+### Art Style
+**Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate architectural and environmental detail, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition.**
+
+### Exterior (Wide Shot)
+**Prompt:**
+> Wide establishing shot of Vindrheim, the largest trading hub in the Northlands, built where the Vindra River meets the Northern Way road. The town spreads across both river banks, connected by an ancient stone bridge of unknown origin—its massive stones weathered but unmoved for centuries. Great wooden longhouses with turf roofs cluster in the Old Town on the west bank. The Market Quarter on the east bank bustles with warehouses and trading stalls. Dense pine forests crowd close on three sides, their dark green providing dramatic contrast with the town's warm timber buildings. The Vindra River runs swift and cold, ice still clinging to its edges in spring. Wood smoke rises from a hundred chimneys. Northern lights shimmer faintly in the twilight sky. The atmosphere of a frontier town where civilization meets the deep forest—the last major settlement before the true wilderness. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy northern trading town illustration.
+
+### The Spirit Grove at Dusk
+**Prompt:**
+> The Spirit Grove outside Vindrheim at dusk, the sacred site where Spirit-Speakers commune with ancestors. Ancient pine trees form a natural circle around a clearing, their trunks wrapped with offerings—ribbons, carved tokens, small pouches of herbs. A standing stone carved with spiraling patterns marks the center, worn smooth by centuries of touch. Spirit-Speaker Thora Windwhisper kneels before the stone, her gray hair unbound, her eyes closed in trance. Candles and small oil lamps flicker around the clearing's edge, placed by those seeking guidance from ancestors. The last light filters through pine branches. The forest is utterly still—even the wind has ceased, as if nature itself holds its breath. Faint luminous shapes hover at the clearing's edge, visible only in peripheral vision. The atmosphere of ancient mystery and connection to the dead—the Old Ways that persist despite the New Faith's dominance. Hyper-realistic digital art, photorealistic rendering, twilight cinematic lighting, rich textures, dramatic mystical atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy sacred grove illustration.
+
 ## Connections
 
 ### Geography

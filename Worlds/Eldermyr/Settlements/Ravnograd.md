@@ -106,6 +106,19 @@ Sealed and guarded, the gate facing [[The Ashen Fields]]. No one opens it. Somet
 ### Mayor Borislav's House
 The largest building still occupied, where the mayor pretends to govern while waiting for orders from [[Chernogrod]].
 
+## Image Prompts
+
+### Art Style
+**Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate architectural and environmental detail, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition.**
+
+### Exterior (Wide Shot)
+**Prompt:**
+> Wide establishing shot of Ravnograd, a dying trade town at the junction of roads that no longer carry traffic. Once-grand stone buildings now stand half-empty, their windows dark, their facades stained by years of neglect. The great market square that once bustled with thousands now sees only a handful of vendors selling what little they have. Weeds grow between cobblestones. The eastern quarter stands visibly abandoned—roofs collapsed, doors hanging open, a district evacuated as the curse from the Ashen Fields crept closer. Fallow fields surround the town, the soil gray and exhausted. The sky is overcast with that perpetual gray that afflicts all the Karath Reach. A few figures move through the streets—the old, the stubborn, the trapped. The sealed Eastern Gate is visible, bricked up against whatever comes from the blighted lands beyond. The atmosphere of a town slowly dying, too proud or too poor to flee. Hyper-realistic digital art, photorealistic rendering, overcast cinematic lighting, rich textures, dramatic atmosphere of decay, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy dying town illustration.
+
+### The Temple of Sorrows
+**Prompt:**
+> Interior of the Temple of Sorrows in Ravnograd, where the Faith of the Three has become a religion of mourning. The temple's interior is dim, lit only by countless votive candles placed for the dead—hundreds of small flames flickering in the darkness. The priest performs a funeral service before a small congregation dressed in black, their faces hollow with grief and hardship. Black cloth drapes every surface. The altar that once celebrated life now bears only symbols of death—the Chronicler's aspect dominates where once all Three were equal. Memorial plaques cover the walls—names of the dead from villages that no longer exist, farms consumed by the curse, families destroyed by the war before it. The stained glass windows depict scenes that once seemed hopeful; now they look like warnings. The atmosphere of a faith strained to breaking, of prayers that seem to go unanswered, of a community united only by shared loss. Hyper-realistic digital art, photorealistic rendering, candlelit cinematic lighting, rich textures, dramatic atmosphere of grief, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy mourning temple illustration.
+
 ## Connections
 
 ### Geography

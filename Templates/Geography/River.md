@@ -319,16 +319,35 @@ Famous inhabitants:
 ### Art Style
 **Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on water and reflections, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition.**
 
+### Guidelines
+When generating AI art for this river, include:
+- **Water Character:** Flow speed, turbulence, clarity, color
+- **Reflections:** Sky, banks, vegetation mirrored in water
+- **Banks:** Vegetation type, erosion patterns, human use
+- **Activity:** Boats, fishing, washing, wildlife
+- **Light on water:** Time of day effects, sparkle, shadows
+- **Atmosphere:** Mist, spray, humidity effects
+
+### Water Integration (Rivers Are Living Things)
+Every feature should suggest the river's character and importance:
+- *Don't write:* "flowing water" → *Write:* "water moving with patient power, the surface smooth in the center but troubled at the edges where roots and rocks intrude, the current revealing its strength only in the subtle swirls and eddies that speak of depth"
+- *Don't write:* "green banks" → *Write:* "banks lush with the abundance that only riverland can produce, willows trailing their fingers in the current, thick reeds where the water slows, the grass noticeably greener where the seasonal floods bring their gift of silt"
+- *Don't write:* "boats on the water" → *Write:* "flat-bottomed river barges riding low with grain from the northern farms, their crews working the long sweep-oars with the easy rhythm of generations, the wakes spreading behind them like momentary signatures on the water"
+
 ### River Vista
+The river in its landscape, showing its character and importance.
+
 **Template:**
-> [River name] flowing through [landscape - valley, plains, forest, canyon]. [Water character - swift and clear, wide and slow, rapids]. [Banks and vegetation]. [Boats or riverside activity if present]. [Time of day lighting reflecting on water]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy river landscape illustration.
+> [River name with character—e.g., "the Silverflow, the great artery of the northern kingdoms"]. [Water description—e.g., "a broad ribbon of dark water perhaps a quarter-mile wide at this point, the surface deceptively smooth but carrying the debris of three kingdoms downstream—the river that has carried trade, invaders, and bodies for a thousand years"]. [Flow character—e.g., "moving with the steady inevitability of something that cannot be stopped, the current visible in the drift of leaves and the trailing of waterweeds, faster in the center where the water runs deepest"]. [Banks with detail—e.g., "the near bank low and marshy, thick with cattails and purple loosestrife, a heron frozen in hunting patience; the far bank higher, a bluff of red clay where the river has cut into older land, the roots of oak trees exposed and reaching"]. [Reflections—e.g., "the afternoon sky reflected in the water, clouds drifting upside-down, the reflection broken by the passage of a river-boat and slowly reforming in its wake"]. [Wildlife or activity—e.g., "a fisherman's skiff anchored in the shallows, its occupant dozing with a line trailing, oblivious to the cormorant watching him from a nearby snag"]. [Landscape context—e.g., "the river valley opening out on either side, rich farmland reclaimed from ancient floodplain, the distant hills marking the edge of the watershed"]. [Time and light—e.g., "golden hour light turning the water to bronze, long shadows stretching from the western bank, the first mist beginning to rise where the air cools above the warmer water"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on water and reflections, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy great river landscape illustration"].
 
 **Prompt:**
 
 
 ### River Crossing/Settlement
+Human interaction with the river—bridges, towns, commerce.
+
 **Template:**
-> [Bridge, ford, or river town] on [river name]. [Architecture and construction]. [River traffic - boats, fishermen]. [Both banks visible]. [Activity and commerce]. [Atmospheric lighting]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy river settlement illustration.
+> [Location with specifics—e.g., "the ancient stone bridge of Kingsford, standing where three trade roads meet the river"]. [Bridge or crossing—e.g., "seven arches of weathered grey stone, the oldest in the center dating back four centuries, the newer arches on either end added as the river changed course; the roadway worn smooth by a million footsteps, widening at the center where a small chapel clings to the downstream side"]. [River traffic—e.g., "barges waiting their turn at the bridge, queued along the eastern bank; a swift courier-boat threading between them with priority flags flying; fishermen working their nets in the shadow of the arches where the fish gather"]. [Riverside activity—e.g., "on the near bank a fish market in full cry, the catch spread on tables of river-smoothed stone, buyers and sellers haggling in the morning cool; washerwomen working at the steps below, their colored laundry spread on rocks to dry"]. [Both banks—e.g., "the town proper climbing the western hill, red-tiled roofs and white walls catching the sun; the eastern bank lower and more utilitarian, warehouses and shipyards and the smell of tar and fish"]. [Atmosphere—e.g., "the sound of the river ever-present, the rush of water through the arches providing a constant background to all other sounds; gulls wheeling overhead hoping for fishmarket scraps; the particular quality of light that only exists where water meets sky"]. [Lighting—e.g., "morning sun from the east turning the western buildings to gold, the bridge casting a complex shadow on the water below, mist still burning off the surface"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on water and reflections, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy river bridge town illustration"].
 
 **Prompt:**
 

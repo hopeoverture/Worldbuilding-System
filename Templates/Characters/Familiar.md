@@ -362,16 +362,43 @@ Describe in 2-3 sentences the familiar's present situation.
 ### Art Style
 **Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on creature features and magical elements, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition.**
 
-### Portrait
+### Guidelines
+When generating AI art for this familiar, include:
+- **Creature Type:** Specific form with unique identifying features
+- **Size & Proportion:** Scale indicators, unusual proportions that mark them as magical
+- **Coloring & Texture:** Fur, scales, feathers with specific patterns and magical variations
+- **Eyes (CRITICAL for personality):** Intelligent, glowing, unusual color, expressive beyond normal animal
+- **Magical Indicators:** Subtle glow, runic markings, ethereal edges, unusual coloring
+- **Personality Expression:** Body language, ear position, tail carriage, gaze direction
+- **Bond Markers:** Matching symbols with master, shared colors, visible magical connection
+
+### Psychology Integration (Essential for Intelligent Familiars)
+Even creatures communicate personality through physical details:
+- *Don't write:* "intelligent eyes" → *Write:* "amber eyes that hold an understanding far beyond animal intelligence, studying the viewer with assessment and faint amusement—the gaze of a being that has seen centuries and found mortals endlessly fascinating"
+- *Don't write:* "unusual markings" → *Write:* "swirling silver patterns in the dark fur that seem to shift when not watched directly, each pattern echoing the arcane symbols their master traces in spellwork"
+- *Don't write:* "attentive pose" → *Write:* "ears pricked forward with the alertness of a creature that has learned to anticipate their master's needs, head slightly tilted in the way they do when sensing magic nearby"
+
+### Distinctive Feature Ideas for Familiars
+- **Magical origin markers:** fur that shimmers with impossible colors, eyes that reflect stars even indoors, feathers that seem to be made of captured moonlight
+- **Bond manifestations:** a marking that matches the master's birthmark, color that shifts to match the master's mood, faint glow when the master casts spells
+- **Personality in physicality:** the dignified carriage of a proud creature, the mischievous alertness of a trickster, the lazy sprawl of a being that knows it's irreplaceable
+- **Intelligence indicators:** gaze that tracks conversation, expressions that respond to speech, body language that anticipates requests
+- **Otherworldly touches:** edges that blur slightly as if not quite fully in this reality, shadows that don't match light sources, reflections that show their true form
+
+### Portrait (Solo)
+The familiar as an individual, showcasing their unique nature and personality.
+
 **Template:**
-> [Familiar name], [creature type] familiar in [characteristic pose]. [Detailed physical description]. [Magical bond indicators - glow, runes, aura]. [Expression conveying personality]. [Setting appropriate to familiar's nature]. [Lighting emphasizing magical nature]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on creature features and magical elements, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy familiar portrait.
+> [Creature type] familiar, [specific form with variations—e.g., "a sleek black cat of unusual size, more shadow than substance, with proportions slightly too elegant to be mundane"]. [Size with scale—e.g., "larger than a normal cat, about the size of a lynx, with a presence that makes them seem larger still"]. [Coloring with magical elements—e.g., "fur of absolute midnight black that seems to absorb light, scattered with barely visible silver patterns that trace the paths of old spells, shifting subtly when attention wanders"]. [Eyes with intelligence—e.g., "large golden eyes with vertically slit pupils that glow faintly in shadow, holding an ancient knowing amusement—the eyes of something that was old when the world was young and still finds it all entertaining"]. [Physical details with character—e.g., "tall tufted ears that swivel independently to track sounds, long whiskers that twitch at magical residue, tail that moves with deliberate expressiveness rather than animal instinct"]. [Expression with personality—e.g., "regarding the viewer with half-lidded aristocratic assessment, the expression of a creature that might deign to be impressed if given sufficient reason"]. [Magical markers—e.g., "a faint silver glow outlines their form in low light, pawprints leave briefly luminescent traces, the air around them tastes faintly of ozone and old libraries"]. [Pose with character—e.g., "seated in the distinctive Egyptian pose, tail wrapped primly around paws, utterly composed and clearly aware of how impressive they look"]. [Setting—e.g., "perched on a stack of ancient tomes in a wizard's study, claiming the highest point as their rightful throne"]. [Lighting—e.g., "candlelight from multiple sources creating complex shadows, the familiar somehow in the most flattering light as if arranging it themselves"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on creature features and magical elements, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy arcane cat familiar portrait" or "Fantasy fey owl familiar portrait"].
 
 **Prompt:**
 
 
 ### With Master
+The familiar alongside their bonded companion, showing their relationship.
+
 **Template:**
-> [Familiar name] with [master description], showing [bond interaction - perched on shoulder, floating nearby, shared gaze]. [Setting appropriate to their activities]. [Visible magical connection between them]. [Both personalities visible in body language]. [Atmospheric lighting]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy familiar and master illustration.
+> [Familiar type] familiar with [master species/class—e.g., "their elven wizard master"], showing [their bond nature—e.g., "the easy intimacy of decades together, two beings who communicate more in glances than words"]. [Familiar position—e.g., "the cat draped across the wizard's shoulders like a living stole, tail trailing down one arm, head beside the master's ear as if whispering secrets"]. [Master brief description—e.g., "the wizard aged but vital, silver hair and deep blue robes, attention split between an open tome and their familiar's murmured observations"]. [Bond visible—e.g., "faint silver threads of magic visible between them when the light catches right, a matching silver pattern visible on both the cat's forehead and the back of the wizard's hand"]. [Familiar expression—e.g., "the cat's golden eyes focused on something beyond the page, ears pricked toward a sound only they can hear, already alerting their master to approaching visitors"]. [Master response—e.g., "the wizard's hand has paused mid-page-turn, listening to the familiar's warning with absolute trust"]. [Setting—e.g., "a cluttered study tower room at dusk, candles flickering, the last light of sunset through arched windows"]. [Lighting—e.g., "warm candlelight and cool blue dusk creating an intimate atmosphere, the silver of their bond catching the light"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on creature features and magical elements, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy wizard and familiar bond illustration"].
 
 **Prompt:**
 

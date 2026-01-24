@@ -101,3 +101,16 @@ The ancient lighthouse at the Strait's western entrance has guided ships for cen
 
 ### History
 - **Key Role:** [[The Great War]] (blockade against the Mad King)
+
+## Image Prompts
+
+### Art Style
+**Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on water and coastlines, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition.**
+
+### Strait Vista
+**Prompt:**
+> Lo Stretto d'Oro at midday, the narrow Golden Strait cutting between rocky coastlines that control all sea trade to the Western Shore. The famous narrows visible where the passage squeezes to barely half a mile, the fortress city of Porto Valdris rising dramatically on one side with chain towers on either shore ready to seal the passage. Merchant vessels queuing to pay their tolls, Valdren patrol galleys moving between them. The deep blue water catching the Mediterranean sun, whitecaps where currents clash in the narrow channel. Rocky islands of the Valdren chain visible beyond. Golden light reflecting off the gilded domes of Porto Valdris. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy strait chokepoint illustration.
+
+### The Narrows and Chain Towers
+**Prompt:**
+> The Narrows of Lo Stretto d'Oro at dusk, massive chain towers rising on either side of the passage. The towers are ancient stone fortifications bristling with catapults and ballistae, iron chains thick as tree trunks visible descending into the water—ready to rise and seal the strait against any fleet. Porto Valdris's walls climb the cliff behind the eastern tower, Valdren banners catching the sunset wind. A merchant cog passes through the gap, its captain negotiating with a toll boat. The water swirls with dangerous currents in the confined passage. The sense of absolute control—no ship passes without Valdren permission. Hyper-realistic digital art, photorealistic rendering, dramatic sunset lighting, rich textures, intricate detail on fortifications and maritime traffic, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy fortified strait illustration.

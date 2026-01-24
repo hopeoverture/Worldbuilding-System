@@ -274,9 +274,16 @@ Admiral Stormwind keeps the fleet ready and officially neutral in the succession
 
 ## Image Prompts
 
+### Art Style
+**Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate architectural and environmental detail, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition.**
+
 ### Exterior (Wide Shot)
 **Prompt:**
-Wide establishing shot of Port Corsair, a naval fortress-town on a blade-shaped island. A crescent harbor filled with sleek warships—the Golden Fleet at anchor. Dockyards and slipways along the eastern shore, military barracks along the west. A commanding fortress on the headland overlooking the harbor entrance. Functional stone and timber buildings without decoration—everything built for war. Mediterranean waters, late afternoon light glinting on ship brass and catching the golden sails that give the fleet its name. Dramatic atmosphere, smoke from forges and cooking fires. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, 8K quality. Fantasy naval base illustration.
+> Wide establishing shot of Port Corsair, a naval fortress-town on a blade-shaped island. A crescent harbor filled with sleek warships—the Golden Fleet at anchor. Dockyards and slipways along the eastern shore, military barracks along the west. A commanding fortress on the headland overlooking the harbor entrance. Functional stone and timber buildings without decoration—everything built for war. Mediterranean waters, late afternoon light glinting on ship brass and catching the golden sails that give the fleet its name. Dramatic atmosphere, smoke from forges and cooking fires. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy naval base illustration.
+
+### The Admiral's War Room
+**Prompt:**
+> Interior of Stormwatch Keep's war room in Port Corsair, where Admiral Cira Stormwind commands the Golden Fleet. A large octagonal chamber with windows overlooking the harbor, giving clear view of every ship at anchor. A massive table dominates the center, its surface a detailed map of Eldermyr's coastline with carved wooden ship markers indicating fleet positions. Naval charts and tactical diagrams cover the walls. The Admiral stands at the table, her eye-patched face illuminated by afternoon light, studying a recent dispatch. Officers in crisp naval uniform wait for orders. Signal flags hang from rafters, each with specific meaning. Through the windows, the flagship is visible, its golden sails furled. The atmosphere of power and preparation—the nerve center of the kingdom's greatest naval force deciding whether to change history. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on naval equipment and maps, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy command center illustration.
 
 ## Connections
 

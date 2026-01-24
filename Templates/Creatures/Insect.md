@@ -248,27 +248,40 @@ List 2-3 adventure ideas:
 
 ### Guidelines
 When generating AI art for this insect, include:
-- **Scale:** Normal or giant variant
-- **Anatomy:** Accurate insect structure
-- **Surface:** Exoskeleton texture and sheen
-- **Pose:** Natural or threatening
-- **Environment:** Appropriate habitat
-- **Lighting:** Dramatic, showing iridescence or texture
+- **Scale:** Normal or giant variant with scale reference
+- **Anatomy:** Accurate insect structure adapted for fantasy
+- **Surface:** Exoskeleton texture, sheen, and coloration
+- **Pose:** Natural behavior or threatening display
+- **Environment:** Appropriate habitat with atmospheric detail
+- **Lighting:** Dramatic lighting showing iridescence and texture
+
+### Exoskeleton Integration (The Alien Beauty of Insects)
+Insect anatomy should emphasize both the familiar and the strange:
+- *Don't write:* "shiny shell" → *Write:* "chitinous exoskeleton with a deep emerald sheen that shifts to copper at extreme angles, the surface composed of countless microscopic scales that catch light like hammered metal, older plates near the head dulled and scarred from molts and conflicts"
+- *Don't write:* "big eyes" → *Write:* "compound eyes dominating the head, each a hemisphere of thousands of hexagonal lenses arranged in precise organic geometry, each lens catching the light at a slightly different angle creating a constant kaleidoscope shimmer, the eyes too perfectly geometric to seem natural, too alive to seem mechanical"
+- *Don't write:* "six legs" → *Write:* "six jointed legs ending in tarsal hooks, the forward pair adapted for grasping with serrated inner edges, the middle pair thick with jumping muscle visible beneath the plate, the rear pair longer and barbed for defense—each leg moving with the stop-motion precision that makes insects seem to exist at a different speed than the world around them"
+
+### Scale Horror (For Giant Variants)
+When depicting oversized insects, emphasize the wrongness:
+- Details that shouldn't be visible at normal scale now demand attention
+- Sound implied through physical features (wings large enough to feel the beat)
+- Structural elements (the chitin thickness required to support the size)
+- Comparison to familiar objects transformed into something alien
 
 ### Individual Specimen
-Single creature in detail.
+Single creature in detail, showing its alien beauty and threat.
 
 **Template:**
-> [Size] [insect type], [body segment description], [leg count and structure], [wing description if applicable]. [Exoskeleton color and texture - chitinous, iridescent, matte]. [Head details - compound eyes, mandibles, antennae]. [Natural pose in habitat]. [Environmental context]. [Dramatic lighting highlighting exoskeleton]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on exoskeleton, wings, and anatomy, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy insect illustration.
+> [Size with scale—e.g., "a giant beetle the size of a warhorse, legs thick as a man's arm"]. [Insect type with specifics—e.g., "a specimen of the forest-canopy scarab, one of the largest of its ancient species"]. [Body segments with detail—e.g., "the thorax a armored dome of interlocking plates in deep forest green edged with gold, each plate bearing fine ridges that channel water away; the abdomen segmented and flexible, current contracted in a defensive posture, revealing pale membrane at the joints"]. [Head with sensory organs—e.g., "a head dominated by mandibles that could shear through oak branches, the cutting edges polished smooth from use, smaller manipulating palps moving constantly below; compound eyes of deep amber, each lens reflecting a different fragment of the scene, together creating an awareness sphere that misses nothing; antennae as long as the body, each segment articulated, constantly sampling the air for chemical signatures"]. [Legs with function—e.g., "six legs jointed in ways that defy mammalian logic, each segment shining with the same green-gold chitin, the forward legs modified for gripping with hooked tarsi, the rear legs massive with muscle for leaping, all legs bearing small sensory hairs visible as a fuzz along their length"]. [Wings if applicable—e.g., "wing covers raised and back, revealing gossamer flight wings veined like cathedral windows, iridescent membrane catching light in rainbows, folding and preparing for launch"]. [Surface detail—e.g., "exoskeleton gleaming wet from recent rain, each plate edge rimmed with tiny hairs, the whole surface showing the wear of years—scratches from vegetation, repairs from old injuries, the subtle asymmetries of a wild and living thing"]. [Pose—e.g., "caught in display posture atop a fallen log, mandibles spread in territorial warning, wings half-raised, the entire body angled to appear as large as possible—a challenge to all comers"]. [Environment—e.g., "surrounded by jungle canopy, massive leaves and moss-covered branches framing the creature, smaller normal-sized beetles visible in the background for scale"]. [Lighting—e.g., "shafts of sunlight breaking through the canopy, catching the iridescence of the carapace in brilliant flashes, deep shadows beneath the creature emphasizing its mass"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on exoskeleton, wings, and anatomy, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy giant beetle specimen illustration" or "Fantasy armored insect portrait"].
 
 **Prompt:**
 
 
 ### Swarm/Colony
-Multiple creatures or hive structure.
+Multiple creatures or hive structure showing collective behavior.
 
 **Template:**
-> [Swarm/colony of insect type], [mass behavior - flying, crawling, emerging]. [Individual details visible in swarm]. [Environmental context - nest, hive, infested area]. [Atmospheric elements - dust, debris, pheromone haze implied]. [Dramatic lighting - backlit swarm, emerging from darkness]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on exoskeleton, wings, and anatomy, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy swarm illustration.
+> [Swarm type—e.g., "a locust swarm of thousands, the air thick with wings and bodies"]. [Mass behavior with detail—e.g., "the swarm moving as one organism, individual locusts visible at the edges but merging into a single living cloud at the center, constant motion as they jostle and adjust, the sound of wings creating a physical pressure in the air"]. [Individual details visible—e.g., "at the swarm edge where individuals can be tracked: each locust a finger's length, bodies of dusty brown with red warning coloration on the wing-covers, compound eyes gleaming, legs trailing as they fly, jaws working even in flight"]. [Environmental impact—e.g., "below the swarm a field half-stripped, grain stalks standing bare where the leading edge has passed, healthy crops still waiting at the advance, the boundary between life and devastation moving visibly"]. [Colony structure if applicable—e.g., "the hive-mound rising from the forest floor, constructed from chewed wood-pulp in layered architecture, entrance holes sized for the giant wasps that built it, guards visible at major openings, the structure humming with activity that can be felt in the ground"]. [Atmospheric elements—e.g., "dust and chaff rising from the stripped fields, pheromone haze visible as a shimmering in the swarm core, the light itself dimmed by the density of bodies blocking the sun"]. [Lighting—e.g., "the swarm backlit by afternoon sun, each individual outlined in golden light while the mass casts a moving shadow over the land, apocalyptic and beautiful"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on exoskeleton, wings, and anatomy, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy locust plague illustration" or "Fantasy giant wasp hive illustration"].
 
 **Prompt:**
 

@@ -361,19 +361,53 @@ List hidden truths about this antagonist that could change everything:
 ### Guidelines
 When generating AI art for this antagonist, include:
 - **Subject:** Species, gender, approximate age, imposing or unsettling features
-- **Face:** Menacing expression, scars, unnatural eyes, cruel beauty
-- **Hair:** Style that reinforces their aesthetic (wild, slicked, hooded)
+- **Face (CRITICAL for uniqueness):** Be extremely specific with facial features:
+  - *Face shape:* gaunt, angular, cruel symmetry, heavy-jawed, skull-like, aristocratic bone structure
+  - *Forehead:* prominent brow ridge, high and intellectual, scarred, branded
+  - *Eyebrows:* severe arch, thin and cruel, scarred through, perpetually furrowed
+  - *Eyes:* sunken, piercing, unnaturally bright, different colors, scarred around, predatory gaze; specific unnatural details (e.g., "blood-red irises with black sclera," "pale grey with no visible pupils")
+  - *Nose:* hawkish, broken and reset crooked, aristocratic, predatory, flattened
+  - *Cheekbones:* sharp and gaunt, skeletal prominence, asymmetric from old injury
+  - *Lips:* thin and cruel, scarred through, perpetual sneer, unnaturally dark
+  - *Chin/Jaw:* strong square jaw, pointed and weak, pronounced underbite, heavy and brutal
+  - *Skin:* pallid, corpse-like, leathery, unnaturally smooth, veined, rotting patches, burn scars
+  - *Corruption marks:* dark veins, glowing runes, necrotic patches, demonic brands, curse marks
+  - *Distinctive marks:* ritual scars (patterns and meanings), self-inflicted marks, battle wounds, torture scars
+  - *Facial hair:* style reflecting personality (unkempt and wild, meticulously groomed goatee, patchy from burns)
+- **Expression:** Specific menacing emotion (cold calculating stare, cruel amusement, barely contained rage, mad glee)
+- **Hair:** Style that reinforces their aesthetic (wild and unkempt, slicked back, hooded, grey-streaked, unnatural color)
 - **Attire:** Dark/dramatic clothing, sinister armor, symbols of power
 - **Pose:** Threatening stance, seated on throne, mid-attack, looming
 - **Equipment:** Signature weapon, dark artifacts, symbols of authority
 - **Setting:** Lair, battlefield, throne room, place of power
 - **Lighting:** Dramatic shadows, ominous red/purple glow, backlit silhouette
 
+### Psychology Integration (CRITICAL for Villains)
+Every physical feature should reveal the corruption of their ideals, the cost of their choices, and the tragedy or malice at their core:
+- *Don't write:* "cold eyes" → *Write:* "ice-blue eyes that once held warmth, now frozen into calculating stillness—the eyes of someone who stopped seeing people and started seeing obstacles"
+- *Don't write:* "scarred face" → *Write:* "a face mapped with self-inflicted ritual scars, each line placed with deliberate precision, a testament to pain embraced as power"
+- *Don't write:* "thin lips" → *Write:* "thin bloodless lips that have forgotten how to smile without cruelty, curving only when others suffer"
+- *Don't write:* "pale skin" → *Write:* "pallid skin with an unhealthy undertone, the complexion of someone who has spent years in darkness—whether a dungeon, a laboratory, or the shadows of their own making"
+
+### Hands Visible (Strongly Recommended for Villains)
+Villain hands reveal their methods and madness:
+- Clawed or claw-like fingernails (unnaturally long, filed to points, blackened)
+- Signs of their power (veins of dark magic, burn scars from forbidden rituals, ink stains from dark studies)
+- Gestures of control (fingers spread in command, one finger raised in warning, hands steepled in contemplation)
+- Tools of their trade (rings of power, poison-stained nails, bloodstained fingers they haven't bothered to wash)
+
+### Distinctive Feature Ideas for Antagonists
+- **Eyes that show their fall:** once-beautiful eyes now sunken and predatory, irises that glow when angered, pupils that dilate unnaturally when they sense weakness
+- **Marks of corruption:** veins of dark magic visible beneath the skin, a rotting patch they conceal with magic, brands of the entities they've bargained with
+- **Signs of transformation:** features becoming more bestial or demonic, beauty preserved through unnatural means, asymmetry from partial transformation
+- **The cost of power:** premature aging despite magical preservation, scars from rituals gone wrong, burns from handling artifacts mortals shouldn't touch
+- **Deliberate menace:** features cultivated to inspire fear—filed teeth, sharpened cheekbones, eyes tattooed to remove whites
+
 ### Portrait (Bust)
-Close-up framing from chest up, emphasizing menacing features and expression.
+Close-up framing from chest up, emphasizing menacing features and expression. Include hands for villainous effect.
 
 **Template:**
-> Portrait bust of a menacing [species] [class], [gender], [age description]. [Intimidating facial features and expression]. [Hair description]. Wearing [dark attire/armor on upper body]. [Threatening head/shoulder pose]. Background: [blurred ominous setting]. [Dramatic lighting with shadows]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on skin, fabric, metal, and materials, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy villain portrait.
+> Portrait bust of a menacing [species] [class/role], [gender], [age with unnatural preservation or decay—e.g., "seventy but appearing forty through dark arts, the preservation imperfect around the eyes" or "young in years but aged by corruption, a twenty-year-old face wearing the hollows of ancient evil"]. [Face shape with character—e.g., "gaunt angular face with aristocratic bone structure twisted into something predatory"]. [Forehead with marks—e.g., "high intellectual forehead branded with the sigil of their dark patron, the scar still weeping faintly"]. [Eyebrow description with menace—e.g., "thin severe eyebrows, one permanently raised in cruel amusement, the other often furrowed in calculating assessment"]. [Eye description with corruption—e.g., "deep-set eyes with blood-red irises that glow faintly in shadow, the whites yellowed and veined, pupils that contract to slits when angered—the eyes of someone who traded their humanity for power and considers it a bargain"]. [Nose with character—e.g., "a sharp aristocratic nose, once handsome but now hawkish and predatory, flaring slightly when they scent weakness"]. [Cheekbones with condition—e.g., "sharp cheekbones that could cut glass, gaunt from ascetic discipline or neglect of mortal needs, shadows pooling in the hollows"]. [Lips with cruelty—e.g., "thin pale lips that curl only in contempt or cruel satisfaction, perpetually slightly parted as if about to pronounce judgment"]. [Chin/jaw with threat—e.g., "a strong jaw that would be handsome if not clenched with perpetual tension, the jaw of someone who bites back rage until the moment they unleash it"]. [Skin with corruption—e.g., "pallid grey-tinged skin with visible dark veins creeping up the neck like roots of corruption, unnaturally smooth except where ritual scars mar the surface"]. [Corruption marks with meaning—e.g., "ritual scarification patterns spiraling up the left side of the face, each symbol a pact made and a price paid; a patch of necrotic flesh at the right temple, hidden by careful positioning, where the curse first took hold"]. [Hands visible with menace—e.g., "hands visible, long-fingered with blackened nails filed to points, the right hand raised with fingers spread in a gesture of control, dark veins pulsing visibly beneath pale skin"]. [Specific expression with psychology—e.g., "expression of patient malice, a slight smile that doesn't reach the dead eyes, the look of someone who has all the time in the world and intends to make others suffer every moment of it"]. [Hair with style—e.g., "white hair slicked back severely, revealing the full architecture of their corrupted face, not a strand out of place—control in all things"]. Wearing [dark attire with significance—e.g., "black velvet robes over armor of dark iron, the fabric worth a kingdom, the armor inscribed with binding runes, a high collar framing the face like a throne frames a tyrant"]. [Pose with dominance—e.g., "chin raised, looking down upon the viewer as one looks upon an insect, shoulders back in absolute confidence"]. Background: [ominous setting—e.g., "blurred throne room in deep shadow, hints of chained figures in the darkness behind, candlelight catching only the villain's face"]. [Lighting with drama—e.g., "dramatic underlighting casting sharp shadows upward, red candlelight from below, cold blue moonlight from above, caught between hellfire and heaven's judgment"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on skin, fabric, metal, and materials, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy dark lord portrait" or "Fantasy corrupt noble portrait" or "Fantasy mad mage portrait"].
 
 **Prompt:**
 
@@ -382,7 +416,7 @@ Close-up framing from chest up, emphasizing menacing features and expression.
 Full figure framing showing complete villain presence, equipment, and imposing stance.
 
 **Template:**
-> Full body portrait of a menacing [species] [class], [gender], [age description], [imposing body type]. [Intimidating features and expression]. [Hair description]. Wearing [complete dark attire/armor]. Wielding [signature weapon/artifact]. [Threatening pose or stance]. Background: [detailed ominous setting - lair, throne, battlefield]. [Dramatic lighting]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on skin, fabric, metal, and materials, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy villain illustration.
+> Full body portrait of a menacing [species] [class/role], [gender], [age with unnatural qualities], [imposing body type—e.g., "tall and gaunt, moving with predatory grace, each gesture deliberate and threatening" or "massive and armored, built like a siege weapon made flesh"]. [Face with condensed menace—e.g., "sharp cruel face with glowing eyes, ritual-scarred cheeks, and thin lips curved in patient malice"]. [Expression with threat—e.g., "expression of contemptuous amusement, the face of someone about to give an order that will destroy lives"]. [Hair description—e.g., "long white hair flowing unnaturally as if in a wind that touches nothing else, a crown of dark iron set above the brow"]. [Skin and corruption visible—e.g., "grey pallid skin with corruption spreading visibly up the exposed hands and throat, dark veins pulsing with stolen power"]. Wearing [complete villainous attire—e.g., "battle plate of black iron inscribed with screaming faces that seem to move in firelight, beneath a cloak of shadow-stuff that pools and flows like liquid darkness, armored boots crushing symbols of the fallen underfoot"]. [Equipment with dread significance—e.g., "in the left hand a staff topped with a caged soul that provides sickly illumination, the right hand extended with dark lightning crackling between the fingers"]. [Pose with dominance—e.g., "standing atop a pile of broken thrones and crowns, one foot forward in ownership, the posture of absolute victory"]. Background: [villain's domain—e.g., "a burning cityscape stretching to the horizon, armies arrayed below like toys, the sky torn open above with eldritch light pouring through"]. [Lighting with apocalyptic drama—e.g., "lit from below by flames and from above by unnatural sky-light, casting the figure in sharp relief against the destruction they have wrought"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on skin, fabric, metal, and materials, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy conqueror victorious illustration" or "Fantasy dark lord ascending illustration"].
 
 **Prompt:**
 

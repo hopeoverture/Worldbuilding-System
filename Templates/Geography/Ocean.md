@@ -328,16 +328,42 @@ Notorious sea raiders:
 ### Art Style
 **Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on water and atmospheric effects, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition.**
 
+### Guidelines
+When generating AI art for this ocean, include:
+- **Scale:** The overwhelming vastness that dwarfs all human endeavor
+- **Water character:** Wave patterns, swell direction, current effects, color gradation with depth
+- **Sky relationship:** Reflections, horizon line, weather approaching or departing
+- **Light on water:** Sparkle, color shifts, the way light penetrates or reflects
+- **Movement:** The constant motion even in calm seas, the chaos of storms
+- **Life signs:** Birds, breaching creatures, floating debris, distant sails
+
+### Ocean Integration (The Sea Is an Entity)
+Every element should suggest the ocean's power, mystery, and alien vastness:
+- *Don't write:* "blue water" → *Write:* "water that shifts from cobalt to sapphire to near-black as clouds pass overhead, the color of depth where the seafloor drops away to the abyss, whitecaps forming and dissolving in an eternal dance with the wind"
+- *Don't write:* "waves" → *Write:* "long swells born a thousand miles away rolling in patient succession, their tops catching the light before curling into brief foam, the rhythm older than any land—the heartbeat of the world"
+- *Don't write:* "sunset at sea" → *Write:* "the sun melting into the horizon line, spreading gold and crimson across water that has become a mirror for fire, each wave crest a blade of burning light, the sky and sea indistinguishable where they meet in the west"
+
+### Distinctive Feature Ideas for Oceans
+- **Weather presence:** storm walls visible on the horizon, fog banks rolling in, the particular clarity after storms, approaching squall lines
+- **Scale indicators:** a tiny ship against infinite water, birds as specks, whales breaching to show comparison
+- **Water states:** the glassy calm that precedes storms, confused seas where currents meet, the ordered ranks of ocean swells
+- **Depth suggestions:** color gradation from shore to abyss, dark patches where depth suddenly increases, the black water of ocean trenches
+- **Life above and below:** dolphins riding bow waves, flying fish, albatross on eternal patrol, tentacles glimpsed, shapes in the deep
+
 ### Ocean Vista
+The vast ocean showing scale, mood, and the meeting of sea and sky.
+
 **Template:**
-> Vast expanse of [ocean name], [water conditions - calm blue, storm-tossed, golden at sunset]. [Sky reflecting on water]. [Ships or sea life if present]. [Distant coastline or endless horizon]. [Sense of immense scale and depth]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy ocean illustration.
+> Vast expanse of [ocean name with character—e.g., "the Sundering Sea, three thousand miles of water that has swallowed armadas and birthed empires"]. [Water state with detail—e.g., "the surface a field of rolling swells perhaps twenty feet from trough to crest, each wave a moving ridge of dark blue water capped with white, the pattern stretching to every horizon in infinite repetition—the ocean breathing"]. [Sky relationship—e.g., "a sky of broken clouds reflected in the water below, light shifting constantly as shadows race across the surface, the horizon line uncertain where blue meets blue"]. [Color and depth—e.g., "the water near-black in the troughs where depth steals light, brilliant turquoise at the wave crests where sun penetrates, foam patterns tracing the wind's recent passage"]. [Scale reference—e.g., "in the middle distance a three-masted ship riding the swells, appearing and disappearing behind the wave hills, a reminder of how small all human works are against this vastness"]. [Life signs—e.g., "an albatross gliding past on wings that haven't touched land in years, dolphins visible as brief silver curves in a distant wave face, the sense of teeming life beneath the surface"]. [Atmosphere—e.g., "salt spray hanging in the air, the roar of wind and wave omnipresent, the smell of brine and depth"]. [Time and light—e.g., "late afternoon sun turning the western water to hammered gold while the eastern sea already darkens toward evening, the long shadows of waves stretching toward night"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on water and atmospheric effects, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy vast ocean landscape illustration" or "Fantasy high seas vista illustration"].
 
 **Prompt:**
 
 
 ### Ships at Sea
+Human presence on the ocean, showing the contest between vessel and waves.
+
 **Template:**
-> [Ship type] sailing [ocean name]. [Weather conditions]. [Crew activity if visible]. [Ocean stretching in all directions]. [Dramatic lighting - storm, sunset, moonlight]. [Sense of voyage and adventure]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy maritime illustration.
+> [Ship type with detail—e.g., "a war galley of the Southern Fleet, three banks of oars and crimson sails, built to fight and chase rather than ride out weather"]. [Vessel action—e.g., "climbing the face of a swell that rises twice the height of her masts, the bow lifting toward sky while the stern still descends the previous wave, oars shipped and sails reefed as she fights through the storm"]. [Crew visible—e.g., "sailors clinging to the rigging as they work to secure loose canvas, a figure at the helm fighting the wheel, faces turned against spray and rain—humanity persisting against the sea's indifference"]. [Water interaction—e.g., "waves breaking over the bow in explosions of white foam, water streaming from the scuppers, the hull groaning audibly against the pressure"]. [Sea conditions—e.g., "confused seas where the storm has churned the swells into chaos, wave crests blown horizontal by wind, rain falling so thick it's hard to tell where sea ends and sky begins"]. [Scale and vulnerability—e.g., "the ship a splinter of wood and will against mountains of moving water, visible for a moment on a wave crest before disappearing into a trough, the next wave approaching like a wall"]. [Lighting—e.g., "lightning splitting the purple-black sky, illuminating for an instant the fury of the sea and the desperate figures on deck, thunder lost in the roar of wind"]. [Atmosphere—e.g., "the contest between human determination and oceanic power, neither winning, both enduring"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on water and atmospheric effects, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy ship in storm illustration" or "Fantasy maritime adventure illustration"].
 
 **Prompt:**
 

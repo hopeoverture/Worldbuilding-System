@@ -76,3 +76,16 @@ Deep pools below the falls where the water is said to have magical properties. B
 ### Organizations
 - **Controller:** [[House Thorne]]
 - **Dependent:** [[The Forgemasters Guild]]
+
+## Image Prompts
+
+### Art Style
+**Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on water and industrial features, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition.**
+
+### River Vista
+**Prompt:**
+> The Stahlfluss descending from the Ostmark Range through the Eastern March, swift cold waters rushing over granite boulders and through a narrow mountain valley. The characteristic clarity of the Steel River visible—mountain snowmelt so pure the riverbed stones are visible even in deep pools. Pine forests lining the steep valley walls. Forge Falls visible in the distance where the river drops dramatically, spray rising and catching morning light. The first waterwheels of Stahlburg's forges visible where the river's power is harnessed. Cold mist rising from the surface, a sense of relentless industrial purpose. Hyper-realistic digital art, photorealistic rendering, cinematic morning lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy mountain forge river illustration.
+
+### The Forge Falls
+**Prompt:**
+> The Forge Falls of the Stahlfluss at Stahlburg, a series of dramatic waterfalls where the Steel River drops through a stepped canyon. Dozens of waterwheels mounted on either side of the falls, turning constantly in the powerful current, their axles connected to forge bellows and trip hammers visible in stone buildings cut into the cliffsides. Spray and mist filling the air, rainbows forming in the afternoon light. The famous Iron Bridge visible spanning the river above the falls. Workers crossing between forge buildings. The sound of hammers ringing beneath the roar of water—the heart of Eastern March industry. Hyper-realistic digital art, photorealistic rendering, dramatic afternoon lighting, rich textures, intricate detail on waterwheels and forge industry, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy industrial waterfall illustration.

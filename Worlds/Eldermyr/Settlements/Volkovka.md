@@ -122,9 +122,16 @@ Ships that might take refugees away don't come to the Bitter Coast. Those who ca
 
 ## Image Prompts
 
-### Exterior
+### Art Style
+**Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate architectural and environmental detail, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition.**
+
+### Exterior (Wide Shot)
 **Prompt:**
-> Wide shot of Volkovka, a desperate fishing town on a rocky coast. Fishing boats crowd a natural harbor while ramshackle structures overflow with refugees. The original village of weathered stone is surrounded by tents and temporary shelters. Behind the town, gray blighted farmland stretches toward distant mountains. The sky is overcast, the sea dark gray. Smoke rises from cooking fires. The atmosphere is grim survival—a community at the edge of disaster. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, 8K quality. Fantasy refugee town.
+> Wide shot of Volkovka, a desperate fishing town on a rocky coast. Fishing boats crowd a natural harbor while ramshackle structures overflow with refugees. The original village of weathered stone is surrounded by tents and temporary shelters. Behind the town, gray blighted farmland stretches toward distant mountains. The sky is overcast, the sea dark gray. Smoke rises from cooking fires. The atmosphere is grim survival—a community at the edge of disaster. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere of desperation, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy refugee town illustration.
+
+### The Survivor's Hall
+**Prompt:**
+> Interior of the Survivor's Hall in Volkovka, once a simple village meeting house now serving as refugee shelter, tavern, and emergency governance center combined. Every surface is crowded—families huddled on floor pallets, travelers at improvised tables, children playing in corners while their parents look on with hollow eyes. Elder Yuri Volkov holds court at a worn wooden desk, hearing pleas from desperate petitioners. The walls are hung with fishing nets and salvaged goods. A cooking fire in the great hearth provides warmth and food for those who have nothing. Maps showing the spreading curse are tacked to one wall, with villages crossed out in succession. Through the windows, the harbor is visible, the sea the only escape. The atmosphere of a community stretched beyond capacity but still functioning—the stubborn survival of those with nowhere else to go. Hyper-realistic digital art, photorealistic rendering, warm interior cinematic lighting contrasted with cold window light, rich textures, intricate detail on refugee scene, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy refuge interior illustration.
 
 ## Connections
 

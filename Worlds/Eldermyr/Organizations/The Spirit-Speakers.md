@@ -156,3 +156,16 @@ Some Spirit-Speakers want to warn the south, despite everything. Others agree wi
 - **Tradition:** The Old Ways (ancestor veneration)
 - **Contrast:** [[The Faith of the Three]]
 - **Crisis:** [[The Rising Dead]]
+
+## Image Prompts
+
+### Art Style
+**Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on ritual elements and northern landscapes, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition.**
+
+### The Gathering at Stoneholm
+**Prompt:**
+> The annual gathering of Spirit-Speakers at Stoneholm Lake in the Northlands, where practitioners of the Old Ways convene beneath the midnight sun. A circle of weathered men and women in fur-lined robes stand around a still lake that reflects the eternal twilight sky. Elder Yrsa the Wise leads the ritual, her arms raised, pale smoke rising from offerings of bone and herb laid on ancient stones. The Standing Stones ring the lake—massive megaliths predating the Faith, carved with spiraling symbols that seem to shift in the flickering firelight. Younger apprentices watch from the outer circle, learning the rites that connect the living to the dead. A shimmering presence hovers above the lake's surface—ancestors answering the call, their forms translucent and watchful. Pine forests surround the sacred site, and the aurora dances green and purple overhead. The atmosphere of ancient power, unbroken tradition, and communion between worlds. Hyper-realistic digital art, photorealistic rendering, mystical twilight lighting, rich textures, intricate detail on ritual gathering and supernatural elements, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy ancestor worship ritual illustration.
+
+### Raven-Eye's Vision
+**Prompt:**
+> The young Spirit-Speaker known as Raven-Eye in the aftermath of her journey to the Ashen Fields, sitting alone in a darkened hut in the Northlands. Her eyes are wide and unfocused, seeing things that broke something in her mind. She rocks slowly, muttering riddles and fragments of terrible truth. Her dark hair is unkempt, her face gaunt from refusing food. Around her, the shadows seem to move—shapes of soldiers who don't know they're dead reaching toward her, whispering their confusion. A single candle gutters on the floor, its light catching the ritual scars on her hands. On the wall behind her, she has scratched symbols in charcoal—fragments of what she witnessed, warnings she cannot speak clearly. An older Spirit-Speaker watches from the doorway, afraid to enter, afraid of what Raven-Eye has become. The atmosphere of madness that comes from seeing too much truth, of a gift that has become a curse. Hyper-realistic digital art, photorealistic rendering, single candle lighting with supernatural shadows, rich textures, intricate detail on traumatized prophet and haunting presences, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy broken oracle illustration.

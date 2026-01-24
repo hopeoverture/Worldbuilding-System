@@ -30,7 +30,7 @@ age_at_death: 52
 # The Mad King
 
 ## Overview
-Valdus Karath was the High King of Eldermyr whose tyranny sparked [[The Great War]]. He began as an ambitious but capable ruler, slowly descended into paranoia and madness, and eventually embraced forbidden necromancy to maintain his power. He was killed by his own son, Prince [[Edric Valdren|Edric]] the Liberator, at [[The Battle of Ashen Fields]]. But the figure that walks the battlefield today, wearing a crown of blackened iron, suggests death was not the end.
+Valdus Karath was the High King of Eldermyr whose tyranny sparked [[The Great War]]. He began as an ambitious but capable ruler, slowly descended into paranoia and madness, and eventually embraced forbidden necromancy to maintain his power. He was killed by his own son, [[Prince Edric the Liberator]], at [[The Battle of Ashen Fields]]. But the figure that walks the battlefield today, wearing a crown of blackened iron, suggests death was not the end.
 
 ## History
 
@@ -47,7 +47,7 @@ As his paranoia grew, Valdus turned to darker methods. He consulted with hedge w
 In his final years, Valdus was barely human. He demanded "tribute" of living prisoners for his rituals. Entire villages were emptied. His own son fled to lead the rebellion against him. The realm united against their king.
 
 ### The Fall
-At [[The Battle of Ashen Fields|the Battle of Ashen Fields]], Valdus made his final stand with an army of the living and the dead. When his son Prince [[Edric Valdren|Edric]] faced him in single combat, witnesses reported that Valdus was no longer speaking with his own voice. [[The Unnamed]] had claimed him. [[Edric Valdren|Edric]] killed the body, but something escaped.
+At [[The Battle of Ashen Fields|the Battle of Ashen Fields]], Valdus made his final stand with an army of the living and the dead. When his son [[Prince Edric the Liberator|Prince Edric]] faced him in single combat, witnesses reported that Valdus was no longer speaking with his own voice. [[The Unnamed]] had claimed him. [[Prince Edric the Liberator|Edric]] killed the body, but something escaped.
 
 ## The Figure
 
@@ -69,12 +69,12 @@ Valdus was ambitious, charismatic, and ruthless—but not cruel. He wanted to be
 The paranoid Valdus saw enemies everywhere. He trusted no one—not his advisors, not his wife, eventually not even his children. He spoke to himself. He stayed awake for days. He became convinced that only absolute power could protect him.
 
 ### At the End
-The Valdus at Ashen Fields was barely human. Witnesses describe glowing eyes, a voice that echoed strangely, movements that were too smooth or too jerky. [[The Unnamed]] had already claimed him. What [[Edric Valdren|Edric]] killed was a puppet whose master escaped.
+The Valdus at Ashen Fields was barely human. Witnesses describe glowing eyes, a voice that echoed strangely, movements that were too smooth or too jerky. [[The Unnamed]] had already claimed him. What [[Prince Edric the Liberator|Edric]] killed was a puppet whose master escaped.
 
 ## Family
 
 - **Wife:** Queen Elena Karath (died in the war, officially illness, possibly murdered)
-- **Son:** Prince [[Edric Valdren|Edric]] the Liberator (killed him, died in the process)
+- **Son:** [[Prince Edric the Liberator]] (killed him, died in the process)
 - **Grandson:** [[Lord Draven Karath]] (child survivor, current head of house)
 - **Great-Grandchildren:** [[Aleksei Karath]] ([[Lord Draven Karath|Draven]]'s son), [[Yelena Karath]] ([[Lord Draven Karath|Draven]]'s sister)
 
@@ -90,25 +90,29 @@ The Valdus at Ashen Fields was barely human. Witnesses describe glowing eyes, a 
 
 1. **The Grandfather's Voice:** [[Lord Draven Karath|Lord Draven]] seeks proof that the Figure is truly Valdus. If it is, does that change anything? If it isn't, what has been speaking to him?
 
-2. **The Final Words:** Prince [[Edric Valdren|Edric]]'s hidden letter describes what Valdus said before he died. Finding it might reveal how to truly end him.
+2. **The Final Words:** [[Prince Edric the Liberator|Prince Edric]]'s hidden letter describes what Valdus said before he died. Finding it might reveal how to truly end him.
 
 3. **Release Him:** If Valdus is aware but imprisoned, he might want to truly die. A party might need to free the man to destroy the monster.
 
 ## Image Prompts
 
 ### Art Style
-**Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition.**
+**Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on decay, corruption, and supernatural horror, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition.**
 
-### The Figure
+### The Mad King in Life
 **Prompt:**
-> A tall figure in rotting royal robes standing in a field of the dead. The robes were once magnificent—purple and gold—now tattered and gray with decay. The figure wears a crown of blackened iron that seems to absorb light. The face is half-skeletal, half-preserved, with eyes that glow with sickly red light. Surrounding the figure, corpses rise from disturbed earth. The sky is gray and overcast. The atmosphere is absolute dread. Hyper-realistic digital art, photorealistic rendering, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy undead king illustration.
+Portrait of a king descending into madness, human male in his late forties, still physically powerful but with unmistakable signs of corruption. Black hair shot through with unnatural white streaks, wild and unkempt. Eyes that were once dark brown now have an otherworldly gleam—pupils too large, irises seeming to shift like smoke. Handsome features twisted by paranoia and cruel intelligence. Wearing rich purple and black robes over dark armor, the Iron Crown of Eldermyr sitting heavy on his brow though something about him rejects its authority. Dark veins visible beneath pale skin on his temples and neck. Standing in a throne room where shadows gather unnaturally in the corners, torches flickering though there is no wind. Expression of absolute conviction that his enemies are everywhere. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on corruption and madness, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy tyrant king portrait.
+
+### The Figure at the Heart
+**Prompt:**
+A towering figure standing motionless at the center of the Ashen Fields, surrounded by endless rows of mass graves and shambling corpses. Once-magnificent royal robes of purple and gold now tattered and gray with twenty-three years of decay, hanging from a frame that is no longer entirely human. The Blackened Crown sits upon a skull-like head—the crown appearing more solid and real than the creature beneath it, black iron seeming to drink in what little light exists. The face is a horror of preservation and rot: one eye socket empty and weeping darkness, the other containing a burning red point of malevolent light. Lipless mouth frozen in a rictus grin, teeth visible through decayed cheek. Skeletal hands still adorned with royal rings, one raised as if commanding the dead who rise around him in waves. The sky above is permanently gray, clouds swirling in an unnatural vortex centered on the Figure. Dead grass and ashen earth stretching to the horizon. The atmosphere of absolute wrongness—this thing should not exist, yet it commands an army of the damned. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on decay and supernatural horror, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy undead king illustration.
 
 ## Connections
 
 ### Characters
 - **Grandson:** [[Lord Draven Karath]]
 - **Great-Grandchildren:** [[Aleksei Karath]], [[Yelena Karath]]
-- **Killed By:** Prince Edric the Liberator
+- **Killed By:** [[Prince Edric the Liberator]]
 - **Enemies:** Lord Edmund Thorne, Lord Marcus Valdren
 
 ### Organizations

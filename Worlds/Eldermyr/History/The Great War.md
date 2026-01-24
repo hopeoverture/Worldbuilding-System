@@ -22,7 +22,7 @@ outcome: Victory for the Alliance, but at terrible cost
 # The Great War
 
 ## Overview
-The Great War was a four-year conflict that consumed Eldermyr, fought between [[The Mad King]] [[The Mad King]] and an alliance of the other great houses. It began when Valdus's tyranny became unbearable and ended at [[The Battle of Ashen Fields]], where Prince [[Edric Valdren|Edric]] the Liberator struck down his own father. The war killed tens of thousands, devastated [[The Karath Reach]], and left wounds that have never healed. Twenty-three years later, the consequences are still unfolding.
+The Great War was a four-year conflict that consumed Eldermyr, fought between [[The Mad King]] [[The Mad King]] and an alliance of the other great houses. It began when Valdus's tyranny became unbearable and ended at [[The Battle of Ashen Fields]], where Prince [[Prince Edric the Liberator|Edric the Liberator]] struck down his own father. The war killed tens of thousands, devastated [[The Karath Reach]], and left wounds that have never healed. Twenty-three years later, the consequences are still unfolding.
 
 ## Causes
 
@@ -32,8 +32,8 @@ The Great War was a four-year conflict that consumed Eldermyr, fought between [[
 ### The Breaking Point
 When Valdus began requiring "tribute" of living prisoners for his rituals—when villages were emptied to feed his experiments—the other houses could no longer remain passive. Lord Edmund Thorne and Lord Marcus Valdren secretly met to plan resistance.
 
-### Prince [[Edric Valdren|Edric]]'s Choice
-Crown Prince [[Edric Valdren|Edric]] Karath faced an impossible choice: remain loyal to his father and share in his crimes, or take up arms against him. He chose rebellion, providing the alliance with legitimacy and insider knowledge.
+### [[Prince Edric the Liberator|Prince Edric]]'s Choice
+Crown Prince [[Prince Edric the Liberator|Edric]] Karath faced an impossible choice: remain loyal to his father and share in his crimes, or take up arms against him. He chose rebellion, providing the alliance with legitimacy and insider knowledge.
 
 ## Major Factions
 
@@ -43,7 +43,7 @@ Crown Prince [[Edric Valdren|Edric]] Karath faced an impossible choice: remain l
 | [[House Thorne]] | Lord Edmund Thorne | Ground forces, military leadership |
 | [[House Valdren]] | Lord Marcus Valdren | Fleet, supplies, gold |
 | [[The Faith of the Three]] | High Confessor Brennan | Moral authority, healing |
-| [[House Karath]] (rebel) | Prince [[Edric Valdren]] | Legitimacy, intelligence |
+| [[House Karath]] (rebel) | [[Prince Edric the Liberator]] | Legitimacy, intelligence |
 
 ### The Crown
 | Force | Leader | Role |
@@ -55,7 +55,7 @@ Crown Prince [[Edric Valdren|Edric]] Karath faced an impossible choice: remain l
 ## Timeline
 
 ### Year 1: The Rising
-- Prince [[Edric Valdren|Edric]] flees [[Aldersgate|the capital]], declaring against his father
+- [[Prince Edric the Liberator|Prince Edric]] flees [[Aldersgate|the capital]], declaring against his father
 - [[House Thorne]] and [[House Valdren]] announce alliance
 - [[The Faith of the Three|The Faith]] denounces Valdus as a heretic
 - Initial battles favor the Alliance
@@ -76,7 +76,7 @@ Crown Prince [[Edric Valdren|Edric]] Karath faced an impossible choice: remain l
 - Alliance pushes into [[The Karath Reach|the Karath Reach]]
 - Valdus makes a final stand at what would become [[The Ashen Fields|the Ashen Fields]]
 - [[The Battle of Ashen Fields]] decides everything
-- Valdus and Prince [[Edric Valdren|Edric]] both fall
+- Valdus and [[Prince Edric the Liberator|Prince Edric]] both fall
 
 ## Key Battles
 
@@ -95,7 +95,7 @@ The final confrontation. See [[The Battle of Ashen Fields]] for full details.
 ## Aftermath
 
 ### Immediate
-- Valdus and Prince [[Edric Valdren|Edric]] dead
+- Valdus and [[Prince Edric the Liberator|Prince Edric]] dead
 - The Karath line nearly extinguished ([[Lord Draven Karath|Lord Draven]], a child, survived)
 - 10,000 dead at [[The Ashen Fields|the Ashen Fields]], improperly buried
 - Lord Aldric (later [[High King Aldric II|Aldric II]]) acclaimed as High King
@@ -124,7 +124,7 @@ The war is remembered as a triumph of good over evil, but the reality was more c
 
 1. **The Alliance's Bargain.** To secure [[House Valdren]]'s support, Lord Edmund Thorne promised that a Valdren would one day wear the crown. This secret agreement may be why [[Lord Varic Valdren|Varic]] believes he has the right to the regency.
 
-2. **[[Edric Valdren|Edric]]'s Letter.** Prince [[Edric Valdren|Edric]] wrote a letter explaining why he killed his father rather than capturing him. He believed Valdus had become something inhuman—a vessel for [[The Unnamed]]. The letter is hidden at [[The Ashen Fields]].
+2. **[[Prince Edric the Liberator|Edric]]'s Letter.** [[Prince Edric the Liberator|Prince Edric]] wrote a letter explaining why he killed his father rather than capturing him. He believed Valdus had become something inhuman—a vessel for [[The Unnamed]]. The letter is hidden at [[The Ashen Fields]].
 
 3. **The Survivors.** Some of Valdus's inner circle escaped the battle. They know secrets about [[The Mad King]]'s rituals—and about [[The Blackened Crown]]. One of them has been in contact with [[Lord Draven Karath|Lord Draven]].
 
@@ -137,7 +137,7 @@ The war is remembered as a triumph of good over evil, but the reality was more c
 
 ### Characters
 - **Mad King:** [[The Mad King|Valdus Karath]]
-- **Liberator:** Prince Edric the Liberator
+- **Liberator:** [[Prince Edric the Liberator]]
 - **Alliance Leaders:** Lord Edmund Thorne, Lord Marcus Valdren
 - **Survivors:** [[Lord Draven Karath]], [[High King Aldric II]]
 
@@ -152,3 +152,16 @@ The war is remembered as a triumph of good over evil, but the reality was more c
 ### Items
 - **Created During:** [[The Blackened Crown]]
 - **Used In:** [[Thornbane]]
+
+## Image Prompts
+
+### Art Style
+**Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on armor, weapons, and battlefield chaos, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition.**
+
+### War Scene
+**Prompt:**
+A massive medieval fantasy battle raging across rolling farmland now churned to mud and blood. Two armies clash—one bearing the raven banners of House Karath in purple and black, the other a combined force under the thorned crown of House Thorne and the golden dolphin of House Valdren. In the foreground, armored knights on horseback charge through infantry formations, swords and spears glinting. In the middle distance, lines of soldiers break and reform around fallen comrades. On a distant hill, a figure in dark robes and a crown of blackened iron raises his hands as unnatural lightning crackles from storm clouds above. The battlefield is littered with both living soldiers and shambling undead corpses pressed into unholy service. Smoke rises from burning villages on the horizon. The sky is a churning mass of dark clouds split by shafts of golden light. The chaos, horror, and desperate courage of a war for survival. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on armor and battlefield chaos, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Epic fantasy battle illustration.
+
+### Alliance Council
+**Prompt:**
+A war council in a stone fortress, lit by torches and a central fire. Around a massive table covered with maps stands a gathering of grim-faced commanders: Lord Edmund Thorne in black armor bearing the thorned crown sigil, his scarred face intense with determination; Lord Marcus Valdren in fine clothing with calculating merchant's eyes; Crown Prince Edric Karath, young and tormented, wearing the purple of his house but allied against his father; a High Confessor in white robes holding a staff topped with the three-faced symbol of the Faith. Their shadows loom large on stone walls hung with captured enemy banners. Wooden tokens mark troop positions on the maps. The atmosphere is one of desperate planning and unlikely alliance—former rivals united against a greater evil. Candlelight flickers across determined faces. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on armor and medieval surroundings, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy war council illustration.

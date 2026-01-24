@@ -96,7 +96,7 @@ Magic in Eldermyr is **rare** (roughly 1 in 1,000 possess any ability) and comes
 **Key Points:**
 - Divine magic flows from [[The Faith of the Three]]
 - Old bloodlines carry inherited power (tied to noble houses)
-- The [[Arcane Academy]] trains academic mages under strict oversight
+- [[The Arcane Academy]] trains academic mages under strict oversight
 - [[The Spirit-Speakers|Spirit-Speakers]] commune with ancestor spirits (tolerated folk tradition)
 - Necromancy, soul magic, and demon summoning are absolutely forbidden
 - Protections exist: cold iron, sacred ground, and true faith resist dark magic
@@ -323,5 +323,8 @@ Eldermyr uses **mixed regional naming conventions**—see the Geography section 
 
 ### Key Events
 - [[The Great War]]
-- [[Battle of Ashen Fields]]
+- [[The Battle of Ashen Fields]]
 - [[Death of Aldric II]]
+
+### Maps
+- [[Eldermyr World Map]] — Primary world map

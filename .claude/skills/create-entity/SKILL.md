@@ -1,7 +1,7 @@
 ---
 name: create-entity
 description: Generate a fully populated worldbuilding entity from a template and save it to a world. Use when the user wants to create a specific entity like "create a dwarven city called Ironhold" or "make a fire deity named Pyraxis".
-argument-hint: "[entity description]"
+argument-hint: "[type] called [name] for [world] (e.g., 'dwarven city called Ironhold for Eldermyr')"
 ---
 
 # Create Entity

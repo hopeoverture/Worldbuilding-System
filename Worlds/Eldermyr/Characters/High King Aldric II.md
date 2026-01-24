@@ -35,7 +35,7 @@ High King Aldric II, known as "The Steward," ruled Eldermyr for twenty-three yea
 Aldric was a minor lord, cousin to Lord Edmund Thorne but not in the direct line of succession. During [[The Great War|the Great War]], he managed logistics and supplies—vital work, but not glorious. He was known for being competent, honest, and utterly lacking in ambition.
 
 ### The Acclamation
-When Prince [[Edric Valdren|Edric]] died at [[The Ashen Fields]], the realm needed a new king. Lord Edmund Thorne could have claimed the crown, but his house was too powerful—the others would never accept it. Lord Marcus Valdren was wealthy but had lost his son. [[House Karath]] were defeated. Aldric was proposed as a compromise: acceptable to all because threatening to none.
+When [[Prince Edric the Liberator]] died at [[The Battle of Ashen Fields]], the realm needed a new king. Lord Edmund Thorne could have claimed the crown, but his house was too powerful—the others would never accept it. Lord Marcus Valdren was wealthy but had lost his son. [[House Karath]] were defeated. Aldric was proposed as a compromise: acceptable to all because threatening to none.
 
 ### The Reign
 For twenty-three years, Aldric did exactly what was needed: nothing dramatic. He maintained peace between the houses. He rebuilt the war-torn regions (except [[The Karath Reach|the Karath Reach]], which he could not save). He married strategically—his daughter to Lord Edmund Thorne's heir, his son to a Valdren cousin. He created the network of marriages and alliances that should have ensured stability.
@@ -46,7 +46,7 @@ Three months ago, Aldric died in his sleep. He had been in declining health for 
 ## The Succession Crisis
 
 ### The Problem
-Aldric outlived his children. His daughter (Edmund Thorne's wife) died in childbirth. His son died of illness before producing heirs. The only direct blood heir is his grandson [[Edric Valdren]]—born of his daughter's daughter's marriage to Lord Marcus Valdren's grandson. [[Edric Valdren|Edric]] is eleven years old.
+Aldric outlived his children. His daughter (Edmund Thorne's wife) died in childbirth. His son died of illness before producing heirs. The only direct blood heir is his grandson [[Edric Valdren]]—born of his daughter's daughter's marriage to Lord Marcus Valdren's grandson. [[Edric Valdren|Edric]] is fifteen years old.
 
 ### The Claimants
 - **[[Edric Valdren]]:** Blood heir, but a child. His grandfather [[Lord Varic Valdren|Varic]] Valdren rules as regent.
@@ -108,3 +108,16 @@ Aldric wore [[The Iron Crown|the Iron Crown]] faithfully. It accepted him as a l
 
 ### Items
 - **Wore:** [[The Iron Crown]]
+
+## Image Prompts
+
+### Art Style
+**Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on clothing, expressions, and character features, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition.**
+
+### Character Portrait
+**Prompt:**
+An elderly king in his early sixties, silver-haired with a neatly trimmed beard, wearing simple but fine clothing in muted grays and deep blue rather than ostentatious royal finery. His face shows deep lines of worry and exhaustion, with tired but intelligent eyes that have seen too much compromise. He wears the Iron Crown of Eldermyr—a circlet of dark cold iron bound by three silver bands—but it seems to weigh heavily upon his brow. Seated in a carved wooden chair by a window overlooking a lake, parchment and quill on the table beside him, the posture of a man who carries responsibility he never sought. Warm afternoon light casting long shadows. Expression of weary resignation mixed with quiet dignity. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on clothing and character features, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy king portrait illustration.
+
+### Character in Context
+**Prompt:**
+High King Aldric II standing alone in the great hall of Aldersgate, dwarfed by the massive iron throne behind him that he rarely sits in. An aging man with silver hair and a diplomat's careful bearing, dressed in practical dark clothing with minimal ornamentation save for the Iron Crown on his brow. The hall is empty of courtiers—he prefers the quiet hours. Shafts of evening light stream through tall windows, illuminating dust motes in the air. His reflection visible in the polished floor, showing a man who looks smaller than his title suggests. Maps and documents scattered on a nearby table showing the fractious realm he holds together through compromise alone. The atmosphere of lonely burden and fading hope. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate architectural detail, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy throne room illustration.

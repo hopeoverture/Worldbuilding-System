@@ -1,7 +1,7 @@
 ---
 name: linkify
-description: Automatically add [[wikilinks]] to all mentions of existing entities within a file. Scans for entity names, aliases, and partial matches, then wraps them in wikilink syntax. Use when user wants to "linkify", "auto-link", "add links to existing entities", or "wikilink this file".
-argument-hint: "[entity path or name] [--dry-run] [--all-worlds]"
+description: Automatically add [[wikilinks]] to all mentions of existing entities within a file or entire world. Scans for entity names, aliases, and partial matches, then wraps them in wikilink syntax. Use when user wants to "linkify", "auto-link", "add links to existing entities", or "wikilink this file".
+argument-hint: "[entity or --world WorldName] [--dry-run] [--category Type]"
 ---
 
 # Linkify Entity
@@ -23,6 +23,15 @@ This skill scans an entity file and automatically wraps any mentions of existing
 
 # Linkify by file path
 /linkify Worlds/Eldermyr/Settlements/Aldersgate.md
+
+# BULK: Linkify all entities in a world
+/linkify --world Eldermyr
+
+# BULK: Linkify only Characters in a world
+/linkify --world Eldermyr --category Characters
+
+# BULK: Preview bulk changes
+/linkify --world Eldermyr --dry-run
 ```
 
 ## Instructions
@@ -38,6 +47,8 @@ This skill scans an entity file and automatically wraps any mentions of existing
 | `--dry-run` | Show what would be linked without making changes | false |
 | `--all-worlds` | Search all worlds for entities, not just the source entity's world | false |
 | `--case-sensitive` | Require exact case matching | false |
+| `--world [name]` | **BULK MODE:** Process all entities in the specified world | - |
+| `--category [type]` | With `--world`: only process entities in this category (Characters, Settlements, etc.) | all |
 
 ### Step 2: Locate Entity & Determine World
 
@@ -274,6 +285,70 @@ Never link:
 - The entity's own name (no self-linking)
 - Text that's part of a markdown header (`# Name`)
 - Text in the Connections section (manage links there separately)
+
+## Bulk Processing Mode
+
+When `--world` flag is provided, the skill processes multiple entities:
+
+### Bulk Mode Workflow
+
+1. **Scan world directory:**
+   - List all `.md` files in `Worlds/[World Name]/`
+   - If `--category` specified, only scan that folder (e.g., `Characters/`)
+   - Exclude `World Overview.md` by default (use `--include-overview` to include)
+
+2. **Build combined entity index:**
+   - Same process as single-entity mode
+   - Index is built once and reused for all files
+
+3. **Process each entity:**
+   - For each file, run Steps 4-7 (Find Matches → Apply Changes)
+   - Track cumulative statistics
+
+4. **Batch report:**
+   ```
+   === BULK LINKIFY COMPLETE: [World Name] ===
+
+   Files Processed: X
+   Files Modified: Y
+   Files Unchanged: Z
+
+   Total Links Added: N
+
+   By Category:
+   - Characters: X files, Y links
+   - Settlements: X files, Y links
+   - Organizations: X files, Y links
+   ...
+
+   Skipped (ambiguous): N references across M files
+
+   Performance: X.X seconds total
+   ```
+
+### Bulk Mode Options
+
+```bash
+# Process entire world
+/linkify --world Eldermyr
+
+# Process only one category
+/linkify --world Eldermyr --category Settlements
+
+# Dry run to preview bulk changes
+/linkify --world Eldermyr --dry-run
+
+# Process multiple categories
+/linkify --world Eldermyr --category Characters --category Organizations
+```
+
+### Performance Notes
+
+For large worlds (100+ entities), bulk mode:
+- Builds the entity index once (faster than per-file)
+- Processes files in parallel where possible
+- Reports progress every 10 files
+- For very large worlds (300+), consider using `scripts/linkify_world.py` instead
 
 ## Examples
 

@@ -28,11 +28,13 @@ This creates a web of interconnected entities that:
 | Settlement (as current location) | Characters > Notable Figures |
 | Organization (as member) | Characters > Members / Notable Members |
 | Organization (as leader) | Characters > Leader / Guildmaster / Commander |
-| Deity (as patron) | Characters > Champions / Followers |
+| Deity (as patron) | Characters > Champions / Followers / Worshippers |
 | Other Character (as ally) | Characters > Allies |
 | Other Character (as rival) | Characters > Rivals / Enemies |
+| Other Character (as family) | Characters > Family |
 | Item (as owner) | Characters > Current Owner |
 | Historical Event (as participant) | Characters > Key Figures |
+| Familiar/Companion (as bonded) | Characters > Bonded To / Master |
 
 ### Settlements → Other Entities
 
@@ -182,3 +184,28 @@ Region ← Settlement → Characters (participants)
 | History | Location, Key Figures |
 | Deity | Pantheon, Religion, Characters (high priest) |
 | Creature | Habitat (geography), Related creatures |
+
+## Circular Reference Detection
+
+**Valid Circular Patterns (expected):**
+- Mutual allies: A → B (ally) and B → A (ally) ✓
+- Parent-child: Region → Settlement (contains) and Settlement → Region (part of) ✓
+- Organization membership: Org → Character (member) and Character → Org (member of) ✓
+
+**Warning Patterns (may indicate error):**
+- A → B → C → A forming a "part of" chain (geographic impossibility)
+- Historical events forming causal loops (Event A caused Event B which caused Event A)
+- Deity hierarchies with cycles (God A serves God B serves God A)
+
+The `/audit-world` skill checks for problematic circular references and reports them as warnings.
+
+## Consolidation Notes
+
+This Connection Matrix is the **single source of truth** for bidirectional linking rules. The following skills reference this file:
+- `/audit-world` - Check 2 (Bidirectional Connection Audit)
+- `/link-entities` - Relationship type suggestions
+- `/create-entity` - Reciprocal link creation
+- `/populate-entity` - Reciprocal link patterns
+- `/expand-entity` - Connection deepening
+
+When adding new entity types or relationship patterns, update this file first, then update the individual skills if needed.

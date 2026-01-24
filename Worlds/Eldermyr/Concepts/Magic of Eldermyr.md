@@ -31,7 +31,7 @@ Magic in Eldermyr is rare, powerful, and dangerous. Perhaps one person in a thou
 
 Magic draws from multiple sources—divine grace, inherited blood, rigorous study, communion with spirits, or darker bargains—but all magic shares one truth: it costs. Power is not free. The Art demands payment in exhaustion, components, years of life, or pieces of the soul. Those who forget this lesson do not practice magic for long.
 
-Since [[The Mad King]]'s fall twenty-three years ago, the realm views magic with renewed suspicion. His dark rituals broke something that was better left whole. Now the dead stir in the [[Ashen Fields]], and the [[The Faith of the Three]] hunts forbidden practitioners with renewed zeal.
+Since [[The Mad King]]'s fall twenty-three years ago, the realm views magic with renewed suspicion. His dark rituals broke something that was better left whole. Now the dead stir in [[The Ashen Fields]], and [[The Faith of the Three]] hunts forbidden practitioners with renewed zeal.
 
 ## Classification
 
@@ -53,7 +53,7 @@ All magic, regardless of tradition, operates on certain shared principles:
 
 **Life Force:** Magic draws from the caster's vitality. Minor spells tire; major workings can leave a mage bedridden for days or take years from their life. This is why most practitioners live shorter lives than common folk, despite their power.
 
-**Runic Foundation:** Complex magic requires symbols, inscriptions, and wards. The [[Ashen Fields]] were bound by runic seals for twenty years. Those seals are failing now.
+**Runic Foundation:** Complex magic requires symbols, inscriptions, and wards. The [[The Ashen Fields]] were bound by runic seals for twenty years. Those seals are failing now.
 
 **Component Cost:** Most magic requires material components—herbs, minerals, preserved organs, rare metals. This keeps the Art expensive and limits who can practice it seriously.
 
@@ -87,7 +87,7 @@ Magic reshapes reality through will, knowledge, and sacrifice. The caster impose
 - Accessed through communion with ancestral spirits or the dead
 - Taught through dream instruction and oral traditions
 - Walks a gray line between honored tradition and forbidden necromancy
-- Growing more powerful—and more dangerous—as the [[Ashen Fields]] stir
+- Growing more powerful—and more dangerous—as the [[The Ashen Fields]] stir
 
 **Forbidden Magic:**
 - Accessed through pacts with demonic entities
@@ -160,7 +160,7 @@ Magic reshapes reality through will, knowledge, and sacrifice. The caster impose
 - Master-level work
 
 **Legendary Effects:**
-- Sealing an entire battlefield (the [[Ashen Fields]] wards)
+- Sealing an entire battlefield (the [[The Ashen Fields]] wards)
 - Moving through space instantly
 - Binding or banishing powerful entities
 - Years of life or death of the caster
@@ -265,7 +265,7 @@ Common folk treat magic users with wary respect. A healer is welcomed. A diviner
 
 Battle mages are rare and valuable. A pyromancer or electromancer can break an enemy formation. A skilled healer keeps soldiers fighting. Diviners provide intelligence.
 
-During [[The Great War]], both sides employed mages—but [[The Mad King]]'s forces used darker arts. The Battle of [[Ashen Fields]] saw rituals that have left the land cursed to this day.
+During [[The Great War]], both sides employed mages—but [[The Mad King]]'s forces used darker arts. The Battle of [[The Ashen Fields]] saw rituals that have left the land cursed to this day.
 
 ### Economic Role
 
@@ -285,7 +285,7 @@ Twenty-three years ago, [[High King Aldric II|King Aldric]] I—convinced someth
 
 He was right that something was coming. His methods made it worse.
 
-When he fell at the [[Ashen Fields]], the magic he'd unleashed didn't die with him. The land was scarred. The dead were restless. His younger son, [[High King Aldric II|Aldric II]], ordered the battlefield sealed with the most powerful wards the realm's mages could create.
+When he fell at the [[The Ashen Fields]], the magic he'd unleashed didn't die with him. The land was scarred. The dead were restless. His younger son, [[High King Aldric II|Aldric II]], ordered the battlefield sealed with the most powerful wards the realm's mages could create.
 
 Those wards held for twenty years. They're failing now.
 
@@ -293,15 +293,15 @@ Those wards held for twenty years. They're failing now.
 
 Magic in Eldermyr exists under a shadow. [[The Faith of the Three|The Faith]] watches practitioners more closely than before. Common folk trust mages less. The old academies have shrunk; fewer masters take apprentices.
 
-And yet magic is needed more than ever. The dead are rising. Something walks in the [[Ashen Fields]]. [[Lord Draven Karath]] has reached out to powers he shouldn't have.
+And yet magic is needed more than ever. The dead are rising. Something walks in the [[The Ashen Fields]]. [[Lord Draven Karath]] has reached out to powers he shouldn't have.
 
 The realm's mages must decide which side they serve—or whether to flee before the storm breaks.
 
 ## Secrets
 
-1. The [[Mad King]]'s power came from something trapped beneath the [[Ashen Fields]]—something older than [[The Faith of the Three|the Three]]. His rituals weren't summoning; they were answering.
+1. The [[Mad King]]'s power came from something trapped beneath the [[The Ashen Fields]]—something older than [[The Faith of the Three|the Three]]. His rituals weren't summoning; they were answering.
 
-2. The wards sealing the [[Ashen Fields]] didn't just hold the dead down. They held something IN. The dead are rising because something is breaking out.
+2. The wards sealing the [[The Ashen Fields]] didn't just hold the dead down. They held something IN. The dead are rising because something is breaking out.
 
 3. [[High Confessor Maren]]'s visions don't come from [[The Faith of the Three|the Three]]. He hasn't realized this yet.
 
@@ -313,7 +313,7 @@ The realm's mages must decide which side they serve—or whether to flee before 
 
 2. A dying wizard seeks an apprentice to inherit his tower—but his library contains texts that would earn a death sentence if [[The Faith of the Three|the Faith]] discovered them.
 
-3. The [[Ashen Fields]] wards need reinforcement. The realm's masters must gather to repair them—but someone doesn't want the wards restored.
+3. The [[The Ashen Fields]] wards need reinforcement. The realm's masters must gather to repair them—but someone doesn't want the wards restored.
 
 4. A noble sorcerer's magic is changing, growing stronger and stranger. Her bloodline carries something she doesn't understand—and it's waking up.
 
@@ -322,11 +322,21 @@ The realm's mages must decide which side they serve—or whether to flee before 
 ### Art Style
 **Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on magical effects and arcane imagery, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition.**
 
-### Magic in Use
-**Prompt:** A weathered wizard in dark robes casting warding magic over ancient battlefield ruins at twilight. Pale blue runic symbols spiral upward from his outstretched hands, forming protective geometric patterns in the air. His face shows intense concentration and exhaustion. In the background, shadowy figures stir among old grave markers. Cold mist rises from the ground. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Dark fantasy magic illustration.
+### Warding Magic (Academic Tradition)
+**Prompt:**
+A weathered wizard in dark robes casting warding magic over the ancient battlefield ruins of the Ashen Fields at twilight, one of the realm's masters maintaining the seals that hold back the rising dead. The mage is human, male, in his sixties with a silver beard and eyes that have seen too much, his face showing intense concentration and the exhaustion of power spent. Pale blue runic symbols spiral upward from his outstretched hands, forming geometric patterns of protection in the air—interlocking circles and triangles that glow with cold light against the gray sky. The runes are Old Tongue script, words of binding and containment taught from master to apprentice for generations. Behind him, other mages work at the boundary of the cursed ground, their own magic adding to the great working. In the background, shadowy figures stir among old grave markers—the dead testing the wards, pressing against the invisible barrier. Cold mist rises from the blighted ground. The wizard's robes are travel-worn, his staff inscribed with personal wards, and dark circles under his eyes speak to nights without sleep. The atmosphere of desperate holding action, of power used not for glory but for grim necessity. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on runic effects and magical exhaustion, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Dark fantasy warding magic illustration.
 
-### Magical Focus/Artifact
-**Prompt:** An ancient iron-bound tome resting on a stone altar in a dimly lit study. The book's pages glow faintly with arcane script. Dried herbs, a silver ritual knife, and glass vials of dark liquid surround it. Dust motes float in a single beam of candlelight. Runic wards are carved into the altar's surface. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy grimoire illustration.
+### The Cost of Power (Forbidden Magic)
+**Prompt:**
+A practitioner of forbidden magic paying the price for the power they've claimed, alone in a hidden chamber beneath a noble's tower. The figure—gender ambiguous, face hidden in shadows—kneels in a circle of blood and chalk, their arms bare to show the spreading corruption: dark veins climbing toward the heart, skin taking on a gray pallor, fingernails blackening at the edges. Before them, dark flames burn in a brazier without consuming the herbs that fuel them—flames that cast shadows pointing toward the caster rather than away. The air around the figure shimmers with power they shouldn't possess, necromantic energy visible as wisps of purple-black mist. Their reflection in a nearby mirror shows something different than the figure itself: older, more decayed, eyes completely black. On a table rest the components of forbidden magic: a skull inscribed with demon names, a blade still wet with sacrifice, pages from a grimoire that will be burned if the Faith's inquisitors ever find it. The chamber walls bear protective symbols—not to keep things out, but to keep what's inside from being detected. The atmosphere of terrible bargain, of power gained at the cost of humanity slowly being paid. Hyper-realistic digital art, photorealistic rendering, dark ritual lighting, rich textures, intricate detail on magical corruption and forbidden practice, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Dark fantasy corruption illustration.
+
+### The Grimoire and Study
+**Prompt:**
+An ancient iron-bound grimoire resting open on a stone altar in the study of an academic mage, the accumulated knowledge of generations of practitioners. The tome is massive—two feet across when open—its pages yellowed with age but preserved by careful magic, covered in arcane script that glows faintly gold in the candlelight. Illuminated diagrams show the geometric patterns of protective wards, the anatomical maps used in healing magic, and the stellar charts required for divination. Around the grimoire, the tools of the academic tradition: dried herbs sorted into labeled ceramic jars, a silver ritual knife whose blade has never cut flesh, glass vials of alchemical preparations ranging from healing draughts to deadly poisons, a crystal sphere for scrying, candles of beeswax inscribed with focusing runes. The altar itself is ancient stone, its surface carved with runic wards against magical accident and theft. The study beyond is visible in soft focus: shelves of additional tomes, specimen jars containing preserved creatures, a skeleton used for anatomical reference, astronomical instruments. Dust motes float in the beam of light from a high window. The atmosphere of accumulated knowledge and careful practice, of magic as discipline rather than gift. Hyper-realistic digital art, photorealistic rendering, warm candlelight atmosphere, rich textures on aged parchment and magical implements, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy wizard's study illustration.
+
+### Divine Magic (Faith Tradition)
+**Prompt:**
+A priest of the Faith of the Three channeling divine healing magic over a wounded soldier in a battlefield infirmary, the most honored form of magic in Eldermyr. The priest is a middle-aged woman in the white and gold robes of a Confessor, her face serene with faith despite the chaos around her. Golden light streams from her raised hands into the soldier's chest wound—not cold like academic magic but warm, alive, carrying the blessing of the Three. The soldier's wound visibly closes, flesh knitting together, blood ceasing to flow. Around the holy symbol at the priest's throat, a halo of divine power glows. Other wounded lie on pallets around her, waiting their turn, hope in their pain-glazed eyes. Attending acolytes in simpler robes assist, holding the soldier still, preparing bandages for those the magic cannot fully heal. The infirmary tent's canvas walls are marked with the triple symbol of the Faith—the Warden's shield, the Chronicler's book, and the Mother's open hand. Candles burn at a small altar despite the daylight, offerings to the divine. The atmosphere of mercy amid horror, of faith made manifest in healing power. Hyper-realistic digital art, photorealistic rendering, golden divine lighting, rich textures on clerical vestments and battlefield setting, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy divine healer illustration.
 
 ## Connections
 
@@ -335,7 +345,7 @@ The realm's mages must decide which side they serve—or whether to flee before 
 - **Related Systems:** Divine magic, Bloodline magic, Academic magic
 
 ### Geography
-- **Cursed Location:** [[Ashen Fields]]
+- **Cursed Location:** [[The Ashen Fields]]
 - **Centers of Learning:** To be developed
 
 ### Characters
@@ -349,4 +359,4 @@ The realm's mages must decide which side they serve—or whether to flee before 
 
 ### History
 - **Major Magical Event:** [[The Great War]]
-- **Cursed Battle:** [[Battle of Ashen Fields]]
+- **Cursed Battle:** [[The Battle of Ashen Fields]]

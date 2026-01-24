@@ -1,7 +1,7 @@
 ---
 name: audit-world
 description: Audit a world for consistency, D&D 5e 2024 rule compliance, broken links, orphaned entities, and connection gaps. Provides detailed reports and can auto-fix issues.
-argument-hint: "[world name] [--fix]"
+argument-hint: "[world] [--fix] [--check links|stats|orphans|images|circular] [--category Type]"
 ---
 
 # Audit World
@@ -26,7 +26,7 @@ Extract from arguments:
 1. **World name** - Required. Check `Worlds/` for existing worlds.
 2. **--fix flag** - Optional. If present, automatically fix issues where possible.
 3. **--category [type]** - Optional. Only audit specific category (Characters, Settlements, etc.)
-4. **--check [type]** - Optional. Run specific check only (links, stats, orphans, connections, templates)
+4. **--check [type]** - Optional. Run specific check only (links, stats, orphans, connections, templates, images, circular)
 
 If world name not provided, list available worlds and ask which to audit.
 
@@ -513,6 +513,120 @@ Found X compliance issues across Y entities.
 
 ---
 
+### Check 7: Image Prompt Validation
+
+**Goal:** Verify image prompt sections are properly filled for `/generate-image` readiness.
+
+**Process:**
+1. For each entity file, locate the Image Prompts section (usually near the end)
+2. Find all `**Prompt:**` fields
+3. Check if they contain actual content vs template placeholders
+
+**Template Placeholder Patterns to Detect:**
+- Empty field: `**Prompt:**` followed by nothing or whitespace
+- Unfilled brackets: `**Prompt:** [describe scene here]`
+- Generic text: `**Prompt:** Describe the scene...`
+- Template instructions: `**Prompt:** Write a detailed prompt for...`
+
+**Valid Prompt Patterns:**
+- Specific descriptions: `**Prompt:** A weathered dwarven blacksmith...`
+- Detailed scenes: `**Prompt:** Interior of a dimly lit tavern...`
+- Minimum 20 characters of descriptive content
+
+**Report:**
+```
+## Image Prompt Status
+
+### Ready for Image Generation
+| Entity | Prompts Filled | Status |
+|--------|----------------|--------|
+| [[Lord Varic]] | 2/2 | ✓ Ready |
+| [[Ironhold City]] | 2/2 | ✓ Ready |
+
+### Missing or Incomplete Prompts
+| Entity | Issue | Line |
+|--------|-------|------|
+| [[The Sunken Palace]] | Empty prompt field | 245 |
+| [[Captain Alonzo]] | Placeholder text only | 189 |
+| [[Mountain Pass]] | Missing Image Prompts section | - |
+
+Summary:
+- Entities with complete prompts: X
+- Entities with incomplete prompts: Y
+- Entities missing Image Prompts section: Z
+```
+
+**Auto-fix (if --fix):**
+- Cannot auto-fill image prompts (requires creative content)
+- Flag entities needing attention
+- Suggest running `/create-entity` to regenerate Image Prompts section
+
+---
+
+### Check 8: Circular Reference Detection
+
+**Goal:** Detect potentially problematic circular reference chains.
+
+**Process:**
+1. Build a directed graph of entity relationships
+2. For each relationship type, check for cycles
+3. Categorize cycles as valid (expected) or warning (potential error)
+
+**Valid Circular Patterns:**
+| Pattern | Example | Why Valid |
+|---------|---------|-----------|
+| Mutual relationship | A → B (ally), B → A (ally) | Symmetric relationship |
+| Parent-child | Region → City (contains), City → Region (part of) | Bidirectional by design |
+| Organization loop | Org → Member, Member → Org | Membership is bidirectional |
+
+**Warning Patterns:**
+| Pattern | Example | Why Problematic |
+|---------|---------|-----------------|
+| Geographic containment loop | A contains B contains C contains A | Impossible geography |
+| Temporal causation loop | Event A caused B caused C caused A | Paradox |
+| Hierarchical loop | God A serves B serves C serves A | Impossible hierarchy |
+| "Part of" chain loop | Region A part of B part of C part of A | Invalid nesting |
+
+**Detection Algorithm:**
+```
+1. Extract relationships by type:
+   - containment: "contains", "part of", "in"
+   - hierarchy: "serves", "reports to", "rules"
+   - causation: "caused", "led to", "resulted in"
+   - temporal: "before", "after", "during"
+
+2. For each relationship type:
+   - Build directed graph
+   - Run cycle detection (DFS-based)
+   - Classify each cycle found
+
+3. Report cycles by severity
+```
+
+**Report:**
+```
+## Circular Reference Analysis
+
+### Valid Bidirectional Links: X
+(These are expected and correct)
+
+### Warning: Potential Problematic Cycles
+
+#### Geographic Containment Loop
+[[Region A]] → contains → [[Region B]] → contains → [[Region C]] → contains → [[Region A]]
+Severity: HIGH - Geographic impossibility
+Suggestion: Review containment relationships; one link is likely incorrect
+
+#### Hierarchical Loop
+[[Organization X]] → parent of → [[Organization Y]] → parent of → [[Organization X]]
+Severity: MEDIUM - Circular hierarchy
+Suggestion: Determine which org is truly the parent
+
+No auto-fix available for circular references - requires manual review.
+```
+
+---
+
 ## Summary Report
 
 After all checks, provide comprehensive summary:
@@ -612,6 +726,65 @@ When `--fix` is specified:
 
    ### Backup Location: .audit-backup/[timestamp]/
    ```
+
+---
+
+## Rollback & Restore Procedure
+
+If auto-fix made unwanted changes, you can restore from backup:
+
+### Backup Structure
+
+```
+Worlds/[World Name]/.audit-backup/
+└── [YYYY-MM-DD_HH-MM-SS]/
+    ├── manifest.json         # List of all modified files
+    ├── Characters/
+    │   └── [backed up files]
+    ├── Settlements/
+    │   └── [backed up files]
+    └── ...
+```
+
+### Manual Restore Steps
+
+1. **Find the backup timestamp:**
+   ```bash
+   ls Worlds/[World Name]/.audit-backup/
+   ```
+
+2. **Review what was changed:**
+   Read the manifest file to see what was modified:
+   ```bash
+   cat Worlds/[World Name]/.audit-backup/[timestamp]/manifest.json
+   ```
+
+3. **Restore specific files:**
+   ```bash
+   # Copy backed up file over current version
+   cp "Worlds/[World Name]/.audit-backup/[timestamp]/Characters/Lord Varic.md" \
+      "Worlds/[World Name]/Characters/Lord Varic.md"
+   ```
+
+4. **Restore all files from a backup:**
+   ```bash
+   # Restore entire backup (overwrite current files)
+   cp -r "Worlds/[World Name]/.audit-backup/[timestamp]/"* "Worlds/[World Name]/"
+   ```
+
+### Backup Retention
+
+- Backups are kept for 7 days by default
+- Each `--fix` run creates a new timestamped backup
+- Old backups can be manually deleted from `.audit-backup/`
+
+### Partial Restore
+
+To restore only certain changes:
+
+1. Open the backed-up file
+2. Compare with current file (use diff tool or Obsidian)
+3. Manually copy specific sections you want to restore
 
 ---
 

@@ -122,11 +122,19 @@ Three months ago, the dead began rising in greater numbers. Patrols from [[Chern
 ## Image Prompts
 
 ### Art Style
-**Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition.**
+**Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on environmental devastation and supernatural horror, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition.**
 
-### Landscape
+### Landscape (Wide Shot)
 **Prompt:**
-> Wide panoramic view of the Ashen Fields, a vast blighted battlefield under a gray, overcast sky. The ground is scarred with trenches and craters, the soil gray and lifeless. Dead trees stand twisted and bare. Ash drifts in the wind. In the distance, mass graves are visible as disturbed mounds of earth. Rusted weapons and fragments of armor protrude from the ground. The atmosphere is oppressive, haunted, deeply wrong. No color except shades of gray and brown. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy cursed battlefield illustration.
+Wide panoramic view of the Ashen Fields stretching to a gray horizon, a vast expanse of cursed battlefield that was once fertile farmland. The sky above is permanently overcast, clouds swirling slowly in an unnatural vortex centered somewhere in the distance. The ground is scarred with collapsed trenches, artillery craters, and the disturbed mounds of mass graves from which pale arms and skeletal fingers reach upward. The soil is gray and powdery, mixed with ash that drifts constantly on winds that seem to blow from everywhere at once. Dead trees stand twisted and bare, their bark blackened as if burned from within, branches reaching toward the gray sky like claws of the damned. Rusted swords and spears protrude from the earth at odd angles, fragments of armor visible half-buried in ash—the remains of ten thousand soldiers who died in a single day twenty-three years ago. In the far distance, barely visible through the perpetual haze, a dark figure stands motionless at the heart of the devastation. No color exists here except shades of gray, charcoal, and the brown of old dried blood. The atmosphere is oppressive, haunted, fundamentally wrong—this is a wound in the world that refuses to heal. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on environmental devastation, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy cursed battlefield illustration.
+
+### The Heart of the Fields
+**Prompt:**
+Close view of the Heart of the Ashen Fields at twilight, where the Mad King made his final stand and where a figure now walks among the dead. The ground here is churned and disturbed, mass graves forming concentric rings around a central point where the earth itself seems to have been blasted by dark energy. Risen corpses in rusted armor shamble in formation—soldiers who died twenty-three years ago but whose wounds still appear fresh, heraldry of House Karath and House Thorne and House Valdren visible on their tattered surcoats. At the center stands the Figure: tall, wearing rotting purple and gold royal robes, the Blackened Crown upon a skull-like head, one skeletal hand raised in eternal command. The dead part around the Figure like waves around a stone. Sickly red light pulses from the Crown, illuminating faces frozen in death's rictus. The sky above swirls with unnatural clouds, and faint whispers seem to emanate from everywhere—the screams of ten thousand souls denied their rest. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on undead horror and supernatural dread, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy necromantic horror illustration.
+
+### The Mass Graves Rising
+**Prompt:**
+A mass grave in the Ashen Fields actively disgorging its dead, the earth cracking and heaving as corpses claw their way to the surface. Hands in rusted gauntlets break through gray soil, skeletal faces emerging with eyes that glow faint amber. The bodies wear the armor they died in—chainmail corroded but intact, helmets still bearing house sigils, weapons still gripped in death. Some still bear the wounds that killed them: sword gashes, arrow wounds, burns from magical fire. The grave stretches fifty feet across, a pit of writhing undeath. In the background, other graves stir, the dead rising in dozens, hundreds, answering some unheard command. Ash falls like snow. The light is the gray of perpetual overcast, with no shadow because the sun has not truly shone here in twenty-three years. The atmosphere of ancient horror awakening, of a covenant broken and the dead refusing to rest. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on undead emergence and battlefield horror, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy undead army rising illustration.
 
 ## Connections
 
@@ -155,6 +163,12 @@ Three months ago, the dead began rising in greater numbers. Patrols from [[Chern
 
 ### Items
 - **Located Here:** [[The Blackened Crown]]
+
+### Creatures
+- **Undead:** [[Risen Soldier]], [[Risen Mage]], [[Ashen Revenant]], [[Soul Warden]]
+- **Spirits:** [[Cursed Echo]], [[Whisper Shade]]
+- **Beasts:** [[Ashen Hound]], [[Corpse Amalgam]]
+- **Aberrations:** [[The Unnamed's Tendril]]
 
 ### Encounters
 - **Set Here:** [[The Ashen Patrol]]

@@ -1,7 +1,7 @@
 ---
 name: populate-entity
 description: Scan an entity file to identify mentions of people, places, organizations, and other entities in the text. Creates missing entities using appropriate templates and adds wikilinks. Use when user wants to "populate", "fill out", "create linked entities", or "auto-generate connections" for an entity.
-argument-hint: "[entity path or name] [--dry-run] [--auto] [--limit N]"
+argument-hint: "[entity or --world WorldName] [--dry-run] [--auto] [--limit N]"
 ---
 
 # Populate Entity
@@ -32,6 +32,8 @@ This skill analyzes an existing entity file to:
 | `--limit N` | Maximum number of entities to create | 20 |
 | `--broken-only` | Only fix broken wikilinks, skip plain text detection | false |
 | `--links-only` | Only add wikilinks to existing entities, don't create new | false |
+| `--world [name]` | **BULK MODE:** Process all entities in the specified world | - |
+| `--category [type]` | With `--world`: only process entities in this category | all |
 
 ### Step 2: Locate Entity & Determine World
 
@@ -521,6 +523,92 @@ Suggested Next Steps:
 2. Run /audit-world [World Name] to verify all connections
 3. Generate images with /generate-image [Entity]
 ```
+
+## Bulk Processing Mode
+
+When `--world` flag is provided, the skill processes multiple entities:
+
+### Bulk Mode Workflow
+
+1. **Scan world directory:**
+   - List all `.md` files in `Worlds/[World Name]/`
+   - If `--category` specified, only scan that folder
+   - Build a master entity index for the entire world
+
+2. **Analyze all entities:**
+   - Run detection on each entity file
+   - Compile a master list of potential new entities
+   - De-duplicate across files (same reference in multiple files = one entity)
+
+3. **Present consolidated plan:**
+   ```
+   === BULK POPULATE: [World Name] ===
+
+   Files Analyzed: X
+   Files with Detections: Y
+
+   ENTITIES TO CREATE (de-duplicated):
+
+   | Entity | Type | Referenced In | Times |
+   |--------|------|---------------|-------|
+   | Marco Fortunato | Character | 3 files | 7 mentions |
+   | The Iron Guild | Organization | 2 files | 4 mentions |
+   ...
+
+   Total: N new entities across M source files
+
+   Options:
+   1. Create all (uses best-guess types)
+   2. Review by category
+   3. Review each individually
+   4. Dry run complete
+   ```
+
+4. **Process with de-duplication:**
+   - Create each entity once
+   - Update ALL source files that reference it
+   - Add reciprocal links from new entity to all referencing entities
+
+5. **Bulk summary report:**
+   ```
+   === BULK POPULATE COMPLETE ===
+
+   Entities Created: N
+   Source Files Updated: M
+   Total Wikilinks Added: X
+   Reciprocal Links Created: Y
+
+   By Category:
+   - Characters: N created
+   - Settlements: N created
+   ...
+   ```
+
+### Bulk Mode Options
+
+```bash
+# Process entire world (with confirmations)
+/populate-entity --world Eldermyr
+
+# Fully automated (no confirmations)
+/populate-entity --world Eldermyr --auto
+
+# Only fix broken links across world
+/populate-entity --world Eldermyr --broken-only
+
+# Limit total entities created in bulk
+/populate-entity --world Eldermyr --limit 50
+
+# Preview bulk changes
+/populate-entity --world Eldermyr --dry-run
+```
+
+### Performance Notes
+
+- Bulk mode builds entity index once (more efficient)
+- De-duplication prevents creating duplicate entities
+- For very large operations, use `--limit` to process in batches
+- Consider running `/audit-world --check links` afterward to verify
 
 ## Examples
 

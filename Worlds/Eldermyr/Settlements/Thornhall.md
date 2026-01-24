@@ -130,7 +130,7 @@ The largest religious structure in Eldermyr. Three spires rise from a central st
 The realm's greatest hospital, run by the Shepherd's order. Healing happens here that borders on the miraculous—or perhaps is miraculous. Sister Elspeth's counterpart here, Mother Agatha, has healed wounds that should have been fatal.
 
 ### The Grey Bastion
-Headquarters of the [[Grey Wardens]], the order that ensures the dead rest peacefully. [[Grandmaster Aldric Greymane]] commands from here, though he spends most of his time at [[The Ashen Fields|the Ashen Fields]]. The Bastion houses the order's archives, training facilities, and the entrance to the sealed catacombs.
+Headquarters of [[The Grey Wardens]], the order that ensures the dead rest peacefully. [[Grandmaster Aldric Greymane]] commands from here, though he spends most of his time at [[The Ashen Fields|the Ashen Fields]]. The Bastion houses the order's archives, training facilities, and the entrance to the sealed catacombs.
 
 ### The Sacred Archives
 Where [[The Faith of the Three|the Faith]]'s records are kept—histories, doctrines, theological texts, and... other things. Certain sections are restricted. Certain sections are sealed. Certain sections don't officially exist.

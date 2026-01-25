@@ -318,16 +318,43 @@ Describe in 2-3 sentences the present state of the language.
 ### Art Style
 **Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on script and calligraphy, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition.**
 
+### Guidelines
+When generating AI art for this language, include:
+- **Script personality:** The visual character that makes this writing distinctive—flowing or angular, dense or spacious, decorated or austere
+- **Writing culture:** The materials, tools, and contexts of literacy—who writes, on what, with what, and why
+- **Cultural embedding:** How the language reflects its speakers' values—what concepts have many words, what ideas require circumlocution
+- **Physical production:** The evidence of writing as craft—brush strokes, chisel marks, pen pressure, the hand behind the symbols
+- **Social context:** Who speaks and writes this language, in what situations, with what register and formality
+- **Time depth:** The age of the script tradition visible in the style—ancient origins or recent innovation
+
+### Language Integration (Languages Are Culture Made Audible)
+Every element should express how the language shapes and reflects its speakers' world:
+- *Don't write:* "elven script" → *Write:* "a poem in the High Elvish script that takes a lifetime to master—each letter a meditation, the characters flowing into each other like streams joining rivers, the vertical orientation following the eye down like rain through leaves, the whole page requiring hours to write and rewarding years of study to read, the very act of writing this script a statement about having centuries to spare"
+- *Don't write:* "dwarven runes" → *Write:* "contract terms carved in the angular runes that have recorded every dwarven bargain since the First Delving—each mark designed for chisel work in stone, the lines straight because curves lie, the layout dense because stone is precious, the whole document legally binding for a thousand years and designed to be readable for that entire span"
+- *Don't write:* "wizard's spellbook" → *Write:* "the notation system that wizards use to cage spells in symbols—the words themselves dangerous if spoken aloud, so recorded in a cipher that means nothing to the voice but everything to the understanding, the margins annotated with personal mnemonics that make each wizard's book unreadable to anyone else, the language of magic as individual as a fingerprint"
+
+### Distinctive Feature Ideas for Languages
+- **Script mechanics:** How the writing system works—alphabetic precision, syllabic efficiency, pictographic poetry
+- **Tool marks:** The brush strokes, pen pressure, and chisel work that reveal how writing is produced
+- **Layout traditions:** The direction, spacing, and organization that make a script visually distinctive
+- **Register indicators:** Visual cues to formality, respect, and social relationship encoded in how things are written
+- **Age markers:** How the script has evolved—archaic flourishes, modern simplifications, regional variations
+- **Cultural context:** The documents, monuments, and ephemera where this language appears in daily life
+
 ### Written Script
+The language made visible—thought crystallized in symbol.
+
 **Template:**
-> [Document type - scroll, book page, carved stone, letter] featuring [language name] script. [Script characteristics - flowing, angular, pictographic]. [Writing surface and materials]. [Content type - poem, law, letter, magical text]. [Decorative elements - illumination, borders, seals]. [Age and condition - fresh ink, ancient weathered, formal pristine]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on script and calligraphy, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy manuscript illustration.
+> [Document with purpose—e.g., "a treaty in the formal diplomatic script that ended the Succession War, the language of binding oaths and permanent peace"]. [Script character—e.g., "the angular letters of the High Kingdom script, each stroke deliberate and unambiguous, the language of law that cannot afford misreading—every line straight, every curve a precise arc, the whole text designed to mean exactly one thing for exactly as long as the peace must hold"]. [Production evidence—e.g., "written on calfskin vellum by a master scribe whose hand never wavered through three days of copying, the ink the permanent black made from gall nuts and iron, the letters perfectly uniform because uniformity is trust, the occasional illuminated initial adding beauty to authority"]. [Document context—e.g., "the seals of seven kingdoms hanging from ribbons at the bottom, the witnesses' signatures in their own hands and scripts, the margins noting the date in both parties' calendar systems, the whole thing folded to fit in the treaty chest where it has rested for a generation"]. [Condition—e.g., "the vellum slightly darkened with age but the ink still sharp, the folds showing where the document has been consulted in disputes, the seal ribbons faded but the wax still intact, a document that has outlasted the men who signed it"]. [Setting—e.g., "displayed in the archive where such treaties are kept, the document open on the reading desk, the afternoon light falling across words that shaped a kingdom"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on script and calligraphy, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy treaty manuscript illustration" or "Fantasy diplomatic script portrait"].
 
 **Prompt:**
 
 
 ### Speaker Scene
+The language in action—communication in its natural habitat.
+
 **Template:**
-> [Speaker description - race, attire, setting] speaking [language name] to [listener]. [Cultural context - marketplace negotiation, scholarly debate, intimate conversation, formal address]. [Visual indicators of language - gestures, expression, body language]. [Environment reflecting culture]. [Atmospheric lighting appropriate to setting]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy cultural scene.
+> [Speaking moment—e.g., "a merchant negotiating in the Trade Tongue that serves all the ports of the Inner Sea, the language of bargain and compromise"]. [Speakers—e.g., "the merchant from the eastern kingdoms with his lilting accent, the buyer from the western ports whose version of the same language uses different words for the same numbers, the two of them finding their way to a price through a language neither speaks natively but both trust"]. [Communication context—e.g., "the marketplace stall piled with spices that have traveled further than either merchant, the hand gestures that emphasize meaning across accent barriers, the occasional switch to native languages when emotions run high, the return to Trade Tongue when business resumes"]. [Language evidence—e.g., "the visible effort of speaking a second language, the pauses for word-finding, the occasional misunderstanding quickly corrected, the particular satisfaction of communication achieved despite difference"]. [Cultural details—e.g., "each merchant's native dress proclaiming origins, the goods between them bridging cultures as the language bridges understanding, the marketplace around them filled with a dozen more such conversations in a babel of accents"]. [Atmosphere—e.g., "the busy market's sound barely penetrated by the focused negotiation, the noonday sun illuminating faces concentrated on understanding each other, the particular intensity of commercial communication"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on script and calligraphy, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy marketplace negotiation illustration" or "Fantasy multicultural communication scene"].
 
 **Prompt:**
 

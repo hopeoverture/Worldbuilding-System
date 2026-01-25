@@ -282,16 +282,43 @@ Divine artifacts associated with this deity:
 ### Art Style
 **Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on divine beings and celestial imagery, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition.**
 
+### Guidelines
+When generating AI art for this deity, include:
+- **Domain embodiment:** The god's nature made visible—a war deity carries battle in their stance, a love deity radiates attraction
+- **Scale of presence:** Divine beings should dwarf mortal concerns, their presence reshaping the space around them
+- **Impossible beauty:** Features that are beyond mortal perfection yet carry the deity's essential nature—terrifying beauty for war gods, nurturing warmth for harvest deities
+- **Power manifestation:** The god's might should be visible even at rest—light bending, reality warping, elements responding
+- **Worshipper reference:** Context for mortals—how small they appear, how they react, what the divine presence does to the mundane
+- **Symbolic integration:** The deity's sacred symbols, animals, and colors woven into their appearance naturally
+
+### Deity Integration (Gods Are Concepts Made Flesh)
+Every element should express the deity's nature, power, and relationship with mortals:
+- *Don't write:* "goddess of the sun" → *Write:* "a goddess whose form is the sun given shape—her skin the gold of dawn, her hair flowing rays that warm what they touch, her eyes containing the fires that drive away darkness, her mere presence banishing shadows not through light cast but through radiance inherent, as if she is not illuminated but is illumination itself"
+- *Don't write:* "god of war appearing to soldiers" → *Write:* "the War-Father manifesting above the battlefield at the moment before the charge, his form composed of every weapon that has taken a life, his face the skull beneath every soldier's helm, his voice the thunder of shield-walls meeting—the soldiers below frozen between terror and transcendence as they see what they have been praying to"
+- *Don't write:* "deity with symbol" → *Write:* "the Harvest Mother crowned with grain that grows from her hair, her hands stained with the soil she teaches mortals to work, the scent of bread baking following her like perfume, her eyes the green of spring and the gold of autumn in turn—around her, flowers bloom in footprints and fruit ripens at her glance"
+
+### Distinctive Feature Ideas for Deities
+- **Domain embodiment:** The god IS their domain—not holding flames but being flame, not commanding storms but embodying tempest
+- **Reality response:** How the world reshapes itself near divine presence—physics bending, possibilities expanding
+- **Scale flexibility:** Gods appearing at any size, their true form larger than comprehension, their manifested form chosen for purpose
+- **Mortal context:** Worshippers, petitioners, or witnesses providing scale and reaction
+- **Symbolic synthesis:** Sacred animals attending, favored colors manifesting, holy symbols appearing naturally in their form
+- **Power restraint:** The sense that what's visible is a fraction of what exists, might held in check rather than unleashed
+
 ### Divine Manifestation
+The deity revealed—divinity made visible to mortal eyes.
+
 **Template:**
-> [Deity name] manifesting in [setting - temple, battlefield, mortal realm], [physical description matching domain]. [Divine radiance and power effects]. [Worshippers or mortals reacting]. [Atmospheric effects matching domain - storms, light, fire, etc.]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy deity illustration.
+> [Deity in context—e.g., "Valdren the Storm-Bringer manifesting above his high temple as the hurricane season begins, reminding his people who commands the winds they fear and need"]. [Divine form—e.g., "a figure composed of storm itself, his body the grey-purple of thunderheads, his hair the crackling white of lightning frozen mid-strike, his eyes the calm at hurricane centers—terrible and beautiful and impossible to look away from"]. [Domain expression—e.g., "around him the clouds spiral in worship, lightning leaping between his fingers like eager hounds, rain falling from his presence though the sky elsewhere remains clear, the wind carrying his voice to every corner of the coastal kingdom"]. [Scale and power—e.g., "vast beyond mortal scale, his form stretching from horizon to horizon when he chooses to be seen, yet somehow also present, personal, speaking to each supplicant as if to them alone"]. [Mortal context—e.g., "on the temple platform below, the storm-priests in their grey robes with arms upraised, their songs drowned by thunder yet somehow heard, the gathered worshippers on their knees, faces turned upward, tears mixing with rain, overwhelmed by the presence they have prayed to all their lives"]. [Divine presence effects—e.g., "the air itself charged with power, hair rising, the taste of ozone, the particular certainty of divine attention—for good or ill, to be noticed by a god"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on divine beings and celestial imagery, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy storm god manifestation illustration" or "Fantasy deity appearing to worshippers scene"].
 
 **Prompt:**
 
 
 ### Holy Symbol
+The god's mark—divinity made wearable, worship made portable.
+
 **Template:**
-> [Deity's holy symbol], [materials and craftsmanship], [displayed context - altar, worn by priest, temple carving]. [Divine light or domain-appropriate effects]. [Sacred atmosphere]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy holy symbol illustration.
+> [Symbol with meaning—e.g., "the Stormfather's emblem, the lightning bolt clutched by the wave, the symbol that's been carved and cast and woven across the coastal kingdoms for three thousand years"]. [Physical form—e.g., "cast in silver that never tarnishes, the lightning bolt three-pronged in the ancient style, the wave curling around it in perpetual motion—the metalwork fine enough that the wave seems to move in changing light"]. [Craftsmanship—e.g., "made by the temple smiths who consider their work worship, each symbol consecrated in sea-spray and storm-wind, the silver mixed with sand from the sacred beach where the god first manifested"]. [Divine connection—e.g., "the symbol warm to touch when storms approach, said to tingle with power when the god attends to prayers made while holding it, the metal never conducting lightning though it should—protection and connection in a package that fits in a palm"]. [Context—e.g., "resting on a storm-priest's altar, the morning light through the temple windows catching the silver, the smoke of sea-salt incense rising past it, the other implements of worship arranged around it like attendants around a throne"]. [Atmosphere—e.g., "the particular presence of sacred objects, the sense that this simple symbol is a doorway, a connection, a piece of something much larger than metal and craft"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on divine beings and celestial imagery, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy holy symbol illustration" or "Fantasy divine emblem close-up"].
 
 **Prompt:**
 

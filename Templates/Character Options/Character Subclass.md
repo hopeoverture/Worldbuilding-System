@@ -351,16 +351,43 @@ Types of teachers for this path:
 ### Art Style
 **Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on character and subclass-specific elements, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition.**
 
+### Guidelines
+When generating AI art for this subclass, include:
+- **Specialization visible:** What makes this subclass distinct from others of the same class—the unique visual signature
+- **Power differentiation:** How this subclass's abilities look different from the base class and other subclasses
+- **Thematic consistency:** The aesthetic that unifies all this subclass's features—colors, symbols, atmospheric effects
+- **Feature manifestation:** The signature level 3, 6, 10, or 14 features made visually dramatic
+- **Training distinction:** What marks this specialization's particular school, tradition, or path
+- **Role clarity:** How this subclass's niche within the party is visible in stance, equipment, and positioning
+
+### Subclass Integration (Subclasses Are Specializations Made Spectacular)
+Every element should express the subclass's unique approach, its distinct power, and its thematic identity:
+- *Don't write:* "necromancer wizard" → *Write:* "the wizard who walks with the dead—the particular pallor of someone who has spent years studying forces that drain life, undead servants visible at the edge of the frame awaiting commands, the spell focus made from bone that amplifies her specialty, the way shadows seem to lean toward her even in bright light, the serene expression of someone comfortable with mortality"
+- *Don't write:* "totem warrior barbarian" → *Write:* "the barbarian whose rage calls the bear spirit—the ursine shadow that rises around him when he fights, muscles swelling beyond human proportion as the totem's power fills him, the claws that aren't quite there but leave real wounds, the roar that is two voices, the primal connection to something ancient visible in eyes that aren't entirely human anymore"
+- *Don't write:* "oath of vengeance paladin" → *Write:* "the paladin whose oath was sworn over a grave—armor deliberately unpolished, the better to hide blood, the particular intensity of someone who has replaced faith's warmth with faith's cold purpose, divine power that manifests as shadow-edged light because even her god's radiance bends to her vengeance, the list of names she carries though she would never forget them"
+
+### Distinctive Feature Ideas for Subclasses
+- **Power signature:** The unique color, effect, or manifestation of this subclass's abilities
+- **Equipment modifications:** How gear is adapted to the specialization—runes, modifications, signature items
+- **Physical tells:** What years of this particular path do to the body and bearing
+- **Symbolic elements:** The icons, emblems, and decorations that mark this specialization
+- **Atmospheric effects:** How the environment reacts to this subclass's presence and power
+- **Feature moments:** What the subclass's defining abilities look like at their peak
+
 ### Subclass in Action
+The specialization unleashed—signature power fully expressed.
+
 **Template:**
-> [Parent class] with [subclass specialization] using [signature ability or feature]. [Visual manifestation of subclass power]. [Appropriate equipment and attire]. [Environment suited to subclass theme]. [Dynamic action pose]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy subclass illustration.
+> [Subclass signature ability in use—e.g., "the shadow sorcerer at the moment her power peaks, the ancestral darkness that is her birthright made manifest, shadow magic reshaping reality around her"]. [The situation—e.g., "the moment she steps between her wounded companions and the enemies who cannot understand what they're facing, the darkness around her rising like a living shield"]. [Subclass power manifesting—e.g., "shadows that move independently of light sources, darkness that seems to have weight and texture, the particular cold that comes from somewhere beyond the material plane, her eyes pools of absolute black that somehow still convey expression"]. [Parent class foundation—e.g., "the sorcerer's innate power visible in how effortlessly she shapes magic, no spellbook or study required, the raw gift that runs in her blood"]. [Specialization distinctiveness—e.g., "everything that makes shadow sorcery different from other origins—the comfort in darkness, the resistance to cold that is nearly resistance to death, the sense that she is never truly alone"]. [Environment responding—e.g., "torches guttering, light sources dimming, shadows lengthening toward her as if she is their center, the ambient darkness of the dungeon recognizing one of its own"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on character and subclass-specific elements, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy shadow sorcerer illustration" or "Fantasy dark magic subclass scene"].
 
 **Prompt:**
 
 
 ### Subclass Symbol/Icon
+The specialization's identity—philosophy made symbol.
+
 **Template:**
-> [Symbolic representation of subclass] - [key imagery related to theme]. [Colors and materials appropriate to subclass]. [Mystical or martial atmosphere depending on type]. [Iconic design]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy emblem illustration.
+> [Subclass emblem with meaning—e.g., "the symbol of the Way of Shadow monk order, the icon that disciples meditate upon until its meaning becomes part of their training"]. [Design elements—e.g., "a circle of absolute darkness containing a single point of light—or perhaps the reverse, the ambiguity intentional—rendered in lacquer and obsidian on the monastery wall where initiates first see it"]. [Material significance—e.g., "materials chosen for meaning: the obsidian for darkness visible, the lacquer for the reflection monks must master, the single white stone at center for the self that must survive the shadow's embrace"]. [Context—e.g., "the meditation hall where the symbol hangs, incense smoke partially obscuring it, the way novices are taught to look past the obvious and see deeper meanings"]. [Symbolic depth—e.g., "the multiple interpretations this symbol supports—the shadow within the light, the light within the shadow, the balance that makes shadow monks what they are rather than mere assassins"]. [Atmospheric elements—e.g., "the particular lighting that makes the symbol hard to see directly, forcing the indirect vision that shadow monks develop, the way it seems to shift depending on angle"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on character and subclass-specific elements, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy shadow monk emblem illustration" or "Fantasy martial order symbol design"].
 
 **Prompt:**
 

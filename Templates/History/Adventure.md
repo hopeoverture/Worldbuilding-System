@@ -511,16 +511,43 @@ Tips for running this adventure effectively:
 ### Art Style
 **Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on characters and environments, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition.**
 
+### Guidelines
+When generating AI art for this adventure, include:
+- **Heroic presence:** Adventurers as they actually are—capable but not perfect, equipped and ready but marked by the journey
+- **Environmental storytelling:** Locations that reveal their history, their dangers, and their secrets through visual detail
+- **Stakes visible:** The threat, treasure, or objective that makes the adventure matter
+- **Party dynamics:** The relationships between adventurers visible in their positions, glances, and cooperation
+- **Villain menace:** Antagonists as real threats, not just obstacles—intelligent, powerful, and invested in the outcome
+- **Atmosphere of adventure:** The particular energy of the quest—the tension before battle, the wonder of discovery, the exhaustion of the road
+
+### Adventure Integration (Adventures Are Stories Made Playable)
+Every element should express the quest's drama, its challenges, and its opportunities for heroism:
+- *Don't write:* "party in dungeon" → *Write:* "the moment of commitment when the party enters the tomb that hasn't opened in a thousand years—torchlight revealing the first glyphs of warning, the fighter's shield already raised, the wizard already whispering detection cantrips, the rogue scanning for traps with eyes trained by a hundred close calls, each of them knowing this could be glory or death and choosing glory anyway"
+- *Don't write:* "fighting a dragon" → *Write:* "the instant before the dragon's breath, when everything depends on what happens next—the ancient wyrm rearing back, the heat already visible in its throat, the knight bracing her shield while screaming at the others to move, the archer's last arrow nocked, the cleric's prayer half-finished, the wizard's counterspell racing toward completion"
+- *Don't write:* "discovering treasure" → *Write:* "the chamber at the heart of the ruin, where the legends said the crown of the lost king waited—the party frozen at the threshold, the treasure visible on its pedestal exactly as the stories described, the traps and guardians that should have been here conspicuously absent, the collective recognition that this is too easy visible in every cautious stance"
+
+### Distinctive Feature Ideas for Adventures
+- **Party composition:** The different classes, races, and roles visible in equipment and bearing
+- **Environmental hazards:** The dangers of the setting—traps, terrain, weather, creatures lurking
+- **Quest objects:** The macguffin, the treasure, the person to rescue visible or hinted
+- **Travel evidence:** The dust, wear, and wounds of the journey already taken
+- **Tactical positioning:** Where each party member stands reveals their role and their trust
+- **Wonder and danger:** The fantasy elements that make adventures extraordinary—magic, monsters, impossible places
+
 ### Key Scene
+The adventure in motion—a dramatic moment mid-quest.
+
 **Template:**
-> [Dramatic moment from the adventure], [location details]. [Characters present - heroes and/or villains]. [Action or tension - combat, confrontation, discovery]. [Environmental elements - lighting, weather, atmosphere]. [Emotional tone]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy adventure illustration.
+> [Adventure moment—e.g., "the ambush in the pass where the bandits had every advantage until they discovered what kind of travelers they'd stopped"]. [The situation—e.g., "the narrow gorge where rocks block the road ahead and armed men appear on the ridges above, the classic trap that has worked for them before, the moment before violence when anything could still happen"]. [The party—e.g., "five adventurers frozen in apparent helplessness, the warrior's hand on her sword, the wizard's fingers beginning to trace a spell, the rogue who has already disappeared from where he was standing, the cleric whose prayer is for the bandits not himself, the ranger who has counted the enemies and found them wanting"]. [The opposition—e.g., "the bandits visible on the ridges with bows drawn, their leader visible delivering the usual threat, their confidence visible in their casual stances, not yet realizing they're the ones in danger"]. [Environment—e.g., "the mountain pass with its narrow approach and steep walls, the morning light catching dust from the blocked road, the positions that favor ambushers until the ambushed refuse to cooperate"]. [Tension—e.g., "the instant before the fight starts, when the bandits still think they're in control, when the party has already won the battle in their heads and are just waiting for their enemies to catch up"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on characters and environments, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy adventure ambush illustration" or "Fantasy party encounter scene"].
 
 **Prompt:**
 
 
 ### Climactic Encounter
+The adventure's climax—the final confrontation.
+
 **Template:**
-> [Final confrontation scene], [boss lair or dramatic location]. [The antagonist in their element]. [Heroes facing the challenge]. [Environmental hazards or dramatic elements]. [Stakes visible in the scene]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy boss battle illustration.
+> [The showdown—e.g., "the lich's throne room where the quest ends, the moment everything has been building toward since the wizard's village burned"]. [The antagonist—e.g., "the lich on the throne of bones it has occupied for five centuries, power crackling around fingers that have killed thousands, the intelligence of an archmage animated by hatred of all that lives, the confidence of something that has already won a hundred times"]. [The setting—e.g., "the chamber carved from the heart of the mountain, the phylactery visible in its case of wards behind the throne, the undead army frozen at their master's gesture because it prefers to kill heroes personally"]. [The heroes—e.g., "the party arranged for this fight, the cleric's turn undead already glowing, the fighter between the lich and the wizard who is the real threat, the rogue circling toward the phylactery because that's how this ends, all of them wounded from the journey here but none of them wavering"]. [Environmental elements—e.g., "the green-black light of necromantic power illuminating everything in corpse colors, the cold that radiates from the throne, the ancient runes on the walls that amplify the lich's power in this place"]. [Stakes visible—e.g., "the souls trapped in gem-lights around the throne, the kingdom that will fall if the heroes fail, the weight of everyone who has died trying this before visible in the trophies on the walls"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on characters and environments, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy boss lair confrontation illustration" or "Fantasy climactic battle scene"].
 
 **Prompt:**
 

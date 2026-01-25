@@ -236,16 +236,43 @@ What might make this technology obsolete?
 ### Art Style
 **Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on mechanical and technological elements, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition.**
 
+### Guidelines
+When generating AI art for this technology, include:
+- **Engineering philosophy:** The design approach revealing cultural values—dwarven obsession with durability, gnomish love of cleverness, human practicality
+- **Problem-solving evidence:** The visible solutions to technical challenges, the iterations and improvements visible in the design
+- **Materials honesty:** Authentic textures of metal, wood, leather, and glass showing their true properties and wear patterns
+- **Operator relationship:** The human (or otherwise) scale of the technology, the hands that work it, the bodies that tend it
+- **Environmental integration:** How the technology fits into its setting—workshop grime, battlefield damage, city soot
+- **Power sources visible:** Steam venting, gears turning, magical crystals glowing, the energy that makes it work
+
+### Technology Integration (Technology Is Progress Made Tangible)
+Every element should express the innovation's nature, its creators' values, and its impact on the world:
+- *Don't write:* "printing press" → *Write:* "a printing press that has changed the kingdom more than any war—the mechanism of wood and iron showing ten thousand impressions in the wear of the type blocks, the ink-stained frame speaking of pamphlets that toppled a duke and broadsheets that made a rebellion, the apprentice at the paper stack no older than the machine itself but already part of the generation that reads rather than listens"
+- *Don't write:* "clockwork automaton" → *Write:* "a clockwork servant crafted by the greatest artificer of the age, the brass and copper showing the thousands of hours required to give it motion—gears visible through crystal panels turning with hypnotic precision, the glass eyes tracking movement with something too close to awareness, the whole thing worth a noble's ransom but running on principles that, once understood, could be built by any competent smith"
+- *Don't write:* "airship engine" → *Write:* "the engine that keeps six hundred tons aloft, a marriage of magic and mechanism that neither wizards nor engineers fully understand—the crystals pulsing with contained lightning, the brass housing warm to touch even in the freezing heights, the whole contraption tended by artificers who've learned its moods and speak of it as sailors speak of the sea"
+
+### Distinctive Feature Ideas for Technology
+- **Iteration archaeology:** Visible improvements over previous designs, the problems solved and the lessons learned
+- **Craft signatures:** The marks of specific traditions—dwarven runic calibration, gnomish whimsy, elven organic integration
+- **Scale revelation:** Something that shows the technology's size—tools for maintenance, operators for comparison, environment for context
+- **Failure prevention:** Safety features, backup systems, and the evidence of lessons learned from disaster
+- **Production evidence:** The manufacturing marks, quality stamps, and serial indicators that speak of industrial process
+- **Maintenance history:** Replaced parts, upgraded components, and the ongoing relationship between machine and keeper
+
 ### Technology in Use
+The innovation in operation—purpose fulfilled, progress in motion.
+
 **Template:**
-> [Technology type] in operation, [setting - workshop, battlefield, city]. [Technical details visible - gears, mechanisms, components]. [Operator or users]. [Environmental effects - steam, smoke, light]. [Era-appropriate atmosphere]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy technology illustration.
+> [Technology with identity—e.g., "the great pumping engine that keeps the deep mines dry, the machine that made possible the wealth that built a kingdom"]. [Operation—e.g., "the massive beam rising and falling in its eternal rhythm, the steam hissing from the cylinder, the whole building shaking with each stroke, the workers moving around it with the casual respect of people who've made peace with dangerous power"]. [Technical details—e.g., "the connecting rod thick as a man's thigh, the flywheel heavy enough to crush anything beneath it if it broke free, the gauges showing pressure and temperature in numbers that mean life and death to the engineers who read them"]. [Operators—e.g., "the engine-keeper checking the boiler with the attention of a priest at an altar, the stokers feeding coal to the furnace, the mechanic oiling joints that would seize and kill if neglected"]. [Environmental effects—e.g., "steam filling the engine house like morning fog, the heat radiating from the boiler, the coal dust settling on every surface, the particular smell of hot metal and mineral oil"]. [Setting—e.g., "the engine house built of stone to contain the force within, the mine shaft visible through the doorway, the pumps sending their endless flow of groundwater up from depths where men could never work without this machine"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on mechanical and technological elements, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy steam engine illustration" or "Fantasy industrial revolution technology scene"].
 
 **Prompt:**
 
 
 ### Technical Detail
+The innovation revealed—engineering made visible, ingenuity exposed.
+
 **Template:**
-> Close-up of [technology component], [materials and construction visible], [craftsmanship details]. [Workshop or technical setting]. [Tools and related equipment]. [Dramatic lighting highlighting detail]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy invention illustration.
+> [Component with purpose—e.g., "the governor mechanism that prevents the engine from destroying itself, the delicate balance of weights and arms that tames mechanical fury"]. [Construction details—e.g., "brass weights polished by a thousand rotations, the steel linkages showing the precision of their filing, the pivot points wearing into grooves that tell of years of service—each piece doing one job perfectly"]. [Craftsmanship—e.g., "the engraved calibration marks made by the artificer who first balanced the mechanism, the maker's stamp half-worn but still readable, the quality of work that separates reliable machines from dangerous ones"]. [Workshop context—e.g., "the mechanism shown on a maintenance bench, tools arranged with the precision of a surgeon, technical drawings visible showing what the component looks like when new"]. [Wear patterns—e.g., "the brass darkened where hands check it daily, the adjustment screws showing the marks of careful tuning, the whole thing speaking of the relationship between maker, machine, and maintainer"]. [Lighting—e.g., "workshop lamps positioned to reveal every detail, the gleam of oil on moving surfaces, the shadows that help the eye understand three-dimensional form"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on mechanical and technological elements, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy clockwork mechanism illustration" or "Fantasy engineering detail portrait"].
 
 **Prompt:**
 

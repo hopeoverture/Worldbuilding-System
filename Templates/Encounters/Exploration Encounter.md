@@ -336,16 +336,43 @@ Sensory details to have ready:
 ### Art Style
 **Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on environment and atmosphere, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition.**
 
+### Guidelines
+When generating AI art for this exploration encounter, include:
+- **Discovery anticipation:** The moment before revelation—the door that's about to open, the corner that's about to be turned, the mystery about to be solved
+- **Environmental storytelling:** What this place reveals about who made it, what happened here, what secrets it still holds
+- **Scale and wonder:** The awe of exploration—vast caverns, ancient architecture, spaces that humble those who enter
+- **Danger signs:** The warnings that careful adventurers notice—signs of hazard, evidence of what happened to previous explorers
+- **Interactive possibility:** Elements that invite investigation—levers, inscriptions, locked doors, unexplained features
+- **Atmosphere of mystery:** The particular feeling of a place that has secrets to reveal to those brave or clever enough to find them
+
+### Exploration Encounter Integration (Exploration Is Wonder Made Dangerous)
+Every element should express the location's mystery, its rewards, and its risks:
+- *Don't write:* "ancient ruins" → *Write:* "the temple that has waited a thousand years for someone to read its warnings—dust that hasn't been disturbed since the last priest walked these halls, murals whose paint is still vivid because no sunlight has touched them, the particular stillness of a place that was sealed for a reason now forgotten"
+- *Don't write:* "cave with treasure" → *Write:* "the dragon's hoard revealed by torchlight for the first time in a century—the moment of wonder before calculating how much can be carried, the glitter of gold making shadows seem to move, the question of what else the dragon was guarding that might still be here, the particular tension of riches that seem too easy"
+- *Don't write:* "mysterious chamber" → *Write:* "the room at the dungeon's heart that explains everything—the control room, the ritual chamber, the laboratory where whatever destroyed this place was created, the answers to every question written on walls that will take hours to decipher, the growing understanding that knowledge has its own dangers"
+
+### Distinctive Feature Ideas for Exploration Encounters
+- **Age markers:** Dust, cobwebs, weathering, decay—or their conspicuous absence where something has been preserved
+- **Previous explorers:** Bones, abandoned equipment, final journals—the evidence of those who came before
+- **Mystery elements:** Inscriptions, murals, unusual architecture, inexplicable features that invite investigation
+- **Danger hints:** Scorch marks, claw scratches, suspicious stains, trap indicators for the observant
+- **Reward glimpses:** The shine of gold, the glow of magic, the shape of something valuable visible but not yet reached
+- **Scale establishing:** Size comparisons, vast spaces, intricate details that convey the scope of what's being explored
+
 ### The Location
+The space itself—environment as character.
+
 **Template:**
-> [Environment type] showing [key features]. [Lighting conditions - shafts of light, bioluminescence, torchlight]. [Atmosphere - mysterious, foreboding, wondrous]. [Scale elements - tiny details or vast spaces]. [Signs of the challenge or discovery]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy exploration illustration.
+> [Location with presence—e.g., "the moment of entering the great library that shouldn't exist, the first sight of a room that changes everything the party thought they knew about this place"]. [Physical reality—e.g., "shelves rising forty feet to vaulted ceilings that glow with preserved light, books that number in the tens of thousands arranged with an organization that must make sense to someone, the dust that covers everything except the path where something has walked recently"]. [Environmental storytelling—e.g., "the reading alcoves where scholars once worked still arranged with their final research, the astronomy charts on one wall that show stars in positions they haven't occupied in millennia, the catalog system that will take hours to understand but promises answers to questions the party hasn't thought to ask"]. [Mystery elements—e.g., "the section at the room's center that has been cleared of books, the circle on the floor that might be decorative or might be something else, the door at the far end that someone has tried very hard to hide"]. [Atmosphere—e.g., "the preserved silence that swallows footsteps, the smell of old paper and magic, the particular awe of a place that represents a civilization's accumulated knowledge"]. [Explorer presence—e.g., "the party visible at the threshold taking in the scope of what they've found, torchlight revealing only hints of what lies in the darkness between shelves, the first steps into a place that will take days to explore properly"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on environment and atmosphere, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy ancient library illustration" or "Fantasy exploration discovery scene"].
 
 **Prompt:**
 
 
 ### The Discovery
+The reward revealed—wonder and danger intertwined.
+
 **Template:**
-> [Discovery type - treasure, artifact, secret door, ancient text] in [setting]. [Condition - pristine, weathered, glowing, hidden]. [Surrounding environment]. [Lighting emphasizing the find]. [Sense of wonder or danger]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy discovery illustration.
+> [Discovery made manifest—e.g., "the artifact at the sanctum's heart, glowing with the light that has drawn the party through five levels of dungeon, finally revealed in all its terrible beauty"]. [The object itself—e.g., "the crown that controlled the ancient empire, preserved exactly as it was when the last emperor set it down, the gems pulsing with magic that should have faded centuries ago, the inscription visible that will take translation but promises power or doom"]. [Setting context—e.g., "the pedestal clearly designed to display it, the wards around it that still function even now, the bodies of previous seekers who triggered protections that remain active"]. [Discovery moment—e.g., "the party's faces lit by the artifact's glow, the wizard recognizing symbols, the fighter seeing only treasure, the cleric feeling something that makes prayer seem appropriate"]. [Danger integration—e.g., "the mechanism visible that will activate when the crown is lifted, the shadow in the corner that might be natural darkness or might be guardian, the particular tension of reaching for something that has been protected this carefully for this long"]. [Wonder and threat—e.g., "the beauty that makes you want to touch it, the power that makes you hesitate, the understanding that this moment—the instant before taking the artifact—is the last moment when walking away is still possible"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on environment and atmosphere, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy artifact discovery illustration" or "Fantasy treasure reveal scene"].
 
 **Prompt:**
 

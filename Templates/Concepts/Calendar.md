@@ -294,16 +294,43 @@ Any suggested changes:
 ### Art Style
 **Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on astronomical charts and calendar artwork, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition.**
 
+### Guidelines
+When generating AI art for this calendar, include:
+- **Astronomical foundation:** The celestial bodies, cycles, and phenomena that structure time—sun, moon, stars, and their movements
+- **Cultural embedding:** How the society's values show in what they track and celebrate—religious observances, agricultural cycles, political commemorations
+- **Artistic tradition:** The decorative conventions that make this calendar distinct—illumination styles, symbolic imagery, color palettes
+- **Practical function:** The tools of timekeeping—calendars read, marked, and consulted for daily guidance
+- **Sacred and secular:** The interweaving of religious time and practical scheduling that shapes most pre-modern calendars
+- **Seasonal connection:** How the calendar reflects and guides the natural world's rhythms
+
+### Calendar Integration (Calendars Are Time Made Visible)
+Every element should express how the society organizes time and what that organization reveals about them:
+- *Don't write:* "medieval calendar" → *Write:* "the Great Calendar of the Temple of Days, illuminated over forty years by monks who believed that tracking time was worship—each month framed by the zodiac signs visible in that season's sky, the margins filled with the labors appropriate to each period, the saints' days marked in gold and the festival dates in red, the whole thing a map of the sacred year that hangs in every church and guides every life from planting to harvest to prayer"
+- *Don't write:* "astronomical chart" → *Write:* "the astrologer's working calendar, a personal copy of the royal ephemeris marked and annotated through twenty years of practice—the printed predictions overlaid with handwritten observations, the eclipses circled and their effects noted, the margins filled with the astrologer's private calculations and the particular shorthand of someone who converses daily with the heavens"
+- *Don't write:* "harvest festival" → *Write:* "the Feast of First Fruits when the calendar turns from Growing to Gathering—the whole village gathered where the temple calendar hangs year-round, the priest marking the page's turn with ceremony, the last day of the hungry gap becoming the first day of plenty, the decorations showing the transition from flower to fruit that the calendar has tracked since before anyone can remember"
+
+### Distinctive Feature Ideas for Calendars
+- **Cosmological imagery:** Sun, moon, and stars depicted in the cultural style—personified, geometric, or naturalistic
+- **Seasonal labor:** The activities appropriate to each period shown in marginal illustrations
+- **Religious markers:** Holy days, saints, and sacred observances distinguished from mundane time
+- **Era announcements:** The king's reign, the age's name, the year's number proclaimed prominently
+- **Practical annotations:** Tide tables, agricultural guides, and market schedules that make calendars useful
+- **Artistic elaboration:** Border decorations, initial letters, and imagery that make timekeeping beautiful
+
 ### Calendar Display
+The calendar as artifact—time organized, culture crystallized.
+
 **Template:**
-> [Calendar format - illuminated manuscript, carved stone, printed broadsheet, astronomical chart] showing [calendar name]. [Month names and symbols] arranged in [layout style]. [Decorative elements - zodiac symbols, deity imagery, seasonal illustrations, astronomical diagrams]. [Materials - parchment, vellum, stone, metal]. [Artistic style matching culture]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on astronomical charts and calendar artwork, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy calendar illustration.
+> [Calendar with identity—e.g., "the official calendar of the Valdren Kingdom, the version that hangs in every guild hall and church, announcing the year's shape to all who live within the king's time"]. [Format—e.g., "a broadsheet printed in the capital and distributed throughout the realm, the woodcut images showing each month's zodiac sign and traditional labors, the text naming the days and marking the festivals in the particular order that makes a year a year"]. [Decorative elements—e.g., "the border showing the four seasons as four faces—spring's maiden, summer's warrior, autumn's merchant, winter's elder—each corner marking a quarter of the wheel of time, the royal arms at the top proclaiming whose time this is"]. [Practical details—e.g., "the saints' days marked in red, the market days in blue, the court sessions in green, the space beside each date where farmers mark planting and merchants record obligations—the calendar as tool as well as art"]. [Materials and condition—e.g., "printed on sturdy paper meant to survive a year's handling, the current month smudged from daily reference, the future months clean, the past months annotated with what actually happened"]. [Setting—e.g., "hung in the common room of a prosperous tavern, the light catching the colors, the year half-turned with half its promises kept and half its obligations remaining"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on astronomical charts and calendar artwork, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy calendar illustration" or "Fantasy medieval almanac portrait"].
 
 **Prompt:**
 
 
 ### Festival Scene
+The calendar embodied—time celebrated, community gathered.
+
 **Template:**
-> [Major holiday name] celebration in [setting - city square, temple, village green, palace]. [Participants in festival attire]. [Holiday-specific activities and decorations]. [Seasonal elements - flowers, snow, harvest]. [Time of day and lighting appropriate to celebration]. [Cultural details and traditions visible]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy festival scene.
+> [Festival with meaning—e.g., "the Midsummer Fire when the calendar reaches its highest point and the sun stands still before beginning its long descent toward winter"]. [Gathering—e.g., "the entire community assembled on the hilltop where fires have been lit on this night since before the calendar had names for the days—noble and common alike, for the sun shines on everyone, the social order briefly inverted as the young leap flames and the old remember when they did the same"]. [Ritual elements—e.g., "the bonfire built to exact specifications handed down through generations, the priest with the calendar page showing today's date and its significance, the offerings to the sun god made as the flames reach their peak"]. [Seasonal details—e.g., "the sky still bright though it's nearly midnight, the flowers of high summer decorating every head and doorway, the sweat of summer labor briefly forgotten in celebration, the first fruits of the garden shared before the harvest work begins"]. [Cultural expression—e.g., "the traditional songs and dances, the costumes worn only on this night, the foods prepared according to ancient recipes, the fortune-telling and match-making that tradition assigns to this particular date"]. [Atmosphere—e.g., "firelight against the twilight sky, the community's faces lit by flames that connect them to every Midsummer their ancestors ever celebrated, the particular joy of ritual shared"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on astronomical charts and calendar artwork, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy midsummer festival illustration" or "Fantasy calendar celebration scene"].
 
 **Prompt:**
 

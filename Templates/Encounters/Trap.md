@@ -324,16 +324,43 @@ If the trap is too deadly/easy:
 ### Art Style
 **Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on mechanical or magical elements, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition.**
 
+### Guidelines
+When generating AI art for this trap, include:
+- **Hidden danger:** The subtlety of a trap waiting to be triggered—the signs visible to the careful, invisible to the careless
+- **Mechanical or magical precision:** The engineering or enchantment that makes the trap work, whether visible or concealed
+- **Trigger tension:** The moment of almost-triggering, the step about to land, the hand about to touch
+- **Consequence preview:** What will happen visible in the trap's design—blades poised, poison glistening, magic coiled to spring
+- **Environmental integration:** How the trap fits its setting—the paranoid wizard's tower, the tomb protecting secrets, the thieves' guild discouraging visitors
+- **Survivor evidence:** What happened to those who came before visible in remains, warnings scratched into walls, or conspicuous absence of remains
+
+### Trap Integration (Traps Are Murder Made Patient)
+Every element should express the trap's threat, its cunning, and its place in the location:
+- *Don't write:* "pressure plate trap" → *Write:* "the floor stone that doesn't quite match—the color slightly different, the mortar around it fresher, the particular way that dust has settled around it but not on it, the corridor sized perfectly to prevent jumping over it, the arrow slits in the walls that only make sense if you notice the pressure plate"
+- *Don't write:* "magical trap" → *Write:* "the glyph visible only to those who look for it—the particular shimmer in the air that a wizard recognizes, the scorch marks on the ceiling that explain what happened to the last wizard who didn't look for it, the ward drawn by someone who understood that adventurers eventually come and planned for them centuries ago"
+- *Don't write:* "pit trap activated" → *Write:* "the instant between the click and the falling—the floor section already tilting, the rogue's expression of recognition too late to save her, the spikes visible below because the trap maker wanted victims to see their fate, the other party members reaching for hands they won't be able to catch"
+
+### Distinctive Feature Ideas for Traps
+- **Trigger visibility:** What the observant might notice—color differences, dust patterns, wear marks, magical residue
+- **Mechanism hints:** The slits, holes, hinges, or arcane preparations that reveal how the trap works
+- **Warning signs:** Scorch marks, blood stains, remains of victims, cautionary graffiti from survivors
+- **Design psychology:** Placement that exploits behavior—behind doors, around treasures, in the expected path
+- **Craftsmanship evidence:** The pride or pragmatism of the trap maker visible in the work
+- **Activation sequence:** The moving parts, the spell unfolding, the moment frozen before consequence
+
 ### The Trap (Hidden)
+Danger concealed—death waiting patiently.
+
 **Template:**
-> [Location type] with [hidden trap elements subtly visible - thin wire, discolored floor tile, magical shimmer]. [Environment details]. [Lighting that partially conceals danger]. [Atmosphere of subtle menace]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy dungeon trap illustration.
+> [Trap in its natural state—e.g., "the corridor that has killed every thief who didn't spot what the builders hid here, the danger invisible to all but the most paranoid or perceptive"]. [Hidden elements—e.g., "the floor tile that sits a fraction of an inch higher than its neighbors, the holes in the wall disguised as decorative patterns, the residue of old poison barely visible in the arrow slits, the dust pattern that shows where others have walked and where they stopped"]. [Environment context—e.g., "the treasure vault corridor where traps make sense, the security that protected generations of wealth, the particular paranoia of architects who expected thieves"]. [Warning signs—e.g., "the skeleton in the far corner that died trying to crawl to safety, the arrow still embedded in the wall at chest height, the dark stains that no cleaning has ever removed"]. [Trigger moment approaching—e.g., "the party's scout moving carefully, the torch light that doesn't quite reveal everything, the decision point where the next step matters"]. [Atmosphere—e.g., "the silence that traps require, the particular tension of a corridor that feels wrong even before you know why, the weight of all the deaths this place has caused"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on mechanical or magical elements, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy hidden corridor trap illustration" or "Fantasy dungeon hazard scene"].
 
 **Prompt:**
 
 
 ### The Trap (Triggered)
+Violence unleashed—mechanism in motion.
+
 **Template:**
-> [Trap type] activating in [location]. [Mechanical elements in motion or magical effects manifesting]. [Victim's peril]. [Dramatic lighting from trap effects]. [Dust, debris, or magical energy]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy trap activation illustration.
+> [Trap activation in progress—e.g., "the moment the pressure plate clicks and the corridor becomes a death machine, centuries of waiting ended in a half-second of violence"]. [Mechanical/magical action—e.g., "arrows firing from both walls in a crossfire pattern, the whistle of them cutting air, the particular engineering of staggered heights designed to catch ducking and standing alike, the cloud of stone dust from impacts that missed"]. [Victim response—e.g., "the rogue diving forward because forward is the only direction that might work, the fighter behind her raising a shield against threats designed to bypass shields, the wizard's aborted spell interrupted by having to dodge"]. [Immediate consequence—e.g., "the arrow that catches the cleric's shoulder, the one that misses the bard by inches, the particular chaos of a party discovering that preparation wasn't enough"]. [Environmental transformation—e.g., "the corridor that was just stone now revealed as machinery, the wall panels showing their arrow mechanisms, the design intended not just to kill but to terrify"]. [Survival moment—e.g., "the end of the corridor visible, the decision between retreating through death or advancing through it, the desperate scramble that might leave someone behind"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on mechanical or magical elements, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy arrow trap activation illustration" or "Fantasy dungeon trap scene"].
 
 **Prompt:**
 

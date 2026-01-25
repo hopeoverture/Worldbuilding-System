@@ -306,16 +306,43 @@ Current conflicts related to the prophecy:
 ### Art Style
 **Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on mystical and prophetic elements, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition.**
 
+### Guidelines
+When generating AI art for this prophecy, include:
+- **Symbolic density:** The visual language of prophecy—images that mean more than they show, symbols layered with interpretation
+- **Temporal ambiguity:** The blurring of past, present, and future that characterizes prophetic vision
+- **Divine intrusion:** The supernatural source made visible through light, presence, or impossible elements
+- **Human response:** The awe, fear, or desperation of those who receive or witness prophetic revelation
+- **Interpretive tension:** The ambiguity that makes prophecy dangerous—images that support multiple readings
+- **Recording urgency:** The preservation of vision through art, text, or memory before it fades
+
+### Prophecy Integration (Prophecies Are Futures Made Present)
+Every element should express the prophecy's weight, its ambiguity, and its power over those who know it:
+- *Don't write:* "prophetic vision" → *Write:* "the vision that has haunted the realm for six centuries—the crowned serpent devouring the sun, painted on temple walls and whispered in conspiracies, the image meaning a dozen different things to a dozen different interpreters but all of them certain it means the end of something, the colors gold and black like warning and promise intertwined"
+- *Don't write:* "oracle in trance" → *Write:* "the Sibyl at the moment of speaking, her eyes seeing something other than the supplicant before her—the god's words coming through her throat in sounds she will not remember making, her body rigid with the effort of containing divine presence, the listeners writing desperately because the words will not repeat and she will not remember them"
+- *Don't write:* "ancient prophecy text" → *Write:* "the original record of the Doom-Speaking, written by a scribe whose hand shook with terror—the letters varying in size as fear and awe warred in the writer, the margins filled with centuries of commentary from scholars trying to decode what cannot be understood until it happens, the page worn thin where generations have touched it hoping to absorb understanding through their fingers"
+
+### Distinctive Feature Ideas for Prophecies
+- **Symbolic vocabulary:** The recurring images—serpents, crowns, blood, dawn—that prophecies share across cultures
+- **Source evidence:** The divine presence visible in supernatural light, impossible perspective, or reality distortion
+- **Recipient impact:** The physical and psychological toll of receiving vision—exhaustion, trance, ecstasy, terror
+- **Recording artifacts:** The texts, paintings, and carvings that preserve prophecy through generations
+- **Interpretation layers:** The accumulated commentary, debate, and revision that surrounds any important prophecy
+- **Fulfillment tension:** The signs and portents that seem to match the prophecy's terms
+
 ### Prophetic Vision
+The prophecy visualized—fate revealed in symbol and sign.
+
 **Template:**
-> [Artistic representation of the prophecy's imagery] - [key symbols and figures from the prophecy]. [Dreamlike or visionary quality]. [Color symbolism matching the prophecy's tone - golden hope, dark doom, ambiguous twilight]. [Prophesied figures or events depicted symbolically]. [Mystical atmosphere with otherworldly lighting]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on mystical and prophetic elements, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy prophecy visualization.
+> [Vision with power—e.g., "the Doom of the Iron Crown as depicted in the Temple of Futures, the prophecy that every ruler of the kingdom knows and none can escape"]. [Central imagery—e.g., "the iron crown sinking into flames while a hand rises from below to catch it—the prophecy's key image painted here by the artist who first dreamed it, the original vision preserved for all who would read the kingdom's fate"]. [Symbolic elements—e.g., "the seven chains breaking one by one, the sun eclipsed by a hand that might be saving or stealing, the throne empty or occupied depending on how the viewer tilts their head—the ambiguity that makes prophecy dangerous, every image capable of multiple truths"]. [Color and light—e.g., "gold and crimson dominating the palette, the colors of power and blood intertwined, the shadows deep enough to hide the details that would make interpretation certain, the whole painting lit as if by fire from below"]. [Temporal layers—e.g., "past visible in the kingdom's history surrounding the central image, present in the recognizable regalia of the current line, future in the figures too vague to identify but clearly waiting at the vision's edge"]. [Setting—e.g., "the painting covering an entire temple wall, pilgrims visible at the bottom providing scale, candles lit beneath it as offerings from those who hope to understand before understanding comes too late"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on mystical and prophetic elements, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy prophecy mural illustration" or "Fantasy doom vision painting"].
 
 **Prompt:**
 
 
 ### Oracle/Prophet
+The prophecy delivered—divine truth breaking through mortal vessel.
+
 **Template:**
-> [The prophet/oracle] delivering [prophecy name], [setting - temple, wilderness, throne room, deathbed]. [Physical state - trance, divine possession, dying vision]. [Audience reaction - awe, fear, disbelief]. [Supernatural elements - divine light, mystical symbols, spirit presence]. [Atmospheric lighting appropriate to divine revelation]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy prophetic revelation scene.
+> [Prophetic moment—e.g., "the Oracle of the Sunken Shrine at the moment of speaking the words that would reshape three kingdoms and break two dynasties"]. [Prophet's state—e.g., "the priestess transformed by the god's presence—her eyes rolled back showing white, her voice three tones at once as divinity speaks through mortality, her body rigid and trembling with the effort of containing power meant for vessels greater than flesh"]. [Divine evidence—e.g., "light emanating from no source, her simple robes suddenly luminous with significance, the shadows around her forming shapes that seem to listen, the very air thick with presence that presses on the witnesses like deep water"]. [Audience—e.g., "the king who asked the question on his knees despite himself, his advisors frozen between skepticism and terror, the temple attendants who have seen this before but never with such intensity, everyone knowing they are witnessing something that will be remembered for centuries"]. [Words visible—e.g., "the scribe writing desperately, falling behind as the prophecy pours forth faster than any hand can capture, the words themselves seeming to burn into the air before they fade"]. [Setting—e.g., "the oracle's cave with its sulfurous vapors and eternal flame, the setting unchanged for a thousand years because prophecy requires continuity, the connection to the divine maintained through ritual and place"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on mystical and prophetic elements, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy oracle revelation illustration" or "Fantasy divine prophecy scene"].
 
 **Prompt:**
 

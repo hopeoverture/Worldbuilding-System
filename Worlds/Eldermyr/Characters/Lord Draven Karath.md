@@ -42,7 +42,7 @@ faction: "[[House Karath]]"
 # Lord Draven Karath
 
 ## Overview
-Lord Draven Karath is the vengeful patriarch of [[House Karath]] Karath, and the man who has made a bargain with the ancient horror beneath [[The Ashen Fields]]. Twenty-three years ago, his father was the "Mad King" whose tyranny sparked [[The Great War]]. The realm destroyed [[House Karath]] for it—stripped their lands, slaughtered their armies, left them nothing but ashes and graves. Draven has spent his life nursing that hatred. Now, he has found something in those mass graves that will give him [[Magic of Eldermyr]] to make the realm pay. He believes he controls it. He is wrong.
+Lord Draven Karath is the vengeful patriarch of [[House Karath]], and the man who has made a bargain with the ancient horror beneath [[The Ashen Fields]]. Twenty-three years ago, his grandfather [[The Mad King|Valdus I]]—the "Mad King"—was killed by his own son [[Prince Edric the Liberator|Prince Edric]] in [[The Great War]]. Draven's father, Prince Kazimir, died fighting for his father's cause. The realm destroyed [[House Karath]] for it—stripped their lands, slaughtered their armies, left them nothing but ashes and graves. Draven has spent his life nursing that hatred. Now, he has found something in those mass graves that will give him power to make the realm pay. He believes he controls it. He is wrong.
 
 ## Appearance
 
@@ -57,7 +57,7 @@ Lord Draven Karath is the vengeful patriarch of [[House Karath]] Karath, and the
 ### Attire
 - **Typical Dress:** Black and gray, the mourning colors [[House Karath]] has worn since the war; his ancestors' sigils in tarnished silver
 - **Armor:** Ancient Karath plate, black with age, inscribed with symbols that predate [[The Faith of the Three|the Faith]]
-- **Signature Items:** An iron crown—a replica of the one his father wore—that he has never publicly claimed; a sword that whispers
+- **Signature Items:** An iron crown—a replica of the one his grandfather wore—that he has never publicly claimed; a sword that whispers
 
 ### Presence
 Draven radiates wrongness. Animals shy from him. Children cry. The faithful feel uneasy in his presence without knowing why. When he speaks, people find themselves agreeing before they realize they shouldn't. There is something magnetic and repulsive about him simultaneously—the charisma of corruption.
@@ -69,7 +69,7 @@ Draven radiates wrongness. Animals shy from him. Children cry. The faithful feel
 2. **Seductive Certainty:** Speaks with absolute conviction that his cause is just; makes vengeance sound like justice, atrocity sound like necessity
 
 ### Ideals
-**Vengeance.** My father was murdered. My family was destroyed. My people were punished for a war they didn't start. The realm owes us a debt of blood—and I will collect every drop.
+**Vengeance.** My grandfather was betrayed by his own son. My father died fighting for our house. My family was destroyed. My people were punished for a war they didn't start. The realm owes us a debt of blood—and I will collect every drop.
 
 ### Bonds
 His son [[Aleksei Karath|Aleksei]] is the last hope of [[House Karath]]. Draven would do anything to see the boy restored to power—even if it means becoming something that can no longer be called a father.
@@ -101,7 +101,7 @@ Draven accepted. He has been feeding it ever since.
 5. **Murder** — Dozens killed to keep his secrets; bodies fed to the Fields
 
 ### Justification
-"They killed my father. They butchered my family. They burned our lands and salted our fields. They left us to starve while they divided the spoils of their 'righteous war.' I didn't start this—they did. I'm simply finishing it. When my son sits on the throne and the other houses are dust, there will finally be justice. Whatever power I need to use, whatever price I need to pay—it's worth it. They made me this. They only have themselves to blame."
+"They killed my grandfather. They killed my father. They butchered my family. They burned our lands and salted our fields. They left us to starve while they divided the spoils of their 'righteous war.' I didn't start this—they did. I'm simply finishing it. When my son sits on the throne and the other houses are dust, there will finally be justice. Whatever power I need to use, whatever price I need to pay—it's worth it. They made me this. They only have themselves to blame."
 
 ### Ultimate Goal
 A Karath king on the throne, the other great houses destroyed, and the realm reborn under his family's rule. That's what Draven tells himself.
@@ -113,7 +113,7 @@ What [[The Unnamed]] wants is something else entirely.
 ### Origin
 **Background:** Noble (Fallen Dynasty)
 
-**Early Life:** Draven was twelve when his grandfather, [[The Mad King|the Mad King]], was killed by his own son in battle. He was thirteen when his father, the prince who killed a king, died of his wounds. He watched his house stripped of power, his family scattered or killed, his ancestral lands reduced to scorched earth. He grew up on hatred.
+**Early Life:** Draven was twelve when his grandfather [[The Mad King|Valdus I]] was killed by his uncle [[Prince Edric the Liberator|Prince Edric]] at [[The Battle of Ashen Fields]]. His father Prince Kazimir—who had fought loyally for the king—died of battle wounds shortly after. Draven watched his house stripped of power, his family scattered or killed, his ancestral lands reduced to scorched earth. He grew up on hatred.
 
 ### The Years Between
 Draven rebuilt what he could. He managed [[House Karath]]'s diminished holdings, married a minor noblewoman ([[Yelena Karath|Yelena]]'s mother, who died in childbirth), and raised his children to remember what was taken from them. He smiled at the other lords while plotting their deaths. He attended the councils and swallowed insults. He waited.
@@ -252,7 +252,7 @@ The ancient thing beneath [[The Ashen Fields|the Ashen Fields]] is not Draven's 
 ### Family
 - **Son:** [[Aleksei Karath]] (12) — The only innocent thing Draven cares about; everything he does, he does for [[Aleksei Karath|Aleksei]]'s future
 - **Sister:** [[Yelena Karath]] — His closest confidant and the only person who knows (almost) everything
-- **Father (deceased):** Prince Kazimir — Killed his father [[The Mad King|the Mad King]], died of his wounds; Draven saw him as a hero
+- **Father (deceased):** Prince Kazimir — Fought loyally for his father [[The Mad King]]; died of battle wounds; Draven saw him as a martyr
 - **Grandfather (deceased):** [[The Mad King]] — Draven has complicated feelings; the King was cruel but was still family
 
 ### Enemies

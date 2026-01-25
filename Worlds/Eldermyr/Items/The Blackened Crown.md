@@ -30,7 +30,7 @@ current_location: "[[The Ashen Fields]]"
 # The Blackened Crown
 
 ## Overview
-The Blackened Crown is what remains of [[The Mad King]]'s ambition—a mockery of [[The Iron Crown]], forged in blood and fire during [[The Mad King]]'s reign of terror. Where [[The Iron Crown]] binds ruler to realm, the Blackened Crown binds the dead to their master. It was believed destroyed when Prince [[Edric Valdren|Edric]] slew [[The Mad King]] at [[The Battle of Ashen Fields]], but survivors speak of a figure rising from the mass graves wearing a crown of blackened iron. [[Lord Draven Karath]] has seen this figure in his dreams. He believes it is his grandfather, waiting to reclaim what was taken. He may be right—and that is the worst possible outcome.
+The Blackened Crown is what remains of [[The Mad King]]'s ambition—a mockery of [[The Iron Crown]], forged in blood and fire during [[The Mad King]]'s reign of terror. Where [[The Iron Crown]] binds ruler to realm, the Blackened Crown binds the dead to their master. It was believed destroyed when Prince [[Prince Edric the Liberator|Edric]] slew [[The Mad King]] at [[The Battle of Ashen Fields]], but survivors speak of a figure rising from the mass graves wearing a crown of blackened iron. [[Lord Draven Karath]] has seen this figure in his dreams. He believes it is his grandfather, waiting to reclaim what was taken. He may be right—and that is the worst possible outcome.
 
 ## Classification
 
@@ -250,7 +250,7 @@ If destroyed:
 - [[The Mad King|Valdus Karath]]'s consciousness is destroyed forever
 
 ### Failed Attempts
-- Prince [[Edric Valdren|Edric]] tried to destroy it at [[The Battle of Ashen Fields|the Battle of Ashen Fields]]; he only damaged Valdus, not the Crown
+- Prince [[Prince Edric the Liberator|Edric]] tried to destroy it at [[The Battle of Ashen Fields|the Battle of Ashen Fields]]; he only damaged Valdus, not the Crown
 - The Crown survived the burning of [[The Mad King|the Mad King]]'s body
 
 ### Those Who Seek to Destroy
@@ -289,7 +289,7 @@ If destroyed:
 ### First Wielder
 **Name:** Mad King [[The Mad King|Valdus Karath]]
 
-**Story:** Valdus wore the Blackened Crown in secret for three years before Prince [[Edric Valdren|Edric]]'s rebellion. When cornered at [[The Battle of Ashen Fields|the Battle of Ashen Fields]], he revealed its power, raising his own dead soldiers to continue fighting. But Prince [[Edric Valdren|Edric]] struck him down before the full awakening could occur.
+**Story:** Valdus wore the Blackened Crown in secret for three years before Prince [[Prince Edric the Liberator|Edric]]'s rebellion. When cornered at [[The Battle of Ashen Fields|the Battle of Ashen Fields]], he revealed its power, raising his own dead soldiers to continue fighting. But Prince [[Prince Edric the Liberator|Edric]] struck him down before the full awakening could occur.
 
 ### Chronicle of Owners
 | Era | Owner | Deeds with Artifact | Fate |

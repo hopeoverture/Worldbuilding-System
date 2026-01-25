@@ -278,16 +278,43 @@ Who profited most?
 ### Art Style
 **Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on commercial scenes and goods, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition.**
 
+### Guidelines
+When generating AI art for this trade agreement, include:
+- **Commerce as culture:** The meeting of different mercantile traditions—weights, measures, currencies, and customs colliding and accommodating
+- **Goods as characters:** The commodities being traded visible and identifiable—spices, cloth, metals, grain, the physical basis of prosperity
+- **Merchant identity:** The dress codes, symbols, and behaviors that distinguish traders by guild, nation, and status
+- **Infrastructure of trade:** The ships, warehouses, scales, and documents that make commerce possible
+- **Negotiation dynamics:** The push and pull of bargaining, the calculation visible in eyes and gestures
+- **Prosperity evidence:** The wealth that trade creates visible in dress, buildings, and quality of goods
+
+### Trade Agreement Integration (Trade Agreements Are Prosperity Made Formal)
+Every element should express the economic relationship, its benefits, and its tensions:
+- *Don't write:* "merchant negotiation" → *Write:* "the moment when the spice monopoly was broken—the eastern factors offering terms that undercut competitors by a third, the western guild representatives calculating whether the profit was worth the alliance it would shatter"
+- *Don't write:* "port trade" → *Write:* "the harbor where three continents' goods meet every market day—ships from the silk lands beside wool traders from the north, warehouses flying flags of different companies, a babel of languages where 'how much?' is understood in every tongue"
+- *Don't write:* "trade agreement signing" → *Write:* "the guild compact that would reshape commerce for a century—the masters of the seven great trading houses agreeing to terms their fathers would have killed over, coins stacked beside the contract showing good faith deposits"
+
+### Distinctive Feature Ideas for Trade Agreements
+- **Commodity presence:** The goods being traded visible and desirable—silks gleaming, spices pungent, metals heavy
+- **Measurement tools:** Scales, weights, and measures that establish trust between strangers
+- **Document complexity:** Contracts, ledgers, and receipts that record obligations
+- **Cultural fusion:** Different clothing styles and customs meeting in the shared language of profit
+- **Wealth display:** The prosperity of successful traders visible in dress and surroundings
+- **Infrastructure scale:** Ships, warehouses, and trade roads showing the scope of commerce
+
 ### Trade Scene
+Commerce in motion—the agreement made real in daily exchange.
+
 **Template:**
-> Busy trading scene showing [goods being exchanged] at [market, port, caravan stop]. [Merchants from different cultures]. [Scales, coins, contracts]. [Goods being inspected or loaded]. [Bustling commercial atmosphere]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy trade illustration.
+> [Trade made tangible—e.g., "the morning exchange at the Spice Wharf where the eastern monopoly's goods meet western buyers under the new treaty's terms"]. [The goods—e.g., "crates of pepper, cinnamon, and cardamom being offloaded, the fragrance visible in how every person lifts their head, spices worth more by weight than silver"]. [The traders—e.g., "factors in distinctive saffron robes supervising weighing, western guild buyers with their own scales checking measurements, translators preventing misunderstandings that start trade wars"]. [Commerce infrastructure—e.g., "the great scales at the quay's heart, customs officials recording duties, warehouses receiving goods, coins changing hands at each step"]. [Market energy—e.g., "runners carrying samples, the shouting of bids, the smell of sea mixing with spice, the excitement of a market day when real wealth is moving"]. [Atmosphere—e.g., "morning light on the harbor, ships' flags snapping, prosperity visible in every well-maintained building"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on commercial scenes and goods, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy spice trade illustration"].
 
 **Prompt:**
 
 
 ### Agreement Signing
+The compact sealed—commercial alliance made binding.
+
 **Template:**
-> Merchant representatives signing trade agreement in [guildhall, palace, counting house]. [Commercial documents and seals]. [Samples of trade goods visible]. [Formal merchant attire]. [Prosperous atmosphere]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy commercial agreement illustration.
+> [Agreement formalized—e.g., "the guild hall where the Great Eastern Compact was finally signed after eighteen months of negotiation and three near-collapses"]. [The signatories—e.g., "the masters of the seven trading houses in ceremonial robes with chains of office, facing the eastern factors whose company represents more wealth than most kingdoms"]. [The document—e.g., "the compact spread on the table, terms that will govern trade for a generation, spaces for seven western seals and the great stamp of the eastern company"]. [Commercial symbols—e.g., "samples of goods covered by the compact displayed around the room—silks, spices, dyes—the scales and weights, the coins of both sides stacked to show exchange rates"]. [The setting—e.g., "the guild hall built by previous compacts' profits, portraits of past masters on the walls, wealth of successful trade visible in every fixture"]. [Atmosphere—e.g., "candlelight on gold chains and silk robes, the tension of enormous sums being committed, calculation visible in every face"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on commercial scenes and goods, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy trade compact signing illustration"].
 
 **Prompt:**
 

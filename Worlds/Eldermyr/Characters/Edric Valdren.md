@@ -40,7 +40,7 @@ faction: "[[House Valdren]]"
 # Edric Valdren
 
 ## Overview
-Edric Valdren is the fifteen-year-old heir to the throne of Eldermyr, son of the late [[High King Aldric II|King Aldric]] II, and grandson of the man who secretly murdered his father. Everyone assumes he's a puppet—his grandfather's tool, too young and naive to rule. They're wrong. Edric watches, listens, and waits. He knows something is deeply wrong with his regency. He just doesn't know yet how deep the rot goes.
+Edric Valdren is the fifteen-year-old heir to the throne of Eldermyr, grandson of [[High King Aldric II]] through his mother Princess Elara, and grandson of [[Lord Varic Valdren]] through his father Lord Cassian. Both his parents are dead—his mother in childbirth, his father in a "riding accident" that half the court calls murder. Everyone assumes Edric is a puppet—his surviving grandfather's tool, too young and naive to rule. They're wrong. Edric watches, listens, and waits. He knows something is deeply wrong with his regency. He just doesn't know yet how deep the rot goes.
 
 ## Appearance
 
@@ -48,14 +48,14 @@ Edric Valdren is the fifteen-year-old heir to the throne of Eldermyr, son of the
 - **Species:** Human
 - **Age:** 15, on the cusp of manhood; some boyish softness still in his features
 - **Height/Build:** 5'6" and still growing; lean and athletic from sword training; will be tall like his father
-- **Skin/Eyes:** Fair complexion from his mother's Valdren blood; striking blue eyes (his father's) that seem older than his years
+- **Skin/Eyes:** Fair complexion from his father's Valdren blood; striking blue eyes (from the royal line, his grandfather Aldric II's eyes) that seem older than his years
 - **Hair:** Dark brown, kept short as befits a young lord; tends to fall across his forehead when he's focused
-- **Distinguishing Features:** Slight cleft in his chin (his father's); hands already calloused from sword practice; often has ink stains on his fingers from secret reading
+- **Distinguishing Features:** Slight cleft in his chin (his grandfather Aldric II's legacy); hands already calloused from sword practice; often has ink stains on his fingers from secret reading
 
 ### Attire
 - **Typical Dress:** Royal blue and gold (Valdren colors he's learned to resent); finery appropriate to his station
 - **When Training:** Simple sparring clothes; prefers practical dress when he can escape formal duties
-- **Signature Item:** A plain iron ring that was his father's—not valuable, but the only thing of [[High King Aldric II|Aldric II]]'s he was allowed to keep
+- **Signature Item:** A plain iron ring that was his grandfather [[High King Aldric II|Aldric II]]'s—not valuable, but the only thing of the king's Edric was allowed to keep
 
 ## Personality
 
@@ -64,30 +64,30 @@ Edric Valdren is the fifteen-year-old heir to the throne of Eldermyr, son of the
 2. **Hidden Stubbornness:** Appears compliant and obedient while internally refusing to accept his controlled fate
 
 ### Ideals
-**Justice.** My father is dead and someone is responsible. The realm is broken and someone must fix it. I will not be a puppet king who ignores suffering because it's convenient.
+**Justice.** My parents are dead and someone is responsible. My grandfather the king died and now the realm crumbles. I will not be a puppet king who ignores suffering because it's convenient.
 
 ### Bonds
-His father's memory drives him. Edric barely knew [[High King Aldric II|Aldric II]]—the king was distant, focused on ruling—but he reveres what his father represented: a just ruler who maintained peace. He will be worthy of that legacy.
+His grandfather the king's memory drives him. Edric barely knew [[High King Aldric II|Aldric II]]—the king was distant, focused on ruling—but he reveres what his maternal grandfather represented: a just ruler who maintained peace. He will be worthy of that legacy.
 
 ### Flaws
 **Isolation.** Edric trusts no one fully. His grandfather controls his household; [[The Faith of the Three|the Faith]] wants to control his crown; the noble houses see him as a tool. He has no true friends, and his inability to trust may prevent him from finding allies when he desperately needs them.
 
 ### Motivations
-Edric wants three things: to understand why everyone treats his regency as permanent, to discover the truth about his father's death (he suspects it wasn't natural), and to become a king worthy of the crown—not a puppet, but a true ruler who protects his people.
+Edric wants three things: to understand why everyone treats his regency as permanent, to discover the truth about his parents' deaths (he suspects neither was natural), and to become a king worthy of the crown—not a puppet, but a true ruler who protects his people.
 
 ## Background
 
 ### Origin
 **Background:** Noble (Royal Blood)
 
-**Early Life:** Born to [[High King Aldric II|King Aldric]] II and Lady Serana Valdren, Edric grew up in [[Aldersgate]]'s royal palace. His childhood was comfortable but distant—his father was always ruling, his mother always deferring to her father, and his grandfather always watching. He was seven when the king died.
+**Early Life:** Born to Lord Cassian Valdren and Princess Elara (daughter of [[High King Aldric II]]), Edric never knew his mother—she died bringing him into the world. His father died in a riding accident when Edric was five. Since then, he has been raised in [[Aldersgate]]'s royal palace under the watchful eye of his paternal grandfather [[Lord Varic Valdren]], who serves as regent. His maternal grandfather [[High King Aldric II|Aldric II]] was distant, focused on ruling, but at least he was family. Three months ago, even that connection was severed when the king died.
 
 ### Formative Events
-1. **The King's Death:** At seven, Edric was told his father died in his sleep. He remembers the funeral, his mother's tears, and his grandfather's steady hand on his shoulder. He didn't understand then that the hand was a leash.
+1. **His Father's Death:** At five, Edric was told his father died in a riding accident. He barely remembers Cassian—just a warm voice and strong hands. His grandfather Varic's hand on his shoulder at the funeral felt less like comfort and more like a leash.
 
-2. **The Delayed Coronation:** At ten, he was supposed to be crowned. His grandfather explained why it couldn't happen—the realm wasn't stable, he was too young, it would come soon. It's been five years of "soon."
+2. **The King's Death:** Three months ago, his grandfather [[High King Aldric II|Aldric II]] died in his sleep. The realm whispers poison. The regency that was supposed to be temporary now looks permanent—and Varic has tightened his grip.
 
-3. **The Overheard Conversation:** At fourteen, Edric overheard his grandfather dismiss him as "manageable." That was the moment he stopped being obedient and started being strategic.
+3. **The Overheard Conversation:** At fourteen, Edric overheard his grandfather Varic dismiss him as "manageable." That was the moment he stopped being obedient and started being strategic.
 
 ### Current Situation
 Edric lives in the royal palace but has no real power. His grandfather approves his tutors, his guards, and his schedule. He attends councils where he's patted on the head and ignored. He's forbidden from visiting [[The Eastern March]] or [[The Karath Reach]]. Something is being hidden from him, and he's determined to find out what.
@@ -98,7 +98,7 @@ Edric lives in the royal palace but has no real power. His grandfather approves 
 
 2. **He's been reading forbidden things.** Edric has bribed a palace servant to smuggle him books his grandfather wouldn't approve—histories of regencies, accounts of [[The Great War|the Great War]], records of his father's reign.
 
-3. **He suspects his father was murdered.** No proof yet, just a gut feeling that a healthy man of forty-five doesn't simply die in his sleep. He's looking for evidence.
+3. **He suspects both his father and grandfather were murdered.** No proof yet, just a gut feeling that healthy men don't simply fall from horses or die in their sleep. He's looking for evidence—and wonders if his grandfather Varic is behind both deaths.
 
 4. **He's been training in secret.** His official sword training is supervised and controlled. But he's also been practicing with a retired soldier who owes nothing to [[House Valdren|Valdren]] gold—learning to fight for real, not for show.
 
@@ -145,9 +145,10 @@ Edric is trained but untested. He practices diligently and has natural talent, b
 ## Relationships
 
 ### Family
-- **Mother:** Lady Serana Valdren — Loves him but is utterly controlled by her father; Edric pities her more than he trusts her
-- **Grandfather:** [[Lord Varic Valdren]] — Controller, manipulator, and possibly his father's murderer; Edric fears and resents him
-- **Father (deceased):** [[High King Aldric II]] II "[[High King Aldric II]]" — Barely remembered but deeply revered
+- **Mother (deceased):** Princess Elara — Died in childbirth; Edric never knew her but keeps her portrait hidden
+- **Father (deceased):** Lord Cassian Valdren — Died in a "riding accident" when Edric was five; Edric barely remembers him
+- **Paternal Grandfather:** [[Lord Varic Valdren]] — Controller, manipulator, and possibly his father's murderer; Edric fears and resents him
+- **Maternal Grandfather (deceased):** [[High King Aldric II]] — Distant but legitimate family; died three months ago, possibly poisoned
 
 ### Potential Allies
 - **[[Lady Margret Thorne]]** — His grandfather's enemy; might help him, but would want something in return
@@ -236,9 +237,10 @@ The party might be:
 - **Dreams Of:** [[The Ashen Fields]] (he's heard whispers)
 
 ### Characters
-- **Grandfather/Controller:** [[Lord Varic Valdren]]
-- **Mother:** Lady Serana Valdren
-- **Father (deceased):** King Aldric II
+- **Paternal Grandfather/Controller:** [[Lord Varic Valdren]]
+- **Maternal Grandfather (deceased):** [[High King Aldric II]]
+- **Mother (deceased):** Princess Elara
+- **Father (deceased):** Lord Cassian Valdren
 - **Potential Allies:** [[Lady Margret Thorne]], [[Grandmaster Aldric Greymane]]
 
 ### Organizations

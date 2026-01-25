@@ -341,16 +341,43 @@ Describe in 2-3 sentences the dynasty's present situation.
 ### Art Style
 **Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on heraldry, royal attire, and architectural elements, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition.**
 
+### Guidelines
+When generating AI art for this dynasty, include:
+- **Lineage visible:** The family resemblance that connects generations, the features passed down through centuries
+- **Heraldic omnipresence:** The dynasty's symbols on everything they touch—clothing, architecture, documents, banners
+- **Royal materiality:** The textures of power—velvet, gold, jewels, the physical weight of wealth accumulated across generations
+- **Historical layers:** The visual echoes of previous rulers—portraits, styles, traditions that connect present to past
+- **Power symbols:** Crowns, scepters, thrones, and the ceremonial objects that embody royal authority
+- **Family dynamics:** The relationships between rulers, heirs, and rivals visible in position and expression
+
+### Dynasty Integration (Dynasties Are Blood Made Historical)
+Every element should express the ruling house's character, its continuity, and its power:
+- *Don't write:* "royal portrait" → *Write:* "the formal portrait of the current king in the gallery where every Valdren sovereign has hung since the founder took the throne—his face echoing his grandfather's cheekbones and his great-grandmother's eyes, the crown on his head worn by fifteen rulers before him, the background showing the palace his dynasty built from the profits of three centuries of rule"
+- *Don't write:* "coronation ceremony" → *Write:* "the moment the crown touched the young queen's head and she became the twenty-third of her name to rule—her ancestors visible in the portraits that lined the hall, the same words spoken by the high priest that have been spoken for six centuries, the nobles bowing to blood they have served since their own families were granted their lands"
+- *Don't write:* "royal heraldry" → *Write:* "the banner of House Valdren flying as it has flown over every victory their armies have won since the founding—the golden gryphon on azure that means loyalty to millions and tyranny to their enemies, the same device visible on coins, documents, and the shields of ten thousand soldiers"
+
+### Distinctive Feature Ideas for Dynasties
+- **Facial echoes:** Features that repeat across generations—the signature nose, jaw, or eyes
+- **Regalia continuity:** Crown, scepter, and throne that connect current ruler to ancestors
+- **Color consistency:** Dynasty colors visible in dress, décor, and heraldry
+- **Portrait traditions:** The visual conventions that identify official royal imagery
+- **Palace presence:** The architecture, decoration, and layout that embody dynasty power
+- **Ceremonial elements:** The rituals, costumes, and objects of royal occasions
+
 ### Dynasty Portrait
+The ruling house embodied—lineage made visible.
+
 **Template:**
-> [Portrait style - formal painting, coronation scene, family gathering] of [dynasty name] rulers. [Depicted rulers in period-appropriate royal attire]. [Setting - throne room, palace gallery, formal backdrop]. [Heraldic elements and dynasty symbols visible]. [Lighting appropriate to formal portraiture]. [Atmosphere of power and legacy]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on heraldry, royal attire, and architectural elements, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy royal dynasty portrait.
+> [Portrait with lineage—e.g., "the current Valdren king in the style of the dynasty portraits that have been painted for three centuries, the visual vocabulary of power that his people instantly recognize as legitimate authority"]. [The ruler—e.g., "the king at forty, the age his father was when he died in the rebellion, wearing the formal robes prescribed for state portraits since the second Valdren codified the imagery of royalty, the crown that has touched twenty-three heads sitting naturally on his"]. [Dynasty echoes—e.g., "his face showing the features that appear in every Valdren portrait—the strong jaw of the founder, the calculating eyes of the great queen, the particular set of shoulders that generations of artists have learned to capture"]. [Setting—e.g., "the throne room background that appears in all state portraits, the specific arrangement of columns and tapestries that means 'legitimate king' to anyone who sees it"]. [Heraldic elements—e.g., "the golden gryphon visible on his robes, his ring, the throne behind him, the stained glass above—the dynasty's symbol woven through every element of the image"]. [Atmosphere—e.g., "the formal dignity of official portraiture, the weight of tradition visible in every element, the particular way power presents itself to be recorded"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on heraldry, royal attire, and architectural elements, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy dynasty portrait illustration" or "Fantasy royal lineage painting"].
 
 **Prompt:**
 
 
 ### Heraldic Display
+The dynasty's identity—blood and honor made visible.
+
 **Template:**
-> [Dynasty name] coat of arms and regalia displayed in [setting - throne room, great hall, battlefield banner]. [Detailed heraldry - shield, supporters, crest, motto]. [Dynasty colors prominent]. [Associated regalia - crown, scepter, orb]. [Atmosphere of authority and ancient lineage]. [Dramatic lighting emphasizing gold and rich materials]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on heraldry, royal attire, and architectural elements, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy heraldry illustration.
+> [Heraldry with meaning—e.g., "the full arms of House Valdren displayed as they appear on the great gates, in the throne room, and wherever the dynasty proclaims its sovereignty"]. [The arms—e.g., "the golden gryphon rampant on azure that the founder claimed from the last king he defeated, the crown above the shield added when the first Valdren took royal title, the supporters of lion and eagle granted by treaty with the neighboring realms"]. [Regalia around it—e.g., "the crown that touches only royal heads displayed above the arms, the scepter of office that passes from sovereign to heir, the orb representing the realm the dynasty rules"]. [Setting—e.g., "the throne room where the arms are carved in stone, painted on walls, woven into tapestries—every surface proclaiming who rules here and has ruled here for centuries"]. [Materials—e.g., "gold leaf on the gryphon that has been reapplied by generation after generation, the azure painted fresh for each coronation, the materials themselves precious because precious materials prove precious blood"]. [Atmosphere—e.g., "the weight of tradition visible in the heraldry that has not changed in essentials since the founding, the power that imagery conveys to everyone who sees it"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on heraldry, royal attire, and architectural elements, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy dynasty heraldry illustration" or "Fantasy royal arms display"].
 
 **Prompt:**
 

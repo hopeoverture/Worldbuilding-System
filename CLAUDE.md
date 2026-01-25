@@ -44,7 +44,7 @@ scripts/                      # Python utility scripts
 
 .claude/                      # Claude Code configuration
 ├── settings.json             # Permissions and attribution settings
-└── skills/                   # 15 slash command definitions
+└── skills/                   # 24 slash command definitions
 ```
 
 ## Skills (Slash Commands)
@@ -66,6 +66,15 @@ scripts/                      # Python utility scripts
 | `/linkify [entity]` | Auto-add [[wikilinks]] to all mentions of existing entities within a file; supports `--world` for bulk |
 | `/validate-template [path]` | Validate a template or entity has required sections and YAML fields |
 | `/campaign-arc [world]` | Track multi-session story arcs, plot threads, and campaign progression |
+| `/expand-settlement [settlement]` | Deep-dive into settlements: generate NPCs, shops, taverns, districts, rumors |
+| `/expand-faction [org]` | Build out organizations: hierarchy, internal politics, plots, rivals |
+| `/expand-region [region]` | Fill regions with villages, landmarks, encounters, legends, hazards |
+| `/generate-culture [people]` | Create cultural depth: festivals, customs, taboos, cuisine, ceremonies |
+| `/map-relationships [entity]` | Visualize/expand relationship networks, power dynamics, secrets |
+| `/expand-history [era/event]` | Detail historical periods: timelines, key figures, artifacts, witnesses |
+| `/generate-economy [world]` | Create trade routes, resource nodes, merchant guilds, black markets |
+| `/generate-politics [world]` | Map alliances, conflicts, treaties, succession crises, power brokers |
+| `/generate-quests [scope]` | Generate adventure hooks: bounties, mysteries, faction missions, dungeons |
 
 ### Skill Comparison: /generate-world vs /worldbuild
 
@@ -96,6 +105,33 @@ Some skills work best when run in a specific sequence:
 - Always run `/audit-world` AFTER `/populate-entity` (entities must exist before auditing)
 - Run `/linkify` BEFORE `/audit-world` to reduce broken link warnings
 - `/generate-image` requires filled image prompt sections (created by `/create-entity`)
+
+### Expansion Skills (Deep-Dive Commands)
+
+These commands add depth to areas that `/worldbuild` creates in breadth:
+
+| Skill | Expands | Creates | Best After |
+|-------|---------|---------|------------|
+| `/expand-settlement` | Cities, Towns, Villages | 10-25 NPCs, shops, taverns, districts | `/worldbuild` or `/create-entity` |
+| `/expand-faction` | Organizations | Hierarchy, members, plots, rivals | Organization exists |
+| `/expand-region` | Geographic Regions | Villages, landmarks, routes, legends | Region exists |
+| `/generate-culture` | Peoples/Nations | Customs, festivals, ceremonies, cuisine | Government/Species exists |
+| `/map-relationships` | Characters/Orgs | Relationship webs, power dynamics | Multiple entities exist |
+| `/expand-history` | Ages, Events, Wars | Timelines, figures, artifacts, witnesses | History entity exists |
+| `/generate-economy` | Entire World | Trade routes, resources, guilds, markets | Settlements/regions exist |
+| `/generate-politics` | Entire World | Alliances, conflicts, treaties, succession | Governments exist |
+| `/generate-quests` | Any Scope | Bounties, mysteries, faction missions | World has content |
+
+### Expansion Workflows
+
+| Goal | Recommended Sequence |
+|------|---------------------|
+| **Make a city playable** | `/expand-settlement` → `/map-relationships` (key NPCs) → `/generate-quests` |
+| **Develop a faction** | `/expand-faction` → `/map-relationships` → `/generate-quests` (faction missions) |
+| **Flesh out a region** | `/expand-region` → `/expand-settlement` (villages) → `/generate-quests` |
+| **Add world depth** | `/generate-economy` → `/generate-politics` → `/generate-quests` |
+| **Cultural immersion** | `/generate-culture` → Update settlements with culture → `/session-prep` |
+| **Historical campaign** | `/expand-history` → Create descendant NPCs → `/map-relationships` |
 
 ## Template Format
 

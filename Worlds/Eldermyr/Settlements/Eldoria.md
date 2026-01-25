@@ -567,15 +567,21 @@ Eldoria is the central location of the Eldermyr setting—the stage upon which t
 
 ### Characters
 - **Ruler:** [[Lord Castellan Maren Ashford]]
-- **Key NPCs:** Father Aldric the Elder, Commander Brennan Steel, Lady Whisper
-- **Antagonists:** Ambassador Valdren, The Rat King
+- **Key NPCs:** [[Father Aldric the Elder]], [[Commander Brennan Steel]], [[Captain Helena Stern]], [[Lady Whisper]]
+- **Antagonists:** [[Ambassador Valdren]], [[The Rat King]], [[Black Donal]]
+- **Commerce:** [[Old Marta]] (The Crossed Swords), [[Saltbeard Pete]] (The Drowned Rat)
+
+### Establishments
+- **Taverns:** [[The Crossed Swords Inn]] (Common Quarters), [[The Drowned Rat Tavern]] (Docks)
+- **Landmarks:** The Silver Throne Room, Grand Cathedral, King's Rest Island
+- **Commerce:** The Silver Exchange, First Bank of Eldoria, Common Market
 
 ### Organizations
 - **Government:** Regency Council
-- **Military Forces:** Crown Guard, City Watch
+- **Military Forces:** Crown Guard ([[Commander Brennan Steel]]), City Watch ([[Captain Helena Stern]])
 - **Major Guilds:** Merchant's Guild, Fisher's Guild, Craftsmen's League
-- **Religious Orders:** Church of Divine Light
-- **Criminal Organizations:** Warrens Guild, Dock Runners
+- **Religious Orders:** Church of Divine Light ([[Father Aldric the Elder]])
+- **Criminal Organizations:** Warrens Guild ([[The Rat King]]), Dock Runners ([[Black Donal]])
 
 ### Settlements
 - **Allied Cities:** (Contested)

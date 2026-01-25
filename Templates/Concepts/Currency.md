@@ -278,16 +278,43 @@ Describe expected trends:
 ### Art Style
 **Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on metalwork and coin engravings, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition.**
 
+### Guidelines
+When generating AI art for this currency, include:
+- **Metal authenticity:** The true colors and patinas of gold, silver, copper, and bronze—each metal aging differently and distinctively
+- **Mint craft:** The die-cut precision or hand-struck character that reveals production methods and era
+- **Circulation evidence:** The wear patterns that map a coin's journey—thumbprints rubbed smooth, edges worn by counting, surfaces darkened by commerce
+- **Design meaning:** The symbols, portraits, and inscriptions that announce sovereignty, faith, or trade authority
+- **Scale and weight:** Visual cues to size and heft—coins should feel substantial or appropriately light for their denomination
+- **Economic context:** The purse, the counter, the scale, the ledger—the tools that surround currency in use
+
+### Currency Integration (Currency Is Trust Made Tangible)
+Every element should express the economic system's nature, authority, and social function:
+- *Don't write:* "pile of gold coins" → *Write:* "a merchant's day's profit counted on the scarred oak counter—the gold drakes gleaming brightest because they see the fewest hands, the silver marks showing the worn profile of kings dead two generations, the copper commons worn nearly smooth from a million market transactions, each denomination telling its own story of how wealth moves through the kingdom"
+- *Don't write:* "ancient coins" → *Write:* "coins from the Sundered Empire, currency that was old when the current kingdoms were young—the gold still bright because gold does not tarnish, but the profiles of emperors whose names no one remembers worn to suggestions of faces, the inscriptions in a script scholars still argue over, each coin worth more as history than as metal"
+- *Don't write:* "counterfeit coins" → *Write:* "the forger's work displayed next to genuine currency for comparison—the same weight, the same size, but something wrong in the color where the gold is alloyed too thin, the details slightly soft where the false die couldn't match the mint's precision, the edge lacking the reeding that prevents exactly this kind of shaving—the difference between wealth and a death sentence"
+
+### Distinctive Feature Ideas for Currency
+- **Denomination hierarchy:** Size, thickness, and metal changes that help hands tell coins apart without looking
+- **Wear archaeology:** The smoothing patterns that reveal how coins are handled—thumb-placed, stack-counted, purse-carried
+- **Authority symbols:** Crowns, faces, and emblems that announce who stands behind the currency's value
+- **Security features:** Reeded edges, hidden marks, and minting techniques that prevent counterfeiting
+- **Era indicators:** Design styles, portrait fashions, and inscription formulas that date the coinage
+- **Use context:** The environments where money changes hands—from market stalls to counting houses
+
 ### Coin Display
+The currency at rest—wealth gathered, denominations compared.
+
 **Template:**
-> Collection of [currency name] coins arranged on [surface - velvet, wooden table, merchant's counter], showing multiple denominations from [smallest] to [largest]. [Metal types - gold, silver, copper, electrum] with [condition - gleaming new, worn from use, ancient patina]. Detailed engravings showing [imagery - rulers, symbols, heraldry]. [Lighting - candlelight, sunlight through window, dramatic spotlight]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on metalwork and coin engravings, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy currency illustration.
+> [Currency with identity—e.g., "the coinage of the Valdren Kingdom, the coins that have maintained their value through three dynasties because the mint has never debased them"]. [Arrangement—e.g., "spread on a money-changer's velvet, the denominations arranged from the great gold crown worth a peasant's yearly wage to the copper bit that buys a loaf of bread, each coin finding its place in the hierarchy of value"]. [Metal character—e.g., "the gold showing the warm glow that makes men covet it, the silver bright where recently polished but darkening at the edges, the copper ranging from new mint-brightness to the deep brown of coins that have passed through generations of hands"]. [Design details—e.g., "the king's profile on the gold struck in fine detail, crown and beard and the particular set of his jaw, the silver showing the royal seal simplified for smaller dies, the copper bearing only the crowned V that marks all Valdren currency"]. [Wear patterns—e.g., "some coins fresh from the mint with every detail crisp, others worn smooth from years of commerce, the gold least worn because it moves slowly through wealthy hands, the copper most worn from its daily dance through the marketplace"]. [Setting—e.g., "the money-changer's booth with scales and weights visible, the ledger showing today's exchange rates, the strongbox waiting to receive the counted coins"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on metalwork and coin engravings, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy currency display illustration" or "Fantasy medieval coinage portrait"].
 
 **Prompt:**
 
 
 ### Marketplace Transaction
+Currency in motion—commerce in action, trust exchanged.
+
 **Template:**
-> [Setting - busy marketplace, merchant shop, tavern counter], hands exchanging [currency name] coins. [Merchant and customer interaction]. [Visible denominations and coin details]. [Goods being purchased]. [Atmospheric details - scale, coin purse, ledger]. [Period-appropriate clothing and setting]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on metalwork and coin engravings, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy commerce scene.
+> [Transaction with stakes—e.g., "the moment of payment at a spice merchant's stall, where a week's wages buy goods that traveled a thousand miles"]. [The exchange—e.g., "the buyer's hand offering silver while the merchant's hand waits with goods—fingers meeting over a transaction that feeds families on both sides of the counter, the brief moment when both parties hold the bargain"]. [Currency visible—e.g., "three silver marks and a handful of copper showing in the buyer's palm, coins worn to the particular smoothness that marks money that works for a living, the merchant's experienced eye already counting before the coins leave the buyer's hand"]. [Goods—e.g., "the spices in their paper twists, the precious saffron and the everyday pepper, the scales that verified the weight, the chalk marks on the slate showing the calculation"]. [Environment—e.g., "the market stall with its awning against the sun, other customers waiting, the merchant's strongbox chained beneath the counter, the sounds and smells of a market in full cry surrounding this moment of focused commerce"]. [Atmospheric details—e.g., "morning light catching the silver coins, the merchant's worn purse ready to receive payment, the buyer's lighter purse after a week of purchases, the particular tension of spending money earned through labor"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on metalwork and coin engravings, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy market transaction illustration" or "Fantasy medieval commerce scene"].
 
 **Prompt:**
 

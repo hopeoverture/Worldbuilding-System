@@ -17,7 +17,7 @@ character_type: Support (Historical)
 title: High King of Eldermyr
 status_current: Deceased (3 months ago)
 # Family
-house: None (elevated to royalty)
+house: "[[House Karath]]" (born), Royal (elevated)
 # Physical
 species: Human
 gender: Male
@@ -27,18 +27,18 @@ age_at_death: 62
 # High King Aldric II
 
 ## Overview
-High King Aldric II, known as "The Steward," ruled Eldermyr for twenty-three years following [[The Great War]]. He was not a hero—he was not at [[The Battle of Ashen Fields]]—but he was the compromise candidate that all factions could accept. He maintained peace, rebuilt the realm, and held the fractious houses together through diplomacy and neutrality. His death three months ago triggered the succession crisis that now threatens to tear Eldermyr apart.
+High King Aldric II, known as "The Steward," ruled Eldermyr for twenty-three years following [[The Great War]]. The younger son of [[The Mad King|Valdus I]], he was neither warrior nor tyrant—he was the quiet prince who survived while his elder brother [[Prince Edric the Liberator|Prince Edric]] died killing their father. He maintained peace, rebuilt the realm, and held the fractious houses together through diplomacy and carefully measured justice. His death three months ago triggered the succession crisis that now threatens to tear Eldermyr apart.
 
 ## History
 
 ### Before the Crown
-Aldric was a minor lord, cousin to Lord Edmund Thorne but not in the direct line of succession. During [[The Great War|the Great War]], he managed logistics and supplies—vital work, but not glorious. He was known for being competent, honest, and utterly lacking in ambition.
+Aldric was the second son of [[The Mad King|Valdus I]]—the quiet one, the scholar, the one nobody watched. While his elder brother [[Prince Edric the Liberator|Prince Edric]] rebelled against their father, Aldric kept his head down and survived. During [[The Great War|the Great War]], he managed logistics and supplies for the rebel forces—vital work, but not glorious. He was known for being competent, honest, and utterly lacking in the ambition that had destroyed his father.
 
 ### The Acclamation
-When [[Prince Edric the Liberator]] died at [[The Battle of Ashen Fields]], the realm needed a new king. Lord Edmund Thorne could have claimed the crown, but his house was too powerful—the others would never accept it. Lord Marcus Valdren was wealthy but had lost his son. [[House Karath]] were defeated. Aldric was proposed as a compromise: acceptable to all because threatening to none.
+When [[Prince Edric the Liberator]] died at [[The Battle of Ashen Fields]], the realm needed a new king. Aldric was the only surviving son of [[The Mad King]]—but unlike his father, he had fought against the tyranny. Lord Edmund Thorne and Lord Marcus Valdren could have contested the crown, but neither wanted another civil war. Aldric represented continuity without madness, royal blood without corruption. He was crowned reluctantly by all parties, including himself.
 
 ### The Reign
-For twenty-three years, Aldric did exactly what was needed: nothing dramatic. He maintained peace between the houses. He rebuilt the war-torn regions (except [[The Karath Reach|the Karath Reach]], which he could not save). He married strategically—his daughter to Lord Edmund Thorne's heir, his son to a Valdren cousin. He created the network of marriages and alliances that should have ensured stability.
+For twenty-three years, Aldric did exactly what was needed: nothing dramatic. He maintained peace between the houses. He rebuilt the war-torn regions (except [[The Karath Reach|the Karath Reach]], which he could not save). He had one daughter, Princess Elara, whom he married to [[Lord Varic Valdren]]'s eldest son, Lord Cassian Valdren—binding the royal line to the wealthy western house. He created the network of marriages and alliances that should have ensured stability.
 
 ### The Death
 Three months ago, Aldric died in his sleep. He had been in declining health for years. But the realm whispers of poison—administered by whom depends on who is whispering. The truth may be simpler: he was old, tired, and ready.
@@ -46,7 +46,7 @@ Three months ago, Aldric died in his sleep. He had been in declining health for 
 ## The Succession Crisis
 
 ### The Problem
-Aldric outlived his children. His daughter (Edmund Thorne's wife) died in childbirth. His son died of illness before producing heirs. The only direct blood heir is his grandson [[Edric Valdren]]—born of his daughter's daughter's marriage to Lord Marcus Valdren's grandson. [[Edric Valdren|Edric]] is fifteen years old.
+Aldric outlived his daughter. Princess Elara died in childbirth bringing [[Edric Valdren]] into the world. Her husband Lord Cassian Valdren died a few years later in a riding accident—or so it was ruled. The only direct blood heir is Aldric's grandson [[Edric Valdren]], now fifteen years old, raised by his paternal grandfather [[Lord Varic Valdren]].
 
 ### The Claimants
 - **[[Edric Valdren]]:** Blood heir, but a child. His grandfather [[Lord Varic Valdren|Varic]] Valdren rules as regent.
@@ -103,7 +103,10 @@ Aldric wore [[The Iron Crown|the Iron Crown]] faithfully. It accepted him as a l
 - **Realm:** All of Eldermyr
 
 ### History
-- **Predecessor:** [[The Mad King]] (after interregnum)
+- **Father:** [[The Mad King]] (Valdus I)
+- **Brother:** [[Prince Edric the Liberator]]
+- **Daughter:** Princess Elara (deceased)
+- **Son-in-Law:** Lord Cassian Valdren (deceased)
 - **War:** [[The Great War]] (ended before his reign)
 
 ### Items

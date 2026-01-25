@@ -334,16 +334,43 @@ What changed going forward?
 ### Art Style
 **Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on period-appropriate elements, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition.**
 
+### Guidelines
+When generating AI art for this age, include:
+- **Era atmosphere:** The distinctive feel of the time—the optimism or despair, the stability or chaos, the energy or exhaustion that characterized the period
+- **Technology level:** The tools, buildings, and capabilities that define what was possible
+- **Social order visible:** The relationships between classes, the clothes that mark status, the positions that show power
+- **Cultural expression:** The arts, beliefs, and values of the time shown in decoration, dress, and behavior
+- **Historical weight:** The sense that this moment exists in a larger story—echoes of what came before, seeds of what comes after
+- **People of the time:** Ordinary individuals living through extraordinary history, their lives shaped by forces larger than themselves
+
+### Age Integration (Ages Are Time Made Meaningful)
+Every element should express the era's character, its distinct identity, and its place in history:
+- *Don't write:* "golden age scene" → *Write:* "the height of the Valdren Empire, when a child born in any province could expect to grow old in peace—the markets overflowing with goods from a dozen conquered peoples, the roads safe enough for a woman to travel alone, the architecture showing the particular confidence of a civilization that believes it will last forever"
+- *Don't write:* "dark age" → *Write:* "the Long Winter between the fall of the old empire and the rise of the new kingdoms—the village visible as the only light for leagues, the roads returning to forest, the people wearing the patched remnants of their grandparents' prosperity, the knowledge of how to build what surrounds them already half-forgotten"
+- *Don't write:* "age of exploration" → *Write:* "the century when every ship that returned brought maps of coastlines no one had seen before—the harbor crowded with vessels designed for voyages their builders couldn't imagine, the captains with their charts showing blank spaces that will be filled by their grandchildren, the particular excitement of a world that was getting larger every year"
+
+### Distinctive Feature Ideas for Ages
+- **Technology benchmarks:** The tools and techniques that define the era's capabilities
+- **Fashion as history:** The clothing styles that mark the period as distinctly as any date
+- **Architecture as statement:** The buildings that embody the era's values and abilities
+- **Power displays:** How authority manifests—armies, courts, temples, markets
+- **Daily life details:** The ordinary routines that make up most of existence in any age
+- **Change in progress:** The signs of transition—the new alongside the old, the future visible in the present
+
 ### Age Scene
+The era embodied—a characteristic moment of the age.
+
 **Template:**
-> [Characteristic scene from this age] - [setting appropriate to era's technology and culture]. [Key figures or typical people of the era]. [Architecture, clothing, and technology appropriate to the period]. [Atmosphere reflecting the age's mood - golden prosperity, dark struggle, heroic adventure]. [Lighting appropriate to scene]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on period-appropriate elements, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy historical illustration.
+> [Era-defining scene—e.g., "the market day that could only happen in the golden age of the Valdren Empire, when peace had lasted so long that children had never seen a soldier in anger"]. [Setting—e.g., "the great marketplace of the provincial capital, goods from every corner of the empire available for those who could pay, the roads that brought them safe because the legions that patrol them have not fought in a generation"]. [People of the age—e.g., "merchants of a dozen peoples trading in the common tongue that conquest spread, citizens in the distinctive dress that marks imperial fashion, the temple-sellers and entertainers that only prosperity supports"]. [Technology and culture—e.g., "the aqueduct visible on the horizon bringing water from the mountains, the public buildings showing the confidence of architects who knew their works would stand for centuries, the books and scrolls that literacy widespread enough to support"]. [Era atmosphere—e.g., "the particular energy of a society at its height, the assumption of safety so deep it's invisible, the casual prosperity that those who remember harder times can never quite believe"]. [Historical context—e.g., "the date visible in the calendar that measures years from the founding, the emperor's portrait on the coins, the particular moment in a story everyone assumes will continue"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on period-appropriate elements, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy golden age illustration" or "Fantasy empire at its height scene"].
 
 **Prompt:**
 
 
 ### Transition Moment
+The age ending—history pivoting to a new chapter.
+
 **Template:**
-> [The pivotal moment that ended this age] - [dramatic scene of the defining event]. [Key figures involved]. [Setting showing the old giving way to the new]. [Atmospheric elements suggesting change and finality]. [Dramatic lighting emphasizing the momentous nature]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. Fantasy historical turning point illustration.
+> [Transition event—e.g., "the day the last emperor died without an heir and the golden age ended in the first battle of the succession wars"]. [The pivot—e.g., "the funeral still in progress when the first claims were pressed, the generals who had kept the peace for decades looking at each other and seeing enemies for the first time, the moment when what had seemed eternal revealed itself as mortal"]. [Old and new visible—e.g., "the imperial regalia laid out for a coronation that will not happen, the banners of the great families already being raised in corners of the capital, the citizens watching their world change in real time"]. [Key figures—e.g., "the empress-widow who might have ruled but had no faction, the generals who had the armies but not the blood, the priests who held the crown but couldn't wear it, each realizing that consensus was dead"]. [Atmosphere of change—e.g., "the particular tension of an interregnum that everyone knows will end in war, the last hours of peace, the beginning of the chaos that will take three generations to settle"]. [Historical weight—e.g., "the consciousness visible in faces that this is the moment, the end of the age their grandparents built, the beginning of something darker that their grandchildren will have to survive"]. Hyper-realistic digital art, photorealistic rendering, cinematic lighting, rich textures, intricate detail on period-appropriate elements, dramatic atmosphere, depth of field, volumetric lighting, 8K quality, masterful composition. [Thematic tag—e.g., "Fantasy age transition illustration" or "Fantasy era ending scene"].
 
 **Prompt:**
 

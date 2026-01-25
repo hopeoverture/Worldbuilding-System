@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Captain Alonzo the Bold.md",
+                "file": "World Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Captain Alonzo the Bold"
+              "title": "World Overview"
             }
           }
         ]
@@ -182,6 +182,15 @@
   },
   "active": "19007aa5fbfd4a1f",
   "lastOpenFiles": [
+    "Species/Dwarves.md",
+    "Species/Dwarves.md.tmp.49380.1769318490735",
+    "Species/Humans.md",
+    "Species/Humans.md.tmp.49380.1769318324011",
+    "Species",
+    "Concepts/The Unnamed.md",
+    "Concepts/Magic of Eldermyr.md",
+    "Characters/Captain Alonzo the Bold.md",
+    "Characters/Captain Alonzo the Bold.png",
     "Settlements/Eldoria.md.tmp.34520.1769317597012",
     "Items/The Blackened Crown.md.tmp.10932.1769317464385",
     "Characters/Lord Draven Karath.md.tmp.10932.1769317433679",
@@ -189,10 +198,6 @@
     "Characters/Lord Draven Karath.md.tmp.10932.1769317427221",
     "Characters/Lord Draven Karath.md.tmp.10932.1769317424077",
     "Characters/Lord Draven Karath.md.tmp.10932.1769317421062",
-    "Characters/Lord Draven Karath.md.tmp.10932.1769317417364",
-    "Characters/Edric Valdren.md.tmp.10932.1769317343253",
-    "Characters/Edric Valdren.md.tmp.10932.1769317340197",
-    "Characters/Edric Valdren.md.tmp.10932.1769317337303",
     "Characters/Black Donal.md",
     "Characters/The Rat King.md",
     "Characters/Saltbeard Pete.md",
@@ -214,7 +219,6 @@
     "Characters/Lord Varic Valdren.png",
     "Characters/Lord Draven Karath.png",
     "Characters/Lady Margret Thorne.png",
-    "Characters/High King Aldric II.png",
     "Characters/Archmagister Corwin Ashford.md",
     "Characters/Aleksei Karath.md",
     "Characters/The Mad King.md",

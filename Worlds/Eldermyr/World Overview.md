@@ -106,6 +106,117 @@ What [[The Mad King]] sought—what drove his madness and his tyranny—sleeps b
 
 **State:** Tension — For twenty-three years, [[High King Aldric II|Aldric II]] held the realm together. That peace was a lie maintained by one man's diplomacy. He's been dead for three months. The cracks are showing. War hasn't erupted yet, but everyone is positioning. The storm has gathered; the lightning is about to strike.
 
+## Peoples of Eldermyr
+
+Eldermyr is home to ten playable species, though humans dominate. The succession crisis is primarily a human affair, but its consequences touch every soul in the realm.
+
+### Species Distribution
+
+| Species | Population | Primary Regions | Political Position |
+|---------|------------|-----------------|-------------------|
+| [[Humans]] | ~85% | All regions | All factions; the conflict is theirs |
+| [[Dwarves]] | ~5% | [[The Eastern March]], [[Hammerhall]] | Allied with [[House Thorne]]; forging [[Grimhild's Commission]] |
+| [[Elves]] | ~4% | [[Myrkvid]], [[The Crown Lands]] | Neutral; know ancient secrets about [[The Unnamed]] |
+| [[Halflings]] | ~2% | [[The Crown Lands]] villages | Neutral; hope to be left alone |
+| [[Gnomes]] | ~1.5% | [[The Eastern March]], [[The King's Wood]] | Rock Gnomes with dwarves; Forest Gnomes in wild places |
+| [[Orcs]] | ~1% | [[The Eastern March]], [[Ostmark Pass]] | Serve [[House Thorne]]; precarious if patrons fall |
+| [[Goliaths]] | ~0.5% | [[The Greycrowns]], [[The Ostmark Range]] | Neutral; watch from heights; concerned about rising dead |
+| [[Dragonborn]] | ~0.5% | [[The Western Shore]], [[Lo Stretto d'Oro]] | Neutral traders; serve all factions commercially |
+| [[Tieflings]] | ~0.3% | [[Port Corsair]], scattered | Persecuted; hiding; some flee heresy trials |
+| [[Aasimar]] | <0.1% | [[Thornhall]], Church institutions | Church-controlled; births declining since the crisis began |
+
+### Species and the Crisis
+
+**Directly Involved:**
+- **[[Humans]]** — The conflict is theirs; all factions are human-led
+- **[[Dwarves]]** — Allied with [[House Thorne]]; [[Grimhild the Smith]] forges the realm's only hope
+- **[[Orcs]]** — Mercenary allegiance to Thorne; future depends on patron's survival
+
+**Watching with Concern:**
+- **[[Elves]]** — Know ancient binding secrets; may intervene if [[The Unnamed]] breaks free
+- **[[Goliaths]]** — If corruption reaches their mountains, they will descend in force
+- **[[Aasimar]]** — Celestial births have dropped sharply; the divine covenant is broken
+
+**Trying to Stay Neutral:**
+- **[[Halflings]]** — Caught in the crossroads; [[Crossford]] vulnerable to armies
+- **[[Dragonborn]]** — Trading neutrality increasingly difficult; all factions want their support
+- **[[Gnomes]]** — Forest Gnomes sense disturbance; Rock Gnomes worry for dwarven allies
+
+**Actively Persecuted:**
+- **[[Tieflings]]** — Heresy trials in [[Thornhall]] sweep up the visibly marked; some flee, some fight
+
+### Species Relations
+
+The succession crisis strains traditional relationships. [[House Thorne]]'s orc mercenaries fought against [[House Karath]] in [[The Great War]]—[[Lord Draven Karath]] has not forgotten. The elves' refusal to share what they know about [[The Unnamed]] frustrates those who would fight it. And the Church's persecution of tieflings—while the actual darkness spreads—raises uncomfortable questions about priorities.
+
+*For full details on each species, see the individual species entries in the Species folder.*
+
+## Martial & Magical Traditions
+
+Eldermyr's character classes represent distinct paths of training, power, and social standing. The succession crisis and the threat of [[The Unnamed]] have reshaped how these traditions interact.
+
+### Class Distribution by Power Source
+
+| Source | Classes | Primary Institutions |
+|--------|---------|---------------------|
+| **Martial Training** | [[Barbarian]], [[Fighter]], [[Monk]], [[Rogue]] | Military academies, guilds, monasteries |
+| **Divine Faith** | [[Cleric]], [[Paladin]] | [[The Faith of the Three]], templar orders |
+| **Primal Nature** | [[Druid]], [[Ranger]] | [[The Old Ways]], [[Grey Wardens]], druid circles |
+| **Arcane Study** | [[Wizard]] | [[The Arcane Academy]] |
+| **Innate Power** | [[Sorcerer]], [[Bard]] | Bloodlines, musical traditions |
+| **Forbidden Pacts** | [[Warlock]] | Hidden patrons, hunted by Inquisition |
+
+### Classes and the Crisis
+
+**Essential to Fighting [[The Unnamed]]:**
+- **[[Cleric]]** — Turn Undead and divine magic devastate the risen dead
+- **[[Paladin]]** — Divine Smite deals extra radiant damage to undead
+- **[[Ranger]]** — [[Grey Wardens]] core; track and scout corrupted territory
+- **[[Fighter]]** — Every army needs disciplined soldiers; Grey Wardens recruit heavily
+
+**Valuable but Complex:**
+- **[[Wizard]]** — Research may find weaknesses; necromancy tempts as a tool
+- **[[Druid]]** — Can heal corrupted land; Old Ways knowledge predates Church records
+- **[[Barbarian]]** — Rage warriors don't fear the risen; Northlands tribes mobilize
+- **[[Sorcerer]]** — Raw power useful; Aberrant origins raise suspicions
+
+**Operating in Shadows:**
+- **[[Rogue]]** — Spies serve all factions; assassination contracts multiply
+- **[[Bard]]** — Propaganda, intelligence, and ancient lore become weapons
+- **[[Monk]]** — Monasteries debate intervention; some descend to fight
+- **[[Warlock]]** — Hunted by Inquisition, but patron knowledge may be crucial
+
+### Key Training Institutions
+
+| Institution | Classes Trained | Notes |
+|-------------|-----------------|-------|
+| [[The Arcane Academy]] | [[Wizard]], [[Sorcerer]], [[Bard]] | Academic magic, [[Aldersgate]] |
+| [[The Faith of the Three]] | [[Cleric]], [[Paladin]] | Divine servants, [[Thornhall]] |
+| [[Grey Wardens]] | [[Fighter]], [[Ranger]], [[Cleric]], [[Paladin]] | Undead hunters |
+| [[Stahlburg]] Military Academy | [[Fighter]] | Battle Masters, Eastern March |
+| [[Myrkvid]] Circles | [[Druid]], [[Barbarian]] (Wild Heart) | Old Ways, secrets |
+| Northlands Traditions | [[Barbarian]], [[Bard]] (Skald) | Primal fury, oral history |
+| Thieves' Guilds | [[Rogue]] | [[Port Corsair]], [[Aldersgate]] |
+
+### Social Acceptance
+
+| Class | Church View | Noble View | Common Folk |
+|-------|-------------|------------|-------------|
+| [[Fighter]] | Acceptable | Honored | Respected |
+| [[Cleric]] | Blessed | Valued | Trusted |
+| [[Paladin]] | Holy | Honored | Revered |
+| [[Wizard]] | Cautious | Useful | Fearful |
+| [[Ranger]] | Tolerated | Useful | Respected |
+| [[Rogue]] | Suspicious | Deniable | Feared |
+| [[Barbarian]] | Concerned | Useful | Wary |
+| [[Bard]] | Mixed | Entertained | Beloved |
+| [[Druid]] | Heretical | Dangerous | Traditional |
+| [[Monk]] | Confused | Exotic | Mysterious |
+| [[Sorcerer]] | Monitored | Valuable | Awed |
+| [[Warlock]] | **Heretical** | Hidden | Feared |
+
+*For full details on each class, see the individual class entries in the Character Options folder.*
+
 ## Magic
 
 *See: [[Magic of Eldermyr]]*
@@ -458,6 +569,39 @@ The party begins in [[House Karath]] territory—perhaps as agents, prisoners of
 - [[High King Aldric II]] — The dead king
 - [[The Mad King]] — Valdus I, started it all
 - [[Prince Edric the Liberator]] — Killed his father, died in victory
+
+### Species
+- [[Humans]] — Dominant population (~85%), all regions
+- [[Dwarves]] — Eastern March, Forgemasters Guild
+- [[Elves]] — High (Crown Lands), Wood (Myrkvid), Drow (underground)
+- [[Halflings]] — Crown Lands pastoral communities
+- [[Gnomes]] — Rock (Eastern March), Forest (King's Wood)
+- [[Orcs]] — Eastern March defenders, Thorne mercenaries
+- [[Goliaths]] — Mountain tribes, Greycrowns and Ostmark Range
+- [[Dragonborn]] — Western Shore traders, Lo Stretto d'Oro
+- [[Aasimar]] — Rare, touched by the Three
+- [[Tieflings]] — Scattered, persecuted, seeking sanctuary
+
+### Character Classes
+**Martial:**
+- [[Barbarian]] — Northlands berserkers, Orc fury-born, Goliath storm-kin
+- [[Fighter]] — Knights, soldiers, Grey Wardens, mercenaries
+- [[Monk]] — Threefold Path contemplatives, Shadow House assassins
+- [[Rogue]] — Thieves' guilds, spies, assassins, scouts
+
+**Divine:**
+- [[Cleric]] — Faith of the Three priests, Hospitallers, Inquisitors
+- [[Paladin]] — Templar orders, holy knights, Oath-sworn champions
+
+**Primal:**
+- [[Druid]] — Myrkvid circles, Greencloaks, Ash Wardens
+- [[Ranger]] — Grey Wardens scouts, King's Rangers, border wardens
+
+**Arcane:**
+- [[Bard]] — Court minstrels, Northlands skalds, spies
+- [[Sorcerer]] — Spark-Born, draconic bloodlines, wild magic
+- [[Warlock]] — Forbidden pact-makers, hunted by Inquisition
+- [[Wizard]] — Arcane Academy mages, battle mages, scholars
 
 ### Regions
 - [[The Crown Lands]] — Central heartland, seat of the throne

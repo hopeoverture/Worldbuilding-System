@@ -39,7 +39,7 @@ regions:
 
 ## Overview
 
-Dragonborn are a rare and exotic people who trace their ancestry to ancient pacts between humans and dragons in the Age of Clans. Comprising perhaps 0.5% of Eldermyr's population, they are concentrated primarily in [[The Western Shore]], particularly around [[Lo Stretto d'Oro]] and the ports of [[Porto Valdris]]. The dragonborn are renowned merchants, sailors, and scholars—their draconic heritage granting them natural authority and their long trading tradition making them valuable partners. Unlike other rare species who face discrimination, dragonborn often command respect (tinged with wariness). They stay carefully neutral in human political conflicts, maintaining trading relationships with all parties. The succession crisis threatens their carefully cultivated position—and the rising dead threaten something far more fundamental.
+Dragonborn are a rare and exotic people who trace their ancestry to ancient pacts between humans and dragons in the Age of Clans. Comprising perhaps 2% of Eldermyr's population, they are concentrated primarily in [[The Western Shore]], particularly around [[Lo Stretto d'Oro]] and the ports of [[Porto Valdris]]. The dragonborn are renowned merchants, sailors, and scholars—their draconic heritage granting them natural authority and their long trading tradition making them valuable partners. Unlike other rare species who face discrimination, dragonborn often command respect (tinged with wariness). They stay carefully neutral in human political conflicts, maintaining trading relationships with all parties. The succession crisis threatens their carefully cultivated position—and the rising dead threaten something far more fundamental.
 
 ## Species Traits
 

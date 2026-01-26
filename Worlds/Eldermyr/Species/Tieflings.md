@@ -40,7 +40,7 @@ regions:
 
 ## Overview
 
-Tieflings carry the visible mark of fiendish ancestry—horns, tails, unusual skin, and infernal power. In Eldermyr, they are perhaps 0.3% of the population, scattered and hiding throughout the realm. Unlike aasimar, whose celestial heritage is celebrated, tieflings face persecution, discrimination, and—particularly since the heresy trials resumed in [[Thornhall]]—active danger. Most tiefling bloodlines trace back to pacts made during the Age of Clans, when desperate humans bargained with dark powers for survival. Others emerged during [[The Mad King]]'s reign, when forbidden rituals twisted bloodlines. Whatever the source, tieflings bear the visible proof of ancestral sin, and Eldermyr's current atmosphere of fear and suspicion makes their existence increasingly precarious.
+Tieflings carry the visible mark of fiendish ancestry—horns, tails, unusual skin, and infernal power. In Eldermyr, they are perhaps 2% of the population, scattered and hiding throughout the realm. Unlike aasimar, whose celestial heritage is celebrated, tieflings face persecution, discrimination, and—particularly since the heresy trials resumed in [[Thornhall]]—active danger. Most tiefling bloodlines trace back to pacts made during the Age of Clans, when desperate humans bargained with dark powers for survival. Others emerged during [[The Mad King]]'s reign, when forbidden rituals twisted bloodlines. Whatever the source, tieflings bear the visible proof of ancestral sin, and Eldermyr's current atmosphere of fear and suspicion makes their existence increasingly precarious.
 
 ## Species Traits
 

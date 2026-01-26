@@ -41,7 +41,7 @@ regions:
 
 ## Overview
 
-Gnomes are a curious and clever people whose small stature belies their outsized impact on Eldermyr. Comprising roughly 1.5% of the realm's population, they are divided between two distinct cultures: the Rock Gnomes who work alongside dwarves in [[The Eastern March]] as engineers and artificers, and the Forest Gnomes who dwell in hidden communities within [[The King's Wood]] and [[Myrkvid]]. What unites all gnomes is their remarkable resistance to magic, their insatiable curiosity, and their tendency to view the world as an endless series of fascinating problems to solve. In the current crisis, gnomes are torn—Rock Gnomes fear for their dwarven allies, while Forest Gnomes sense disturbances in the natural order that trouble them deeply.
+Gnomes are a curious and clever people whose small stature belies their outsized impact on Eldermyr. Comprising roughly 3% of the realm's population, they are divided between two distinct cultures: the Rock Gnomes who work alongside dwarves in [[The Eastern March]] as engineers and artificers, and the Forest Gnomes who dwell in hidden communities within [[The King's Wood]] and [[Myrkvid]]. What unites all gnomes is their remarkable resistance to magic, their insatiable curiosity, and their tendency to view the world as an endless series of fascinating problems to solve. In the current crisis, gnomes are torn—Rock Gnomes fear for their dwarven allies, while Forest Gnomes sense disturbances in the natural order that trouble them deeply.
 
 ## Species Traits
 

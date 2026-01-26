@@ -114,15 +114,15 @@ Eldermyr is home to ten playable species, though humans dominate. The succession
 
 | Species | Population | Primary Regions | Political Position |
 |---------|------------|-----------------|-------------------|
-| [[Humans]] | ~85% | All regions | All factions; the conflict is theirs |
-| [[Dwarves]] | ~5% | [[The Eastern March]], [[Hammerhall]] | Allied with [[House Thorne]]; forging [[Grimhild's Commission]] |
-| [[Elves]] | ~4% | [[Myrkvid]], [[The Crown Lands]] | Neutral; know ancient secrets about [[The Unnamed]] |
-| [[Halflings]] | ~2% | [[The Crown Lands]] villages | Neutral; hope to be left alone |
-| [[Gnomes]] | ~1.5% | [[The Eastern March]], [[The King's Wood]] | Rock Gnomes with dwarves; Forest Gnomes in wild places |
-| [[Orcs]] | ~1% | [[The Eastern March]], [[Ostmark Pass]] | Serve [[House Thorne]]; precarious if patrons fall |
-| [[Goliaths]] | ~0.5% | [[The Greycrowns]], [[The Ostmark Range]] | Neutral; watch from heights; concerned about rising dead |
-| [[Dragonborn]] | ~0.5% | [[The Western Shore]], [[Lo Stretto d'Oro]] | Neutral traders; serve all factions commercially |
-| [[Tieflings]] | ~0.3% | [[Port Corsair]], scattered | Persecuted; hiding; some flee heresy trials |
+| [[Humans]] | ~65% | All regions | All factions; the conflict is theirs |
+| [[Dwarves]] | ~10% | [[The Eastern March]], [[Hammerhall]] | Allied with [[House Thorne]]; forging [[Grimhild's Commission]] |
+| [[Elves]] | ~10% | [[Myrkvid]], [[The Crown Lands]] | Neutral; know ancient secrets about [[The Unnamed]] |
+| [[Halflings]] | ~3% | [[The Crown Lands]] villages | Neutral; hope to be left alone |
+| [[Gnomes]] | ~3% | [[The Eastern March]], [[The King's Wood]] | Rock Gnomes with dwarves; Forest Gnomes in wild places |
+| [[Orcs]] | ~3% | [[The Eastern March]], [[Ostmark Pass]] | Serve [[House Thorne]]; precarious if patrons fall |
+| [[Goliaths]] | ~2% | [[The Greycrowns]], [[The Ostmark Range]] | Neutral; watch from heights; concerned about rising dead |
+| [[Dragonborn]] | ~2% | [[The Western Shore]], [[Lo Stretto d'Oro]] | Neutral traders; serve all factions commercially |
+| [[Tieflings]] | ~2% | [[Port Corsair]], scattered | Persecuted; hiding; some flee heresy trials |
 | [[Aasimar]] | <0.1% | [[Thornhall]], Church institutions | Church-controlled; births declining since the crisis began |
 
 ### Species and the Crisis
@@ -571,7 +571,7 @@ The party begins in [[House Karath]] territory—perhaps as agents, prisoners of
 - [[Prince Edric the Liberator]] — Killed his father, died in victory
 
 ### Species
-- [[Humans]] — Dominant population (~85%), all regions
+- [[Humans]] — Dominant population (~65%), all regions
 - [[Dwarves]] — Eastern March, Forgemasters Guild
 - [[Elves]] — High (Crown Lands), Wood (Myrkvid), Drow (underground)
 - [[Halflings]] — Crown Lands pastoral communities

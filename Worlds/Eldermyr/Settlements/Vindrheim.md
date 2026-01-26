@@ -150,3 +150,16 @@ The largest tavern in town, famous for its mead and as a gathering place for tra
 
 ### Characters
 - **Leader:** Elder Thora Windwhisper
+
+### Species
+- **[[Goliaths]]:** 8% (summer trading season); from [[The Greycrowns]]
+- **[[Elves|Wood Elves]]:** 3%; rare visitors from [[Myrkvid]]
+- **Northfolk (Humans):** 75%; original inhabitants
+
+## Plot Hooks
+
+1. **The Goliath Delegation:** The [[Goliaths|Stonekeeper tribe]] has sent an unprecedented formal delegation to Vindrheim—not for trade, but for alliance. They've seen something in the mountains that concerns them enough to seek lowlander aid. Elder Thora needs help negotiating terms neither side fully understands.
+
+2. **Mountain Guides:** A party needs to cross [[The Greycrowns]] via a pass that humans haven't used in generations. The only guides who know the way are goliaths—and goliaths don't guide outsiders without good reason. Someone must convince Stonekeeper Vaunea Thunderbrow that the mission serves goliath interests too.
+
+3. **The Summer Festival Crisis:** The annual Goliath Market has been disrupted by accusations—a goliath stands accused of theft, and human merchants demand justice. If handled poorly, the incident could end centuries of peaceful trade. Elder Thora needs outside arbitrators who can find the truth without favoring either side.

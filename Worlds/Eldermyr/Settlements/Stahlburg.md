@@ -165,6 +165,12 @@ High Warden of Stahlburg, he preaches that the Warden aspect of [[The Faith of t
 ### Captain Ironhand
 A legend in his own time. Veteran of fifty battles, missing his left hand (replaced with an iron prosthetic forged by [[Grimhild the Smith|Grimhild]] herself), he trains the next generation with brutal efficiency and genuine care.
 
+### Warchief Grokmar Ironjaw
+Commander of the [[Orcs|Ostmark Mercenary Company]] and unofficial leader of Grünholm's orc population. Grokmar is second-generation Eldermyr-born, speaks fluent Common with a Marcher accent, and has proven his loyalty to [[House Thorne]] in dozens of engagements. He walks a razor's edge between maintaining orc traditions and demonstrating the "civilization" humans demand. If Thorne falls, so does everything his people have built.
+
+### Shaman Bloodmoon
+Grünholm's spiritual leader, keeper of the old orc traditions while adapting them to life in human lands. She maintains the fighting pits and the shrines, blessing warriors before battle. Some humans whisper that her rituals are too close to dark magic—whispers that could become accusations if the political situation changes.
+
 ## Economy
 
 ### Primary Industry
@@ -198,6 +204,10 @@ Every weapon sold carries a surcharge that funds [[The Eastern March]]'s defense
 4. **Beyond the Pass:** [[Grimhild the Smith|Grimhild]] needs materials from the foreign lands for her masterwork. The party could make the journey—if [[Ser Viktor Thorne|Viktor]] permits passage.
 
 5. **The War College Challenge:** A foreign dignitary has challenged [[The Eastern March|the March]] to produce champions for a trial by combat. The stakes are higher than anyone admits.
+
+6. **Grünholm's Future:** If [[House Thorne]] loses the succession struggle, what happens to the [[Orcs|orcs]]? Warchief Grokmar has been quietly making contingency plans—and someone in [[Aldersgate]] has noticed. He needs to know if they're enemies offering threats or allies offering alternatives.
+
+7. **The Shaman's Accusation:** Someone is accusing Shaman Bloodmoon of practicing forbidden magic. The evidence is thin but politically convenient. Protecting her means navigating Marcher prejudice against orcs—and potentially uncovering who's trying to destabilize the Thorne alliance from within.
 
 ## Image Prompts
 

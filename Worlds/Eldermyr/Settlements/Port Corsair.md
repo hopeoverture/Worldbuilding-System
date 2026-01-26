@@ -259,6 +259,12 @@ Admiral Stormwind keeps the fleet ready and officially neutral in the succession
 **Description:** Former pirate who earned pardon by providing intelligence; runs Anchor Town's real economy
 **Operations:** Loans, gambling, finding things that fell off ships
 
+### Tiefling Leader
+**Name:** Mordai the Branded
+**Role:** Mercenary captain, unofficial tiefling community leader
+**Description:** A scarred [[Tieflings|tiefling]] warrior with infernal heritage visible in his crimson skin and curved horns. Leads the Crimson Horns mercenary company—tieflings and outcasts who take contracts others won't touch. Mordai found refuge in Port Corsair twenty years ago and has made it his mission to ensure other tieflings have somewhere to run.
+**Operations:** Mercenary contracts, protection for tiefling refugees, intelligence gathering for whoever pays. The Admiral tolerates him because he's useful; the tiefling community reveres him as a protector.
+
 ## Secrets
 
 1. The "special stores" in the armory contain alchemical weapons captured from the pirate wars—some too dangerous to use, too valuable to destroy
@@ -272,6 +278,10 @@ Admiral Stormwind keeps the fleet ready and officially neutral in the succession
 2. Someone is sabotaging ships in the dockyard; marine commanders suspect Crown agents
 3. Big Rosa needs a crew for a "salvage operation" that's definitely not piracy
 4. The Admiral needs discreet investigators to determine if Commodore Blacktide is a traitor—or being framed
+
+5. **The Inquisition's Reach:** [[The Faith of the Three|Church]] inquisitors have arrived on the island, hunting a specific [[Tieflings|tiefling]] accused of dark magic in [[Thornhall]]. Mordai the Branded believes the accusation is false. He needs help proving it—or smuggling the fugitive somewhere even the Inquisition can't follow.
+
+6. **Crimson Contracts:** The Crimson Horns have been offered a contract that's too good to be true—and too dangerous to refuse. Mordai suspects a trap but can't afford to turn down the gold his community needs. He's looking for outside help to investigate the employer before committing his people.
 
 ## Rumors & Gossip
 

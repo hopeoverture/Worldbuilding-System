@@ -461,6 +461,10 @@ Historical connections:
 
 5. **The Deep Wood Connection:** [[The Spirit-Speakers]] contact the party with disturbing news: whatever is waking in [[The Ashen Fields]] is affecting the Deep Wood. The forests are connected. The curse is spreading underground. They need outsiders to investigate without alerting the Crown.
 
+6. **The Fernglow Warning:** Elder Willowmist Fernglow of the [[Gnomes|Forest Gnomes]] has sent a message to the surface world for the first time in living memory. The Warren has discovered what lives near the Old Palace—and it's waking up. The gnomes need outside help, but they can't reveal their existence to the Crown. The party must investigate the Old Palace while keeping the Warren's secrets.
+
+7. **The Animal Messengers:** Forest Gnomes throughout the King's Wood have been receiving the same message from their animal friends: flee. Something is coming. Elder Willowmist needs to know what's frightening every creature in the forest before whatever it is reaches the Warren—or worse, reaches [[Aldersgate]].
+
 ## Image Prompts
 
 ### Art Style

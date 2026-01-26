@@ -216,6 +216,12 @@ Millford finds itself at the center of Eldermyr's food supply crisis. Lord Thorn
 **Role:** Smuggler
 **Operations:** Moves grain off the books to black markets; increasingly bold
 
+### Halfling Elder
+**Name:** Rosie Goodbarrel
+**Role:** Matriarch of Millford's [[Halflings|halfling]] community
+**Description:** The unofficial leader of the town's 900 halflings, Rosie runs a bakery that's been in her family for six generations. Her burrow-home on Westbank has become the meeting place for halflings worried about the succession crisis. She has no political power, but she knows everything that happens in Millford through her extended network of kin—and she's fiercely protective of her people.
+**Influence:** None official; immense among halflings; respected by humans who know her
+
 ## Secrets
 
 1. Mayor Wheelwright has been skimming grain shipments, building a personal reserve against uncertain times
@@ -228,6 +234,10 @@ Millford finds itself at the center of Eldermyr's food supply crisis. Lord Thorn
 2. Ankhegs have been spotted in the fields near town; someone needs to clear them before harvest
 3. Flour Marten offers the party good money to escort a "special shipment" past Thorne checkpoints
 4. The granary is being sabotaged; someone wants the kingdom to starve
+
+5. **The Halfling Underground:** Rosie Goodbarrel has been quietly helping refugees from the south pass through Millford—families fleeing the coming war. Now one of her "guests" is being hunted by Thorne soldiers. She needs help getting them to safety without exposing the network she's built.
+
+6. **Burrow Secrets:** The halfling warrens on Westbank extend deeper than anyone realizes—and they connect to old tunnels that predate the town. Something has been moving in those tunnels. Rosie needs discreet help investigating before whatever it is threatens her people.
 
 ## Image Prompts
 

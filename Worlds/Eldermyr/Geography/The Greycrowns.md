@@ -439,6 +439,10 @@ Those who mapped or climbed:
 
 5. **The Monastery's Warning:** Abbess Sigrid secretly contacts the party. The dead are not resting. The Chronicler's servants are troubled. Something must be done about [[The Ashen Fields]], and [[The Faith of the Three|the Faith]] in [[Thornhall]] refuses to act.
 
+6. **The Proving Grounds Intrusion:** Someone—or something—has desecrated the [[Goliaths|goliath]] Proving Grounds. Stonekeeper Vaunea Thunderbrow is furious, but the tribes lack the numbers to both guard their sacred site and investigate the source. She needs outside help, and she's willing to share goliath knowledge of the high passes in return—including routes into the northern wastes that no human has mapped.
+
+7. **The Cloudwalker Vision:** The shamans of the Cloudwalker tribe have seen something in their communion with the storm spirits—a vision of dead things walking through the high passes, corrupting the mountains themselves. If this comes to pass, the goliaths will have nowhere left to retreat. Stonekeeper Vaunea believes the vision can be prevented, but only if someone can reach the source of the corruption: [[The Ashen Fields]], far to the south. She seeks lowlander allies for a mission the goliaths cannot accomplish alone.
+
 ## Image Prompts
 
 ### Art Style

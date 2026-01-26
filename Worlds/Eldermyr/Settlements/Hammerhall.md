@@ -122,6 +122,12 @@ Runs the town's shrine to the Warden. The smiths are devout in their way—they 
 ### Journeyman Karl
 A talented young smith, perhaps [[Grimhild the Smith|Grimhild]]'s eventual successor. He's noticed the strange materials arriving at her forge and wonders what she's making.
 
+### Master Thrain Stonehammer
+The eldest [[Dwarves|dwarven]] Master Smith, holding his seat on the Guild Council for over a century. Thrain remembers when the alliance with [[House Thorne]] was forged, and he quietly ensures that dwarven interests are never forgotten in Guild decisions. His knowledge of ancient smithing techniques borders on the magical.
+
+### Tinkmaster Finwhizzle Cogspark
+Leader of the Warren Council and de facto voice of Hammerhall's [[Gnomes|gnome]] population. Finwhizzle is ancient by gnome standards (over 400 years) and has forgotten more about precision mechanisms than most craftsmen will ever learn. He maintains the delicate balance between gnomish independence and cooperation with the surface town.
+
 ## Secrets
 
 1. **[[Grimhild's Commission]].** She's forging something meant to kill an immortal. She needs materials from beyond the Ostmark Pass to complete it.
@@ -137,6 +143,10 @@ A talented young smith, perhaps [[Grimhild the Smith|Grimhild]]'s eventual succe
 2. **The Saboteur:** Someone is introducing flaws into weapons destined for [[House Thorne]]. Finding the saboteur reveals a conspiracy reaching to [[Aldersgate]].
 
 3. **The Old Forge:** Beneath the town, a sealed chamber contains a forge from before the Guild existed. Something down there still burns.
+
+4. **Warren Tensions:** The [[Gnomes|gnomes]] of Cogspark Warren have discovered something in the tunnels—something that predates their arrival. Tinkmaster Finwhizzle needs outside help to investigate without alerting the surface town to secrets the gnomes have kept for centuries.
+
+5. **The Dwarven Memory:** Master Thrain Stonehammer claims to remember the original terms of the Thorne alliance—terms that differ significantly from what [[House Thorne]] believes. If he's right, the dwarves are owed far more than they've received. If he speaks publicly, it could shatter the alliance.
 
 ## Image Prompts
 
@@ -169,3 +179,8 @@ A talented young smith, perhaps [[Grimhild the Smith|Grimhild]]'s eventual succe
 ### Settlements
 - **Capital:** [[Stahlburg]]
 - **Trade:** All major cities
+
+### Species
+- **[[Dwarves]]:** 40% of population; dominate Guild leadership
+- **[[Gnomes]]:** 12% of population; Warren of Cogspark beneath town
+- **[[Humans]]:** 45% of population; workers and merchants

@@ -472,6 +472,10 @@ Historical connections:
 
 5. **Elder Yrsa's Last Mission:** The dying elder contacts the party secretly. She knows the truth about [[The Blackened Crown]] and needs someone outside Northfolk politics to act on it. But she won't trust anyone who doesn't first prove themselves worthy by entering the Heart.
 
+6. **Silvaneth's Warning:** Elder Faelivrin of the [[Elves|Wood Elves]] has broken centuries of silence to request human aid. The wards containing the darkest parts of the forest are weakening, and the elves lack the numbers to reinforce them alone. She needs outsiders who can work magic the Old Ways don't recognize—and who can be trusted with secrets the elves have kept since before human memory.
+
+7. **The Moon Pools' Prophecy:** The Wood Elf seers at the Moon Pools have seen something in their divinations—a vision of [[The Unnamed]] rising, and a weapon that could stop it. But the weapon requires a component that only grows in one place: the sealed heart of [[The Ashen Fields]]. The elves need human allies to retrieve it before the corruption spreads further.
+
 ## Image Prompts
 
 ### Art Style

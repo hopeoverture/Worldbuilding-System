@@ -4,6 +4,7 @@ tags:
   - dnd-5e-2024
   - validation
   - mechanics
+status: complete
 ---
 
 # D&D 5e 2024 Stat Block Validation

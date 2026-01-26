@@ -1,0 +1,42 @@
+{
+  "_description": "Template for .worldbuild-state.json - tracks world generation progress",
+  "_usage": "Copy this file to your world folder as .worldbuild-state.json",
+  "world_name": "",
+  "created_at": "",
+  "last_updated": "",
+  "generation_method": "",
+  "phases_completed": [],
+  "entities_created": {
+    "characters": [],
+    "settlements": [],
+    "organizations": [],
+    "geography": [],
+    "history": [],
+    "concepts": [],
+    "items": [],
+    "creatures": [],
+    "encounters": []
+  },
+  "entity_counts": {
+    "characters": 0,
+    "settlements": 0,
+    "organizations": 0,
+    "geography": 0,
+    "history": 0,
+    "concepts": 0,
+    "items": 0,
+    "creatures": 0,
+    "encounters": 0,
+    "total": 0
+  },
+  "relationship_map": {},
+  "checkpoints": [],
+  "settings": {
+    "tone": "",
+    "themes": [],
+    "inspirations": [],
+    "magic_level": "",
+    "technology_level": ""
+  },
+  "notes": ""
+}

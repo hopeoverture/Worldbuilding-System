@@ -1,11 +1,11 @@
 # Worldbuilding System
 
-An AI-powered worldbuilding toolkit for **D&D 5e (2024)** fantasy settings, built as an Obsidian vault with 91 structured templates, 13 AI-assisted skills, and comprehensive rules reference.
+An AI-powered worldbuilding toolkit for **D&D 5e (2024)** fantasy settings, built as an Obsidian vault with 97 structured templates, 24 AI-assisted skills, and comprehensive rules reference.
 
 ## Features
 
-- **91 Reusable Templates** across 11 categories with structured YAML frontmatter, AI generation prompts, and image prompt fields
-- **13 AI Skills (Slash Commands)** for world generation, entity creation, auditing, and session prep
+- **97 Reusable Templates** across 12 categories with structured YAML frontmatter, AI generation prompts, and image prompt fields
+- **24 AI Skills (Slash Commands)** for world generation, entity creation, auditing, and session prep
 - **Complete D&D 5e 2024 Rules Reference** - 65 files covering core rules, classes, spells, equipment, and monsters
 - **Bidirectional Wikilinks** - Obsidian-native `[[Entity Name]]` cross-references with validation
 - **Image Prompt Integration** - Built-in prompts for AI image generation (OpenAI gpt-image-1)
@@ -41,7 +41,7 @@ An AI-powered worldbuilding toolkit for **D&D 5e (2024)** fantasy settings, buil
 
 ```
 Worldbuilding System/
-├── Templates/                    # 91 reusable templates
+├── Templates/                    # 92 reusable templates
 │   ├── Characters/               # Protagonist, Antagonist, Support, Background, Familiar, Divine Servant
 │   ├── Character Options/        # Background, Class, Subclass
 │   ├── Settlements/              # Village, Town, City, Stronghold, Tavern, Shop, Temple, Library
@@ -82,7 +82,7 @@ Worldbuilding System/
 │
 ├── .claude/                      # Claude Code configuration
 │   ├── settings.json             # Permissions and attribution
-│   └── skills/                   # 13 slash command definitions
+│   └── skills/                   # 24 slash command definitions
 │
 ├── CLAUDE.md                     # AI assistant instructions
 ├── GEMINI.md                     # Gemini-specific instructions
@@ -115,12 +115,35 @@ Use these commands with Claude Code or compatible AI assistants:
 | `/linkify [entity]` | Auto-add `[[wikilinks]]` to all entity mentions in a file |
 | `/audit-world [name] [--fix]` | Audit for broken links, D&D 5e stat errors, orphaned entities |
 
+### Validation & Templates
+| Command | Description |
+|---------|-------------|
+| `/validate-template [path]` | Validate a template or entity has required sections and YAML fields |
+| `/campaign-arc [world]` | Track multi-session story arcs, plot threads, and campaign progression |
+
 ### Game Prep
 | Command | Description |
 |---------|-------------|
 | `/random-encounter [location] [level]` | Generate combat, social, or exploration encounters |
 | `/session-prep [world] [focus]` | Create DM session notes, NPC cheat sheets, location briefs |
 | `/generate-image [entity]` | Generate AI image using OpenAI gpt-image-1 |
+
+### Deep Expansion
+| Command | Description |
+|---------|-------------|
+| `/expand-settlement [settlement]` | Deep-dive into settlements: generate NPCs, shops, taverns, districts, rumors |
+| `/expand-faction [org]` | Build out organizations: hierarchy, internal politics, plots, rivals |
+| `/expand-region [region]` | Fill regions with villages, landmarks, encounters, legends, hazards |
+| `/generate-culture [people]` | Create cultural depth: festivals, customs, taboos, cuisine, ceremonies |
+| `/map-relationships [entity]` | Visualize/expand relationship networks, power dynamics, secrets |
+| `/expand-history [era/event]` | Detail historical periods: timelines, key figures, artifacts, witnesses |
+
+### World Systems
+| Command | Description |
+|---------|-------------|
+| `/generate-economy [world]` | Create trade routes, resource nodes, merchant guilds, black markets |
+| `/generate-politics [world]` | Map alliances, conflicts, treaties, succession crises, power brokers |
+| `/generate-quests [scope]` | Generate adventure hooks: bounties, mysteries, faction missions, dungeons |
 
 ## Template Format
 
@@ -248,7 +271,7 @@ Configure in `.mcp.json`:
 |----------|-----------|----------|
 | Characters | 6 | Protagonist, Antagonist, Support Character, Familiar |
 | Character Options | 3 | Background, Class, Subclass |
-| Settlements | 8 | Village, Town, City, Stronghold, Tavern, Shop |
+| Settlements | 9 | Village, Town, City, Stronghold, Tavern, Shop, Bastion |
 | Items | 11 | Weapon, Armor, Artifact, Potion, Book, Vehicle |
 | Creatures | 5 | Monster, Animal, Insect, Plant, Species |
 | Organizations | 9 | Guild, Government, Military, Cult, Academy |
@@ -257,7 +280,7 @@ Configure in `.mcp.json`:
 | Geography | 18 | Continent, Region, Mountain Range, Forest, Dungeon |
 | Encounters | 4 | Combat, Social, Exploration, Trap |
 | Maps | 4 | World, Continent, Region, Settlement |
-| Reference | 4 | Naming conventions, validation, connection matrix |
+| Reference | 7 | Naming conventions, validation, YAML reference, formatting standards |
 
 ## License
 

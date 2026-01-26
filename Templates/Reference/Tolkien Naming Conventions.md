@@ -5,6 +5,7 @@ tags:
   - tolkien
   - high-fantasy
   - linguistics
+status: complete
 ---
 
 # Tolkien Naming Conventions

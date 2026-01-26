@@ -301,6 +301,8 @@ Dungeons, ruins, mysterious places:
 - The Old Palace — Pre-unification ruins, rumored haunted
 - [[Thornhall]] Catacombs — Sealed tunnels beneath [[Thornhall|the holy city]]
 - The Sunken Tower — Collapsed tower in Crownmere lake, visible on clear days
+- [[Ravenspire Tower]] — Haunted wizard's tower on Blackmoor Heath, home to the wraith of Magister Corvane
+- [[Whitehall Manor]] — Noble estate east of Aldersgate, rumored to be cursed since Lord Marwyn's isolation
 
 ### Sacred Sites
 - The Great Cathedral of [[The Faith of the Three|the Three]] ([[Thornhall]])

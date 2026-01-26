@@ -242,6 +242,7 @@ The eldest dragonborn in Porto Valdris and keeper of clan histories. Silvara rem
 - **Region:** [[The Western Shore]]
 - **Water:** [[The Trader's Sea]], [[The Valdris River]]
 - **Strait:** [[Lo Stretto d'Oro]]
+- **Nearby Threats:** [[Stormbreak Keep]] (pirate fortress on sea cliffs), [[The Sunken Lighthouse]] (merrow lair on northern coast)
 
 ### Characters
 - **Lord (Absent):** [[Lord Varic Valdren]] (in Aldersgate)

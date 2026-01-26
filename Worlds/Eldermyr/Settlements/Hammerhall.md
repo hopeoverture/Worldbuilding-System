@@ -167,6 +167,7 @@ Leader of the Warren Council and de facto voice of Hammerhall's [[Gnomes|gnome]]
 - **Region:** [[The Eastern March]]
 - **Falls:** Iron Falls
 - **River:** [[The Stahlfluss]]
+- **Nearby Ruin:** [[The Iron Redoubt]] (abandoned dwarven outpost 20 miles northeast, now occupied by duergar)
 
 ### Characters
 - **Guildmaster:** [[Grimhild the Smith]]

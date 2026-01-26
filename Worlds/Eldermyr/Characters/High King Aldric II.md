@@ -17,7 +17,7 @@ character_type: Support (Historical)
 title: High King of Eldermyr
 status_current: Deceased (3 months ago)
 # Family
-house: "[[House Karath]]" (born), Royal (elevated)
+house: "[[House Karath]] (born), Royal (elevated)"
 # Physical
 species: Human
 gender: Male

@@ -11,6 +11,8 @@ aliases:
   - The Grey Mountains
   - The Crown of Winter
   - Hrímfjöll (Old Tongue)
+  - Greycrown Gap
+  - The Greycrown Gap
 status: complete
 image:
 # Geographic Details
@@ -326,6 +328,7 @@ Dungeons, lairs, treasure locations:
 - **Úlfsgil dire wolf dens** — Dangerous but pelts are valuable
 - **The Deep Delving** — Whatever caused it to be sealed is still there
 - **Smuggler caches** — Hidden supplies and stolen goods throughout the passes
+- **[[Wyrmbone Spire]]** — A natural rock spire near Grimhold where a young white dragon has claimed an ancient dwarven treasure vault as its lair
 
 ## History
 

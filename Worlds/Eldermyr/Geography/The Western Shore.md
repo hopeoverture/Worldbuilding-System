@@ -120,6 +120,8 @@ The Western Shore glitters with wealth drawn from the Trader's Sea. Its white-wa
 ### Ruins & Abandoned Places
 - The Sunken Palace — Pre-Valdren ruins visible beneath the waves near [[Porto Valdris]]
 - The Island of Silence — Small island with ancient ruins, said to be cursed
+- [[Stormbreak Keep]] — A sea-cliff fortress seized by pirates, commanding the approaches to the Golden Strait
+- [[The Sunken Lighthouse]] — A partially submerged lighthouse on the northern coast, now lair to merrow and a sea hag
 
 ## Demographics
 

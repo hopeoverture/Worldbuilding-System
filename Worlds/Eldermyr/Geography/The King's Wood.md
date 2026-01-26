@@ -319,6 +319,7 @@ Unexplained locations:
 - **The Deep Wood** — Why do foresters avoid it?
 - **The Silent Spring** — Water that makes no sound
 - **The Watching Trees** — Yews that seem to track movement
+- **[[The Greenward]]** — A corrupted druid grove deep in the forest, where a vengeful dryad named Thornweep has twisted nature against intruders
 
 ## History
 

@@ -11,6 +11,7 @@ aliases:
   - The Crown of Aldric
   - The Steward's Crown
   - The Iron Circlet
+  - Iron Crown
 status: in-progress
 image:
 # Artifact Details

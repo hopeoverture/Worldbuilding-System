@@ -12,6 +12,8 @@ aliases:
   - The Great River
   - The Royal River
   - Hrímá (Old Tongue, "Frost River")
+  - The Kingswater River
+  - Kingswater River
 status: complete
 image:
 # Geographic Details

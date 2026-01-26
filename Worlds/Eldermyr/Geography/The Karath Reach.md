@@ -124,6 +124,7 @@ The Karath Reach was once the breadbasket of southern Eldermyr—rich farmland w
 - The Ash Road south of [[Crossford]] is lined with empty settlements
 - The Fields themselves are one vast ruin of human hope
 - Karath family estates, once grand, now crumbling
+- [[Shadowfen Priory]] — An abandoned monastery in the marshlands where undead monks still perform their dark rituals under a fallen paladin turned death knight
 
 ## Demographics
 

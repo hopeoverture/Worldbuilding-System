@@ -12,6 +12,7 @@ aliases:
   - The Black Forest
   - The Old Forest
   - Myrkwood
+  - The Myrkvid
 status: complete
 image:
 # Geographic Details

@@ -141,6 +141,7 @@ The largest tavern in town, famous for its mead and as a gathering place for tra
 - **Region:** [[The Northlands]]
 - **Road:** [[The Northern Way]] (to [[Aldersgate]])
 - **River:** The Vindra
+- **Nearby Ruin:** [[Frostfang Lodge]] (grand hunting lodge 15 miles north, overrun by winter wolves)
 
 ### Organizations
 - **Faith:** [[The Spirit-Speakers]] (dominant), [[The Faith of the Three]] (minority)

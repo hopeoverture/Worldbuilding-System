@@ -12,6 +12,8 @@ aliases:
   - The Scarred Lands
   - The Killing Ground
   - The Mass Grave
+  - the Ashen Fields
+  - Ashen Fields
 status: in-progress
 image:
 # Geography Details

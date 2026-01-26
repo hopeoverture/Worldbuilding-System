@@ -13,6 +13,7 @@ aliases:
   - The Tyrant
   - The Necromancer King
   - The Figure
+  - Mad King
 status: in-progress
 image:
 # Character Details

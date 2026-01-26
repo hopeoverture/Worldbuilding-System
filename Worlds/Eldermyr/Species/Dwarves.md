@@ -39,7 +39,7 @@ regions:
 
 ## Overview
 
-The dwarves of Eldermyr are an ancient and proud people whose mountain halls predate human civilization by millennia. Though they number perhaps 5% of the realm's population, their influence far exceeds their count—dwarven steel arms the armies of every great house, dwarven engineering built the great bridges and fortifications, and dwarven craft produces the finest goods in the realm. They are concentrated primarily in [[The Eastern March]], where their ancient alliance with [[House Thorne]] has endured for eight centuries. The dwarves maintain careful neutrality in human political disputes, but they remember that [[The Mad King]]'s armies tried to breach their mountain gates, and they remember who stood with them.
+The dwarves of Eldermyr are an ancient and proud people whose mountain halls predate human civilization by millennia. Though they number perhaps 10% of the realm's population, their influence far exceeds their count—dwarven steel arms the armies of every great house, dwarven engineering built the great bridges and fortifications, and dwarven craft produces the finest goods in the realm. They are concentrated primarily in [[The Eastern March]], where their ancient alliance with [[House Thorne]] has endured for eight centuries. The dwarves maintain careful neutrality in human political disputes, but they remember that [[The Mad King]]'s armies tried to breach their mountain gates, and they remember who stood with them.
 
 ## Species Traits
 

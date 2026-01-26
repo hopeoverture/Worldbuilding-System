@@ -41,7 +41,7 @@ regions:
 
 ## Overview
 
-The halflings of Eldermyr are a peaceful, pastoral people who have carved out quiet lives in the fertile valleys and gentle hills of [[The Crown Lands]]. Comprising roughly 2% of the realm's population, they are concentrated in agricultural villages along [[The Kingswater]] and in market towns like [[Crossford]]. Unlike the other species, halflings have never sought power, never built empires, never waged great wars. They farm, they brew, they trade, they raise large families, and they endure. Human lords barely notice them, which suits halflings perfectly. The current succession crisis fills halflings with dread—not because they care who wears [[The Iron Crown]], but because wars mean armies marching through farmland, burning crops, and pressing "volunteers" into service.
+The halflings of Eldermyr are a peaceful, pastoral people who have carved out quiet lives in the fertile valleys and gentle hills of [[The Crown Lands]]. Comprising roughly 3% of the realm's population, they are concentrated in agricultural villages along [[The Kingswater]] and in market towns like [[Crossford]]. Unlike the other species, halflings have never sought power, never built empires, never waged great wars. They farm, they brew, they trade, they raise large families, and they endure. Human lords barely notice them, which suits halflings perfectly. The current succession crisis fills halflings with dread—not because they care who wears [[The Iron Crown]], but because wars mean armies marching through farmland, burning crops, and pressing "volunteers" into service.
 
 ## Species Traits
 

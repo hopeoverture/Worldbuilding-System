@@ -12,6 +12,7 @@ aliases:
   - The Black Forest
   - The Old Forest
   - Myrkwood
+  - The Myrkvid
 status: complete
 image:
 # Geographic Details
@@ -185,8 +186,10 @@ Forest-specific weather:
 ### Sentient Dwellers
 | People | Population | Settlements |
 |--------|------------|-------------|
+| [[Elves\|Wood Elves]] | ~8,000 | Hidden settlements deep within |
 | Northfolk | ~15,000 | Scattered villages and hamlets |
 | [[The Spirit-Speakers]] | ~200 | Hidden lodge(s), location secret |
+| [[Gnomes\|Forest Gnomes]] | ~500 | Small warrens near Wood Elf settlements |
 | Hermits and holy folk | ~100 | Isolated throughout |
 
 ### Forest Communities
@@ -195,6 +198,15 @@ Villages, camps, enclaves:
 - **Útgard** — Deep forest village; Old Ways practitioners only
 - **Numerous small hamlets** — 10-50 people; follow the Old Ways exclusively
 - **Logging camps** — Seasonal, at forest edges; follow strict protocols
+
+### Wood Elf Settlements
+The [[Elves|Wood Elves]] of Myrkvid dwell in hidden communities that predate human presence by millennia:
+
+- **Silvaneth (The Starlight Glade)** — The largest Wood Elf settlement (~3,000), invisible to those who don't know the paths. Ruled by Elder Faelivrin, the elves here guard ancient knowledge about [[The Unnamed]] and maintain the wards that keep the darkest parts of the forest contained.
+- **The Moon Pools** — A sacred settlement (~1,500) built around pools that reflect starlight even in daylight. This is where Wood Elf seers practice divination and where the Speaking Pools are maintained.
+- **Scattered Groves** — Dozens of smaller communities (50-200 elves each) throughout the deep forest, each tending specific areas and maintaining the old magics.
+
+Wood Elves share the Old Ways with the Northfolk humans but remember truths the humans have forgotten. They rarely interact with outsiders but will speak with [[The Spirit-Speakers]] and those who approach with proper respect. Since [[The Unnamed]] began stirring, the Wood Elves have grown more active—and more willing to consider alliances.
 
 ### Hermits & Recluses
 Isolated inhabitants:
@@ -460,6 +472,10 @@ Historical connections:
 4. **The Door That Opened:** A village reports something came through one of the Door-trees—something that looks almost human but isn't. The party must track it before it reaches populated areas.
 
 5. **Elder Yrsa's Last Mission:** The dying elder contacts the party secretly. She knows the truth about [[The Blackened Crown]] and needs someone outside Northfolk politics to act on it. But she won't trust anyone who doesn't first prove themselves worthy by entering the Heart.
+
+6. **Silvaneth's Warning:** Elder Faelivrin of the [[Elves|Wood Elves]] has broken centuries of silence to request human aid. The wards containing the darkest parts of the forest are weakening, and the elves lack the numbers to reinforce them alone. She needs outsiders who can work magic the Old Ways don't recognize—and who can be trusted with secrets the elves have kept since before human memory.
+
+7. **The Moon Pools' Prophecy:** The Wood Elf seers at the Moon Pools have seen something in their divinations—a vision of [[The Unnamed]] rising, and a weapon that could stop it. But the weapon requires a component that only grows in one place: the sealed heart of [[The Ashen Fields]]. The elves need human allies to retrieve it before the corruption spreads further.
 
 ## Image Prompts
 

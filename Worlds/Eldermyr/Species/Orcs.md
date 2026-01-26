@@ -40,7 +40,7 @@ regions:
 
 ## Overview
 
-The orcs of Eldermyr occupy a complicated position—feared for their reputation, needed for their strength, and grudgingly tolerated in a realm that has never fully accepted them. Comprising roughly 1% of the population, they are concentrated in [[The Eastern March]], where three generations ago [[House Thorne]] made a controversial bargain: orc warriors would defend [[Ostmark Pass]] against the threats beyond in exchange for land, pay, and a chance at legitimacy. Today, orc mercenary companies serve Thorne interests, orc laborers work the mountain mines, and orc families have settled in communities around [[Stahlburg]]. They remain outsiders—distrusted by humans who remember old wars and orc raids—but they have proven their value in blood. The current succession crisis may determine whether orcs rise to acceptance or are cast out again.
+The orcs of Eldermyr occupy a complicated position—feared for their reputation, needed for their strength, and grudgingly tolerated in a realm that has never fully accepted them. Comprising roughly 3% of the population, they are concentrated in [[The Eastern March]], where three generations ago [[House Thorne]] made a controversial bargain: orc warriors would defend [[Ostmark Pass]] against the threats beyond in exchange for land, pay, and a chance at legitimacy. Today, orc mercenary companies serve Thorne interests, orc laborers work the mountain mines, and orc families have settled in communities around [[Stahlburg]]. They remain outsiders—distrusted by humans who remember old wars and orc raids—but they have proven their value in blood. The current succession crisis may determine whether orcs rise to acceptance or are cast out again.
 
 ## Species Traits
 

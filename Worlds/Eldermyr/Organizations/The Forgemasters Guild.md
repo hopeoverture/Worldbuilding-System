@@ -10,6 +10,7 @@ aliases:
   - The Forgemasters
   - The Iron Guild
   - The Hammermen
+  - Forgemasters Guild
 status: in-progress
 image:
 # Guild Details

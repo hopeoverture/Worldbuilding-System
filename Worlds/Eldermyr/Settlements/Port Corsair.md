@@ -17,7 +17,7 @@ population: 3800
 population_range: 300-5000
 government_type: Naval Command
 ruling_figure: Admiral Cira Stormwind
-primary_race: Human
+primary_race: Human, Tiefling
 # Economy
 primary_industry: Naval operations
 secondary_industries: [Shipbuilding, Sailmaking, Weapons manufacturing]
@@ -63,7 +63,15 @@ The town wraps around the crescent harbor in functional zones: dockyards to the 
 - Fleet crews (variable): 2,000-4,000 when ships are present
 
 ### Races & Cultures
-Human-dominant with Valdren maritime culture. More diverse than other Valdren settlements due to naval recruitment from across the kingdom. Former pirates, coastal villagers, and second sons of noble houses serve together. The fleet creates its own culture of loyalty and competence.
+| Species | Percentage | Notes |
+|---------|------------|-------|
+| [[Humans]] | 85% | Valdren maritime culture, naval families |
+| [[Tieflings]] | 8% | Refuge community, growing |
+| Other | 7% | Diverse travelers, foreign sailors |
+
+More diverse than other Valdren settlements due to naval recruitment from across the kingdom. Former pirates, coastal villagers, and second sons of noble houses serve together. The fleet creates its own culture of loyalty and competence.
+
+**The Tiefling Haven:** Port Corsair's rough reputation and distance from Church influence has made it the closest thing to a safe haven for [[Tieflings]] in Eldermyr. Approximately 200-300 tieflings live here permanently, with another hundred passing through at any time. They cluster in the back streets of Anchor Town, running taverns, working the docks, and serving on ships where captains care more about skill than appearance. The Crimson Horns mercenary company—led by the tiefling Mordai the Branded—operates from a warehouse near the docks, taking contracts that others won't touch. Admiral Stormwind tolerates the tieflings because they're useful; the Church's influence here is weak enough that heresy trials rarely reach the island.
 
 ### Social Classes
 Naval rank determines everything. Admiral Stormwind commands absolute authority; ship captains form the elite; skilled sailors and marines hold respect; landlubber support workers rank below even common deckhands. The hierarchy is rigid but meritocratic—ability determines promotion.
@@ -251,6 +259,12 @@ Admiral Stormwind keeps the fleet ready and officially neutral in the succession
 **Description:** Former pirate who earned pardon by providing intelligence; runs Anchor Town's real economy
 **Operations:** Loans, gambling, finding things that fell off ships
 
+### Tiefling Leader
+**Name:** Mordai the Branded
+**Role:** Mercenary captain, unofficial tiefling community leader
+**Description:** A scarred [[Tieflings|tiefling]] warrior with infernal heritage visible in his crimson skin and curved horns. Leads the Crimson Horns mercenary company—tieflings and outcasts who take contracts others won't touch. Mordai found refuge in Port Corsair twenty years ago and has made it his mission to ensure other tieflings have somewhere to run.
+**Operations:** Mercenary contracts, protection for tiefling refugees, intelligence gathering for whoever pays. The Admiral tolerates him because he's useful; the tiefling community reveres him as a protector.
+
 ## Secrets
 
 1. The "special stores" in the armory contain alchemical weapons captured from the pirate wars—some too dangerous to use, too valuable to destroy
@@ -264,6 +278,10 @@ Admiral Stormwind keeps the fleet ready and officially neutral in the succession
 2. Someone is sabotaging ships in the dockyard; marine commanders suspect Crown agents
 3. Big Rosa needs a crew for a "salvage operation" that's definitely not piracy
 4. The Admiral needs discreet investigators to determine if Commodore Blacktide is a traitor—or being framed
+
+5. **The Inquisition's Reach:** [[The Faith of the Three|Church]] inquisitors have arrived on the island, hunting a specific [[Tieflings|tiefling]] accused of dark magic in [[Thornhall]]. Mordai the Branded believes the accusation is false. He needs help proving it—or smuggling the fugitive somewhere even the Inquisition can't follow.
+
+6. **Crimson Contracts:** The Crimson Horns have been offered a contract that's too good to be true—and too dangerous to refuse. Mordai suspects a trap but can't afford to turn down the gold his community needs. He's looking for outside help to investigate the employer before committing his people.
 
 ## Rumors & Gossip
 

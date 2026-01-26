@@ -40,7 +40,7 @@ regions:
 
 ## Overview
 
-Goliaths are a nomadic people who dwell in the highest reaches of [[The Greycrowns]] and [[The Ostmark Range]], where the air thins and other species cannot easily follow. Comprising perhaps 0.5% of Eldermyr's population, they are the least integrated of the realm's peoples—not from hostility but from fundamental indifference to lowlander affairs. Goliaths measure themselves against the mountains, not against thrones. They descend to trade, occasionally to hire out as laborers or guards, but always return to the heights. The current succession crisis means nothing to them. The rising dead in [[The Ashen Fields]]—the corruption of the natural order—concerns them greatly. If the plague of undeath spreads to their mountains, goliaths will act. And when goliaths act, the ground shakes.
+Goliaths are a nomadic people who dwell in the highest reaches of [[The Greycrowns]] and [[The Ostmark Range]], where the air thins and other species cannot easily follow. Comprising perhaps 2% of Eldermyr's population, they are the least integrated of the realm's peoples—not from hostility but from fundamental indifference to lowlander affairs. Goliaths measure themselves against the mountains, not against thrones. They descend to trade, occasionally to hire out as laborers or guards, but always return to the heights. The current succession crisis means nothing to them. The rising dead in [[The Ashen Fields]]—the corruption of the natural order—concerns them greatly. If the plague of undeath spreads to their mountains, goliaths will act. And when goliaths act, the ground shakes.
 
 ## Species Traits
 

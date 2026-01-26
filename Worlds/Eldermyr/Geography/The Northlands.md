@@ -124,6 +124,7 @@ The Northlands stretch from the Greycrown Mountains to the northern reaches of t
 - The Standing Stones — Ancient circle predating [[The Faith of the Three|the Faith]], still used for Old Ways rituals
 - Frozen Hold — A castle abandoned when the climate grew colder, now ice-locked
 - Spirit-Caves — Sacred caves where the Old Ways dead are laid to rest
+- [[Frostfang Lodge]] — A grand hunting lodge near [[Vindrheim]] overrun by a winter wolf pack and their alpha
 
 ## Demographics
 

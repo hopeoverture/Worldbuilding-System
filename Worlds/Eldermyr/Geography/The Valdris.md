@@ -12,6 +12,8 @@ aliases:
   - The Golden River
   - The Merchant's Road
   - Valdren's River
+  - The Valdris River
+  - Valdris River
 status: complete
 image:
 # Geographic Details
@@ -20,7 +22,7 @@ climate: Temperate
 terrain_type: River
 size: Large
 # Political
-controlling_power: "[[House Valdren]]" (at the mouth)
+controlling_power: "[[House Valdren]] (at the mouth)"
 ---
 
 # The Valdris

@@ -11,6 +11,7 @@ aliases:
   - The Grey Order
   - Chronicler's Swords
   - The Grave Guard
+  - Grey Wardens
 status: in-progress
 image:
 # Organization Details

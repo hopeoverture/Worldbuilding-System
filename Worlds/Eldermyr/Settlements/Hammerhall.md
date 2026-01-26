@@ -20,7 +20,7 @@ population: 8000
 population_range: 7,000-9,000
 government_type: Guild Administration
 ruling_figure: "[[Grimhild the Smith]]"
-primary_race: Human
+primary_race: Human, Dwarf, Gnome
 # Economy
 primary_industry: Weapons & Armor Manufacturing
 secondary_industries:
@@ -55,6 +55,22 @@ The town arranges itself by function:
 - **The Works:** The great forges, powered by the falls
 - **Lower Town:** Worker housing, markets, taverns
 - **The Mines Road:** Leading up to the ore deposits
+
+## Demographics
+
+### Population Breakdown
+| Species | Percentage | Role |
+|---------|------------|------|
+| [[Humans]] | 45% | Workers, merchants, administrators |
+| [[Dwarves]] | 40% | Master smiths, miners, engineers |
+| [[Gnomes]] | 12% | Artificers, precision craftsmen, inventors |
+| Other | 3% | Travelers, traders |
+
+### The Dwarven Presence
+The [[Dwarves]] of Hammerhall have worked alongside humans since the town's founding eight centuries ago. They dominate the upper echelons of the [[Forgemasters Guild]], holding five of the seven Master Smith positions. Dwarven families occupy the upper town near the Guild Hall, and their deep understanding of metal and stone makes them invaluable. The 800-year alliance with [[House Thorne]] began when dwarven smiths agreed to arm Thorne soldiers in exchange for mining rights.
+
+### The Warren of Cogspark
+Beneath the northern quarter of town lies the Warren of Cogspark, the largest [[Gnomes|Rock Gnome]] settlement in [[The Eastern March]]. Home to approximately 800 gnomes, the Warren connects to the surface through multiple entrances disguised as workshops. Rock Gnomes handle the precision work—mechanisms, clockwork, fine engraving—that complement dwarven strength with gnomish cleverness. Tinkmaster Finwhizzle Cogspark leads the Warren Council.
 
 ## [[The Forgemasters Guild]]
 
@@ -106,6 +122,12 @@ Runs the town's shrine to the Warden. The smiths are devout in their way—they 
 ### Journeyman Karl
 A talented young smith, perhaps [[Grimhild the Smith|Grimhild]]'s eventual successor. He's noticed the strange materials arriving at her forge and wonders what she's making.
 
+### Master Thrain Stonehammer
+The eldest [[Dwarves|dwarven]] Master Smith, holding his seat on the Guild Council for over a century. Thrain remembers when the alliance with [[House Thorne]] was forged, and he quietly ensures that dwarven interests are never forgotten in Guild decisions. His knowledge of ancient smithing techniques borders on the magical.
+
+### Tinkmaster Finwhizzle Cogspark
+Leader of the Warren Council and de facto voice of Hammerhall's [[Gnomes|gnome]] population. Finwhizzle is ancient by gnome standards (over 400 years) and has forgotten more about precision mechanisms than most craftsmen will ever learn. He maintains the delicate balance between gnomish independence and cooperation with the surface town.
+
 ## Secrets
 
 1. **[[Grimhild's Commission]].** She's forging something meant to kill an immortal. She needs materials from beyond the Ostmark Pass to complete it.
@@ -121,6 +143,10 @@ A talented young smith, perhaps [[Grimhild the Smith|Grimhild]]'s eventual succe
 2. **The Saboteur:** Someone is introducing flaws into weapons destined for [[House Thorne]]. Finding the saboteur reveals a conspiracy reaching to [[Aldersgate]].
 
 3. **The Old Forge:** Beneath the town, a sealed chamber contains a forge from before the Guild existed. Something down there still burns.
+
+4. **Warren Tensions:** The [[Gnomes|gnomes]] of Cogspark Warren have discovered something in the tunnels—something that predates their arrival. Tinkmaster Finwhizzle needs outside help to investigate without alerting the surface town to secrets the gnomes have kept for centuries.
+
+5. **The Dwarven Memory:** Master Thrain Stonehammer claims to remember the original terms of the Thorne alliance—terms that differ significantly from what [[House Thorne]] believes. If he's right, the dwarves are owed far more than they've received. If he speaks publicly, it could shatter the alliance.
 
 ## Image Prompts
 
@@ -141,6 +167,7 @@ A talented young smith, perhaps [[Grimhild the Smith|Grimhild]]'s eventual succe
 - **Region:** [[The Eastern March]]
 - **Falls:** Iron Falls
 - **River:** [[The Stahlfluss]]
+- **Nearby Ruin:** [[The Iron Redoubt]] (abandoned dwarven outpost 20 miles northeast, now occupied by duergar)
 
 ### Characters
 - **Guildmaster:** [[Grimhild the Smith]]
@@ -153,3 +180,8 @@ A talented young smith, perhaps [[Grimhild the Smith|Grimhild]]'s eventual succe
 ### Settlements
 - **Capital:** [[Stahlburg]]
 - **Trade:** All major cities
+
+### Species
+- **[[Dwarves]]:** 40% of population; dominate Guild leadership
+- **[[Gnomes]]:** 12% of population; Warren of Cogspark beneath town
+- **[[Humans]]:** 45% of population; workers and merchants

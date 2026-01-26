@@ -21,7 +21,7 @@ population_range: 100,000+
 government_type: Monarchy (contested regency)
 ruling_figure: "[[Lord Varic Valdren]]"
 ruling_house: "[[House Valdren]]"
-primary_race: Human
+primary_race: Human, Elf, Halfling
 # Economy
 primary_industry: Trade & Administration
 secondary_industries:
@@ -106,6 +106,19 @@ The city is roughly circular, defined by three concentric rings of walls from di
 **Common Folk:** Workers, servants, laborers, small traders—70% of the population, concerned with survival more than succession.
 
 **Underclass:** The poor of Mudside, beggars, criminals—18% of the population, growing as the crisis deepens.
+
+### Species Distribution
+| Species | Percentage | Notes |
+|---------|------------|-------|
+| [[Humans]] | 88% | All regions represented |
+| [[Elves]] | 4% | Primarily High Elves in the Starlight Quarter |
+| [[Halflings]] | 4% | Servants, merchants, craftsmen throughout |
+| [[Gnomes]] | 2% | Scholars at [[The Arcane Academy]], craftsmen |
+| Other | 2% | Travelers, traders, diplomats |
+
+**The Starlight Quarter:** Near [[The Arcane Academy]], the Starlight Quarter houses Aldersgate's [[Elves|High Elf]] population—approximately 5,000 elves who have maintained a presence in the capital for centuries. The quarter centers on the Tower of Stars, an elven-built spire predating the current city walls. High Elves here serve as scholars at the Academy, advisors to noble houses, and keepers of arcane lore. They observe human politics with the patience of centuries, rarely intervening but always watching. The elven elder Faelar Moonwhisper sits on no council but is consulted by every faction seeking ancient knowledge.
+
+**Halfling Communities:** [[Halflings]] are scattered throughout the city, particularly in the Commons and Guild Row, working as servants, cooks, and small-scale merchants. They keep their heads down during the crisis, hoping to be overlooked by powers greater than themselves.
 
 ## Government & Politics
 
@@ -204,6 +217,12 @@ The Spymaster. No one knows their true identity. They serve whoever sits the thr
 ### Sister Elspeth
 Abbess of the Shepherd's Sanctuary, known for healing miracles. Popular with the common folk. Quietly corresponds with those concerned about [[Lord Varic Valdren|the regent]]'s ambitions.
 
+### Elder Faelar Moonwhisper
+The [[Elves|High Elf]] elder who speaks for the Starlight Quarter without holding any formal title. Faelar has lived in Aldersgate for over four hundred years and remembers every king since the unification. He sits on no council but is consulted by every faction seeking ancient knowledge—or ancient alliances. His support could legitimize any claimant; his opposition could doom them. He remains carefully neutral, watching the human drama with the patience of centuries.
+
+### Bramble Took
+An elderly [[Halflings|halfling]] who serves as informal mayor of the halfling community scattered through the Commons and Guild Row. Bramble runs a bakery that's been in his family for six generations, and his kitchen has become the unofficial meeting place for halflings worried about the coming conflict. He has no political power, but he knows every servant, cook, and household worker in the city—and they all talk to him.
+
 ## Secrets
 
 1. **The King's Body.** [[High King Aldric II|Aldric II]]'s corpse sits on the Ironthrone, preserved by Faith magic, displayed to prevent panic. The Small Council knows the truth: he was poisoned.
@@ -225,6 +244,10 @@ Abbess of the Shepherd's Sanctuary, known for healing miracles. Popular with the
 4. **[[Edric Valdren]]'s Friends:** [[Edric Valdren]] is quietly gathering allies. He needs trustworthy people who aren't already compromised by one faction or another.
 
 5. **The Owl's Price:** The Spymaster knows everything worth knowing. They're willing to share—for a price that has nothing to do with gold.
+
+6. **The Elven Memory:** Elder Faelar Moonwhisper has begun having visions—something he hasn't experienced in three centuries. The visions concern [[The Unnamed]], and they suggest the ancient evil's awakening is connected to the succession crisis in ways no one has understood. He needs trustworthy agents to investigate while he determines whether to break the Starlight Quarter's neutrality.
+
+7. **The Servants' Conspiracy:** Bramble Took has heard whispers from his network of halfling servants—whispers about a plot against [[Edric Valdren|young Edric]]. The conspirators don't know the servants are listening. Bramble needs someone to act on this information without revealing his sources—and without putting his people in danger.
 
 ## Image Prompts
 

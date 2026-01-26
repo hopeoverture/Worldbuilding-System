@@ -23,7 +23,7 @@ population_range: 40,000-50,000
 government_type: Military Aristocracy
 ruling_figure: "[[Lady Margret Thorne]]"
 ruling_house: "[[House Thorne]]"
-primary_race: Human
+primary_race: Human, Orc, Dwarf
 # Economy
 primary_industry: Iron & Steel Production
 secondary_industries:
@@ -87,6 +87,22 @@ Carved into the mountain itself, the fortress rises in seven levels connected by
 ### Siege Capability
 Stahlburg has never fallen. Historical sieges have lasted up to three years before attackers withdrew. The combination of natural defenses, iron-faced walls, and the sheer determination of Marcher folk makes the fortress effectively impregnable to medieval siege techniques.
 
+## Demographics
+
+### Species Distribution
+| Species | Percentage | Notes |
+|---------|------------|-------|
+| [[Humans]] | 82% | Marcher stock; practical and martial |
+| [[Orcs]] | 10% | Mercenary families; three generations established |
+| [[Dwarves]] | 6% | Smiths and engineers from [[Hammerhall]] |
+| Other | 2% | Travelers, traders |
+
+### The Orc Quarter (Grünholm)
+Three generations ago, [[House Thorne]] made a controversial bargain: [[Orcs|orc]] warriors would defend [[Ostmark Pass]] in exchange for land, pay, and legitimacy. Today, the Grünholm district on the city's eastern edge houses some 4,500 orcs—soldiers, their families, and a growing community of craftsmen and laborers. Warchief Grokmar Ironjaw commands the Ostmark Mercenary Company from here, coordinating with [[Ser Viktor Thorne]] on pass defense. The district is self-governing under Thorne oversight, with its own markets, shrines to the orcish war-god, and fighting pits where disputes are settled. Humans view Grünholm with suspicion; the orcs view humans as employers who might discard them if the political winds shift.
+
+### Dwarven Enclaves
+Skilled [[Dwarves|dwarven]] smiths and engineers from [[Hammerhall]] maintain permanent residences in Stahlburg, working the Great Forge and consulting on fortification engineering. They cluster near the Forge Quarter, maintaining their own customs while serving Thorne interests.
+
 ## Garrison
 
 ### Military Composition
@@ -97,6 +113,7 @@ Stahlburg has never fallen. Historical sieges have lasted up to three years befo
 | March Infantry | 4,000 | Elite | Wall defense, field battle |
 | Crossbowmen | 1,500 | Expert | Ranged defense |
 | Knights/Cavalry | 800 | Elite | Strike force, pursuit |
+| [[Orcs\|Orc]] Mercenary Companies | 1,200 | Elite | Shock troops, pass defense |
 | Siege Engineers | 200 | Expert | Defense and offense |
 | Iron Guard | 500 | Legendary | [[Lady Margret Thorne]]'s personal guard |
 | Reserves/Training | 1,000 | Variable | Garrison support |
@@ -148,6 +165,12 @@ High Warden of Stahlburg, he preaches that the Warden aspect of [[The Faith of t
 ### Captain Ironhand
 A legend in his own time. Veteran of fifty battles, missing his left hand (replaced with an iron prosthetic forged by [[Grimhild the Smith|Grimhild]] herself), he trains the next generation with brutal efficiency and genuine care.
 
+### Warchief Grokmar Ironjaw
+Commander of the [[Orcs|Ostmark Mercenary Company]] and unofficial leader of Grünholm's orc population. Grokmar is second-generation Eldermyr-born, speaks fluent Common with a Marcher accent, and has proven his loyalty to [[House Thorne]] in dozens of engagements. He walks a razor's edge between maintaining orc traditions and demonstrating the "civilization" humans demand. If Thorne falls, so does everything his people have built.
+
+### Shaman Bloodmoon
+Grünholm's spiritual leader, keeper of the old orc traditions while adapting them to life in human lands. She maintains the fighting pits and the shrines, blessing warriors before battle. Some humans whisper that her rituals are too close to dark magic—whispers that could become accusations if the political situation changes.
+
 ## Economy
 
 ### Primary Industry
@@ -181,6 +204,10 @@ Every weapon sold carries a surcharge that funds [[The Eastern March]]'s defense
 4. **Beyond the Pass:** [[Grimhild the Smith|Grimhild]] needs materials from the foreign lands for her masterwork. The party could make the journey—if [[Ser Viktor Thorne|Viktor]] permits passage.
 
 5. **The War College Challenge:** A foreign dignitary has challenged [[The Eastern March|the March]] to produce champions for a trial by combat. The stakes are higher than anyone admits.
+
+6. **Grünholm's Future:** If [[House Thorne]] loses the succession struggle, what happens to the [[Orcs|orcs]]? Warchief Grokmar has been quietly making contingency plans—and someone in [[Aldersgate]] has noticed. He needs to know if they're enemies offering threats or allies offering alternatives.
+
+7. **The Shaman's Accusation:** Someone is accusing Shaman Bloodmoon of practicing forbidden magic. The evidence is thin but politically convenient. Protecting her means navigating Marcher prejudice against orcs—and potentially uncovering who's trying to destabilize the Thorne alliance from within.
 
 ## Image Prompts
 

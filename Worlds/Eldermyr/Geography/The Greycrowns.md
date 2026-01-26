@@ -11,6 +11,8 @@ aliases:
   - The Grey Mountains
   - The Crown of Winter
   - Hrímfjöll (Old Tongue)
+  - Greycrown Gap
+  - The Greycrown Gap
 status: complete
 image:
 # Geographic Details
@@ -180,6 +182,7 @@ Creatures found only here:
 ### Mountain Peoples
 | People | Location | Lifestyle |
 |--------|----------|-----------|
+| [[Goliaths]] | High peaks, above treeline | Nomadic herding, competitive traditions |
 | Northfolk clans | Valleys, foothills | Herding, hunting, Old Ways worship |
 | Chronicler's monks | Vindrdal monastery | Contemplation, tending the dead |
 | Mining families | Járndal | Generation miners serving the Forgemasters |
@@ -192,6 +195,17 @@ Creatures found only here:
 | Járnby (Iron Village) | Mining settlement | ~600 |
 | Úlfsgard (Wolf's Guard) | Fortified outpost | ~200 |
 | Monastery of Silence | Religious community | ~50 |
+
+### Goliath Territories
+The [[Goliaths]] claim the highest reaches of the Greycrowns as their domain—the peaks and high plateaus above 9,000 feet where other peoples cannot easily survive. Approximately 2,500 goliaths move through these territories in three major tribes:
+
+- **The Cloudwalker Tribe (~800)** — Dwell near Vindrtind (Wind's Peak), the highest peaks. Mystical; their shamans claim to speak with storm spirits. Rarely descend below 10,000 feet.
+- **The Stonekeeper Tribe (~1,200)** — The largest and most accessible tribe, holding territory above Járndal and trading occasionally with the mining communities. Stonekeeper Vaunea Thunderbrow leads them with pragmatic authority.
+- **The Icecrown Tribe (~500)** — Dwell in the frozen northeastern reaches. Rarely seen; considered the hardiest and most isolationist. Said to know passes into the northern wastes that no human has mapped.
+
+**The Proving Grounds:** A sacred plateau near the Grey Sisters peaks where goliath youth undergo the Proving—a series of trials that mark the transition to adulthood. Each year during summer's brief window, the tribes gather here for competitions, marriages, and councils. It's the closest thing goliaths have to a permanent settlement, with ceremonial stone platforms carved by countless generations.
+
+Goliaths trade furs, mountain herbs, and guidance services in exchange for metal tools, salt, and grain. They descend to [[Vindrheim]] in summer for the trade season but return to the heights before first snow. The succession crisis in the lowlands means nothing to them—but the rising dead in [[The Ashen Fields]] concerns them deeply. If that corruption spreads to their mountains, the tribes have sworn to descend in force.
 
 ### Fortifications
 Castles, fortresses, watchtowers:
@@ -314,6 +328,7 @@ Dungeons, lairs, treasure locations:
 - **Úlfsgil dire wolf dens** — Dangerous but pelts are valuable
 - **The Deep Delving** — Whatever caused it to be sealed is still there
 - **Smuggler caches** — Hidden supplies and stolen goods throughout the passes
+- **[[Wyrmbone Spire]]** — A natural rock spire near Grimhold where a young white dragon has claimed an ancient dwarven treasure vault as its lair
 
 ## History
 
@@ -426,6 +441,10 @@ Those who mapped or climbed:
 4. **Mountain Alliance:** [[Lord Draven Karath]]'s agents are in [[Vindrheim]], negotiating with Jarl Eirik. The Crown needs someone to find out what's being offered—and perhaps make a counteroffer before it's too late.
 
 5. **The Monastery's Warning:** Abbess Sigrid secretly contacts the party. The dead are not resting. The Chronicler's servants are troubled. Something must be done about [[The Ashen Fields]], and [[The Faith of the Three|the Faith]] in [[Thornhall]] refuses to act.
+
+6. **The Proving Grounds Intrusion:** Someone—or something—has desecrated the [[Goliaths|goliath]] Proving Grounds. Stonekeeper Vaunea Thunderbrow is furious, but the tribes lack the numbers to both guard their sacred site and investigate the source. She needs outside help, and she's willing to share goliath knowledge of the high passes in return—including routes into the northern wastes that no human has mapped.
+
+7. **The Cloudwalker Vision:** The shamans of the Cloudwalker tribe have seen something in their communion with the storm spirits—a vision of dead things walking through the high passes, corrupting the mountains themselves. If this comes to pass, the goliaths will have nowhere left to retreat. Stonekeeper Vaunea believes the vision can be prevented, but only if someone can reach the source of the corruption: [[The Ashen Fields]], far to the south. She seeks lowlander allies for a mission the goliaths cannot accomplish alone.
 
 ## Image Prompts
 

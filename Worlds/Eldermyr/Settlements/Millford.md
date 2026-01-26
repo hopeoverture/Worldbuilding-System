@@ -17,7 +17,7 @@ population: 3500
 population_range: 300-5000
 government_type: Appointed Mayor
 ruling_figure: Mayor Aldric Wheelwright
-primary_race: Human
+primary_race: Human, Halfling
 # Economy
 primary_industry: Grain processing and trade
 secondary_industries: [Milling, Brewing, Wagon-making]
@@ -62,7 +62,13 @@ The town centers on Market Square, with the Millstream dividing it into Eastbank
 - Growth: Stable (tied to agriculture)
 
 ### Races & Cultures
-Entirely human; Eastern March stock; hardworking and practical
+| Species | Percentage | Notes |
+|---------|------------|-------|
+| [[Humans]] | 70% | Eastern March stock; hardworking farmers |
+| [[Halflings]] | 25% | Agricultural community; multi-generational |
+| Other | 5% | Traveling merchants, laborers |
+
+**Halfling Presence:** Millford is one of the largest [[Halflings|halfling]] communities in [[The Crown Lands]], with approximately 900 halflings living in and around the town. They've been here for centuries, their burrow-homes dug into the riverbanks on the Westbank side, their families running the best bakeries and breweries in town. Rosie Goodbarrel—matriarch of the oldest halfling family—is unofficial leader of the community, and her word carries as much weight as Mayor Wheelwright's among her people. Halflings here want nothing to do with the succession crisis; they just want to farm their fields, bake their bread, and be left alone. The grain wagons heading south to feed armies fill them with quiet dread.
 
 ### Social Classes
 Prosperous merchants and mill owners at top; skilled workers in middle; seasonal laborers at bottom. Social mobility tied to grain trade success.
@@ -210,6 +216,12 @@ Millford finds itself at the center of Eldermyr's food supply crisis. Lord Thorn
 **Role:** Smuggler
 **Operations:** Moves grain off the books to black markets; increasingly bold
 
+### Halfling Elder
+**Name:** Rosie Goodbarrel
+**Role:** Matriarch of Millford's [[Halflings|halfling]] community
+**Description:** The unofficial leader of the town's 900 halflings, Rosie runs a bakery that's been in her family for six generations. Her burrow-home on Westbank has become the meeting place for halflings worried about the succession crisis. She has no political power, but she knows everything that happens in Millford through her extended network of kin—and she's fiercely protective of her people.
+**Influence:** None official; immense among halflings; respected by humans who know her
+
 ## Secrets
 
 1. Mayor Wheelwright has been skimming grain shipments, building a personal reserve against uncertain times
@@ -222,6 +234,10 @@ Millford finds itself at the center of Eldermyr's food supply crisis. Lord Thorn
 2. Ankhegs have been spotted in the fields near town; someone needs to clear them before harvest
 3. Flour Marten offers the party good money to escort a "special shipment" past Thorne checkpoints
 4. The granary is being sabotaged; someone wants the kingdom to starve
+
+5. **The Halfling Underground:** Rosie Goodbarrel has been quietly helping refugees from the south pass through Millford—families fleeing the coming war. Now one of her "guests" is being hunted by Thorne soldiers. She needs help getting them to safety without exposing the network she's built.
+
+6. **Burrow Secrets:** The halfling warrens on Westbank extend deeper than anyone realizes—and they connect to old tunnels that predate the town. Something has been moving in those tunnels. Rosie needs discreet help investigating before whatever it is threatens her people.
 
 ## Image Prompts
 

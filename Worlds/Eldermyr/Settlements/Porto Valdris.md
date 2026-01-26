@@ -23,7 +23,7 @@ population_range: 75,000-85,000
 government_type: Mercantile Oligarchy
 ruling_figure: "[[Lord Varic Valdren]]"
 ruling_house: "[[House Valdren]]"
-primary_race: Human
+primary_race: Human, Dragonborn
 # Economy
 primary_industry: Trade & Shipping
 secondary_industries:
@@ -100,6 +100,14 @@ The city follows its natural contours, rising in levels from the bustling waterf
 **Key Features:** Fishing village absorbed by the city, cramped housing for the laboring class
 **Who's Found Here:** Fishermen, laborers, servants, those who do the city's dirty work
 **Notable Locations:** The Fishmonger's Market, the Widow's Chapel, unnamed taverns
+
+### 7. The Dragon Quarter
+**Character:** Wealthy, exotic, self-governing
+**Key Features:** Dragonborn clan estates, trading houses, the Temple of Bahamut
+**Who's Found Here:** [[Dragonborn]] merchant families, their human partners, specialized traders in exotic goods
+**Notable Locations:** The Flamescale Trading House, the Temple of the Platinum Dragon, the Academy of the Strait
+
+The Dragon Quarter is home to roughly 800 [[Dragonborn]], primarily metallic bloodlines who have traded across [[The Trader's Sea]] for longer than [[House Valdren]] has existed. The quarter occupies prime waterfront property on the south shore, their ancestral estates predating most human construction. [[Dragonborn]] maintain strict neutrality in human political conflicts while dominating the silk and spice trades. Commodore Kriv Flamescale leads the Council of Clans from the Flamescale Trading House, coordinating dragonborn commercial interests throughout [[The Western Shore]].
 
 ## Economy
 
@@ -183,6 +191,12 @@ The beloved healer of the Cathedral, known for miracles that [[The Faith of the 
 ### The Spider
 A criminal figure who controls much of the harbor's smuggling and vice. No one knows their true identity. They maintain order among criminals—for a price.
 
+### Commodore Kriv Flamescale
+Leader of the [[Dragonborn]] Council of Clans and de facto ambassador for the Dragon Quarter. Kriv's family has traded across [[The Trader's Sea]] for longer than [[House Valdren]] has existed, and he never lets humans forget it. He maintains strict dragonborn neutrality in human affairs—a neutrality that becomes increasingly difficult as the succession crisis threatens the trade agreements his people depend upon. His breath weapon (fire) has allegedly been used exactly once in a human dispute; no one discusses the details.
+
+### Matriarch Silvara Stormscale
+The eldest dragonborn in Porto Valdris and keeper of clan histories. Silvara remembers the Pact that created her people and holds secrets about the draconic heritage that younger dragonborn have forgotten. She has begun having troubling dreams about something stirring in the deep waters—dreams that match the reports from the Sunken Palace.
+
 ## Secrets
 
 1. **The Valdren Debt.** [[House Valdren]] owes the Sun Courts more gold than exists in their vaults. They've been paying interest with trade concessions. If the truth emerged, creditors would demand immediate payment—crashing the entire economy.
@@ -205,6 +219,10 @@ A criminal figure who controls much of the harbor's smuggling and vice. No one k
 
 5. **Lady Serana's Problem:** The Lady of Porto Valdris needs trustworthy agents for a task too sensitive for the family's usual operatives. Her husband must never know.
 
+6. **The Dragon Quarter's Dilemma:** Commodore Kriv Flamescale has received an ultimatum from one of the succession factions: break dragonborn neutrality or face consequences. He needs outside help to navigate the threat without compromising his people's independence—or starting a conflict the dragonborn cannot win.
+
+7. **The Matriarch's Dreams:** Silvara Stormscale's dreams grow more urgent. Something ancient stirs in the Sunken Palace—something connected to the draconic heritage. She needs investigators who can explore the ruins without triggering whatever sleeps there. The dragonborn will pay well, but they want the truth kept within the Quarter.
+
 ## Image Prompts
 
 ### Art Style
@@ -224,6 +242,7 @@ A criminal figure who controls much of the harbor's smuggling and vice. No one k
 - **Region:** [[The Western Shore]]
 - **Water:** [[The Trader's Sea]], [[The Valdris River]]
 - **Strait:** [[Lo Stretto d'Oro]]
+- **Nearby Threats:** [[Stormbreak Keep]] (pirate fortress on sea cliffs), [[The Sunken Lighthouse]] (merrow lair on northern coast)
 
 ### Characters
 - **Lord (Absent):** [[Lord Varic Valdren]] (in Aldersgate)

@@ -11,6 +11,7 @@ aliases:
   - The Tower
   - The Learned Circle
   - Aldersgate Academy
+  - Arcane Academy
 status: in-progress
 image:
 # Academy Details

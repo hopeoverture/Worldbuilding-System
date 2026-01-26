@@ -119,8 +119,9 @@ The Eastern March stands as Eldermyr's shield against the unknown lands beyond t
 
 ### Ruins & Abandoned Places
 - Old Watch Towers — Pre-Thorne fortifications along the border, some still garrisoned
-- The Burned Hold — A fortress destroyed in [[The Great War|the Great War]], left as a warning
+- [[The Burned Hold]] — A cursed fortress destroyed in [[The Great War|the Great War]], where fire elementals and flame-scarred undead now dwell
 - Foreign ruins beyond the Ostmark Pass (rarely explored)
+- [[The Iron Redoubt]] — An abandoned dwarven mining outpost near [[Hammerhall]], recently occupied by duergar raiders from the Underdark
 
 ## Demographics
 

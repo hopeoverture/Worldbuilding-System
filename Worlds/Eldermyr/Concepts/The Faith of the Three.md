@@ -10,6 +10,9 @@ aliases:
   - The Three
   - The Triune Faith
   - The Faith
+  - The Church of the Three
+  - Church of the Three
+  - Faith of the Three
 status: in-progress
 image:
 # Pantheon Details

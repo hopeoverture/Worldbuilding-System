@@ -41,7 +41,7 @@ regions:
 
 ## Overview
 
-Humans are the dominant species of [[Eldermyr]], comprising roughly 85% of the realm's population and holding virtually all political power. They are the driving force behind the current succession crisis, the builders of the great castles and cities, and the architects of both the realm's greatest achievements and its most terrible failures. While other species have their strengths—the longevity of elves, the resilience of dwarves—humans possess an adaptability and ambition that has allowed them to spread across every region and climb to every position of power. The current conflict between [[House Valdren]], [[House Thorne]], [[House Karath]], and [[The Faith of the Three]] is an entirely human affair, though its consequences will touch every soul in the realm.
+Humans are the dominant species of [[Eldermyr]], comprising roughly 65% of the realm's population and holding virtually all political power. They are the driving force behind the current succession crisis, the builders of the great castles and cities, and the architects of both the realm's greatest achievements and its most terrible failures. While other species have their strengths—the longevity of elves, the resilience of dwarves—humans possess an adaptability and ambition that has allowed them to spread across every region and climb to every position of power. The current conflict between [[House Valdren]], [[House Thorne]], [[House Karath]], and [[The Faith of the Three]] is an entirely human affair, though its consequences will touch every soul in the realm.
 
 ## Species Traits
 

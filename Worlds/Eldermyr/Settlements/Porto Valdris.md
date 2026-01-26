@@ -23,7 +23,7 @@ population_range: 75,000-85,000
 government_type: Mercantile Oligarchy
 ruling_figure: "[[Lord Varic Valdren]]"
 ruling_house: "[[House Valdren]]"
-primary_race: Human
+primary_race: Human, Dragonborn
 # Economy
 primary_industry: Trade & Shipping
 secondary_industries:
@@ -100,6 +100,14 @@ The city follows its natural contours, rising in levels from the bustling waterf
 **Key Features:** Fishing village absorbed by the city, cramped housing for the laboring class
 **Who's Found Here:** Fishermen, laborers, servants, those who do the city's dirty work
 **Notable Locations:** The Fishmonger's Market, the Widow's Chapel, unnamed taverns
+
+### 7. The Dragon Quarter
+**Character:** Wealthy, exotic, self-governing
+**Key Features:** Dragonborn clan estates, trading houses, the Temple of Bahamut
+**Who's Found Here:** [[Dragonborn]] merchant families, their human partners, specialized traders in exotic goods
+**Notable Locations:** The Flamescale Trading House, the Temple of the Platinum Dragon, the Academy of the Strait
+
+The Dragon Quarter is home to roughly 800 [[Dragonborn]], primarily metallic bloodlines who have traded across [[The Trader's Sea]] for longer than [[House Valdren]] has existed. The quarter occupies prime waterfront property on the south shore, their ancestral estates predating most human construction. [[Dragonborn]] maintain strict neutrality in human political conflicts while dominating the silk and spice trades. Commodore Kriv Flamescale leads the Council of Clans from the Flamescale Trading House, coordinating dragonborn commercial interests throughout [[The Western Shore]].
 
 ## Economy
 

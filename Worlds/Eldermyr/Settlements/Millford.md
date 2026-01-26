@@ -17,7 +17,7 @@ population: 3500
 population_range: 300-5000
 government_type: Appointed Mayor
 ruling_figure: Mayor Aldric Wheelwright
-primary_race: Human
+primary_race: Human, Halfling
 # Economy
 primary_industry: Grain processing and trade
 secondary_industries: [Milling, Brewing, Wagon-making]
@@ -62,7 +62,13 @@ The town centers on Market Square, with the Millstream dividing it into Eastbank
 - Growth: Stable (tied to agriculture)
 
 ### Races & Cultures
-Entirely human; Eastern March stock; hardworking and practical
+| Species | Percentage | Notes |
+|---------|------------|-------|
+| [[Humans]] | 70% | Eastern March stock; hardworking farmers |
+| [[Halflings]] | 25% | Agricultural community; multi-generational |
+| Other | 5% | Traveling merchants, laborers |
+
+**Halfling Presence:** Millford is one of the largest [[Halflings|halfling]] communities in [[The Crown Lands]], with approximately 900 halflings living in and around the town. They've been here for centuries, their burrow-homes dug into the riverbanks on the Westbank side, their families running the best bakeries and breweries in town. Rosie Goodbarrel—matriarch of the oldest halfling family—is unofficial leader of the community, and her word carries as much weight as Mayor Wheelwright's among her people. Halflings here want nothing to do with the succession crisis; they just want to farm their fields, bake their bread, and be left alone. The grain wagons heading south to feed armies fill them with quiet dread.
 
 ### Social Classes
 Prosperous merchants and mill owners at top; skilled workers in middle; seasonal laborers at bottom. Social mobility tied to grain trade success.

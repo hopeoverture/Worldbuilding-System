@@ -185,8 +185,10 @@ Forest-specific weather:
 ### Sentient Dwellers
 | People | Population | Settlements |
 |--------|------------|-------------|
+| [[Elves\|Wood Elves]] | ~8,000 | Hidden settlements deep within |
 | Northfolk | ~15,000 | Scattered villages and hamlets |
 | [[The Spirit-Speakers]] | ~200 | Hidden lodge(s), location secret |
+| [[Gnomes\|Forest Gnomes]] | ~500 | Small warrens near Wood Elf settlements |
 | Hermits and holy folk | ~100 | Isolated throughout |
 
 ### Forest Communities
@@ -195,6 +197,15 @@ Villages, camps, enclaves:
 - **Útgard** — Deep forest village; Old Ways practitioners only
 - **Numerous small hamlets** — 10-50 people; follow the Old Ways exclusively
 - **Logging camps** — Seasonal, at forest edges; follow strict protocols
+
+### Wood Elf Settlements
+The [[Elves|Wood Elves]] of Myrkvid dwell in hidden communities that predate human presence by millennia:
+
+- **Silvaneth (The Starlight Glade)** — The largest Wood Elf settlement (~3,000), invisible to those who don't know the paths. Ruled by Elder Faelivrin, the elves here guard ancient knowledge about [[The Unnamed]] and maintain the wards that keep the darkest parts of the forest contained.
+- **The Moon Pools** — A sacred settlement (~1,500) built around pools that reflect starlight even in daylight. This is where Wood Elf seers practice divination and where the Speaking Pools are maintained.
+- **Scattered Groves** — Dozens of smaller communities (50-200 elves each) throughout the deep forest, each tending specific areas and maintaining the old magics.
+
+Wood Elves share the Old Ways with the Northfolk humans but remember truths the humans have forgotten. They rarely interact with outsiders but will speak with [[The Spirit-Speakers]] and those who approach with proper respect. Since [[The Unnamed]] began stirring, the Wood Elves have grown more active—and more willing to consider alliances.
 
 ### Hermits & Recluses
 Isolated inhabitants:

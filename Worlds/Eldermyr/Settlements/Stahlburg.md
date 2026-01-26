@@ -23,7 +23,7 @@ population_range: 40,000-50,000
 government_type: Military Aristocracy
 ruling_figure: "[[Lady Margret Thorne]]"
 ruling_house: "[[House Thorne]]"
-primary_race: Human
+primary_race: Human, Orc, Dwarf
 # Economy
 primary_industry: Iron & Steel Production
 secondary_industries:
@@ -87,6 +87,22 @@ Carved into the mountain itself, the fortress rises in seven levels connected by
 ### Siege Capability
 Stahlburg has never fallen. Historical sieges have lasted up to three years before attackers withdrew. The combination of natural defenses, iron-faced walls, and the sheer determination of Marcher folk makes the fortress effectively impregnable to medieval siege techniques.
 
+## Demographics
+
+### Species Distribution
+| Species | Percentage | Notes |
+|---------|------------|-------|
+| [[Humans]] | 82% | Marcher stock; practical and martial |
+| [[Orcs]] | 10% | Mercenary families; three generations established |
+| [[Dwarves]] | 6% | Smiths and engineers from [[Hammerhall]] |
+| Other | 2% | Travelers, traders |
+
+### The Orc Quarter (Grünholm)
+Three generations ago, [[House Thorne]] made a controversial bargain: [[Orcs|orc]] warriors would defend [[Ostmark Pass]] in exchange for land, pay, and legitimacy. Today, the Grünholm district on the city's eastern edge houses some 4,500 orcs—soldiers, their families, and a growing community of craftsmen and laborers. Warchief Grokmar Ironjaw commands the Ostmark Mercenary Company from here, coordinating with [[Ser Viktor Thorne]] on pass defense. The district is self-governing under Thorne oversight, with its own markets, shrines to the orcish war-god, and fighting pits where disputes are settled. Humans view Grünholm with suspicion; the orcs view humans as employers who might discard them if the political winds shift.
+
+### Dwarven Enclaves
+Skilled [[Dwarves|dwarven]] smiths and engineers from [[Hammerhall]] maintain permanent residences in Stahlburg, working the Great Forge and consulting on fortification engineering. They cluster near the Forge Quarter, maintaining their own customs while serving Thorne interests.
+
 ## Garrison
 
 ### Military Composition
@@ -97,6 +113,7 @@ Stahlburg has never fallen. Historical sieges have lasted up to three years befo
 | March Infantry | 4,000 | Elite | Wall defense, field battle |
 | Crossbowmen | 1,500 | Expert | Ranged defense |
 | Knights/Cavalry | 800 | Elite | Strike force, pursuit |
+| [[Orcs\|Orc]] Mercenary Companies | 1,200 | Elite | Shock troops, pass defense |
 | Siege Engineers | 200 | Expert | Defense and offense |
 | Iron Guard | 500 | Legendary | [[Lady Margret Thorne]]'s personal guard |
 | Reserves/Training | 1,000 | Variable | Garrison support |

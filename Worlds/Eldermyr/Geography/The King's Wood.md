@@ -182,6 +182,7 @@ Forest-specific weather:
 ### Sentient Dwellers
 | People | Population | Settlements |
 |--------|------------|-------------|
+| [[Gnomes\|Forest Gnomes]] | ~2,000 | Hidden warrens |
 | Royal Foresters | ~200 | Forester villages |
 | Lodge servants | ~300 (seasonal) | The lodges |
 | Charcoal burners | ~50 | Licensed camps |
@@ -191,6 +192,13 @@ Villages, camps, enclaves:
 - **Forester's Green** — Primary forester village; serves the forest
 - **The Lodge District** — Seasonal noble presence; lavish accommodations
 - **The King's Rest** — Royal hunting lodge; mini-palace in the wood
+
+### The Fernglow Warren
+The Crown officially maintains that no one lives in the King's Wood except foresters and licensed hermits. The [[Gnomes|Forest Gnomes]] prefer it that way.
+
+The Fernglow Warren is a network of underground chambers and tunnels beneath the Deep Wood, home to approximately 2,000 Forest Gnomes who have lived here since before the forest became royal property. Their entrances are disguised as fallen logs, animal burrows, and natural sinkholes—you can only find them if the gnomes want you to. The Warren Council, led by Elder Willowmist Fernglow, maintains careful neutrality: they pay no taxes (the Crown doesn't know they exist), interfere in no politics, and keep the Deep Wood's secrets.
+
+Forest Gnomes know things about the King's Wood that the Royal Foresters don't—including what lives near the Old Palace. They won't discuss it with outsiders, but they've been quietly warning their animal friends to avoid the area. Something is stirring that hasn't moved in centuries.
 
 ### Hermits & Recluses
 Isolated inhabitants:

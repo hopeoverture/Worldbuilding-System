@@ -19,7 +19,7 @@ population: 8000
 population_range: 7,000-10,000
 government_type: Council of Elders
 ruling_figure: Elder Thora Windwhisper
-primary_race: Human
+primary_race: Human, Goliath (seasonal)
 # Economy
 primary_industry: Trade
 secondary_industries:
@@ -71,9 +71,13 @@ The northern edge of town, where loggers and trappers enter with their goods. Si
 ### Peoples
 | Group | Percentage | Notes |
 |-------|------------|-------|
-| Northfolk | 80% | Original inhabitants |
-| Southern merchants | 15% | Seasonal or permanent traders |
-| Others | 5% | Travelers, outcasts |
+| Northfolk | 75% | Original inhabitants |
+| Southern merchants | 12% | Seasonal or permanent traders |
+| [[Goliaths]] | 8% (summer) | Seasonal traders from [[The Greycrowns]] |
+| [[Elves\|Wood Elves]] | 3% | From [[Myrkvid]], rare visitors |
+| Others | 2% | Travelers, outcasts |
+
+**The Goliath Summer:** During the brief trading season (roughly three months), [[Goliaths]] descend from [[The Greycrowns]] to trade at Vindrheim. The town's population swells with perhaps 300-500 goliaths at peak season, bringing furs, mountain herbs, and rare stones in exchange for metal goods, salt, and grain. The Goliath Market occupies the northern edge of Market Quarter, where stalls are built extra-large and locals have learned not to stare. The Stonekeeper tribe has the strongest presence; Elder Thora Windwhisper has negotiated favorable terms with them for generations. Goliaths are respected here as honest traders, though their competitive nature sometimes leads to impromptu wrestling matches in the square.
 
 ## Government
 

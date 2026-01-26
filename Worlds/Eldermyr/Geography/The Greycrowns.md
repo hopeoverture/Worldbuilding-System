@@ -180,6 +180,7 @@ Creatures found only here:
 ### Mountain Peoples
 | People | Location | Lifestyle |
 |--------|----------|-----------|
+| [[Goliaths]] | High peaks, above treeline | Nomadic herding, competitive traditions |
 | Northfolk clans | Valleys, foothills | Herding, hunting, Old Ways worship |
 | Chronicler's monks | Vindrdal monastery | Contemplation, tending the dead |
 | Mining families | Járndal | Generation miners serving the Forgemasters |
@@ -192,6 +193,17 @@ Creatures found only here:
 | Járnby (Iron Village) | Mining settlement | ~600 |
 | Úlfsgard (Wolf's Guard) | Fortified outpost | ~200 |
 | Monastery of Silence | Religious community | ~50 |
+
+### Goliath Territories
+The [[Goliaths]] claim the highest reaches of the Greycrowns as their domain—the peaks and high plateaus above 9,000 feet where other peoples cannot easily survive. Approximately 2,500 goliaths move through these territories in three major tribes:
+
+- **The Cloudwalker Tribe (~800)** — Dwell near Vindrtind (Wind's Peak), the highest peaks. Mystical; their shamans claim to speak with storm spirits. Rarely descend below 10,000 feet.
+- **The Stonekeeper Tribe (~1,200)** — The largest and most accessible tribe, holding territory above Járndal and trading occasionally with the mining communities. Stonekeeper Vaunea Thunderbrow leads them with pragmatic authority.
+- **The Icecrown Tribe (~500)** — Dwell in the frozen northeastern reaches. Rarely seen; considered the hardiest and most isolationist. Said to know passes into the northern wastes that no human has mapped.
+
+**The Proving Grounds:** A sacred plateau near the Grey Sisters peaks where goliath youth undergo the Proving—a series of trials that mark the transition to adulthood. Each year during summer's brief window, the tribes gather here for competitions, marriages, and councils. It's the closest thing goliaths have to a permanent settlement, with ceremonial stone platforms carved by countless generations.
+
+Goliaths trade furs, mountain herbs, and guidance services in exchange for metal tools, salt, and grain. They descend to [[Vindrheim]] in summer for the trade season but return to the heights before first snow. The succession crisis in the lowlands means nothing to them—but the rising dead in [[The Ashen Fields]] concerns them deeply. If that corruption spreads to their mountains, the tribes have sworn to descend in force.
 
 ### Fortifications
 Castles, fortresses, watchtowers:

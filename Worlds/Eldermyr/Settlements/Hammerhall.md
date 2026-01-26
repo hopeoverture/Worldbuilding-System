@@ -20,7 +20,7 @@ population: 8000
 population_range: 7,000-9,000
 government_type: Guild Administration
 ruling_figure: "[[Grimhild the Smith]]"
-primary_race: Human
+primary_race: Human, Dwarf, Gnome
 # Economy
 primary_industry: Weapons & Armor Manufacturing
 secondary_industries:
@@ -55,6 +55,22 @@ The town arranges itself by function:
 - **The Works:** The great forges, powered by the falls
 - **Lower Town:** Worker housing, markets, taverns
 - **The Mines Road:** Leading up to the ore deposits
+
+## Demographics
+
+### Population Breakdown
+| Species | Percentage | Role |
+|---------|------------|------|
+| [[Humans]] | 45% | Workers, merchants, administrators |
+| [[Dwarves]] | 40% | Master smiths, miners, engineers |
+| [[Gnomes]] | 12% | Artificers, precision craftsmen, inventors |
+| Other | 3% | Travelers, traders |
+
+### The Dwarven Presence
+The [[Dwarves]] of Hammerhall have worked alongside humans since the town's founding eight centuries ago. They dominate the upper echelons of the [[Forgemasters Guild]], holding five of the seven Master Smith positions. Dwarven families occupy the upper town near the Guild Hall, and their deep understanding of metal and stone makes them invaluable. The 800-year alliance with [[House Thorne]] began when dwarven smiths agreed to arm Thorne soldiers in exchange for mining rights.
+
+### The Warren of Cogspark
+Beneath the northern quarter of town lies the Warren of Cogspark, the largest [[Gnomes|Rock Gnome]] settlement in [[The Eastern March]]. Home to approximately 800 gnomes, the Warren connects to the surface through multiple entrances disguised as workshops. Rock Gnomes handle the precision work—mechanisms, clockwork, fine engraving—that complement dwarven strength with gnomish cleverness. Tinkmaster Finwhizzle Cogspark leads the Warren Council.
 
 ## [[The Forgemasters Guild]]
 

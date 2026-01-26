@@ -17,7 +17,7 @@ population: 3800
 population_range: 300-5000
 government_type: Naval Command
 ruling_figure: Admiral Cira Stormwind
-primary_race: Human
+primary_race: Human, Tiefling
 # Economy
 primary_industry: Naval operations
 secondary_industries: [Shipbuilding, Sailmaking, Weapons manufacturing]
@@ -63,7 +63,15 @@ The town wraps around the crescent harbor in functional zones: dockyards to the 
 - Fleet crews (variable): 2,000-4,000 when ships are present
 
 ### Races & Cultures
-Human-dominant with Valdren maritime culture. More diverse than other Valdren settlements due to naval recruitment from across the kingdom. Former pirates, coastal villagers, and second sons of noble houses serve together. The fleet creates its own culture of loyalty and competence.
+| Species | Percentage | Notes |
+|---------|------------|-------|
+| [[Humans]] | 85% | Valdren maritime culture, naval families |
+| [[Tieflings]] | 8% | Refuge community, growing |
+| Other | 7% | Diverse travelers, foreign sailors |
+
+More diverse than other Valdren settlements due to naval recruitment from across the kingdom. Former pirates, coastal villagers, and second sons of noble houses serve together. The fleet creates its own culture of loyalty and competence.
+
+**The Tiefling Haven:** Port Corsair's rough reputation and distance from Church influence has made it the closest thing to a safe haven for [[Tieflings]] in Eldermyr. Approximately 200-300 tieflings live here permanently, with another hundred passing through at any time. They cluster in the back streets of Anchor Town, running taverns, working the docks, and serving on ships where captains care more about skill than appearance. The Crimson Horns mercenary company—led by the tiefling Mordai the Branded—operates from a warehouse near the docks, taking contracts that others won't touch. Admiral Stormwind tolerates the tieflings because they're useful; the Church's influence here is weak enough that heresy trials rarely reach the island.
 
 ### Social Classes
 Naval rank determines everything. Admiral Stormwind commands absolute authority; ship captains form the elite; skilled sailors and marines hold respect; landlubber support workers rank below even common deckhands. The hierarchy is rigid but meritocratic—ability determines promotion.

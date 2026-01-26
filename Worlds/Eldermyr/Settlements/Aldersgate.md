@@ -21,7 +21,7 @@ population_range: 100,000+
 government_type: Monarchy (contested regency)
 ruling_figure: "[[Lord Varic Valdren]]"
 ruling_house: "[[House Valdren]]"
-primary_race: Human
+primary_race: Human, Elf, Halfling
 # Economy
 primary_industry: Trade & Administration
 secondary_industries:
@@ -106,6 +106,19 @@ The city is roughly circular, defined by three concentric rings of walls from di
 **Common Folk:** Workers, servants, laborers, small traders—70% of the population, concerned with survival more than succession.
 
 **Underclass:** The poor of Mudside, beggars, criminals—18% of the population, growing as the crisis deepens.
+
+### Species Distribution
+| Species | Percentage | Notes |
+|---------|------------|-------|
+| [[Humans]] | 88% | All regions represented |
+| [[Elves]] | 4% | Primarily High Elves in the Starlight Quarter |
+| [[Halflings]] | 4% | Servants, merchants, craftsmen throughout |
+| [[Gnomes]] | 2% | Scholars at [[The Arcane Academy]], craftsmen |
+| Other | 2% | Travelers, traders, diplomats |
+
+**The Starlight Quarter:** Near [[The Arcane Academy]], the Starlight Quarter houses Aldersgate's [[Elves|High Elf]] population—approximately 5,000 elves who have maintained a presence in the capital for centuries. The quarter centers on the Tower of Stars, an elven-built spire predating the current city walls. High Elves here serve as scholars at the Academy, advisors to noble houses, and keepers of arcane lore. They observe human politics with the patience of centuries, rarely intervening but always watching. The elven elder Faelar Moonwhisper sits on no council but is consulted by every faction seeking ancient knowledge.
+
+**Halfling Communities:** [[Halflings]] are scattered throughout the city, particularly in the Commons and Guild Row, working as servants, cooks, and small-scale merchants. They keep their heads down during the crisis, hoping to be overlooked by powers greater than themselves.
 
 ## Government & Politics
 

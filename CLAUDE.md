@@ -4,16 +4,16 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Overview
 
-Obsidian vault containing 91 worldbuilding templates organized into 11 categories for D&D 5e (2024) fantasy settings. Templates are AI generation prompts with structured sections, YAML frontmatter, and image prompt templates.
+Obsidian vault containing 97 worldbuilding templates organized into 12 categories for D&D 5e (2024) fantasy settings. Templates are AI generation prompts with structured sections, YAML frontmatter, and image prompt templates.
 
 ## Project Structure
 
 ```
-Templates/                    # 91 reusable templates organized by category
-├── Characters/               # 6 templates (Protagonist, Antagonist, Support, Background, Familiar, Divine Servant)
+Templates/                    # 97 reusable templates organized by category
+├── Characters/               # 7 templates (Protagonist, Antagonist, Support, Background, Familiar, Divine Servant, NPC Stat Block)
 ├── Character Options/        # 3 templates (Character Background, Class, Subclass)
-├── Settlements/              # 8 templates (Village, Town, City, Stronghold, Tavern, Shop, Temple, Library)
-├── Items/                    # 11 templates (Weapon, Armor, Artifact, Wondrous Item, Potion, Food, etc.)
+├── Settlements/              # 9 templates (Village, Town, City, Stronghold, Tavern, Shop, Temple, Library, Bastion)
+├── Items/                    # 12 templates (Weapon, Armor, Artifact, Wondrous Item, Potion, Food, Cursed Item, etc.)
 ├── Creatures/                # 5 templates (Monster, Animal, Insect, Species, Plant)
 ├── Organizations/            # 9 templates (Guild, Government, Military, Cult, Academy, Business, etc.)
 ├── Concepts/                 # 10 templates (Deity, Pantheon, Magic System, Calendar, Currency, Language, etc.)
@@ -21,7 +21,7 @@ Templates/                    # 91 reusable templates organized by category
 ├── Geography/                # 18 templates (Continent, Region, Mountain Range, Forest, Dungeon, Cave, etc.)
 ├── Encounters/               # 4 templates (Combat, Social, Exploration, Trap)
 ├── Maps/                     # 4 templates (World, Continent, Region, Settlement)
-└── Reference/                # Naming conventions and validation guides (4 files)
+└── Reference/                # Naming conventions and validation guides (7 files)
 
 Worlds/                       # Actual worldbuilding projects
 └── [World Name]/

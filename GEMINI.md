@@ -4,15 +4,15 @@ This file provides guidance to Gemini (Google AI) when working with code in this
 
 ## Overview
 
-Obsidian vault containing 87 worldbuilding templates organized into 11 categories for D&D 5e (2024) fantasy settings. Templates are AI generation prompts with structured sections, YAML frontmatter, and image prompt templates.
+Obsidian vault containing 97 worldbuilding templates organized into 12 categories for D&D 5e (2024) fantasy settings. Templates are AI generation prompts with structured sections, YAML frontmatter, and image prompt templates.
 
 ## Project Structure
 
 ```
-Templates/                    # 87 reusable templates organized by category
+Templates/                    # 97 reusable templates organized by category
 ├── Characters/               # 6 templates (Protagonist, Antagonist, Support, Background, Familiar, Divine Servant)
 ├── Character Options/        # 3 templates (Character Background, Class, Subclass)
-├── Settlements/              # 8 templates (Village, Town, City, Stronghold, Tavern, Shop, Temple, Library)
+├── Settlements/              # 9 templates (Village, Town, City, Stronghold, Tavern, Shop, Temple, Library, Bastion)
 ├── Items/                    # 11 templates (Weapon, Armor, Artifact, Potion, Book, Vehicle, etc.)
 ├── Creatures/                # 5 templates (Monster, Animal, Insect, Species, Plant)
 ├── Organizations/            # 9 templates (Guild, Government, Military, Cult, Academy, etc.)

@@ -4,6 +4,7 @@ tags:
   - naming
   - species
   - dnd-5e-2024
+status: complete
 ---
 
 # D&D Species Naming Conventions
